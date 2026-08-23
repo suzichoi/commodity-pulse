@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-24 04:17:27",
+  "last_updated": "2026-08-24 05:14:12",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 04:17",
+    "report_date": "2026.08.24, 05:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 04:17",
+    "report_date": "2026.08.24, 05:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-24T04:17:27.456744+09:00",
+  "lastUpdated": "2026-08-24T05:14:12.732518+09:00",
   "usdKrwRate": 1385.98,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "04:17",
+            "time": "05:14",
             "price": 5981.0
           }
         ],
@@ -317,22 +317,22 @@
           "date": "08-22 03:25"
         },
         {
-          "title": "From ‘bean to bar,’ boutique chocolate makers tell a new story - The Christian Science Monitor",
-          "source": "The Christian Science Monitor",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGg0ckRIRDlMYXZQRUFxMjVuU1RWZFNSSDVmYUNtMXRraFd6RE9tV3ZsVzZGdk9Ta1hoYWhzMmdfVGhCMGQ2dDBVNFJESThJSmZ5QUR0SGdsSVYwYUhaOHN4UVRYbUpLdjU2MmpmN3kyTVZ2SDVPU0tMVmJKVlZHcVJVUENyWnpNVGd5dTN2V2otd9IBqwFBVV95cUxOZmIzblpXNDRKcDFNUHRGcGdOM0xmRTltRkFaZUJBNWR5VERMbjRGYl9jNmNTNzU5ZGlCMzZ4Ry1zTzRkb0UwWk0wOXE5NVB1TjBuUkc2UjdYUVhpTkhiQWhKSHo0dUlOT3h6N3dSTktZUlF6VWp3TEktZGkyWGs5UTdYZ1VOcG1abTJlSWk1RzNPQ0ptUjVFUUJROWdYdkZXcWx4YU05c2VZUHM?oc=5",
-          "date": "08-22 18:00"
-        },
-        {
-          "title": "Cocoa Prices Fall on Rising Nigerian Cocoa Exports - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3pLR193TU5lWGxXZW4zSkRhTFFBOS0tVjEtUFpLcDQ4VzBqcVFfODN4UjJla2JXQlU5U0tJVnNKaW5kM1FlaVktanNDUHNPaXpuWW4tclVLTDIxMWxmZDVSUjhJOU9CNnR1azN4RllNaV8wV0x4RVdtNnplTkozVHNRcS1WX3J1WUtTTkR1RUZJN1FDQ2JDR0tXSGp5VFQ4TktuUWln?oc=5",
-          "date": "08-22 01:07"
+          "title": "Cocoa: How to read Cocoa market moves - equiti.com",
+          "source": "equiti.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHF2NEVnNlJEaHo0dkZFYjBWQm1lZGdtTVpQd0UtR244Q00yZ3FieWZxSnJDNG82eEN5SG1HUzJOVG9LcC1YcUJIV2Rzc1RIWHdFNF9iWXE5S2ktbTdIQXpROVpQWDgtWlVvbHI3MU9SMFZ6MHNlbDlvNl84VmhGTGQ2TVpUUUQ4QmMwUWtn?oc=5",
+          "date": "08-23 05:22"
         },
         {
           "title": "Cocoa Futures Test Key Arc Levels: Is a Move Toward 6,420 Next? - CryptoRank",
           "source": "CryptoRank",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0RBZzJiOF9kUzdNYTNxMVc3R245ZnA0S3pZTmI1Q2JmUklTX1QzYmdZTklzNjZ3aDNmUEdUR2xXbmluUmI5N1FrNnJlYmtMd1J0dHRmZnBodjhpQ3ZnSFRHV0FOUVFzbExfSU1MMFBDRHN6X05Pb210YTltZm1kVEU3OUtkWjQ?oc=5",
           "date": "08-22 09:32"
+        },
+        {
+          "title": "Cocoa Bulk Bean (UK) (May 2027) Trade Ideas — CMCMARKETS:UKCOCOAK2027 - TradingView",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1FjclczTl9NXzlpaFdBN2NOT2hvNGlGdlgzLUlvbTY5bzRLZWw5NEFRamJvT2d3ZDMtNUs3eXk3S3JMZGlwZVRMQ0MwRThnUkxoMWM0T21TSGVKd0UwNXpHS0hZU05IQUlhVG8zUm1EYldWVTVzbk9CT3Y3V3VZVjFPQzBuaVFtbElsYUNB?oc=5",
+          "date": "08-21 12:03"
         }
       ],
       "newsKr": [
@@ -422,7 +422,7 @@
             "price": 7148.48
           },
           {
-            "time": "04:17",
+            "time": "05:14",
             "price": 7162.81
           }
         ],
@@ -639,10 +639,10 @@
           "date": "08-21 15:03"
         },
         {
-          "title": "오늘(8월 23일) 커피 가격이 급락했으며, 세계 시장 전반에 걸쳐 하락세가 나타났습니다. - Vietnam.vn",
+          "title": "농산물 시장: 세계 커피 가격이 급락세를 이어가고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWJyN2hDV0s2REt1NldOQUtISlNXaWk2b1ZiaC1IbkdGYzFMdXl1ZmtXSHNMcGFnNEw1ZjdtcjhUbWhsaTh0VVZBZndKaElYbzhPZjlzc0pxWnE0cU81bW8tTE1Jdk1vVUYwZWF2eHNnVEs2NnlNaHpfSnpVMzh3SmtmSWY5YmhWSzV4NW53?oc=5",
-          "date": "08-23 06:47"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXctdFphU3VRMWtNUy1KSDg0bktmSlRaenNtbkp5M0ZNc1hKVGhObDFxUl9OVkVTaEdHNWRUd0pnN05PMTFLTnNpbkJFOWltNm11ZGV4RzhpekJzVExlODJRbjBYaGtoWVdzQXpMQTl4Z0dsY2w5UUhQWWd0VlZGRjRwQzRRVmxxYUZiRQ?oc=5",
+          "date": "08-21 16:00"
         }
       ],
       "original_price_lb": 324.9
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "04:17",
+            "time": "05:14",
             "price": 3728.0
           }
         ],
@@ -1416,10 +1416,10 @@
           "date": "08-21 20:00"
         },
         {
-          "title": "Brazil dairy trade grows in July as cheese and milk powder flows rise - DatamarNews",
-          "source": "DatamarNews",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYnBxTngtUWJ5cV9GejRkOUFZcFlrbmpvT0UxcUlvYW5ZblZ2dVpETHJ5T2xxX2ZCR2NaTmRRVV9TamFfNzkzVGlWdTlTSzZpTXVWZlRlR01GZG54ZFdpSERGck5hR3BERGtaVmc0VHJoSEN0REs1a3hOdUU2X1hBb1dB?oc=5",
-          "date": "08-21 04:50"
+          "title": "Spain Recombined Milk - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2pBZnlRRVExWGM2NW45dW9Ibmhna042dU5tcGtPZnVaeHFzNEprVHA2QTJqd2NDU0RhWnFMZC02cDBabHI4VEdFd3V2akJULXZnb19ObDBIT2pMSmJiOWpoR2dlemd1cDJDTjg0SWEtRlpUQTZIRWdUeFppWTdMeXJOdDV0Mk44U1RJQlBFQTdHSmNwb1hTM2M4d3A0SlljRGx5RQ?oc=5",
+          "date": "08-22 14:36"
         },
         {
           "title": "Federated Farmers Urges Scrutiny Of Milk Price Frequency, GDT Reliance, And Collection Security In DIRA Review - en.edairynews.com",
@@ -2141,7 +2141,7 @@
             "price": 1182.13
           },
           {
-            "time": "04:17",
+            "time": "05:14",
             "price": 1184.5
           }
         ],
@@ -2515,7 +2515,7 @@
             "price": 1926.14
           },
           {
-            "time": "04:17",
+            "time": "05:14",
             "price": 1930.0
           }
         ]
@@ -2765,7 +2765,7 @@
             "price": 1383.21
           },
           {
-            "time": "04:17",
+            "time": "05:14",
             "price": 1385.98
           }
         ],
@@ -2858,16 +2858,16 @@
           "date": "08-23 17:00"
         },
         {
-          "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 - v.daum.net",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hVXZJUkxvTmQ5Tk9xRVpKUGNJNFROeUt6dldQal9RbThaZi1FTElnQkhTQmpodjVkbkFOVVd1VHFXWUM4VlE?oc=5",
-          "date": "08-23 05:21"
-        },
-        {
           "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
           "date": "08-21 08:02"
+        },
+        {
+          "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 - v.daum.net",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hVXZJUkxvTmQ5Tk9xRVpKUGNJNFROeUt6dldQal9RbThaZi1FTElnQkhTQmpodjVkbkFOVVd1VHFXWUM4VlE?oc=5",
+          "date": "08-23 05:21"
         },
         {
           "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
@@ -3069,7 +3069,7 @@
             "price": 1614.86
           },
           {
-            "time": "04:17",
+            "time": "05:14",
             "price": 1618.1
           }
         ],
