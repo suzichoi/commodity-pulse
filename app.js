@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-24 07:14:03",
+  "last_updated": "2026-08-24 08:14:12",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 07:14",
+    "report_date": "2026.08.24, 08:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,385.87원 (▼4.92원)",
-    "fx_eur": "1,618.00원 (▼8.37원)",
+    "fx_usd": "1,385.86원 (▼4.93원)",
+    "fx_eur": "1,617.60원 (▼8.77원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 07:14",
+    "report_date": "2026.08.24, 08:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,385.87원 (▼4.92원)",
-    "fx_eur": "1,618.00원 (▼8.37원)",
+    "fx_usd": "1,385.86원 (▼4.93원)",
+    "fx_eur": "1,617.60원 (▼8.77원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-24T07:14:03.566078+09:00",
+  "lastUpdated": "2026-08-24T08:14:12.410002+09:00",
   "usdKrwRate": 1385.85,
-  "eurKrwRate": 1618.0,
+  "eurKrwRate": 1617.6,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5969.04
           },
           {
-            "time": "07:13",
+            "time": "08:13",
             "price": 5981.0
           }
         ],
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 7148.48
           },
           {
-            "time": "07:13",
+            "time": "08:14",
             "price": 7162.81
           }
         ],
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "07:13",
+            "time": "08:14",
             "price": 3728.0
           }
         ],
@@ -2158,7 +2158,7 @@ const FALLBACK_DATA = {
             "price": 1182.13
           },
           {
-            "time": "07:14",
+            "time": "08:14",
             "price": 1184.5
           }
         ],
@@ -2233,10 +2233,10 @@ const FALLBACK_DATA = {
           "date": "08-22 04:23"
         },
         {
-          "title": "US and Israeli strikes on Iran could rattle oil markets - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUJ4MWhYakRHWTgzek9yemloenNsRF9XZWdZcTkxMlJwZHZ2bVZGaVFaTm5TV1dERUd4YWVSc3YyLURYMWxvZE9RUW9CRWdIS0Y3TzA5MU9wRHFTZU5qNFN0Q2xldE9XZ0VxY0x4Y0hiTm8wNUhlVlRZN05pbnhlV1poMXdpNFJURVIwSXBvQVJZbWty0gGaAUFVX3lxTE9HU3poM0JFVEZseldhS0g0NlpUUVdILW93cVNhLUg1SU9QdWlCeF8yNnVweW9udDJocWVfZS0wSWlWeUtnX3V0QTgzR0xHUXY4SFh0cE9sTjRYeTNUVjIzRktSQWYtUkNESXh4UkJIZkFSTGdoN1p2bkNzdF8wN0d1YjREOEZzRHhpSkgzX1pNdkFidzBtdVV3UHc?oc=5",
-          "date": "08-21 09:35"
+          "title": "CPO Futures End Week Higher For Fifth Straight Session - bernama",
+          "source": "bernama",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdGRVam9qYkhWclA5aTNlbXpNUVkyTGo2S2ZoZ21COENRbEdyYmFrRWRWZVEwSzJYWUlnTjdKNk5ZMWdmMUVpM3J1eEl6N3ltcHZsLTREbDZKQQ?oc=5",
+          "date": "08-21 22:45"
         }
       ],
       "newsKr": [
@@ -2532,7 +2532,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "07:14",
+            "time": "08:14",
             "price": 1930.0
           }
         ]
@@ -2614,17 +2614,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1385.87,
-      "change": -4.92,
+      "price": 1385.86,
+      "change": -4.93,
       "changePercent": -0.35,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1387.12,
       "low24h": 1383.9,
       "high7d": 1416.85,
-      "low7d": 1385.87,
-      "high1m": 1479.72,
-      "low1m": 1385.87,
+      "low7d": 1385.86,
+      "high1m": 1474.04,
+      "low1m": 1385.86,
       "volume": 0,
       "sparkline": [
         1416.85,
@@ -2633,7 +2633,7 @@ const FALLBACK_DATA = {
         1413.58,
         1389.4,
         1390.79,
-        1385.87
+        1385.86
       ],
       "history": {
         "7D": [
@@ -2663,22 +2663,10 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-23",
-            "price": 1385.87
+            "price": 1385.86
           }
         ],
         "1M": [
-          {
-            "date": "07-20",
-            "price": 1475.01
-          },
-          {
-            "date": "07-21",
-            "price": 1479.72
-          },
-          {
-            "date": "07-22",
-            "price": 1475.63
-          },
           {
             "date": "07-23",
             "price": 1474.04
@@ -2765,25 +2753,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-23",
-            "price": 1385.87
+            "price": 1385.86
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1377.55
+            "price": 1377.54
           },
           {
             "time": "11:00",
-            "price": 1380.33
+            "price": 1380.32
           },
           {
             "time": "13:00",
-            "price": 1383.1
+            "price": 1383.09
           },
           {
-            "time": "07:14",
-            "price": 1385.87
+            "time": "08:14",
+            "price": 1385.86
           }
         ],
         "1Y": [
@@ -2837,7 +2825,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1385.87
+            "price": 1385.86
           }
         ]
       },
@@ -2881,16 +2869,16 @@ const FALLBACK_DATA = {
           "date": "08-23 05:21"
         },
         {
-          "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
-          "source": "KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
-          "date": "08-21 08:02"
-        },
-        {
           "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
           "source": "LiteFinance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
           "date": "08-23 18:53"
+        },
+        {
+          "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’ - 에너지경제신문",
+          "source": "에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PdV9MMWpESkdQbDFNeWRiODdkWGJjd1RPWC13NmV1aFRKeEZsYXFKbEthRm50YlM1V0tNUFZPTXhEelIyTW5mT1JHV3IwUmFvdXZIdmlKRUFIcVk?oc=5",
+          "date": "08-22 20:22"
         }
       ]
     },
@@ -2918,16 +2906,16 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1618.0,
-      "change": -8.37,
-      "changePercent": -0.51,
+      "price": 1617.6,
+      "change": -8.77,
+      "changePercent": -0.54,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1618.6,
       "low24h": 1617.4,
       "high7d": 1638.16,
       "low7d": 1582.09,
-      "high1m": 1687.03,
+      "high1m": 1676.49,
       "low1m": 1582.09,
       "volume": 0,
       "sparkline": [
@@ -2937,7 +2925,7 @@ const FALLBACK_DATA = {
         1634.92,
         1620.23,
         1626.37,
-        1618.0
+        1617.6
       ],
       "history": {
         "7D": [
@@ -2967,22 +2955,10 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-23",
-            "price": 1618.0
+            "price": 1617.6
           }
         ],
         "1M": [
-          {
-            "date": "07-20",
-            "price": 1683.36
-          },
-          {
-            "date": "07-21",
-            "price": 1687.03
-          },
-          {
-            "date": "07-22",
-            "price": 1683.6
-          },
           {
             "date": "07-23",
             "price": 1676.49
@@ -3069,25 +3045,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-23",
-            "price": 1618.0
+            "price": 1617.6
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1608.29
+            "price": 1607.89
           },
           {
             "time": "11:00",
-            "price": 1611.53
+            "price": 1611.13
           },
           {
             "time": "13:00",
-            "price": 1614.76
+            "price": 1614.36
           },
           {
-            "time": "07:14",
-            "price": 1618.0
+            "time": "08:14",
+            "price": 1617.6
           }
         ],
         "1Y": [
@@ -3141,7 +3117,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1618.0
+            "price": 1617.6
           }
         ]
       },
@@ -3179,16 +3155,16 @@ const FALLBACK_DATA = {
           "date": "08-23 17:00"
         },
         {
-          "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
-          "source": "KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
-          "date": "08-21 08:02"
-        },
-        {
           "title": "환율 한 달 새 180원↓…하반기 1350원 전망, 금통위 촉각 - 데일리안",
           "source": "데일리안",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRTJ5M1VDYTVfUGRxb21FOXFuaEh1cUEwalo0eWpQTTRFbEpLZlB4WWxWVXE2TlR4MEJ2NUR6TzZ4alYyZVViX2YtY1ViTFBxN2RpeF80Q1NGdUVxVzZ5amMweEpVMktSNFJ3d2ZjbjhJbzJ5dmhhbm05SG12YlR3LWk4cmdiQ1RveDV1YnlEank1WGo4aGtIOWRIRjVpc3pwMVhDWF80Z2c5bDVYYXo3MXlXcmtYME5sRHJHSWxRZjNwa1dDYW5qaWtZUzA3bUdKLWg4djd3eVk?oc=5",
           "date": "08-21 14:08"
+        },
+        {
+          "title": "원·달러 환율 11개월 만에 최저… 국제유가·폭염에 하반기 물가 불확실성 여전 - christiandaily.co.kr",
+          "source": "christiandaily.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nN09pNmY3QURsenJtSzdab3NaTERiQkMzSU16dURBRWlKTWlVX0dxellpd2k3ZkJUamxGU2Fzc1AxbE9UZlNaWm1OWlRWMlRkTlk0VFpMY9IBXEFVX3lxTE03Z1hjYld6NkJMdlIwQWxiTGZYQUJfZzJKdWFBWERzdDg2RHI0ZjVreGxaQjBsLUkwdGQtWXhzTExtdktBdmp3eERqV2o0bzJCOV9yZGlIRXN1MDB0?oc=5",
+          "date": "08-21 08:29"
         }
       ]
     }
