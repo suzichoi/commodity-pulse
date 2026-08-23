@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-24 02:14:24",
+  "last_updated": "2026-08-24 03:18:42",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 02:14",
+    "report_date": "2026.08.24, 03:18",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 02:14",
+    "report_date": "2026.08.24, 03:18",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-24T02:14:24.510316+09:00",
+  "lastUpdated": "2026-08-24T03:18:42.427116+09:00",
   "usdKrwRate": 1385.98,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -113,7 +113,7 @@
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23210,
+      "volume": 23201,
       "sparkline": [
         5648.0,
         5734.0,
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 5981.0
           }
         ],
@@ -422,7 +422,7 @@
             "price": 7148.48
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 7162.81
           }
         ],
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 3728.0
           }
         ],
@@ -910,10 +910,10 @@
           "date": "08-21 18:38"
         },
         {
-          "title": "Coffee: How to read Coffee market moves - equiti.com",
-          "source": "equiti.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOURkdnllLTZvTnBOWWQzbnVHSzNQYVdvRm51clFZR3lwbFpRS0VNclZkOGsyVG5nazRrMjVfN25KVk9GR3RlRG8zbHNRNnVic3EyQzdKZTdkdTZNTTlUWU9zcm0wRmVYM1JtZk1nUjVTUjQzWmpDZldJaWw4UHVMNmRNWE1yS0RPNjBwNDRKQkRBZw?oc=5",
-          "date": "08-23 08:22"
+          "title": "El Niño threat to Vietnam coffee crop should not be underestimated, official says - BNN Bloomberg",
+          "source": "BNN Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNVF1R0d6OEFGOXo3V1Q2NzExNm4taGZIb1VpamVxaU9rSmFqM3lKZDVXSmN1bWlObFVMN2tuVkxrTURVakZTUnR1Q2RTOTVITXFKUEVmV3p2LWd2ZWNJd255TWllZ0dhY3ZIc1E1QzZSZ0pLeE8wcjJYczlFdW1aRktRMFNISTdjd1B3VXpLUm1CSWJQNFZFbnZFQXBEQmY5bkhoNTByWDE5RGFBVmNDVlprMVFudFpaVzEyajR6OFBPUWNTb21VQ3M3V1d5V0Y1LWhrV25kdGl5dw?oc=5",
+          "date": "08-21 22:53"
         }
       ],
       "newsKr": [
@@ -936,10 +936,10 @@
           "date": "08-21 15:03"
         },
         {
-          "title": "오늘(8월 23일) 커피 가격이 급락했으며, 세계 시장 전반에 걸쳐 하락세가 나타났습니다. - Vietnam.vn",
+          "title": "오늘(8월 22일) 커피 가격: 급락, 로부스타는 일주일 만에 최저치 기록. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWJyN2hDV0s2REt1NldOQUtISlNXaWk2b1ZiaC1IbkdGYzFMdXl1ZmtXSHNMcGFnNEw1ZjdtcjhUbWhsaTh0VVZBZndKaElYbzhPZjlzc0pxWnE0cU81bW8tTE1Jdk1vVUYwZWF2eHNnVEs2NnlNaHpfSnpVMzh3SmtmSWY5YmhWSzV4NW53?oc=5",
-          "date": "08-23 06:47"
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEg5OHZkdGs3d053cDBXU28zZUMtQmJUbFZ6TmhVb1VkdklZeGVjN3pnbWtYWFV4VnJuWWlOQ2VWMVF3WlN6bFduZ3p4V1FFV1JxZ2ZxTG44RGhxOF9Od2NFdHcxTFdIYUFwSjNPazJtZklOZjlGaWZnTGdTbFZiVmsyblVmQzI3S1NN?oc=5",
+          "date": "08-22 10:38"
         }
       ]
     },
@@ -2141,7 +2141,7 @@
             "price": 1182.13
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 1184.5
           }
         ],
@@ -2515,7 +2515,7 @@
             "price": 1926.14
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 1930.0
           }
         ]
@@ -2534,16 +2534,16 @@
           "date": "06-30 16:00"
         },
         {
+          "title": "Imported Coconut Oil Flows Outpace Demand, Pressuring US Market - ChemAnalyst",
+          "source": "ChemAnalyst",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJvZkNka3BvSi1sc25OVGhKelAwY3NzMFlXQm0zUUF6MW5JX25FajRHX2FPMkRkVFNfVmczQlBrUmYybXdOeHdFS0dHRTY0b3BGRWRmdi1kaWJMck41dVlvdXNvSGN0Wm5PcXFMeWNUdmtiQjlwVnBWdnRxQlVJTWNOUTNQWDA4ZTFfdjNwb2JwUkVxbmYxek9ScGlSbnNyVkU1SUw3ZFptZTNnMGIwNFVSai0?oc=5",
+          "date": "02-13 17:00"
+        },
+        {
           "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
           "source": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
           "date": "02-04 17:00"
-        },
-        {
-          "title": "Coconut Oil Suppliers, Export Data & Price Trends | Global Market Overview 2026 - Tridge",
-          "source": "Tridge",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xMGNxSVZfNll3WHpDU2NTODZQMktUNjUtQlJ1U2ktcEU5NXJXM2Iway1rOHJfa0gzWmZDemxiY2hIeDhsWTdlTk16eE9tTWpFSjNyTzQxMzl1cHBMWFh3?oc=5",
-          "date": "02-24 14:16"
         }
       ],
       "newsKr": [
@@ -2765,7 +2765,7 @@
             "price": 1383.21
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 1385.98
           }
         ],
@@ -3069,7 +3069,7 @@
             "price": 1614.86
           },
           {
-            "time": "02:14",
+            "time": "03:18",
             "price": 1618.1
           }
         ],
