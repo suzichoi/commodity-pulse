@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 08:13:44",
+  "last_updated": "2026-08-23 09:53:20",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 08:13",
+    "report_date": "2026.08.23, 09:53",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 08:13",
+    "report_date": "2026.08.23, 09:53",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-23T08:13:44.624009+09:00",
+  "lastUpdated": "2026-08-23T09:53:20.469195+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -113,7 +113,7 @@
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23210,
+      "volume": 23201,
       "sparkline": [
         5648.0,
         5734.0,
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "08:13",
+            "time": "09:53",
             "price": 5981.0
           }
         ],
@@ -317,7 +317,7 @@
         {
           "title": "Cocoa: How to read Cocoa market moves - equiti.com",
           "source": "equiti.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOb0MzbWViQVZ5WTZQSTNpczZfTklvY1hUemxHSF9HXzF0VG9UX29OcmpndXUxaC1uQXhQUWVXLW1xR2pucTRtLVBFYlJObktEeUFGSzgwSUh0Z3BSRHUzLXB5eElPUTVyRkxhdDJLekZUbWVtQXMzamlqejNWbGlpYjUtbzFNbERzd0hkNV93?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHF2NEVnNlJEaHo0dkZFYjBWQm1lZGdtTVpQd0UtR244Q00yZ3FieWZxSnJDNG82eEN5SG1HUzJOVG9LcC1YcUJIV2Rzc1RIWHdFNF9iWXE5S2ktbTdIQXpROVpQWDgtWlVvbHI3MU9SMFZ6MHNlbDlvNl84VmhGTGQ2TVpUUUQ4QmMwUWtn?oc=5",
           "date": "08-23 05:22"
         },
         {
@@ -426,7 +426,7 @@
             "price": 7148.48
           },
           {
-            "time": "08:13",
+            "time": "09:53",
             "price": 7162.81
           }
         ],
@@ -615,16 +615,16 @@
           "date": "08-21 03:20"
         },
         {
+          "title": "Coffee: How to read Coffee market moves - equiti.com",
+          "source": "equiti.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOURkdnllLTZvTnBOWWQzbnVHSzNQYVdvRm51clFZR3lwbFpRS0VNclZkOGsyVG5nazRrMjVfN25KVk9GR3RlRG8zbHNRNnVic3EyQzdKZTdkdTZNTTlUWU9zcm0wRmVYM1JtZk1nUjVTUjQzWmpDZldJaWw4UHVMNmRNWE1yS0RPNjBwNDRKQkRBZw?oc=5",
+          "date": "08-23 08:22"
+        },
+        {
           "title": "Agricultural prices today, August 22, 2026: Robusta coffee prices plummet, attention shifts to Vietnam's harvest; New EU tariffs 'hit' the weak points of Chinese goods. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
           "date": "08-22 14:14"
-        },
-        {
-          "title": "Coffee Prices Slip on Brazil Harvest Pressures - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOem9GcGs4RE8ybWpvdGg4aC1zaGRTeW9MX1BCdGdlTEFnMjJ3WF8zVmZVOC1mbTFHTEZVeWQ3a0N6ODY0dzF1UUJPRG1YV3hBMW56c1Jab20zdDlDVGxEZVpZTXRkSFhYT0hUakFiQTV2U01fUFdxbzBQejZrZWxmb081Y09ndmQ5Y29xLWxCa0xGb0JB?oc=5",
-          "date": "08-22 00:47"
         }
       ],
       "newsKr": [
@@ -635,22 +635,22 @@
           "date": "08-23 06:47"
         },
         {
-          "title": "오늘(8월 22일) 커피 가격은 kg당 97,900 VND까지 상승했으며, 로부스타와 아라비카는 혼조세를 보였습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0JOeE4xaHBwVlhnVHBqR0Y4RGNvekZxNFNsUWI1RFhsWHVDdDJwZ0RRZXUwck03dWVqalE1bWJJcUpNZ3RGdG1FbXRfNHF0cVdhZGpIcDY1TmJMOW5NdEVIeVlSRTlDX3NyYXY0cU5iX1ZqT2FacGthWGttVXc5Qkl5TDlNWVF5ZXo1eXBVbVh5SktZdDliZ2JXeDZZY0E?oc=5",
-          "date": "08-22 10:27"
-        },
-        {
           "title": "농산물 시장: 세계 커피 가격이 급락세를 이어가고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXctdFphU3VRMWtNUy1KSDg0bktmSlRaenNtbkp5M0ZNc1hKVGhObDFxUl9OVkVTaEdHNWRUd0pnN05PMTFLTnNpbkJFOWltNm11ZGV4RzhpekJzVExlODJRbjBYaGtoWVdzQXpMQTl4Z0dsY2w5UUhQWWd0VlZGRjRwQzRRVmxxYUZiRQ?oc=5",
           "date": "08-21 16:00"
         },
         {
-          "title": "2026년 8월 22일 오늘 농산물 가격: 로부스타 커피 가격 급락, 베트남 수확에 관심 집중; 새로운 EU 관세, 중국 상품의 약점 '타격'. - Vietnam.vn",
+          "title": "오늘(8월 21일) 커피 가격: 아라비카는 급등, 로부스타는 재고 증가로 하락세. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOX0tWRUFadDhGYkFucmUzR2ZvMXlGQm54b1N0ek9Ta3JXUV9NNnc1YVhfZlhRUGhKbURKR0lNSEF3M0NJQTRDM1V1UjhSMFNGd3FvX3ZicmtudklqRmRJRUxRdExuMUlJU2pBc0o2cmNRTDdXZVFmXzNCejUwbDU2ZmNWZ1NvcjF3SEdQQlZlYVp6R2VWOXVmUEZTVTcyTFg3Znd4QVFtQ1VSbncwajY2ZWxrZnh4X01lZUt1bk9YWUhCUjR0YzR2WG83dXlCa2hURkI1WnJkUTBrOXI5RlVlUEdOZFQ4Y0xSUTJzV3pwS2VRM3pmQnBDSGt5WQ?oc=5",
-          "date": "08-22 14:31"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMTBoeGg5QUJDSDg5ekFIWFV4SjhGZ013Q054SGJpVHBlajNjMUlmVVFaREhHZDlYS2I2N1V1YlN6RkpjSVlnblZibndhNVBGUjZPLXdWMWtyM19McjZ3LWpyTzk0QUppbmJxaURHM3MtbElKZllQM0JvT0I2a25oTkhKRGJBb3p2YVJjUndhei1VQVJ1cUttTFhodkZ2QQ?oc=5",
+          "date": "08-21 19:56"
+        },
+        {
+          "title": "8월 21일 커피 가격: 상승과 하락이 혼재되었습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yam9CdF9xeVNYcDFBRnF3b1MwMUhja0lWZGIwOEM0UnBlT0pod2FvYURhenZJQnp5aUVCM1Q1c3hEdkYwRGJ6Q3ZsRUlmV3FudWIyQ0RfclJkSmRxN09Sam9KOHFfUGJiZk5EemRFOA?oc=5",
+          "date": "08-21 20:34"
         }
       ],
       "original_price_lb": 324.9
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "08:13",
+            "time": "09:53",
             "price": 3728.0
           }
         ],
@@ -944,10 +944,10 @@
           "date": "08-22 10:38"
         },
         {
-          "title": "오늘(8월 22일) 커피 가격은 kg당 97,900 VND까지 상승했으며, 로부스타와 아라비카는 혼조세를 보였습니다. - Vietnam.vn",
+          "title": "농산물 시장: 세계 커피 가격이 급락세를 이어가고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd0JOeE4xaHBwVlhnVHBqR0Y4RGNvekZxNFNsUWI1RFhsWHVDdDJwZ0RRZXUwck03dWVqalE1bWJJcUpNZ3RGdG1FbXRfNHF0cVdhZGpIcDY1TmJMOW5NdEVIeVlSRTlDX3NyYXY0cU5iX1ZqT2FacGthWGttVXc5Qkl5TDlNWVF5ZXo1eXBVbVh5SktZdDliZ2JXeDZZY0E?oc=5",
-          "date": "08-22 10:27"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXctdFphU3VRMWtNUy1KSDg0bktmSlRaenNtbkp5M0ZNc1hKVGhObDFxUl9OVkVTaEdHNWRUd0pnN05PMTFLTnNpbkJFOWltNm11ZGV4RzhpekJzVExlODJRbjBYaGtoWVdzQXpMQTl4Z0dsY2w5UUhQWWd0VlZGRjRwQzRRVmxxYUZiRQ?oc=5",
+          "date": "08-21 16:00"
         }
       ]
     },
@@ -1182,16 +1182,16 @@
       ],
       "newsKr": [
         {
-          "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
-          "source": "푸드아이콘",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
-          "date": "05-19 16:00"
-        },
-        {
           "title": "GDT 유제품 가격 연속 하락세 - 푸드아이콘",
           "source": "푸드아이콘",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXZjl5aHdkU1JfaXRhMzhpc3RZd0E5Nkp0Z2JZYUJCQjlmbklJZWxIQlRLYndsNjc0Yi1ZRlpXMVNNSi1meG1yNm55bElheXFFMjZTQmNzNmVuN0JaWjY4eEk0ay02bzg?oc=5",
           "date": "11-03 16:00"
+        },
+        {
+          "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
+          "source": "푸드아이콘",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
+          "date": "05-19 16:00"
         },
         {
           "title": "버터값 최고치…베이커리업계 직격탄 - 한국경제",
@@ -2141,7 +2141,7 @@
             "price": 1182.13
           },
           {
-            "time": "08:13",
+            "time": "09:53",
             "price": 1184.5
           }
         ],
@@ -2239,7 +2239,7 @@
           "title": "세계식량가격지수 3개월 연속 오름세…4월 130.7포인트 - 식품음료신문",
           "source": "식품음료신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fbEljWDY1OFROSXRmNDlPS1RTb1JHWFliLUVNekpWM0J4aHk0TlM2RkprcV9aUUh4QjVkeFVUaVZucWxmZlBsSWZaSlg1SS12VlFzWkpsWnZGc1AtLVVkb0xMZjNxQ2JnYlNFS2NJZw?oc=5",
-          "date": "05-11 16:00"
+          "date": "05-15 16:00"
         },
         {
           "title": "“팜유 시세 궁금해? AI가 알려줘”···식품·외식업계, AI 도입 가속도 - 매일경제",
@@ -2297,153 +2297,153 @@
       "history": {
         "7D": [
           {
-            "date": "08-16",
+            "date": "08-17",
             "price": 1930.0
           },
           {
-            "date": "08-17",
+            "date": "08-18",
             "price": 1931.93
           },
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1933.86
           },
           {
-            "date": "08-19",
+            "date": "08-20",
             "price": 1935.79
           },
           {
-            "date": "08-20",
+            "date": "08-21",
             "price": 1937.72
           },
           {
-            "date": "08-21",
+            "date": "08-22",
             "price": 1939.65
           },
           {
-            "date": "08-22",
+            "date": "08-23",
             "price": 1941.58
           }
         ],
         "1M": [
           {
-            "date": "07-24",
+            "date": "07-25",
             "price": 1930.0
           },
           {
-            "date": "07-25",
+            "date": "07-26",
             "price": 1930.96
           },
           {
-            "date": "07-26",
+            "date": "07-27",
             "price": 1931.93
           },
           {
-            "date": "07-27",
+            "date": "07-28",
             "price": 1932.9
           },
           {
-            "date": "07-28",
+            "date": "07-29",
             "price": 1933.86
           },
           {
-            "date": "07-29",
+            "date": "07-30",
             "price": 1934.82
           },
           {
-            "date": "07-30",
+            "date": "07-31",
             "price": 1935.79
           },
           {
-            "date": "07-31",
+            "date": "08-01",
             "price": 1936.76
           },
           {
-            "date": "08-01",
+            "date": "08-02",
             "price": 1937.72
           },
           {
-            "date": "08-02",
+            "date": "08-03",
             "price": 1938.68
           },
           {
-            "date": "08-03",
+            "date": "08-04",
             "price": 1939.65
           },
           {
-            "date": "08-04",
+            "date": "08-05",
             "price": 1940.62
           },
           {
-            "date": "08-05",
+            "date": "08-06",
             "price": 1941.58
           },
           {
-            "date": "08-06",
+            "date": "08-07",
             "price": 1942.54
           },
           {
-            "date": "08-07",
+            "date": "08-08",
             "price": 1943.51
           },
           {
-            "date": "08-08",
+            "date": "08-09",
             "price": 1944.48
           },
           {
-            "date": "08-09",
+            "date": "08-10",
             "price": 1945.44
           },
           {
-            "date": "08-10",
+            "date": "08-11",
             "price": 1946.4
           },
           {
-            "date": "08-11",
+            "date": "08-12",
             "price": 1947.37
           },
           {
-            "date": "08-12",
+            "date": "08-13",
             "price": 1948.34
           },
           {
-            "date": "08-13",
+            "date": "08-14",
             "price": 1949.3
           },
           {
-            "date": "08-14",
+            "date": "08-15",
             "price": 1950.26
           },
           {
-            "date": "08-15",
+            "date": "08-16",
             "price": 1951.23
           },
           {
-            "date": "08-16",
+            "date": "08-17",
             "price": 1952.2
           },
           {
-            "date": "08-17",
+            "date": "08-18",
             "price": 1953.16
           },
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1954.12
           },
           {
-            "date": "08-19",
+            "date": "08-20",
             "price": 1955.09
           },
           {
-            "date": "08-20",
+            "date": "08-21",
             "price": 1956.06
           },
           {
-            "date": "08-21",
+            "date": "08-22",
             "price": 1957.02
           },
           {
-            "date": "08-22",
+            "date": "08-23",
             "price": 1957.98
           }
         ],
@@ -2515,7 +2515,7 @@
             "price": 1926.14
           },
           {
-            "time": "08:13",
+            "time": "09:53",
             "price": 1930.0
           }
         ]
@@ -2765,7 +2765,7 @@
             "price": 1381.13
           },
           {
-            "time": "08:13",
+            "time": "09:53",
             "price": 1383.9
           }
         ],
@@ -3069,7 +3069,7 @@
             "price": 1614.86
           },
           {
-            "time": "08:13",
+            "time": "09:53",
             "price": 1618.1
           }
         ],
