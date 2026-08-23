@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 21:24:26",
+  "last_updated": "2026-08-23 22:26:48",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 21:24",
+    "report_date": "2026.08.23, 22:26",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 21:24",
+    "report_date": "2026.08.23, 22:26",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-23T21:24:26.355549+09:00",
+  "lastUpdated": "2026-08-23T22:26:48.239241+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -130,7 +130,7 @@ const FALLBACK_DATA = {
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23201,
+      "volume": 23210,
       "sparkline": [
         5648.0,
         5734.0,
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5969.04
           },
           {
-            "time": "21:24",
+            "time": "22:26",
             "price": 5981.0
           }
         ],
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 7148.48
           },
           {
-            "time": "21:24",
+            "time": "22:26",
             "price": 7162.81
           }
         ],
@@ -612,16 +612,28 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Agricultural prices today, August 22, 2026: Robusta coffee prices plummet, attention shifts to Vietnam's harvest; New EU tariffs 'hit' the weak points of Chinese goods. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
-          "date": "08-22 14:14"
+          "title": "Fairtrade International Raises Price Minimums Again - Daily Coffee News by Roast Magazine",
+          "source": "Daily Coffee News by Roast Magazine",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbTUxM2Y2dmozNHVYVnEzVG5WbU5fbWNYTTcxd2pjNWFLQXdJLVFoa0xUNUlENV9QQndLWTVkR004MnVxTDhBYVNscFoxR3BFMjFvTGJsWnFaWXdsMFJvVks2VUUteVJEZUh0MG5hWXJWNEJ5RmNJSXdOaWRIRGU0T29GZjFxREZaRGUxX0FwbExtdVRBTFE?oc=5",
+          "date": "08-04 16:00"
         },
         {
-          "title": "Coffee Is Getting More Expensive: What Global Events Are Affecting the Price of a Cup - Комерсант Український",
-          "source": "Комерсант Український",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1QzTlV4ZDVWekU3bDE4aGpURFZXSm5odzF5N1BtYy1ZMExHcDNmR1ZkNFRLN2lnMHAxc1hoMWF5UUwxZ05qSFJmTUJtVlBfbFZyY2hMaXRnand6WHdUaFBsSGVkOGplN1pfWlRsMTU4c21QMTRxQ1lUWGZ2bVZKQmpkVWV3cVVCTGtqQjMza1Fub19XV3p4S2xB?oc=5",
-          "date": "08-22 14:02"
+          "title": "Coffee futures prices rose again on Tuesday, industry insiders explain the reasons behind last month’s unprecedented rises - Comunicaffe International",
+          "source": "Comunicaffe International",
+          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcUlYbHBaT0pVZnU1alIyMlFfd0VSNzVCaE16Vk1HcXllcTFFamNCNTRxVGZjZVE1NWVMelJGbXhkbHJTQXRqVC1saUcxS01tQ3BhV3d2eVpIUlJmZVhKWkVjRUt5cjhvLTBTejE1bHVmNTlJX09QUFAwcW9qV1U1N3FtN0lKZy1zVk41bVdodXgtOW5KclFURlJ6YVFWYUxEV2ZXSlFYejlsQ1A1M01rUzZrRjBrQXI3SFBxTlpHSGN6MldDM1JYcXpMcnItNU9Dc0JlZHpCWXVjMkdZQ1VyVzk1d1k2WlhvdW9TNFo5TjJWWEl4bGVSR0F2eHBWNmw3MHc?oc=5",
+          "date": "08-05 16:00"
+        },
+        {
+          "title": "Arabica Coffee Prices Decline on Profit-Taking and Long Liquidation - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHRUTzlhUU8xODc0STl6ckxLSG1TWjAwOVowOWRiZUh4UWdZeTBFLUJpYjZXSWhobkVuM3dpWjZub0JDODJsTzhKU3lFSzNBRFd2QUlhYl8xOV9pYm8yWEZtd3lyNWF3THp5bmVYbVBidWlfbE9DQjNPRkNST2R0NWxQbzBUSXlqMGxabU9WQTBwQ3o2YzNnaDZUQl80Nllzc201YzJldFJPQQ?oc=5",
+          "date": "07-02 16:00"
+        },
+        {
+          "title": "Coffee Prices Surge as Volatile Trading Continues - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazJSQWVzenA4cEMxb3N2NWRaeUZVNFNlQ2pQbWxUcjRDY1VSNXNCVXRVTXZKbkMxNTdaTzZ2blZNTDROWlplNEgxT090Z29xTkpTdW1raWVlb0x1Zmpxc01VZjNLMkE1aGVmWWZTeE96WGZCWTBYekdOclBpTUxTT19IWFVHUzIwRVJZRnhfMkhFYk5Rek9Cbw?oc=5",
+          "date": "07-09 16:00"
         }
       ],
       "newsKr": [
@@ -836,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "21:24",
+            "time": "22:26",
             "price": 3728.0
           }
         ],
@@ -915,10 +927,10 @@ const FALLBACK_DATA = {
           "date": "08-21 18:38"
         },
         {
-          "title": "El Niño threat to Vietnam coffee crop should not be underestimated, official says - BNN Bloomberg",
-          "source": "BNN Bloomberg",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNVF1R0d6OEFGOXo3V1Q2NzExNm4taGZIb1VpamVxaU9rSmFqM3lKZDVXSmN1bWlObFVMN2tuVkxrTURVakZTUnR1Q2RTOTVITXFKUEVmV3p2LWd2ZWNJd255TWllZ0dhY3ZIc1E1QzZSZ0pLeE8wcjJYczlFdW1aRktRMFNISTdjd1B3VXpLUm1CSWJQNFZFbnZFQXBEQmY5bkhoNTByWDE5RGFBVmNDVlprMVFudFpaVzEyajR6OFBPUWNTb21VQ3M3V1d5V0Y1LWhrV25kdGl5dw?oc=5",
-          "date": "08-21 22:53"
+          "title": "Coffee: How to read Coffee market moves - equiti.com",
+          "source": "equiti.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOURkdnllLTZvTnBOWWQzbnVHSzNQYVdvRm51clFZR3lwbFpRS0VNclZkOGsyVG5nazRrMjVfN25KVk9GR3RlRG8zbHNRNnVic3EyQzdKZTdkdTZNTTlUWU9zcm0wRmVYM1JtZk1nUjVTUjQzWmpDZldJaWw4UHVMNmRNWE1yS0RPNjBwNDRKQkRBZw?oc=5",
+          "date": "08-23 08:22"
         }
       ],
       "newsKr": [
@@ -2146,7 +2158,7 @@ const FALLBACK_DATA = {
             "price": 1182.13
           },
           {
-            "time": "21:24",
+            "time": "22:26",
             "price": 1184.5
           }
         ],
@@ -2231,7 +2243,7 @@ const FALLBACK_DATA = {
         {
           "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
           "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1nc9IBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
           "date": "08-19 14:13"
         },
         {
@@ -2247,10 +2259,10 @@ const FALLBACK_DATA = {
           "date": "05-15 16:00"
         },
         {
-          "title": "“팜유 시세 궁금해? AI가 알려줘”···식품·외식업계, AI 도입 가속도 - 매일경제",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tOEVEUU1qYURMZXI2djZoZmdyUFZzNFhYZHdKT2l1UmtYb183c0x3OE1zTVJpVzhmOERZWDRIbXRnSU5YS2U2ajdPV2I3ZEUyNElDck53?oc=5",
-          "date": "09-28 16:00"
+          "title": "FAO 7월 세계식량가격지수 131.1포인트 기록… 곡물·유지류·설탕 상승세 주도 - 기계신문",
+          "source": "기계신문",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mT2pzSERFb1dCV3hmbkRjQjFyM2NlSXdUUXFnYjlSN3pZZDN6dEM0RmREMndxQ0ZwUXVmN2NzU1JrS1B3dkx0TTVUc0RkSDQyZFBheWR4aHZoQXZ6MGYxaTBQNktEczQ?oc=5",
+          "date": "08-08 16:00"
         }
       ]
     },
@@ -2520,7 +2532,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "21:24",
+            "time": "22:26",
             "price": 1930.0
           }
         ]
@@ -2533,22 +2545,22 @@ const FALLBACK_DATA = {
           "date": "08-03 16:00"
         },
         {
-          "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
+          "title": "Desiccated coconuts: demand drives market trends - Mundus Agri",
           "source": "Mundus Agri",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
-          "date": "06-30 16:00"
-        },
-        {
-          "title": "Imported Coconut Oil Flows Outpace Demand, Pressuring US Market - ChemAnalyst",
-          "source": "ChemAnalyst",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJvZkNka3BvSi1sc25OVGhKelAwY3NzMFlXQm0zUUF6MW5JX25FajRHX2FPMkRkVFNfVmczQlBrUmYybXdOeHdFS0dHRTY0b3BGRWRmdi1kaWJMck41dVlvdXNvSGN0Wm5PcXFMeWNUdmtiQjlwVnBWdnRxQlVJTWNOUTNQWDA4ZTFfdjNwb2JwUkVxbmYxek9ScGlSbnNyVkU1SUw3ZFptZTNnMGIwNFVSai0?oc=5",
-          "date": "02-13 17:00"
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0dpV3lETUtvZnlyZWxYaDRiVlRobjE3MVVFS29RaE9xcXRFSkpBUFJyS0ZMRlJtMUVuZkFjRDRsMDk0ZUJLanJ2LVNhZWt5MzhLMzFBUnQ0SGdYX3NWQ181YmNORjE2aG1OcEJCLUVTZzJOejBtQTRwZ0NnYjVldlNuMElGd1NWWHFtMm13cFJ3TnphY3c?oc=5",
+          "date": "07-08 16:00"
         },
         {
           "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
           "source": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
           "date": "02-04 17:00"
+        },
+        {
+          "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
+          "source": "Mundus Agri",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
+          "date": "06-30 16:00"
         }
       ],
       "newsKr": [
@@ -2770,7 +2782,7 @@ const FALLBACK_DATA = {
             "price": 1381.13
           },
           {
-            "time": "21:24",
+            "time": "22:26",
             "price": 1383.9
           }
         ],
@@ -3074,7 +3086,7 @@ const FALLBACK_DATA = {
             "price": 1614.86
           },
           {
-            "time": "21:24",
+            "time": "22:26",
             "price": 1618.1
           }
         ],
