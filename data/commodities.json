@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 15:28:40",
+  "last_updated": "2026-08-23 16:27:30",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 15:28",
+    "report_date": "2026.08.23, 16:27",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 15:28",
+    "report_date": "2026.08.23, 16:27",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-23T15:28:40.483517+09:00",
+  "lastUpdated": "2026-08-23T16:27:30.293007+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "15:28",
+            "time": "16:27",
             "price": 5981.0
           }
         ],
@@ -317,16 +317,16 @@
           "date": "08-23 05:22"
         },
         {
-          "title": "From ‘bean to bar,’ boutique chocolate makers tell a new story - The Christian Science Monitor",
-          "source": "The Christian Science Monitor",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGg0ckRIRDlMYXZQRUFxMjVuU1RWZFNSSDVmYUNtMXRraFd6RE9tV3ZsVzZGdk9Ta1hoYWhzMmdfVGhCMGQ2dDBVNFJESThJSmZ5QUR0SGdsSVYwYUhaOHN4UVRYbUpLdjU2MmpmN3kyTVZ2SDVPU0tMVmJKVlZHcVJVUENyWnpNVGd5dTN2V2otd9IBqwFBVV95cUxOZmIzblpXNDRKcDFNUHRGcGdOM0xmRTltRkFaZUJBNWR5VERMbjRGYl9jNmNTNzU5ZGlCMzZ4Ry1zTzRkb0UwWk0wOXE5NVB1TjBuUkc2UjdYUVhpTkhiQWhKSHo0dUlOT3h6N3dSTktZUlF6VWp3TEktZGkyWGs5UTdYZ1VOcG1abTJlSWk1RzNPQ0ptUjVFUUJROWdYdkZXcWx4YU05c2VZUHM?oc=5",
-          "date": "08-22 18:00"
-        },
-        {
           "title": "Cocoa Prices Retreat as Global Supplies Improve - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTy1DbUQta2VJUGRyWWdUbGZZNXZ2ZTRMVnVTWEhkVlRQT3Z3cjVXV1F1QUV1MjJZQ1NiVTVoNVdNd1pVZS1KQnZseEJRRzJkREd3UWI0SnFrTVU5U2JTT3laOU91OHdGdzc2empkTjVDQnltWThzOU0zSlZvTDNQT0E3OTl4dU55TE9YME5pSFpsRXJkS3c?oc=5",
           "date": "08-22 03:25"
+        },
+        {
+          "title": "From ‘bean to bar,’ boutique chocolate makers tell a new story - The Christian Science Monitor",
+          "source": "The Christian Science Monitor",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGg0ckRIRDlMYXZQRUFxMjVuU1RWZFNSSDVmYUNtMXRraFd6RE9tV3ZsVzZGdk9Ta1hoYWhzMmdfVGhCMGQ2dDBVNFJESThJSmZ5QUR0SGdsSVYwYUhaOHN4UVRYbUpLdjU2MmpmN3kyTVZ2SDVPU0tMVmJKVlZHcVJVUENyWnpNVGd5dTN2V2otd9IBqwFBVV95cUxOZmIzblpXNDRKcDFNUHRGcGdOM0xmRTltRkFaZUJBNWR5VERMbjRGYl9jNmNTNzU5ZGlCMzZ4Ry1zTzRkb0UwWk0wOXE5NVB1TjBuUkc2UjdYUVhpTkhiQWhKSHo0dUlOT3h6N3dSTktZUlF6VWp3TEktZGkyWGs5UTdYZ1VOcG1abTJlSWk1RzNPQ0ptUjVFUUJROWdYdkZXcWx4YU05c2VZUHM?oc=5",
+          "date": "08-22 18:00"
         },
         {
           "title": "Cocoa Prices Fall on Rising Nigerian Cocoa Exports - Yahoo Finance",
@@ -422,7 +422,7 @@
             "price": 7148.48
           },
           {
-            "time": "15:28",
+            "time": "16:27",
             "price": 7162.81
           }
         ],
@@ -595,12 +595,6 @@
       },
       "newsEn": [
         {
-          "title": "Brazil Harvest Pressures Weigh on Coffee Prices - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1B6R2FSRjgxbnlsVzBGUjJiNjFUTTNIdWt3NnJPdjNHeGQtaWEtY1RVLWV6Z01lZXNfQmF2c3Jfc2h3c1Y4djdqVWlxb0NmWVJqTlBOV1VwM3pVdU81UWVlZ1VrQ0FhSzQ3V2dlT0dZSnhSa2JGYlkzWUhQQUhTb1NIdnNGdUVXRER1akxQdEFqOGZ5YXc?oc=5",
-          "date": "08-22 03:23"
-        },
-        {
           "title": "Coffee Prices Slip on Brazil Harvest Pressures - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOem9GcGs4RE8ybWpvdGg4aC1zaGRTeW9MX1BCdGdlTEFnMjJ3WF8zVmZVOC1mbTFHTEZVeWQ3a0N6ODY0dzF1UUJPRG1YV3hBMW56c1Jab20zdDlDVGxEZVpZTXRkSFhYT0hUakFiQTV2U01fUFdxbzBQejZrZWxmb081Y09ndmQ5Y29xLWxCa0xGb0JB?oc=5",
@@ -617,6 +611,12 @@
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
           "date": "08-22 14:14"
+        },
+        {
+          "title": "Bessent Says Treasury Buyback Could Top $4 Billion as Long Bond Yields Remain Elevated - SaaS Earnings Trends - vinanet.vn",
+          "source": "vinanet.vn",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMmNiaWJLNi1hN1FWTnpsOWI0OVRZYnc5QTJPUHE1ZnAyTDU5SkFUbWtsNGJVb0o5ZUJRRVUtVGxhUHdRa0o3b3ZnSnZkX1U4cVFlSVlPYzhEYWtJUThpVVljOGFWRFRMUjNFekJjd1BxMUlBaUZhTmNJLV9HcVM1ZzB6UGU3OE5uLUR4aXRZdnZGMEZMaE04RTk3SmhjWWtnejQyazNwRFdvTk83M1lEZDJUYXVIbDQ1Rk0tUlFXNkNmVWVfVHc?oc=5",
+          "date": "08-22 21:34"
         }
       ],
       "newsKr": [
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "15:28",
+            "time": "16:27",
             "price": 3728.0
           }
         ],
@@ -930,16 +930,16 @@
           "date": "08-23 06:47"
         },
         {
+          "title": "오늘 8월 21일 커피 가격: 세계 로부스타 가격 하락에도 소폭 상승 - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk1MRjQ0U0lFbFd4azh6TXRVdHY4eTdubU5WZERQSG5VdEUxWHhhbDQwck0tN0E5Y1RHbzBqN1pYbmw3c2F4eXBIY2xTZUNyVEtNbTZ6NkYtdkNTUXVqYUViRFJUTG5fUE84Tk5vVHRxeXhNTTJOYkJNVGhYUVA2QmRUOEt6Z2tvejVhQzBpdVZyTmdEeXV4UENtOEFlX1lQVzA4?oc=5",
+          "date": "08-21 15:03"
+        },
+        {
           "title": "오늘의 농업 뉴스(8월 23일): 커피 가격이 급락했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2pMU1dsSEhkdkFabTg4UGs3MERtd2NwTEdCdWI3ZXBxUEFxNTRvcTNwREdiSzVkZ2JtQ0xCRHBZSE5NdnRqSS1OQnBnYVFJNjFpNzhVVF9DVlFORmZwYUdhNFhQYU52dmJCcWNtY3labW9hdnRTb0M0OHdQdnFQb2Vn?oc=5",
           "date": "08-23 12:33"
-        },
-        {
-          "title": "농산물 시장: 세계 커피 가격이 급락세를 이어가고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXctdFphU3VRMWtNUy1KSDg0bktmSlRaenNtbkp5M0ZNc1hKVGhObDFxUl9OVkVTaEdHNWRUd0pnN05PMTFLTnNpbkJFOWltNm11ZGV4RzhpekJzVExlODJRbjBYaGtoWVdzQXpMQTl4Z0dsY2w5UUhQWWd0VlZGRjRwQzRRVmxxYUZiRQ?oc=5",
-          "date": "08-21 16:00"
         }
       ]
     },
@@ -2129,7 +2129,7 @@
             "price": 1182.13
           },
           {
-            "time": "15:28",
+            "time": "16:27",
             "price": 1184.5
           }
         ],
@@ -2214,7 +2214,7 @@
         {
           "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
           "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1nc9IBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
           "date": "08-19 14:13"
         },
         {
@@ -2503,7 +2503,7 @@
             "price": 1926.14
           },
           {
-            "time": "15:28",
+            "time": "16:27",
             "price": 1930.0
           }
         ]
@@ -2753,7 +2753,7 @@
             "price": 1381.13
           },
           {
-            "time": "15:28",
+            "time": "16:27",
             "price": 1383.9
           }
         ],
@@ -2822,7 +2822,7 @@
         {
           "title": "\"USD May Drop to 1,350 Won\" — Why the Securities Industry Expects Further Decline [Weekend Money] - 아시아경제",
           "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84UjBHZHNyaWRFVWxLMjhUajhxWmxZLU9VdktvcnFnUEFhbkkxal9VbHg4WWF6eUg2WUNzT3dOZHppMEVWaWNDMlBFeXRoblRWNFl2Z2JkbTN5UzBoU1FUZE9FODk?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPT1M5T1E4R0hyMTNNcVl6eG1iaTNyUjFGQk51YUYzaVh6YTd4ZC1wM2R4akdPdS05YWJzcEhXSXRreVpyeUNINjduOWhlV0RURzlYbzZPNVIyT1BMenJlc3VTNWZtRW9DdWNselB4RndsR2d4NmRVR2lxU3p1WWRnNGxTRlpnd3kzQWVfWWUtWQ?oc=5",
           "date": "08-23 13:47"
         },
         {
@@ -3057,7 +3057,7 @@
             "price": 1614.86
           },
           {
-            "time": "15:28",
+            "time": "16:27",
             "price": 1618.1
           }
         ],
