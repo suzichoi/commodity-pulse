@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 22:26:48",
+  "last_updated": "2026-08-23 23:16:02",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 22:26",
+    "report_date": "2026.08.23, 23:16",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -49,7 +49,7 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.90원 (▼6.89원)",
+    "fx_usd": "1,385.98원 (▼4.81원)",
     "fx_eur": "1,618.10원 (▼8.27원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 22:26",
+    "report_date": "2026.08.23, 23:16",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -85,13 +85,13 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲0.39%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.90원 (▼6.89원)",
+    "fx_usd": "1,385.98원 (▼4.81원)",
     "fx_eur": "1,618.10원 (▼8.27원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-23T22:26:48.239241+09:00",
-  "usdKrwRate": 1383.9,
+  "lastUpdated": "2026-08-23T23:16:02.835474+09:00",
+  "usdKrwRate": 1385.98,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
   "items": [
@@ -130,7 +130,7 @@ const FALLBACK_DATA = {
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23210,
+      "volume": 23201,
       "sparkline": [
         5648.0,
         5734.0,
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5969.04
           },
           {
-            "time": "22:26",
+            "time": "23:15",
             "price": 5981.0
           }
         ],
@@ -328,12 +328,6 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Cocoa: How to read Cocoa market moves - equiti.com",
-          "source": "equiti.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHF2NEVnNlJEaHo0dkZFYjBWQm1lZGdtTVpQd0UtR244Q00yZ3FieWZxSnJDNG82eEN5SG1HUzJOVG9LcC1YcUJIV2Rzc1RIWHdFNF9iWXE5S2ktbTdIQXpROVpQWDgtWlVvbHI3MU9SMFZ6MHNlbDlvNl84VmhGTGQ2TVpUUUQ4QmMwUWtn?oc=5",
-          "date": "08-23 05:22"
-        },
-        {
           "title": "Cocoa Prices Retreat as Global Supplies Improve - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTy1DbUQta2VJUGRyWWdUbGZZNXZ2ZTRMVnVTWEhkVlRQT3Z3cjVXV1F1QUV1MjJZQ1NiVTVoNVdNd1pVZS1KQnZseEJRRzJkREd3UWI0SnFrTVU5U2JTT3laOU91OHdGdzc2empkTjVDQnltWThzOU0zSlZvTDNQT0E3OTl4dU55TE9YME5pSFpsRXJkS3c?oc=5",
@@ -350,6 +344,12 @@ const FALLBACK_DATA = {
           "source": "The Christian Science Monitor",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGg0ckRIRDlMYXZQRUFxMjVuU1RWZFNSSDVmYUNtMXRraFd6RE9tV3ZsVzZGdk9Ta1hoYWhzMmdfVGhCMGQ2dDBVNFJESThJSmZ5QUR0SGdsSVYwYUhaOHN4UVRYbUpLdjU2MmpmN3kyTVZ2SDVPU0tMVmJKVlZHcVJVUENyWnpNVGd5dTN2V2otd9IBqwFBVV95cUxOZmIzblpXNDRKcDFNUHRGcGdOM0xmRTltRkFaZUJBNWR5VERMbjRGYl9jNmNTNzU5ZGlCMzZ4Ry1zTzRkb0UwWk0wOXE5NVB1TjBuUkc2UjdYUVhpTkhiQWhKSHo0dUlOT3h6N3dSTktZUlF6VWp3TEktZGkyWGs5UTdYZ1VOcG1abTJlSWk1RzNPQ0ptUjVFUUJROWdYdkZXcWx4YU05c2VZUHM?oc=5",
           "date": "08-22 18:00"
+        },
+        {
+          "title": "Cocoa: How to read Cocoa market moves - equiti.com",
+          "source": "equiti.com",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWpuSW1OMHdIb0VkOWtLOGY0eDdwRTM3YzBzU1dVdUpyNDdqbnJaTkhKaFlOU3BqNFNseGxXMG1MbS15LTFlQlMxdklYQjVOaGdxc3RlWW95T3VMRTNydmU0dXhteFhMcVpDQnNjZDRZVmRFM1NHTlJsM190M0wwOUZPVTV4cWRRSVRva1dyTQ?oc=5",
+          "date": "08-23 08:20"
         }
       ],
       "newsKr": [
@@ -360,16 +360,16 @@ const FALLBACK_DATA = {
           "date": "08-23 18:16"
         },
         {
-          "title": "[Q2 분석] 롯데웰푸드's 어닝 서프라이즈…\"H2 변수=해외 캐시카우·비용 환골탈태·내수·원가·날씨\" - 이코노미톡뉴스",
-          "source": "이코노미톡뉴스",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QcnlKOUV3ZFdCcEV4UDdnaFNWUDdyNVhPNzZkdDcxWXFvSjUzXzVKR1ladXBmN2htM1M4dG10TUFjMkp5WlVTUEhGajRzbE95WDAyUlJETVJWV3NCd1FKTGJ5WjRDQkUzS29Idg?oc=5",
-          "date": "08-22 10:17"
-        },
-        {
           "title": "5060 사로잡은 '포도계 에르메스' - 네이트",
           "source": "네이트",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVk9yUTZqakNwMUI5ejdMUUZ0STZVcUg4bGRiZ1A5UGxvZzl6SHZUNGFJdDB5Q05vSnJhanBocldxU212TElDc1ZKdDBiNE04aEdz?oc=5",
           "date": "08-23 18:06"
+        },
+        {
+          "title": "[Q2 분석] 롯데웰푸드's 어닝 서프라이즈…\"H2 변수=해외 캐시카우·비용 환골탈태·내수·원가·날씨\" - 이코노미톡뉴스",
+          "source": "이코노미톡뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QcnlKOUV3ZFdCcEV4UDdnaFNWUDdyNVhPNzZkdDcxWXFvSjUzXzVKR1ladXBmN2htM1M4dG10TUFjMkp5WlVTUEhGajRzbE95WDAyUlJETVJWV3NCd1FKTGJ5WjRDQkUzS29Idg?oc=5",
+          "date": "08-22 10:17"
         },
         {
           "title": "롯데웰푸드, 국내 수익성 개선·해외 성장 지속…목표가 17만원 - ksdaily.co.kr",
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 7148.48
           },
           {
-            "time": "22:26",
+            "time": "23:15",
             "price": 7162.81
           }
         ],
@@ -630,9 +630,9 @@ const FALLBACK_DATA = {
           "date": "07-02 16:00"
         },
         {
-          "title": "Coffee Prices Surge as Volatile Trading Continues - Barchart.com",
+          "title": "Coffee Prices Finish Sharply Higher in Illiquid Market - Barchart.com",
           "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazJSQWVzenA4cEMxb3N2NWRaeUZVNFNlQ2pQbWxUcjRDY1VSNXNCVXRVTXZKbkMxNTdaTzZ2blZNTDROWlplNEgxT090Z29xTkpTdW1raWVlb0x1Zmpxc01VZjNLMkE1aGVmWWZTeE96WGZCWTBYekdOclBpTUxTT19IWFVHUzIwRVJZRnhfMkhFYk5Rek9Cbw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdUMwbnpzRXVHSjNFRjNvUHdfeEdKWUFscTdFYXRoNXNWMDB4QUxLbEdDWTZNU3VSSmZHVFNTSFU2c19tMmV3RS1fRmQxb09NNjZ4Q2pFNk9yeTN4amNQbldJcGttcWo2Sm9vYnBrc0RjTkhRajBQOXFtR3l0VGV6bm10b0ZMYnZYak5VNmJvSDh2RmF0UEJyMy1wRU1qdGM?oc=5",
           "date": "07-09 16:00"
         }
       ],
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "22:26",
+            "time": "23:15",
             "price": 3728.0
           }
         ],
@@ -2158,7 +2158,7 @@ const FALLBACK_DATA = {
             "price": 1182.13
           },
           {
-            "time": "22:26",
+            "time": "23:16",
             "price": 1184.5
           }
         ],
@@ -2227,16 +2227,16 @@ const FALLBACK_DATA = {
           "date": "08-22 00:01"
         },
         {
-          "title": "US and Israeli strikes on Iran could rattle oil markets - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUJ4MWhYakRHWTgzek9yemloenNsRF9XZWdZcTkxMlJwZHZ2bVZGaVFaTm5TV1dERUd4YWVSc3YyLURYMWxvZE9RUW9CRWdIS0Y3TzA5MU9wRHFTZU5qNFN0Q2xldE9XZ0VxY0x4Y0hiTm8wNUhlVlRZN05pbnhlV1poMXdpNFJURVIwSXBvQVJZbWty0gGaAUFVX3lxTE9HU3poM0JFVEZseldhS0g0NlpUUVdILW93cVNhLUg1SU9QdWlCeF8yNnVweW9udDJocWVfZS0wSWlWeUtnX3V0QTgzR0xHUXY4SFh0cE9sTjRYeTNUVjIzRktSQWYtUkNESXh4UkJIZkFSTGdoN1p2bkNzdF8wN0d1YjREOEZzRHhpSkgzX1pNdkFidzBtdVV3UHc?oc=5",
-          "date": "08-21 09:35"
-        },
-        {
           "title": "Oleochemicals at 2026 Mid-Year: Trade Action, Biofuel Competition and Geopolitics Redraw the Market - ResourceWise",
           "source": "ResourceWise",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFFsTDkzbS0ybHBSZkJLcENCUWtsTDJfVjI3OGV2VnFnVUdPbDgzY241VVdrbm9jX3ltaVROU3h5elBVSU5WUEgxV2ZHREo4a1BiLTd1a3ZvSF9UaWNmYm1QUVpRWTJGb210ZEtzeWNjWEJDZTllckhEclJXdWlla1VyZjNoc1ZXX19jYlNicFJ4aTBHLXE2VlJ1WUtIUzZlMUpKSUJlOW0zQ1ltVkw0bTRyOU5vRXF3enJXOUVOcjNsc3pleWxnek90TdIB2wFBVV95cUxPek5tUVYxZjVCRFR2RWZodXBwcTZKUlZRVzl5d1hNc2Ewb2V4UEMzTkVXendxSlZvYmhDczktV3hDTGdqdlVONE95MVRQT3h4akpUeFRteGViVnFacGY0emVQdmNqUVdEelowVHhiaWt1NUJFaWVOY0NGUzNNNTBtcnNNMVJqSURULUVQQ1pDTUdCRlBYemZyX0tUQlVBVzk3X2lzZVpkdzA0bThjWnlhODdRRndOTjBFYVFiWDZQdDZTRUdESktqRG85eUkzQ2RmMDF5YVNqVENwVVE?oc=5",
           "date": "08-22 00:01"
+        },
+        {
+          "title": "CPO Futures End Week Higher For Fifth Straight Session - bernama",
+          "source": "bernama",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdGRVam9qYkhWclA5aTNlbXpNUVkyTGo2S2ZoZ21COENRbEdyYmFrRWRWZVEwSzJYWUlnTjdKNk5ZMWdmMUVpM3J1eEl6N3ltcHZsLTREbDZKQQ?oc=5",
+          "date": "08-21 22:45"
         }
       ],
       "newsKr": [
@@ -2532,7 +2532,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "22:26",
+            "time": "23:16",
             "price": 1930.0
           }
         ]
@@ -2545,22 +2545,22 @@ const FALLBACK_DATA = {
           "date": "08-03 16:00"
         },
         {
-          "title": "Desiccated coconuts: demand drives market trends - Mundus Agri",
+          "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
           "source": "Mundus Agri",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0dpV3lETUtvZnlyZWxYaDRiVlRobjE3MVVFS29RaE9xcXRFSkpBUFJyS0ZMRlJtMUVuZkFjRDRsMDk0ZUJLanJ2LVNhZWt5MzhLMzFBUnQ0SGdYX3NWQ181YmNORjE2aG1OcEJCLUVTZzJOejBtQTRwZ0NnYjVldlNuMElGd1NWWHFtMm13cFJ3TnphY3c?oc=5",
-          "date": "07-08 16:00"
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
+          "date": "06-30 16:00"
+        },
+        {
+          "title": "Imported Coconut Oil Flows Outpace Demand, Pressuring US Market - ChemAnalyst",
+          "source": "ChemAnalyst",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJvZkNka3BvSi1sc25OVGhKelAwY3NzMFlXQm0zUUF6MW5JX25FajRHX2FPMkRkVFNfVmczQlBrUmYybXdOeHdFS0dHRTY0b3BGRWRmdi1kaWJMck41dVlvdXNvSGN0Wm5PcXFMeWNUdmtiQjlwVnBWdnRxQlVJTWNOUTNQWDA4ZTFfdjNwb2JwUkVxbmYxek9ScGlSbnNyVkU1SUw3ZFptZTNnMGIwNFVSai0?oc=5",
+          "date": "02-13 17:00"
         },
         {
           "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
           "source": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
           "date": "02-04 17:00"
-        },
-        {
-          "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
-          "source": "Mundus Agri",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
-          "date": "06-30 16:00"
         }
       ],
       "newsKr": [
@@ -2614,17 +2614,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1383.9,
-      "change": -6.89,
-      "changePercent": -0.5,
+      "price": 1385.98,
+      "change": -4.81,
+      "changePercent": -0.35,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1383.9,
+      "high24h": 1385.98,
       "low24h": 1383.9,
       "high7d": 1416.85,
-      "low7d": 1383.9,
+      "low7d": 1385.98,
       "high1m": 1479.72,
-      "low1m": 1383.9,
+      "low1m": 1385.98,
       "volume": 0,
       "sparkline": [
         1416.85,
@@ -2633,7 +2633,7 @@ const FALLBACK_DATA = {
         1413.58,
         1389.4,
         1390.79,
-        1383.9
+        1385.98
       ],
       "history": {
         "7D": [
@@ -2663,7 +2663,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-23",
-            "price": 1383.9
+            "price": 1385.98
           }
         ],
         "1M": [
@@ -2765,25 +2765,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-23",
-            "price": 1383.9
+            "price": 1385.98
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1375.6
+            "price": 1377.66
           },
           {
             "time": "11:00",
-            "price": 1378.36
+            "price": 1380.44
           },
           {
             "time": "13:00",
-            "price": 1381.13
+            "price": 1383.21
           },
           {
-            "time": "22:26",
-            "price": 1383.9
+            "time": "23:16",
+            "price": 1385.98
           }
         ],
         "1Y": [
@@ -2837,7 +2837,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1383.9
+            "price": 1385.98
           }
         ]
       },
@@ -2881,16 +2881,16 @@ const FALLBACK_DATA = {
           "date": "08-23 05:21"
         },
         {
-          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
-          "source": "LiteFinance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
-          "date": "08-23 18:53"
-        },
-        {
           "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
           "date": "08-21 08:02"
+        },
+        {
+          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
+          "source": "LiteFinance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
+          "date": "08-23 18:53"
         }
       ]
     },
@@ -3086,7 +3086,7 @@ const FALLBACK_DATA = {
             "price": 1614.86
           },
           {
-            "time": "22:26",
+            "time": "23:16",
             "price": 1618.1
           }
         ],
