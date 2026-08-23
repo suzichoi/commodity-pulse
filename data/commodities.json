@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 16:27:30",
+  "last_updated": "2026-08-23 17:20:55",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 16:27",
+    "report_date": "2026.08.23, 17:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 16:27",
+    "report_date": "2026.08.23, 17:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-23T16:27:30.293007+09:00",
+  "lastUpdated": "2026-08-23T17:20:55.333932+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -113,7 +113,7 @@
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23201,
+      "volume": 23210,
       "sparkline": [
         5648.0,
         5734.0,
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "16:27",
+            "time": "17:20",
             "price": 5981.0
           }
         ],
@@ -422,7 +422,7 @@
             "price": 7148.48
           },
           {
-            "time": "16:27",
+            "time": "17:20",
             "price": 7162.81
           }
         ],
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "16:27",
+            "time": "17:20",
             "price": 3728.0
           }
         ],
@@ -918,16 +918,16 @@
       ],
       "newsKr": [
         {
-          "title": "오늘(8월 22일) 커피 가격: 국내외 가격 모두 급락했습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX242em4yQzFiT1Q3NkR4UUpSWWdpd2FHVnNENHpWVUU3OEhWTXlFRzBIWFhicUdWN2hiSlFMV2dYd1d0cy1vME9VYlJXTmVoRVNCMHozdW5SZ3p6VDBWTzluTk84cmFXTExKRWR4OHlqamdNZWdoLUV0UzZSWUVxLTFKLXc5WnY2aWlzc3h1ajFIMm40VTh0T2EtN2g?oc=5",
-          "date": "08-22 22:32"
-        },
-        {
           "title": "오늘(8월 23일) 커피 가격이 급락했으며, 세계 시장 전반에 걸쳐 하락세가 나타났습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWJyN2hDV0s2REt1NldOQUtISlNXaWk2b1ZiaC1IbkdGYzFMdXl1ZmtXSHNMcGFnNEw1ZjdtcjhUbWhsaTh0VVZBZndKaElYbzhPZjlzc0pxWnE0cU81bW8tTE1Jdk1vVUYwZWF2eHNnVEs2NnlNaHpfSnpVMzh3SmtmSWY5YmhWSzV4NW53?oc=5",
           "date": "08-23 06:47"
+        },
+        {
+          "title": "오늘(8월 22일) 커피 가격: 국내외 가격 모두 급락했습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX242em4yQzFiT1Q3NkR4UUpSWWdpd2FHVnNENHpWVUU3OEhWTXlFRzBIWFhicUdWN2hiSlFMV2dYd1d0cy1vME9VYlJXTmVoRVNCMHozdW5SZ3p6VDBWTzluTk84cmFXTExKRWR4OHlqamdNZWdoLUV0UzZSWUVxLTFKLXc5WnY2aWlzc3h1ajFIMm40VTh0T2EtN2g?oc=5",
+          "date": "08-22 22:32"
         },
         {
           "title": "오늘 8월 21일 커피 가격: 세계 로부스타 가격 하락에도 소폭 상승 - Laodong.vn",
@@ -2129,7 +2129,7 @@
             "price": 1182.13
           },
           {
-            "time": "16:27",
+            "time": "17:20",
             "price": 1184.5
           }
         ],
@@ -2503,7 +2503,7 @@
             "price": 1926.14
           },
           {
-            "time": "16:27",
+            "time": "17:20",
             "price": 1930.0
           }
         ]
@@ -2753,7 +2753,7 @@
             "price": 1381.13
           },
           {
-            "time": "16:27",
+            "time": "17:20",
             "price": 1383.9
           }
         ],
@@ -2846,6 +2846,12 @@
           "date": "08-23 05:21"
         },
         {
+          "title": "[주간환율전망] 1380원대로 떨어진 환율···수급·이벤트 모두 하방 지지 - 서울파이낸스",
+          "source": "서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ja0ZKakZxOXRla2ZhN3owNDZ0WUZUdFNZdmc2UGZwX05EaUZSWXZMREpmWm9LUUFHWi1xVzhqUDVOb1JnT2dpNjB5MlZxeDJkQUNCZ1NaZUZUcHNsWTBnS2thZmZrNTlTaVE?oc=5",
+          "date": "08-23 17:00"
+        },
+        {
           "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
@@ -2856,12 +2862,6 @@
           "source": "에너지경제신문",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PdV9MMWpESkdQbDFNeWRiODdkWGJjd1RPWC13NmV1aFRKeEZsYXFKbEthRm50YlM1V0tNUFZPTXhEelIyTW5mT1JHV3IwUmFvdXZIdmlKRUFIcVk?oc=5",
           "date": "08-22 20:22"
-        },
-        {
-          "title": "[이번주 환율] 한 달 반 만에 170원 급락…달러·원 어디까지 내릴까 - 오피니언뉴스",
-          "source": "오피니언뉴스",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iUlhRT3pXamk5cGVuSnh3Q3cxNUwtTVg3RHJ4bEI5ODFjVC1VdVBiZDBPZ3hZOS1SVFFuR2hpU3hoZFpEc21kajZaSC11LWJyQ052bWhib3hfT2Z4SHJJNzdFc3R5SG1WNnVUcV9fMkRfZw?oc=5",
-          "date": "08-23 11:17"
         }
       ]
     },
@@ -3057,7 +3057,7 @@
             "price": 1614.86
           },
           {
-            "time": "16:27",
+            "time": "17:20",
             "price": 1618.1
           }
         ],
@@ -3144,6 +3144,12 @@
       ],
       "newsKr": [
         {
+          "title": "[주간환율전망] 1380원대로 떨어진 환율···수급·이벤트 모두 하방 지지 - 서울파이낸스",
+          "source": "서울파이낸스",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ja0ZKakZxOXRla2ZhN3owNDZ0WUZUdFNZdmc2UGZwX05EaUZSWXZMREpmWm9LUUFHWi1xVzhqUDVOb1JnT2dpNjB5MlZxeDJkQUNCZ1NaZUZUcHNsWTBnS2thZmZrNTlTaVE?oc=5",
+          "date": "08-23 17:00"
+        },
+        {
           "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
           "source": "LiteFinance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
@@ -3160,12 +3166,6 @@
           "source": "데일리안",
           "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPRTJ5M1VDYTVfUGRxb21FOXFuaEh1cUEwalo0eWpQTTRFbEpLZlB4WWxWVXE2TlR4MEJ2NUR6TzZ4alYyZVViX2YtY1ViTFBxN2RpeF80Q1NGdUVxVzZ5amMweEpVMktSNFJ3d2ZjbjhJbzJ5dmhhbm05SG12YlR3LWk4cmdiQ1RveDV1YnlEank1WGo4aGtIOWRIRjVpc3pwMVhDWF80Z2c5bDVYYXo3MXlXcmtYME5sRHJHSWxRZjNwa1dDYW5qaWtZUzA3bUdKLWg4djd3eVk?oc=5",
           "date": "08-21 14:08"
-        },
-        {
-          "title": "고환율 부담 줄었지만…유가·폭염에 하반기 물가 '긴장' - 뉴시스",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRRW96Z25WZlVBMzRpMHFOUUJFWmxZX2tNUFFFOHJoMXBSbjR3OHVXN2RhUGxUN0JLYU1CUGtTS0RuX1BKaHR2bTZ6b2F6NWRiYTZacGVPUlZLNllFTElmVS1uVnNvZHZfRE9tNTFyTFJHd1pTejg4UtIBeEFVX3lxTFBRRW96Z25WZlVBMzRpMHFOUUJFWmxZX2tNUFFFOHJoMXBSbjR3OHVXN2RhUGxUN0JLYU1CUGtTS0RuX1BKaHR2bTZ6b2F6NWRiYTZacGVPUlZLNllFTElmVS1uVnNvZHZfRE9tNTFyTFJHd1pTejg4Ug?oc=5",
-          "date": "08-21 06:00"
         }
       ]
     }
