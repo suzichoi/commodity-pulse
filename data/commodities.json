@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-23 13:29:33",
+  "last_updated": "2026-08-23 15:28:40",
   "weekly_report": {
     "title": "[2026 Week 34 Report]",
     "week_number": 34,
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 13:29",
+    "report_date": "2026.08.23, 15:28",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.17 ~ 2026.08.21",
     "weekly_price_title": "[W34 주요품목가격]",
     "date": "2026.08.23",
-    "report_date": "2026.08.23, 13:29",
+    "report_date": "2026.08.23, 15:28",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-23T13:29:33.113217+09:00",
+  "lastUpdated": "2026-08-23T15:28:40.483517+09:00",
   "usdKrwRate": 1383.9,
   "eurKrwRate": 1618.1,
   "marketStatus": "OPEN",
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "13:29",
+            "time": "15:28",
             "price": 5981.0
           }
         ],
@@ -311,6 +311,12 @@
       },
       "newsEn": [
         {
+          "title": "Cocoa: How to read Cocoa market moves - equiti.com",
+          "source": "equiti.com",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHF2NEVnNlJEaHo0dkZFYjBWQm1lZGdtTVpQd0UtR244Q00yZ3FieWZxSnJDNG82eEN5SG1HUzJOVG9LcC1YcUJIV2Rzc1RIWHdFNF9iWXE5S2ktbTdIQXpROVpQWDgtWlVvbHI3MU9SMFZ6MHNlbDlvNl84VmhGTGQ2TVpUUUQ4QmMwUWtn?oc=5",
+          "date": "08-23 05:22"
+        },
+        {
           "title": "From ‘bean to bar,’ boutique chocolate makers tell a new story - The Christian Science Monitor",
           "source": "The Christian Science Monitor",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaGg0ckRIRDlMYXZQRUFxMjVuU1RWZFNSSDVmYUNtMXRraFd6RE9tV3ZsVzZGdk9Ta1hoYWhzMmdfVGhCMGQ2dDBVNFJESThJSmZ5QUR0SGdsSVYwYUhaOHN4UVRYbUpLdjU2MmpmN3kyTVZ2SDVPU0tMVmJKVlZHcVJVUENyWnpNVGd5dTN2V2otd9IBqwFBVV95cUxOZmIzblpXNDRKcDFNUHRGcGdOM0xmRTltRkFaZUJBNWR5VERMbjRGYl9jNmNTNzU5ZGlCMzZ4Ry1zTzRkb0UwWk0wOXE5NVB1TjBuUkc2UjdYUVhpTkhiQWhKSHo0dUlOT3h6N3dSTktZUlF6VWp3TEktZGkyWGs5UTdYZ1VOcG1abTJlSWk1RzNPQ0ptUjVFUUJROWdYdkZXcWx4YU05c2VZUHM?oc=5",
@@ -321,12 +327,6 @@
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTy1DbUQta2VJUGRyWWdUbGZZNXZ2ZTRMVnVTWEhkVlRQT3Z3cjVXV1F1QUV1MjJZQ1NiVTVoNVdNd1pVZS1KQnZseEJRRzJkREd3UWI0SnFrTVU5U2JTT3laOU91OHdGdzc2empkTjVDQnltWThzOU0zSlZvTDNQT0E3OTl4dU55TE9YME5pSFpsRXJkS3c?oc=5",
           "date": "08-22 03:25"
-        },
-        {
-          "title": "Cocoa: How to read Cocoa market moves - equiti.com",
-          "source": "equiti.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbWpuSW1OMHdIb0VkOWtLOGY0eDdwRTM3YzBzU1dVdUpyNDdqbnJaTkhKaFlOU3BqNFNseGxXMG1MbS15LTFlQlMxdklYQjVOaGdxc3RlWW95T3VMRTNydmU0dXhteFhMcVpDQnNjZDRZVmRFM1NHTlJsM190M0wwOUZPVTV4cWRRSVRva1dyTQ?oc=5",
-          "date": "08-23 08:20"
         },
         {
           "title": "Cocoa Prices Fall on Rising Nigerian Cocoa Exports - Yahoo Finance",
@@ -349,16 +349,16 @@
           "date": "08-21 11:14"
         },
         {
+          "title": "개당 8천 원에도 없어서 못 팔더니… 반년 만에 식어버린 '인기 디저트' 열풍 - 위키트리",
+          "source": "위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xNll4WjhCZVA3b2djYXo4RDBZNnBSc2pQQTQyb2x3SFlpWXg0WThDczRGd1ZGdHhmTXFLWW9OcU1vSU01ZmhzZEljbHpRTVJkZDNfRnNB?oc=5",
+          "date": "08-23 15:04"
+        },
+        {
           "title": "[데스크 시각] 고물가 나라, 치킨 서기관 - supple.kr",
           "source": "supple.kr",
           "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92eS1obzZHbTl2MWRRV0ZwdFluTjJQbkdoT2VkMEZsdDhURHNEY1dMSWJKWkJSQW5vRzcwNE1Jc2w1M192M2d5V1A0NmZfX3RWUzBlbVl3ZXNkdTRD?oc=5",
           "date": "08-22 22:18"
-        },
-        {
-          "title": "배스킨라빈스 40년 왕좌 흔들리나 - 네이트",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5SVHNxUVp0QjhzbDJxUHlMdGVjQk5mY0VsM1dFcDFxbHpiZ2Job3E4aFF5elljXzVvTXNCZGx3WE1TMXA4bUpNWU9QN3RVSXAtY21v?oc=5",
-          "date": "08-23 10:01"
         }
       ]
     },
@@ -422,7 +422,7 @@
             "price": 7148.48
           },
           {
-            "time": "13:29",
+            "time": "15:28",
             "price": 7162.81
           }
         ],
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "13:29",
+            "time": "15:28",
             "price": 3728.0
           }
         ],
@@ -910,24 +910,24 @@
           "date": "08-21 22:53"
         },
         {
-          "title": "Agricultural prices today, August 22, 2026: Robusta coffee prices plummet, attention shifts to Vietnam's harvest; New EU tariffs 'hit' the weak points of Chinese goods. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
-          "date": "08-22 14:14"
+          "title": "Arabica Coffee Settles Higher on Supply Concerns - TradingView",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdjhReTh6UVY4UzJvczhuU1k0NjVXaHh4djUtQ2dXbTIwZG90V2I1U2FuOGRUZjhHalFpREw5SzVlZUNfWlltRE1nRUNkOTJRdmpNWlh6Y0Q3OVVXNE9zcG8tdl9nQmJtWUtVUVdxWUdlZG9mRjRUWEgyUDJ6T2hnTGNkU3Z5b3l1STM0cG1jdFhPZnRqWG1zTlo2eTJhY09Rb0UyVXZqWHVSWk0?oc=5",
+          "date": "08-21 03:20"
         }
       ],
       "newsKr": [
-        {
-          "title": "오늘(8월 23일) 커피 가격이 급락했으며, 세계 시장 전반에 걸쳐 하락세가 나타났습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWJyN2hDV0s2REt1NldOQUtISlNXaWk2b1ZiaC1IbkdGYzFMdXl1ZmtXSHNMcGFnNEw1ZjdtcjhUbWhsaTh0VVZBZndKaElYbzhPZjlzc0pxWnE0cU81bW8tTE1Jdk1vVUYwZWF2eHNnVEs2NnlNaHpfSnpVMzh3SmtmSWY5YmhWSzV4NW53?oc=5",
-          "date": "08-23 06:47"
-        },
         {
           "title": "오늘(8월 22일) 커피 가격: 국내외 가격 모두 급락했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPX242em4yQzFiT1Q3NkR4UUpSWWdpd2FHVnNENHpWVUU3OEhWTXlFRzBIWFhicUdWN2hiSlFMV2dYd1d0cy1vME9VYlJXTmVoRVNCMHozdW5SZ3p6VDBWTzluTk84cmFXTExKRWR4OHlqamdNZWdoLUV0UzZSWUVxLTFKLXc5WnY2aWlzc3h1ajFIMm40VTh0T2EtN2g?oc=5",
           "date": "08-22 22:32"
+        },
+        {
+          "title": "오늘(8월 23일) 커피 가격이 급락했으며, 세계 시장 전반에 걸쳐 하락세가 나타났습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdWJyN2hDV0s2REt1NldOQUtISlNXaWk2b1ZiaC1IbkdGYzFMdXl1ZmtXSHNMcGFnNEw1ZjdtcjhUbWhsaTh0VVZBZndKaElYbzhPZjlzc0pxWnE0cU81bW8tTE1Jdk1vVUYwZWF2eHNnVEs2NnlNaHpfSnpVMzh3SmtmSWY5YmhWSzV4NW53?oc=5",
+          "date": "08-23 06:47"
         },
         {
           "title": "오늘의 농업 뉴스(8월 23일): 커피 가격이 급락했습니다. - Vietnam.vn",
@@ -936,10 +936,10 @@
           "date": "08-23 12:33"
         },
         {
-          "title": "2026년 8월 22일 오늘 농산물 가격: 로부스타 커피 가격 급락, 베트남 수확에 관심 집중; 새로운 EU 관세, 중국 상품의 약점 '타격'. - Vietnam.vn",
+          "title": "농산물 시장: 세계 커피 가격이 급락세를 이어가고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOX0tWRUFadDhGYkFucmUzR2ZvMXlGQm54b1N0ek9Ta3JXUV9NNnc1YVhfZlhRUGhKbURKR0lNSEF3M0NJQTRDM1V1UjhSMFNGd3FvX3ZicmtudklqRmRJRUxRdExuMUlJU2pBc0o2cmNRTDdXZVFmXzNCejUwbDU2ZmNWZ1NvcjF3SEdQQlZlYVp6R2VWOXVmUEZTVTcyTFg3Znd4QVFtQ1VSbncwajY2ZWxrZnh4X01lZUt1bk9YWUhCUjR0YzR2WG83dXlCa2hURkI1WnJkUTBrOXI5RlVlUEdOZFQ4Y0xSUTJzV3pwS2VRM3pmQnBDSGt5WQ?oc=5",
-          "date": "08-22 14:31"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOXctdFphU3VRMWtNUy1KSDg0bktmSlRaenNtbkp5M0ZNc1hKVGhObDFxUl9OVkVTaEdHNWRUd0pnN05PMTFLTnNpbkJFOWltNm11ZGV4RzhpekJzVExlODJRbjBYaGtoWVdzQXpMQTl4Z0dsY2w5UUhQWWd0VlZGRjRwQzRRVmxxYUZiRQ?oc=5",
+          "date": "08-21 16:00"
         }
       ]
     },
@@ -2129,7 +2129,7 @@
             "price": 1182.13
           },
           {
-            "time": "13:29",
+            "time": "15:28",
             "price": 1184.5
           }
         ],
@@ -2204,10 +2204,10 @@
           "date": "08-22 04:23"
         },
         {
-          "title": "CPO Futures End Week Higher For Fifth Straight Session - bernama",
-          "source": "bernama",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IdGRVam9qYkhWclA5aTNlbXpNUVkyTGo2S2ZoZ21COENRbEdyYmFrRWRWZVEwSzJYWUlnTjdKNk5ZMWdmMUVpM3J1eEl6N3ltcHZsLTREbDZKQQ?oc=5",
-          "date": "08-21 22:45"
+          "title": "Oleochemicals at 2026 Mid-Year: Trade Action, Biofuel Competition and Geopolitics Redraw the Market - ResourceWise",
+          "source": "ResourceWise",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUFFsTDkzbS0ybHBSZkJLcENCUWtsTDJfVjI3OGV2VnFnVUdPbDgzY241VVdrbm9jX3ltaVROU3h5elBVSU5WUEgxV2ZHREo4a1BiLTd1a3ZvSF9UaWNmYm1QUVpRWTJGb210ZEtzeWNjWEJDZTllckhEclJXdWlla1VyZjNoc1ZXX19jYlNicFJ4aTBHLXE2VlJ1WUtIUzZlMUpKSUJlOW0zQ1ltVkw0bTRyOU5vRXF3enJXOUVOcjNsc3pleWxnek90TdIB2wFBVV95cUxPek5tUVYxZjVCRFR2RWZodXBwcTZKUlZRVzl5d1hNc2Ewb2V4UEMzTkVXendxSlZvYmhDczktV3hDTGdqdlVONE95MVRQT3h4akpUeFRteGViVnFacGY0emVQdmNqUVdEelowVHhiaWt1NUJFaWVOY0NGUzNNNTBtcnNNMVJqSURULUVQQ1pDTUdCRlBYemZyX0tUQlVBVzk3X2lzZVpkdzA0bThjWnlhODdRRndOTjBFYVFiWDZQdDZTRUdESktqRG85eUkzQ2RmMDF5YVNqVENwVVE?oc=5",
+          "date": "08-22 00:01"
         }
       ],
       "newsKr": [
@@ -2227,7 +2227,7 @@
           "title": "세계식량가격지수 3개월 연속 오름세…4월 130.7포인트 - 식품음료신문",
           "source": "식품음료신문",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fbEljWDY1OFROSXRmNDlPS1RTb1JHWFliLUVNekpWM0J4aHk0TlM2RkprcV9aUUh4QjVkeFVUaVZucWxmZlBsSWZaSlg1SS12VlFzWkpsWnZGc1AtLVVkb0xMZjNxQ2JnYlNFS2NJZw?oc=5",
-          "date": "05-11 16:00"
+          "date": "05-15 16:00"
         },
         {
           "title": "“팜유 시세 궁금해? AI가 알려줘”···식품·외식업계, AI 도입 가속도 - 매일경제",
@@ -2503,7 +2503,7 @@
             "price": 1926.14
           },
           {
-            "time": "13:29",
+            "time": "15:28",
             "price": 1930.0
           }
         ]
@@ -2753,7 +2753,7 @@
             "price": 1381.13
           },
           {
-            "time": "13:29",
+            "time": "15:28",
             "price": 1383.9
           }
         ],
@@ -2814,6 +2814,18 @@
       },
       "newsEn": [
         {
+          "title": "Domestic Firms Triple Dollar Sales Amid Government Pressure - 조선일보",
+          "source": "조선일보",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUZocXlla3Z2eFktcUJrWWt6MDNYblZ6a0dLbmF6dWYxS2N6dzM4b3JHd0tqV3ZvWFBrSDhMNTFhMW1fUjlnRE1iZl9wOENrdzBucjcxeU5UZUdFNDNxQVlCREFKNEN2NlhLNTJRWFU2MVpCaE5IYmdfODhJcHF0YVBETjZfSTFmNm1oWDRR?oc=5",
+          "date": "08-23 13:36"
+        },
+        {
+          "title": "\"USD May Drop to 1,350 Won\" — Why the Securities Industry Expects Further Decline [Weekend Money] - 아시아경제",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84UjBHZHNyaWRFVWxLMjhUajhxWmxZLU9VdktvcnFnUEFhbkkxal9VbHg4WWF6eUg2WUNzT3dOZHppMEVWaWNDMlBFeXRoblRWNFl2Z2JkbTN5UzBoU1FUZE9FODk?oc=5",
+          "date": "08-23 13:47"
+        },
+        {
           "title": "South Korean Won Extends Gains to 11-Month High - TradingView",
           "source": "TradingView",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSHY5UWdpaXhTR3ZOM1Y3akxsbjdiNEx6TXRzNDBiNVBoeTlHZkNaTm45TWh5UElKeklnc3JwNzlZdDZWelRXNkxsZFFYeGZNVmdobXRnWUljbnFzb3F3ZGNDcUdVUHVHaG4zZHlEMl9Sd0tBU0NVS3Y5VUVXX0NXci1pVDJ5M0d2dzJmNnFiZ0R4RGJCM2pWNnJTQmhabkk?oc=5",
@@ -2824,18 +2836,6 @@
           "source": "Investing.com",
           "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDBPZFdPbHNFRGdJLTVQdjN2WEJsVUo5YklaenhjOWJlelp0RXNDUHo2U3Q4emctSVJvVHlweWtsbEFoYVhZVl9ST2RwdjE5X2FQQWZMaEVEMUxZdFBlaTM2X044b0JLQTQxNmtHTlVxbkc5V1c3eWZ0Z2tnRjhQOVREanc3REc3c3dfTTYyYnVXOFZvY3hWYUo4SXlMMjRONTJpOFN2RFRmMnBtM3JJUFJ1Yy1Bc3BrTmhtVjY5VmFyZG8?oc=5",
           "date": "08-21 12:51"
-        },
-        {
-          "title": "USD-KRW Remains in 1,300 Won Range for Second Day as Exporters Sell Dollars and Dollar Weakness Persists - 아시아경제",
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fdHRNOVY2NTFiZ1VZeXp1ZmtsWi0wMzM0R2lWU1V1dl9nVm1LcUxvNTBBTVJEWDliTUtGRWVlMW90X3BIdXMwTHlYNEpNTjZHcEZGMzQxeUFOQ1hsNzBWS2pzNHQ?oc=5",
-          "date": "08-20 16:12"
-        },
-        {
-          "title": "Euro FX EUR/USD Futures Overview - CME Group",
-          "source": "CME Group",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ia3l5aDN1d2dNSk53N05JM3lJcGVUYlEzMGIzSXBNaEFDSm9VUlh5dXcwWnpQdy1EbmZOVnBvZnBIdlRkRHNwR1RQRlJiSjBWQjUtZi1Ka1NHZmplb0tkQmdR?oc=5",
-          "date": "08-20 19:24"
         }
       ],
       "newsKr": [
@@ -2846,16 +2846,16 @@
           "date": "08-23 05:21"
         },
         {
-          "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’ - 에너지경제신문",
-          "source": "에너지경제신문",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PdV9MMWpESkdQbDFNeWRiODdkWGJjd1RPWC13NmV1aFRKeEZsYXFKbEthRm50YlM1V0tNUFZPTXhEelIyTW5mT1JHV3IwUmFvdXZIdmlKRUFIcVk?oc=5",
-          "date": "08-22 20:22"
-        },
-        {
           "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
           "date": "08-21 08:02"
+        },
+        {
+          "title": "“1400원 깨지자 달러 쟁였다”...5대 은행 달러예금 ‘급증’ - 에너지경제신문",
+          "source": "에너지경제신문",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PdV9MMWpESkdQbDFNeWRiODdkWGJjd1RPWC13NmV1aFRKeEZsYXFKbEthRm50YlM1V0tNUFZPTXhEelIyTW5mT1JHV3IwUmFvdXZIdmlKRUFIcVk?oc=5",
+          "date": "08-22 20:22"
         },
         {
           "title": "[이번주 환율] 한 달 반 만에 170원 급락…달러·원 어디까지 내릴까 - 오피니언뉴스",
@@ -3057,7 +3057,7 @@
             "price": 1614.86
           },
           {
-            "time": "13:29",
+            "time": "15:28",
             "price": 1618.1
           }
         ],
