@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-24 06:14:21",
+  "last_updated": "2026-08-24 07:14:03",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 06:14",
+    "report_date": "2026.08.24, 07:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,385.89원 (▼4.90원)",
-    "fx_eur": "1,617.60원 (▼8.77원)",
+    "fx_usd": "1,385.87원 (▼4.92원)",
+    "fx_eur": "1,618.00원 (▼8.37원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 06:14",
+    "report_date": "2026.08.24, 07:14",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,385.89원 (▼4.90원)",
-    "fx_eur": "1,617.60원 (▼8.77원)",
+    "fx_usd": "1,385.87원 (▼4.92원)",
+    "fx_eur": "1,618.00원 (▼8.37원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-24T06:14:21.571572+09:00",
-  "usdKrwRate": 1385.89,
-  "eurKrwRate": 1617.6,
+  "lastUpdated": "2026-08-24T07:14:03.566078+09:00",
+  "usdKrwRate": 1385.85,
+  "eurKrwRate": 1618.0,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -113,7 +113,7 @@
       "low7d": 5648.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 23210,
+      "volume": 23201,
       "sparkline": [
         5648.0,
         5734.0,
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "06:14",
+            "time": "07:13",
             "price": 5981.0
           }
         ],
@@ -422,7 +422,7 @@
             "price": 7148.48
           },
           {
-            "time": "06:14",
+            "time": "07:13",
             "price": 7162.81
           }
         ],
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "06:14",
+            "time": "07:13",
             "price": 3728.0
           }
         ],
@@ -1410,10 +1410,10 @@
           "date": "08-21 18:31"
         },
         {
-          "title": "Ghee Powder Market Growth to 2035 Driven by Clean-Label Demand in Industrial Bakery and Dry-Mix Applications - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcTVjazJXZU9zSnFVZzlQNFBUTlpjOEZGdWJ1UmpkTVNPeTlhaEhHRlJsRXJyZ3FsbWVUVGttaTdIdmEyXzBCT3dNQ0o0THZzYmxJMEhIeVlFa3ptYWNfV0RINU41QWdvT19iOE5IOGxjbV9RZjlocWJTQkg4TlpIOGpRLUdUbW5tSjhkSkVxRF9FclJCR0didUFJcUxub3JlV0dkV1RMblQtc1B4V1BJalZkSEE5Ukphb0JJM1JncGQyVmE5X2gtcC1xY3gwT05RY1dnVA?oc=5",
-          "date": "08-23 12:46"
+          "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
+          "date": "08-24 06:46"
         },
         {
           "title": "Weekly protein report: JBS targets remaining Pilgrim’s Pride shares in $1.2 billion deal - The Poultry Site",
@@ -1916,6 +1916,12 @@
           "date": "08-22 04:12"
         },
         {
+          "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
+          "date": "08-24 06:46"
+        },
+        {
           "title": "Weekly protein report: Beef packaging shakeups highlight growing cattle supply squeeze - The Cattle Site",
           "source": "The Cattle Site",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOFRBVEo2NkJmSXk2MGJ0T0NsTWEzcFVPR2tvNzluVzF4bmNNSGNBVXNWdU9ZOUo5YzZrdWFveFZIVkYtRmdCajZOVnJyc2dWb1prdGN1cDFib2dtMVNNMlMxckJMalljdVJTTzhCYzFiNVo0QkRHdWpZbHFDVG84WFNaelJOX29YOThVVEVkd2R5SFVSblFaQ0g4Tm5RQTJxaEZjMDRnU3pGZU1UZU5QUlkweXV2Q3FpOW9fZnY4UmppUQ?oc=5",
@@ -1926,12 +1932,6 @@
           "source": "Dairy News Today",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORDZxaEFpZjNCZjdmblVYd1NmVEJKcTVHazlvZHJGV21KLWIwY1Y3TnFFNzZEam5KU2VuckN3UWZ3QmNyU3haZzkwSzg1NFFxNjBmNVZVaHYzZDFGekJob0J6MmVkNnQ2RmpfSVQ2NFFpbEVCYkU0ZnIxUm1vU1BmLUVvMkJNYzRlOVp0ZTI0bGNVMDNXdEhqMUZqNWx6d1E?oc=5",
           "date": "08-21 18:31"
-        },
-        {
-          "title": "Ghee Powder Market Growth to 2035 Driven by Clean-Label Demand in Industrial Bakery and Dry-Mix Applications - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcTVjazJXZU9zSnFVZzlQNFBUTlpjOEZGdWJ1UmpkTVNPeTlhaEhHRlJsRXJyZ3FsbWVUVGttaTdIdmEyXzBCT3dNQ0o0THZzYmxJMEhIeVlFa3ptYWNfV0RINU41QWdvT19iOE5IOGxjbV9RZjlocWJTQkg4TlpIOGpRLUdUbW5tSjhkSkVxRF9FclJCR0didUFJcUxub3JlV0dkV1RMblQtc1B4V1BJalZkSEE5Ukphb0JJM1JncGQyVmE5X2gtcC1xY3gwT05RY1dnVA?oc=5",
-          "date": "08-23 12:46"
         }
       ],
       "newsKr": [
@@ -2141,7 +2141,7 @@
             "price": 1182.13
           },
           {
-            "time": "06:14",
+            "time": "07:14",
             "price": 1184.5
           }
         ],
@@ -2515,7 +2515,7 @@
             "price": 1926.14
           },
           {
-            "time": "06:14",
+            "time": "07:14",
             "price": 1930.0
           }
         ]
@@ -2534,16 +2534,16 @@
           "date": "06-30 16:00"
         },
         {
+          "title": "Imported Coconut Oil Flows Outpace Demand, Pressuring US Market - ChemAnalyst",
+          "source": "ChemAnalyst",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJvZkNka3BvSi1sc25OVGhKelAwY3NzMFlXQm0zUUF6MW5JX25FajRHX2FPMkRkVFNfVmczQlBrUmYybXdOeHdFS0dHRTY0b3BGRWRmdi1kaWJMck41dVlvdXNvSGN0Wm5PcXFMeWNUdmtiQjlwVnBWdnRxQlVJTWNOUTNQWDA4ZTFfdjNwb2JwUkVxbmYxek9ScGlSbnNyVkU1SUw3ZFptZTNnMGIwNFVSai0?oc=5",
+          "date": "02-13 17:00"
+        },
+        {
           "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
           "source": "TODAY.com",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
           "date": "02-04 17:00"
-        },
-        {
-          "title": "Coconut Oil Suppliers, Export Data & Price Trends | Global Market Overview 2026 - Tridge",
-          "source": "Tridge",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xMGNxSVZfNll3WHpDU2NTODZQMktUNjUtQlJ1U2ktcEU5NXJXM2Iway1rOHJfa0gzWmZDemxiY2hIeDhsWTdlTk16eE9tTWpFSjNyTzQxMzl1cHBMWFh3?oc=5",
-          "date": "02-24 14:16"
         }
       ],
       "newsKr": [
@@ -2597,17 +2597,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1385.89,
-      "change": -4.9,
+      "price": 1385.87,
+      "change": -4.92,
       "changePercent": -0.35,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1386.5,
+      "high24h": 1387.12,
       "low24h": 1383.9,
       "high7d": 1416.85,
-      "low7d": 1385.89,
+      "low7d": 1385.87,
       "high1m": 1479.72,
-      "low1m": 1385.89,
+      "low1m": 1385.87,
       "volume": 0,
       "sparkline": [
         1416.85,
@@ -2616,7 +2616,7 @@
         1413.58,
         1389.4,
         1390.79,
-        1385.89
+        1385.87
       ],
       "history": {
         "7D": [
@@ -2646,7 +2646,7 @@
           },
           {
             "date": "08-23",
-            "price": 1385.89
+            "price": 1385.87
           }
         ],
         "1M": [
@@ -2748,25 +2748,25 @@
           },
           {
             "date": "08-23",
-            "price": 1385.89
+            "price": 1385.87
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1377.57
+            "price": 1377.55
           },
           {
             "time": "11:00",
-            "price": 1380.35
+            "price": 1380.33
           },
           {
             "time": "13:00",
-            "price": 1383.12
+            "price": 1383.1
           },
           {
-            "time": "06:14",
-            "price": 1385.89
+            "time": "07:14",
+            "price": 1385.87
           }
         ],
         "1Y": [
@@ -2820,7 +2820,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1385.89
+            "price": 1385.87
           }
         ]
       },
@@ -2858,16 +2858,16 @@
           "date": "08-23 17:00"
         },
         {
-          "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
-          "source": "KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
-          "date": "08-21 08:02"
-        },
-        {
           "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 - v.daum.net",
           "source": "v.daum.net",
           "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5hVXZJUkxvTmQ5Tk9xRVpKUGNJNFROeUt6dldQal9RbThaZi1FTElnQkhTQmpodjVkbkFOVVd1VHFXWUM4VlE?oc=5",
           "date": "08-23 05:21"
+        },
+        {
+          "title": "[환율 전망] 대외 악재 풀코스 vs. 매도 압력 풀충전 - KB Think",
+          "source": "KB Think",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40eUpPSS1KZ1AyeGx0UlV5TkotS2RNbjhoNkw4S0x3TW1SYVRGcE1Vbl9KSzFJM0hDM2t2UjRFMENDNmdrQXA3M0RENDUtNXdYdTNWZ3Nxa3JCRGhrZWQ2QQ?oc=5",
+          "date": "08-21 08:02"
         },
         {
           "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
@@ -2901,13 +2901,13 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1617.6,
-      "change": -8.77,
-      "changePercent": -0.54,
+      "price": 1618.0,
+      "change": -8.37,
+      "changePercent": -0.51,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1617.6,
-      "low24h": 1617.6,
+      "high24h": 1618.6,
+      "low24h": 1617.4,
       "high7d": 1638.16,
       "low7d": 1582.09,
       "high1m": 1687.03,
@@ -2920,7 +2920,7 @@
         1634.92,
         1620.23,
         1626.37,
-        1617.6
+        1618.0
       ],
       "history": {
         "7D": [
@@ -2950,7 +2950,7 @@
           },
           {
             "date": "08-23",
-            "price": 1617.6
+            "price": 1618.0
           }
         ],
         "1M": [
@@ -3052,25 +3052,25 @@
           },
           {
             "date": "08-23",
-            "price": 1617.6
+            "price": 1618.0
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1607.89
+            "price": 1608.29
           },
           {
             "time": "11:00",
-            "price": 1611.13
+            "price": 1611.53
           },
           {
             "time": "13:00",
-            "price": 1614.36
+            "price": 1614.76
           },
           {
-            "time": "06:14",
-            "price": 1617.6
+            "time": "07:14",
+            "price": 1618.0
           }
         ],
         "1Y": [
@@ -3124,7 +3124,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1617.6
+            "price": 1618.0
           }
         ]
       },
