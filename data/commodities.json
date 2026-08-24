@@ -1,18 +1,18 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-24 16:52:03",
+  "last_updated": "2026-08-24 17:39:14",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 16:52",
+    "report_date": "2026.08.24, 17:39",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
+    "top_loser": "아라비카 커피 : $7,130.84 (▼9.84%)",
     "weekly_price_list": [
       "코코아 : $5,981.00 (▼1.04%)",
-      "아라비카 커피 : $7,162.81 (▼5.85%)",
+      "아라비카 커피 : $7,130.84 (▼6.27%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -23,7 +23,7 @@
     ],
     "other_commodities": [
       "코코아 : $5,981.00 (▼1.04%)",
-      "아라비카 커피 : $7,162.81 (▼5.85%)",
+      "아라비카 커피 : $7,130.84 (▼6.27%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -32,8 +32,8 @@
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.84원 (▼6.95원)",
-    "fx_eur": "1,614.10원 (▼12.27원)",
+    "fx_usd": "1,384.98원 (▼5.81원)",
+    "fx_eur": "1,615.20원 (▼11.17원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -43,12 +43,12 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 16:52",
+    "report_date": "2026.08.24, 17:39",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,162.81 (▼10.64%)",
+    "top_loser": "아라비카 커피 : $7,130.84 (▼9.84%)",
     "weekly_price_list": [
       "코코아 : $5,981.00 (▼1.04%)",
-      "아라비카 커피 : $7,162.81 (▼5.85%)",
+      "아라비카 커피 : $7,130.84 (▼6.27%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -59,7 +59,7 @@
     ],
     "other_commodities": [
       "코코아 : $5,981.00 (▼1.04%)",
-      "아라비카 커피 : $7,162.81 (▼5.85%)",
+      "아라비카 커피 : $7,130.84 (▼6.27%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -68,14 +68,14 @@
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.84원 (▼6.95원)",
-    "fx_eur": "1,614.10원 (▼12.27원)",
+    "fx_usd": "1,384.98원 (▼5.81원)",
+    "fx_eur": "1,615.20원 (▼11.17원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-24T16:52:03.077640+09:00",
-  "usdKrwRate": 1383.84,
-  "eurKrwRate": 1614.1,
+  "lastUpdated": "2026-08-24T17:39:14.081655+09:00",
+  "usdKrwRate": 1384.98,
+  "eurKrwRate": 1615.2,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5969.04
           },
           {
-            "time": "16:51",
+            "time": "17:39",
             "price": 5981.0
           }
         ],
@@ -382,51 +382,47 @@
           "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
         ]
       },
-      "price": 7162.81,
-      "change": -853.19,
-      "changePercent": -10.64,
+      "price": 7130.84,
+      "change": -778.23,
+      "changePercent": -9.84,
       "high52w": 9655.13,
       "low52w": 5350.61,
-      "high24h": 7396.5,
-      "low24h": 7092.26,
+      "high24h": 7203.6,
+      "low24h": 7116.51,
       "high7d": 8016.0,
-      "low7d": 7162.81,
+      "low7d": 7130.84,
       "high1m": 8016.0,
       "low1m": 6918.1,
-      "volume": 14392,
+      "volume": 225,
       "sparkline": [
-        7343.59,
         7453.82,
         7608.14,
         8011.59,
         7925.61,
         8016.0,
-        7162.81
+        7909.07,
+        7130.84
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 7119.83
+            "price": 7088.05
           },
           {
             "time": "11:00",
-            "price": 7134.16
+            "price": 7102.32
           },
           {
             "time": "13:00",
-            "price": 7148.48
+            "price": 7116.58
           },
           {
-            "time": "16:51",
-            "price": 7162.81
+            "time": "17:39",
+            "price": 7130.84
           }
         ],
         "7D": [
-          {
-            "date": "08-13",
-            "price": 7343.59
-          },
           {
             "date": "08-14",
             "price": 7453.82
@@ -449,7 +445,11 @@
           },
           {
             "date": "08-21",
-            "price": 7162.81
+            "price": 7909.07
+          },
+          {
+            "date": "08-24",
+            "price": 7130.84
           }
         ],
         "1M": [
@@ -535,7 +535,11 @@
           },
           {
             "date": "08-21",
-            "price": 7162.81
+            "price": 7909.07
+          },
+          {
+            "date": "08-24",
+            "price": 7130.84
           }
         ],
         "1Y": [
@@ -581,34 +585,34 @@
           },
           {
             "date": "2026-08",
-            "price": 7162.81
+            "price": 7130.84
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Fairtrade International Raises Price Minimums Again - Daily Coffee News by Roast Magazine",
-          "source": "Daily Coffee News by Roast Magazine",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbTUxM2Y2dmozNHVYVnEzVG5WbU5fbWNYTTcxd2pjNWFLQXdJLVFoa0xUNUlENV9QQndLWTVkR004MnVxTDhBYVNscFoxR3BFMjFvTGJsWnFaWXdsMFJvVks2VUUteVJEZUh0MG5hWXJWNEJ5RmNJSXdOaWRIRGU0T29GZjFxREZaRGUxX0FwbExtdVRBTFE?oc=5",
-          "date": "08-04 16:00"
+          "title": "Rain-Soaked Brazil Pushes Arabica Coffee Prices Upward - Briefs Finance",
+          "source": "Briefs Finance",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVzhEV28zRXNFd3U1MGR6al81eWJ3N2F0czdvSVVaRFNGZWVTRW8za3VJY0RRSVFLWmdQN3FRUHktZEtIOExkZGphOUtLRGFWdXZiZUY3MUo1VUlFSUtuRkZucVBibHYtczM4c2EyeEtjZ05tRm13OE1ucnVXX3VWVnlPSU9GLWJLZ0E?oc=5",
+          "date": "08-24 06:37"
         },
         {
-          "title": "Coffee futures prices rose again on Tuesday, industry insiders explain the reasons behind last month’s unprecedented rises - Comunicaffe International",
-          "source": "Comunicaffe International",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQcUlYbHBaT0pVZnU1alIyMlFfd0VSNzVCaE16Vk1HcXllcTFFamNCNTRxVGZjZVE1NWVMelJGbXhkbHJTQXRqVC1saUcxS01tQ3BhV3d2eVpIUlJmZVhKWkVjRUt5cjhvLTBTejE1bHVmNTlJX09QUFAwcW9qV1U1N3FtN0lKZy1zVk41bVdodXgtOW5KclFURlJ6YVFWYUxEV2ZXSlFYejlsQ1A1M01rUzZrRjBrQXI3SFBxTlpHSGN6MldDM1JYcXpMcnItNU9Dc0JlZHpCWXVjMkdZQ1VyVzk1d1k2WlhvdW9TNFo5TjJWWEl4bGVSR0F2eHBWNmw3MHc?oc=5",
-          "date": "08-05 16:00"
+          "title": "Coffee Arabica Weekly: Higher Realm Tested and Speculative Support Holds - Daily Forex",
+          "source": "Daily Forex",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXdxODMzNl80bENCV3MxdkM4cUIzakpCdGRnaXh2dzNlVTYxQzRXbmtyNHlkczBtbk95U0lBWWF6cEpIeDdoeTN0V3JVNDBNalFKUHJpMWJHcWpJM09ROGs4WVUxTFRoVVFkNkxJdnl0U1dlMXZzMFd5ZXBGSWFrXzA0RFNhVUpsWDl4Q0stek5PQTBMUHFnLW5IV05BYXUtZzlVNWM4ZE4ycXNTLXVRQ21EaHF6RjJGdTlWNEtMZm9lRzVBUXFYWFFIVWE5LThKUUp0TWhyNHl6UQ?oc=5",
+          "date": "08-23 21:04"
         },
         {
-          "title": "Arabica Coffee Prices Decline on Profit-Taking and Long Liquidation - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHRUTzlhUU8xODc0STl6ckxLSG1TWjAwOVowOWRiZUh4UWdZeTBFLUJpYjZXSWhobkVuM3dpWjZub0JDODJsTzhKU3lFSzNBRFd2QUlhYl8xOV9pYm8yWEZtd3lyNWF3THp5bmVYbVBidWlfbE9DQjNPRkNST2R0NWxQbzBUSXlqMGxabU9WQTBwQ3o2YzNnaDZUQl80Nllzc201YzJldFJPQQ?oc=5",
-          "date": "07-02 16:00"
+          "title": "Coffee: How to read Coffee market moves - equiti.com",
+          "source": "equiti.com",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOURkdnllLTZvTnBOWWQzbnVHSzNQYVdvRm51clFZR3lwbFpRS0VNclZkOGsyVG5nazRrMjVfN25KVk9GR3RlRG8zbHNRNnVic3EyQzdKZTdkdTZNTTlUWU9zcm0wRmVYM1JtZk1nUjVTUjQzWmpDZldJaWw4UHVMNmRNWE1yS0RPNjBwNDRKQkRBZw?oc=5",
+          "date": "08-23 08:22"
         },
         {
-          "title": "Coffee Prices Surge as Volatile Trading Continues - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQazJSQWVzenA4cEMxb3N2NWRaeUZVNFNlQ2pQbWxUcjRDY1VSNXNCVXRVTXZKbkMxNTdaTzZ2blZNTDROWlplNEgxT090Z29xTkpTdW1raWVlb0x1Zmpxc01VZjNLMkE1aGVmWWZTeE96WGZCWTBYekdOclBpTUxTT19IWFVHUzIwRVJZRnhfMkhFYk5Rek9Cbw?oc=5",
-          "date": "07-09 16:00"
+          "title": "Agricultural prices today, August 22, 2026: Robusta coffee prices plummet, attention shifts to Vietnam's harvest; New EU tariffs 'hit' the weak points of Chinese goods. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
+          "date": "08-22 14:14"
         }
       ],
       "newsKr": [
@@ -637,7 +641,7 @@
           "date": "08-23 20:21"
         }
       ],
-      "original_price_lb": 324.9
+      "original_price_lb": 323.45
     },
     {
       "id": "robusta",
@@ -823,7 +827,7 @@
             "price": 3720.54
           },
           {
-            "time": "16:51",
+            "time": "17:39",
             "price": 3728.0
           }
         ],
@@ -2129,7 +2133,7 @@
             "price": 1182.13
           },
           {
-            "time": "16:52",
+            "time": "17:39",
             "price": 1184.5
           }
         ],
@@ -2503,7 +2507,7 @@
             "price": 1926.14
           },
           {
-            "time": "16:52",
+            "time": "17:39",
             "price": 1930.0
           }
         ]
@@ -2573,17 +2577,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1383.84,
-      "change": -6.95,
-      "changePercent": -0.5,
+      "price": 1384.98,
+      "change": -5.81,
+      "changePercent": -0.42,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1387.12,
       "low24h": 1376.18,
       "high7d": 1416.85,
-      "low7d": 1383.84,
+      "low7d": 1384.98,
       "high1m": 1474.04,
-      "low1m": 1383.84,
+      "low1m": 1384.98,
       "volume": 0,
       "sparkline": [
         1416.85,
@@ -2592,7 +2596,7 @@
         1413.58,
         1389.4,
         1390.79,
-        1383.84
+        1384.98
       ],
       "history": {
         "7D": [
@@ -2622,7 +2626,7 @@
           },
           {
             "date": "08-24",
-            "price": 1383.84
+            "price": 1384.98
           }
         ],
         "1M": [
@@ -2712,25 +2716,25 @@
           },
           {
             "date": "08-24",
-            "price": 1383.84
+            "price": 1384.98
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1375.54
+            "price": 1376.67
           },
           {
             "time": "11:00",
-            "price": 1378.3
+            "price": 1379.44
           },
           {
             "time": "13:00",
-            "price": 1381.07
+            "price": 1382.21
           },
           {
-            "time": "16:52",
-            "price": 1383.84
+            "time": "17:39",
+            "price": 1384.98
           }
         ],
         "1Y": [
@@ -2784,7 +2788,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1383.84
+            "price": 1384.98
           }
         ]
       },
@@ -2865,9 +2869,9 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1614.1,
-      "change": -12.27,
-      "changePercent": -0.75,
+      "price": 1615.2,
+      "change": -11.17,
+      "changePercent": -0.69,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1618.6,
@@ -2884,7 +2888,7 @@
         1634.92,
         1620.23,
         1626.37,
-        1614.1
+        1615.2
       ],
       "history": {
         "7D": [
@@ -2914,7 +2918,7 @@
           },
           {
             "date": "08-24",
-            "price": 1614.1
+            "price": 1615.2
           }
         ],
         "1M": [
@@ -3004,25 +3008,25 @@
           },
           {
             "date": "08-24",
-            "price": 1614.1
+            "price": 1615.2
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1604.42
+            "price": 1605.51
           },
           {
             "time": "11:00",
-            "price": 1607.64
+            "price": 1608.74
           },
           {
             "time": "13:00",
-            "price": 1610.87
+            "price": 1611.97
           },
           {
-            "time": "16:52",
-            "price": 1614.1
+            "time": "17:39",
+            "price": 1615.2
           }
         ],
         "1Y": [
@@ -3076,7 +3080,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1614.1
+            "price": 1615.2
           }
         ]
       },
@@ -3114,16 +3118,16 @@
           "date": "08-24 07:59"
         },
         {
-          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
-          "source": "LiteFinance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
-          "date": "08-23 18:53"
-        },
-        {
           "title": "[주간환율전망] 원·달러 1360~1400원 전망…삼성·SK 환전 기대에 하방 우위 - 자본시장뉴스",
           "source": "자본시장뉴스",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1WdlZYU01oeG41Z2h1b3hEcXRoalVTMVhpRlc5b1VGUUM2ZmdVWGNFMmNRdTUtM1J0VHlUYWQya1Z0OXotRXZxYnl1eGlnLWgza01uMGlTUldYdFA2RVhSakp5azlRNm8?oc=5",
           "date": "08-24 07:30"
+        },
+        {
+          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
+          "source": "LiteFinance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
+          "date": "08-23 18:53"
         },
         {
           "title": "[주간환율전망] 1380원대로 떨어진 환율···수급·이벤트 모두 하방 지지 - 서울파이낸스",
