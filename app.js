@@ -17,19 +17,19 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-24 18:39:16",
+  "last_updated": "2026-08-24 19:30:58",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 18:39",
+    "report_date": "2026.08.24, 19:30",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,196.98 (▼9.00%)",
+    "top_loser": "아라비카 커피 : $7,162.81 (▼9.44%)",
     "weekly_price_list": [
-      "코코아 : $5,874.00 (▼2.81%)",
-      "아라비카 커피 : $7,196.98 (▼5.40%)",
+      "코코아 : $5,908.00 (▼2.25%)",
+      "아라비카 커피 : $7,162.81 (▼5.85%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -39,8 +39,8 @@ const FALLBACK_DATA = {
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,874.00 (▼2.81%)",
-      "아라비카 커피 : $7,196.98 (▼5.40%)",
+      "코코아 : $5,908.00 (▼2.25%)",
+      "아라비카 커피 : $7,162.81 (▼5.85%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,381.76원 (▼9.03원)",
-    "fx_eur": "1,609.70원 (▼16.67원)",
+    "fx_usd": "1,382.97원 (▼7.82원)",
+    "fx_eur": "1,612.50원 (▼13.87원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -60,12 +60,12 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.24",
-    "report_date": "2026.08.24, 18:39",
+    "report_date": "2026.08.24, 19:30",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,196.98 (▼9.00%)",
+    "top_loser": "아라비카 커피 : $7,162.81 (▼9.44%)",
     "weekly_price_list": [
-      "코코아 : $5,874.00 (▼2.81%)",
-      "아라비카 커피 : $7,196.98 (▼5.40%)",
+      "코코아 : $5,908.00 (▼2.25%)",
+      "아라비카 커피 : $7,162.81 (▼5.85%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -75,8 +75,8 @@ const FALLBACK_DATA = {
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,874.00 (▼2.81%)",
-      "아라비카 커피 : $7,196.98 (▼5.40%)",
+      "코코아 : $5,908.00 (▼2.25%)",
+      "아라비카 커피 : $7,162.81 (▼5.85%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,381.76원 (▼9.03원)",
-    "fx_eur": "1,609.70원 (▼16.67원)",
+    "fx_usd": "1,382.97원 (▼7.82원)",
+    "fx_eur": "1,612.50원 (▼13.87원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-24T18:39:16.564785+09:00",
-  "usdKrwRate": 1380.58,
-  "eurKrwRate": 1609.7,
+  "lastUpdated": "2026-08-24T19:30:58.283712+09:00",
+  "usdKrwRate": 1383.01,
+  "eurKrwRate": 1612.5,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -119,9 +119,9 @@ const FALLBACK_DATA = {
           "글로벌 가공업체 분쇄량(Grindings) 지표 및 완제품 소비 수요"
         ]
       },
-      "price": 5874.0,
-      "change": -116.0,
-      "changePercent": -1.94,
+      "price": 5908.0,
+      "change": -82.0,
+      "changePercent": -1.37,
       "high52w": 7935.0,
       "low52w": 2798.0,
       "high24h": 6007.0,
@@ -130,7 +130,7 @@ const FALLBACK_DATA = {
       "low7d": 5734.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 2260,
+      "volume": 3595,
       "sparkline": [
         5734.0,
         6044.0,
@@ -138,25 +138,25 @@ const FALLBACK_DATA = {
         6046.0,
         6088.0,
         5990.0,
-        5874.0
+        5908.0
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 5838.76
+            "price": 5872.55
           },
           {
             "time": "11:00",
-            "price": 5850.5
+            "price": 5884.37
           },
           {
             "time": "13:00",
-            "price": 5862.25
+            "price": 5896.18
           },
           {
-            "time": "18:39",
-            "price": 5874.0
+            "time": "19:30",
+            "price": 5908.0
           }
         ],
         "7D": [
@@ -186,7 +186,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 5874.0
+            "price": 5908.0
           }
         ],
         "1M": [
@@ -276,7 +276,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 5874.0
+            "price": 5908.0
           }
         ],
         "1Y": [
@@ -322,7 +322,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 5874.0
+            "price": 5908.0
           }
         ]
       },
@@ -346,10 +346,10 @@ const FALLBACK_DATA = {
           "date": "08-22 03:25"
         },
         {
-          "title": "Cocoa: How to read Cocoa market moves - equiti.com",
-          "source": "equiti.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHF2NEVnNlJEaHo0dkZFYjBWQm1lZGdtTVpQd0UtR244Q00yZ3FieWZxSnJDNG82eEN5SG1HUzJOVG9LcC1YcUJIV2Rzc1RIWHdFNF9iWXE5S2ktbTdIQXpROVpQWDgtWlVvbHI3MU9SMFZ6MHNlbDlvNl84VmhGTGQ2TVpUUUQ4QmMwUWtn?oc=5",
-          "date": "08-23 05:22"
+          "title": "Cocoa Futures Test Key Arc Levels: Is a Move Toward 6,420 Next? - CryptoRank",
+          "source": "CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0RBZzJiOF9kUzdNYTNxMVc3R245ZnA0S3pZTmI1Q2JmUklTX1QzYmdZTklzNjZ3aDNmUEdUR2xXbmluUmI5N1FrNnJlYmtMd1J0dHRmZnBodjhpQ3ZnSFRHV0FOUVFzbExfSU1MMFBDRHN6X05Pb210YTltZm1kVEU3OUtkWjQ?oc=5",
+          "date": "08-22 09:32"
         }
       ],
       "newsKr": [
@@ -403,18 +403,18 @@ const FALLBACK_DATA = {
           "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
         ]
       },
-      "price": 7196.98,
-      "change": -712.09,
-      "changePercent": -9.0,
+      "price": 7162.81,
+      "change": -746.26,
+      "changePercent": -9.44,
       "high52w": 9655.13,
       "low52w": 5350.61,
-      "high24h": 7203.6,
-      "low24h": 7098.88,
+      "high24h": 7210.21,
+      "low24h": 7087.85,
       "high7d": 8016.0,
-      "low7d": 7196.98,
+      "low7d": 7162.81,
       "high1m": 8016.0,
       "low1m": 6918.1,
-      "volume": 1090,
+      "volume": 1666,
       "sparkline": [
         7453.82,
         7608.14,
@@ -422,25 +422,25 @@ const FALLBACK_DATA = {
         7925.61,
         8016.0,
         7909.07,
-        7196.98
+        7162.81
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 7153.8
+            "price": 7119.83
           },
           {
             "time": "11:00",
-            "price": 7168.19
+            "price": 7134.16
           },
           {
             "time": "13:00",
-            "price": 7182.59
+            "price": 7148.48
           },
           {
-            "time": "18:39",
-            "price": 7196.98
+            "time": "19:30",
+            "price": 7162.81
           }
         ],
         "7D": [
@@ -470,7 +470,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 7196.98
+            "price": 7162.81
           }
         ],
         "1M": [
@@ -560,7 +560,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 7196.98
+            "price": 7162.81
           }
         ],
         "1Y": [
@@ -606,7 +606,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 7196.98
+            "price": 7162.81
           }
         ]
       },
@@ -624,16 +624,16 @@ const FALLBACK_DATA = {
           "date": "08-23 21:04"
         },
         {
+          "title": "Agricultural product prices today, August 24, 2026: Domestic coffee prices continue to rise, pressure from international markets remains strong; US reciprocal tariff refunds have exceeded revenue. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWGhTRGh1S040djRlbm9rZEpMai13YVYxekxNQWdyZDNTdm9DXzRqeS04WnpIc0p4MGZVMWhlZ0VnejhBZ3h4M2wtMkhpTWhGdVRTclFTZmpqVjlPM0FGcWZwVXNsOWF2Y1RKNDhkenlVdmJmdzRiWDdPX2RpYlp1WHBTdl9ZZHpGTXpkeDRQcTFiX3NlaVlXRW92WHA1YWs1S1huZ0xXalBWQ3FKeldWTnpwSlJwMHVLTkN3bFpOQVNmT2hyODBzYkxnVlVrdkY2MTM3SUJ6R0l0bFBNcHdEQlZlOHdSTERISTNydmlEeXdvNXdnLVRLMWthQ3Z4WHNZ?oc=5",
+          "date": "08-24 14:49"
+        },
+        {
           "title": "Coffee: How to read Coffee market moves - equiti.com",
           "source": "equiti.com",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOURkdnllLTZvTnBOWWQzbnVHSzNQYVdvRm51clFZR3lwbFpRS0VNclZkOGsyVG5nazRrMjVfN25KVk9GR3RlRG8zbHNRNnVic3EyQzdKZTdkdTZNTTlUWU9zcm0wRmVYM1JtZk1nUjVTUjQzWmpDZldJaWw4UHVMNmRNWE1yS0RPNjBwNDRKQkRBZw?oc=5",
           "date": "08-23 08:22"
-        },
-        {
-          "title": "Agricultural prices today, August 22, 2026: Robusta coffee prices plummet, attention shifts to Vietnam's harvest; New EU tariffs 'hit' the weak points of Chinese goods. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
-          "date": "08-22 14:14"
         }
       ],
       "newsKr": [
@@ -662,7 +662,7 @@ const FALLBACK_DATA = {
           "date": "08-23 20:21"
         }
       ],
-      "original_price_lb": 326.45
+      "original_price_lb": 324.9
     },
     {
       "id": "robusta",
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "18:39",
+            "time": "19:30",
             "price": 3728.0
           }
         ],
@@ -915,6 +915,12 @@ const FALLBACK_DATA = {
           "date": "08-22 00:47"
         },
         {
+          "title": "Agricultural product prices today, August 24, 2026: Domestic coffee prices continue to rise, pressure from international markets remains strong; US reciprocal tariff refunds have exceeded revenue. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWGhTRGh1S040djRlbm9rZEpMai13YVYxekxNQWdyZDNTdm9DXzRqeS04WnpIc0p4MGZVMWhlZ0VnejhBZ3h4M2wtMkhpTWhGdVRTclFTZmpqVjlPM0FGcWZwVXNsOWF2Y1RKNDhkenlVdmJmdzRiWDdPX2RpYlp1WHBTdl9ZZHpGTXpkeDRQcTFiX3NlaVlXRW92WHA1YWs1S1huZ0xXalBWQ3FKeldWTnpwSlJwMHVLTkN3bFpOQVNmT2hyODBzYkxnVlVrdkY2MTM3SUJ6R0l0bFBNcHdEQlZlOHdSTERISTNydmlEeXdvNXdnLVRLMWthQ3Z4WHNZ?oc=5",
+          "date": "08-24 14:49"
+        },
+        {
           "title": "El Niño threat to Vietnam coffee crop should not be underestimated, official says - BNN Bloomberg",
           "source": "BNN Bloomberg",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNVF1R0d6OEFGOXo3V1Q2NzExNm4taGZIb1VpamVxaU9rSmFqM3lKZDVXSmN1bWlObFVMN2tuVkxrTURVakZTUnR1Q2RTOTVITXFKUEVmV3p2LWd2ZWNJd255TWllZ0dhY3ZIc1E1QzZSZ0pLeE8wcjJYczlFdW1aRktRMFNISTdjd1B3VXpLUm1CSWJQNFZFbnZFQXBEQmY5bkhoNTByWDE5RGFBVmNDVlprMVFudFpaVzEyajR6OFBPUWNTb21VQ3M3V1d5V0Y1LWhrV25kdGl5dw?oc=5",
@@ -925,12 +931,6 @@ const FALLBACK_DATA = {
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
           "date": "08-22 14:14"
-        },
-        {
-          "title": "Brazil Harvest Pressures Weigh on Coffee Prices - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOM1B6R2FSRjgxbnlsVzBGUjJiNjFUTTNIdWt3NnJPdjNHeGQtaWEtY1RVLWV6Z01lZXNfQmF2c3Jfc2h3c1Y4djdqVWlxb0NmWVJqTlBOV1VwM3pVdU81UWVlZ1VrQ0FhSzQ3V2dlT0dZSnhSa2JGYlkzWUhQQUhTb1NIdnNGdUVXRER1akxQdEFqOGZ5YXc?oc=5",
-          "date": "08-22 03:23"
         }
       ],
       "newsKr": [
@@ -1171,10 +1171,10 @@ const FALLBACK_DATA = {
           "date": "08-19 12:21"
         },
         {
-          "title": "Global Dairy Trade: Dairy Price Index Rises 0.1% - en.edairynews.com",
+          "title": "Powders Drive GDT Index To Strongest Single-Event Lift Since March Amid Climate Concerns - en.edairynews.com",
           "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85SU4wd1NDZGRaZ0EzWlEtTXFFYnA3WUZVYkhEbUl4SmtCZ3hhazlYSlc5aTFqY3ZubjdSX0tlVGtpeUJjSjI2WS1UUV96c2Nya0xuX09RUzEtWEdBcEFZMnBuSVd1UmQxLWVLZXNYUzVhT1NETVhNZ0tzMERTZw?oc=5",
-          "date": "08-04 16:00"
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNEs2VXJqUmFjRnpITUw4TXpMRG1oVnVNTDJkblZmRk9FLVdLOFMwVVNEeWNBcndCb2txdHdvbE1mQURTckR0M0hKMnRDam5ZTFNJUzdmUkNkOWQ0OEZIWHRxOGxUSFZESFRiWE5mRFdMTUFWM2htc2tPcE9oTDB0ZkpLZTNUMGhOS1J0eDJMb1BlaWJUWWlxNHBKX2hqRW5YMzZ1d1E1Wm9XR0NKUjJEN2pLdkdCZw?oc=5",
+          "date": "08-20 06:14"
         },
         {
           "title": "GDT index rises following two consecutive drops - Irish Farmers Journal",
@@ -1933,10 +1933,10 @@ const FALLBACK_DATA = {
           "date": "08-22 04:12"
         },
         {
-          "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
+          "title": "CME cheese and butter prices | USDA Dairy Market News Weekly Review: August 17–21, 2026 - en.edairynews.com",
           "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
-          "date": "08-24 06:46"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS1RLUTBOdkpzeXRNZ1FVeXVncUUwOFBhTE95M1VwQVVITkpodzBnYnNNaGs0MTFMaExjQ1g2enBsNEFWb2h6enMwaUVNVTB3bVdqeUdIZURpQVQ5VXRNZ3pyUlJsUkFiaU9JX0dYYWRpMWFBa25VcEoyZ2ctQU1iVUtKQWdPLVlx?oc=5",
+          "date": "08-24 19:18"
         },
         {
           "title": "Weekly protein report: JBS targets remaining Pilgrim’s Pride shares in $1.2 billion deal - The Poultry Site",
@@ -1945,10 +1945,10 @@ const FALLBACK_DATA = {
           "date": "08-21 20:00"
         },
         {
-          "title": "$13 Billion Bet: Why Dairy Processors Are All-In on America’s Protein Future - Dairy Herd",
-          "source": "Dairy Herd",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOblpESWZmQzNGSWxlZTVRN1V3SG96aVhsa0w4RE9lRjhPYTdYZEtKcWJnMkw3Ty1KUDI4WkxDdEw2U1NWc2UtQlVKVmV4WWl4YU53ZngzNjlHZWxIUk92aE5wWTRrNkNhSVVzbVhtUjNQWW43TUREaVo3YnI3NHM0S092N05ON19HaEhOT1VNd1RJYkdlZTd5OUszQkJJdms?oc=5",
-          "date": "08-21 22:40"
+          "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
+          "date": "08-24 06:46"
         }
       ],
       "newsKr": [
@@ -2154,7 +2154,7 @@ const FALLBACK_DATA = {
             "price": 1182.13
           },
           {
-            "time": "18:39",
+            "time": "19:30",
             "price": 1184.5
           }
         ],
@@ -2528,7 +2528,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "18:39",
+            "time": "19:30",
             "price": 1930.0
           }
         ]
@@ -2598,17 +2598,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1381.76,
-      "change": -9.03,
-      "changePercent": -0.65,
+      "price": 1382.97,
+      "change": -7.82,
+      "changePercent": -0.56,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1387.12,
       "low24h": 1376.18,
       "high7d": 1416.85,
-      "low7d": 1381.76,
+      "low7d": 1382.97,
       "high1m": 1474.04,
-      "low1m": 1381.76,
+      "low1m": 1382.97,
       "volume": 0,
       "sparkline": [
         1416.85,
@@ -2617,7 +2617,7 @@ const FALLBACK_DATA = {
         1413.58,
         1389.4,
         1390.79,
-        1381.76
+        1382.97
       ],
       "history": {
         "7D": [
@@ -2647,7 +2647,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 1381.76
+            "price": 1382.97
           }
         ],
         "1M": [
@@ -2737,25 +2737,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 1381.76
+            "price": 1382.97
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1373.47
+            "price": 1374.67
           },
           {
             "time": "11:00",
-            "price": 1376.23
+            "price": 1377.44
           },
           {
             "time": "13:00",
-            "price": 1379.0
+            "price": 1380.2
           },
           {
-            "time": "18:39",
-            "price": 1381.76
+            "time": "19:30",
+            "price": 1382.97
           }
         ],
         "1Y": [
@@ -2809,7 +2809,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1381.76
+            "price": 1382.97
           }
         ]
       },
@@ -2890,9 +2890,9 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1609.7,
-      "change": -16.67,
-      "changePercent": -1.02,
+      "price": 1612.5,
+      "change": -13.87,
+      "changePercent": -0.85,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1618.6,
@@ -2909,7 +2909,7 @@ const FALLBACK_DATA = {
         1634.92,
         1620.23,
         1626.37,
-        1609.7
+        1612.5
       ],
       "history": {
         "7D": [
@@ -2939,7 +2939,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 1609.7
+            "price": 1612.5
           }
         ],
         "1M": [
@@ -3029,25 +3029,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-24",
-            "price": 1609.7
+            "price": 1612.5
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1600.04
+            "price": 1602.83
           },
           {
             "time": "11:00",
-            "price": 1603.26
+            "price": 1606.05
           },
           {
             "time": "13:00",
-            "price": 1606.48
+            "price": 1609.28
           },
           {
-            "time": "18:39",
-            "price": 1609.7
+            "time": "19:30",
+            "price": 1612.5
           }
         ],
         "1Y": [
@@ -3101,7 +3101,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1609.7
+            "price": 1612.5
           }
         ]
       },
