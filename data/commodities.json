@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-25 07:18:16",
+  "last_updated": "2026-08-25 08:16:49",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 07:18",
+    "report_date": "2026.08.25, 08:16",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -32,7 +32,7 @@
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,381.75원 (▼3.23원)",
+    "fx_usd": "1,382.04원 (▼2.94원)",
     "fx_eur": "1,611.30원 (▼5.67원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 07:18",
+    "report_date": "2026.08.25, 08:16",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -68,13 +68,13 @@
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,381.75원 (▼3.23원)",
+    "fx_usd": "1,382.04원 (▼2.94원)",
     "fx_eur": "1,611.30원 (▼5.67원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-25T07:18:16.290221+09:00",
-  "usdKrwRate": 1381.94,
+  "lastUpdated": "2026-08-25T08:16:49.573270+09:00",
+  "usdKrwRate": 1382.21,
   "eurKrwRate": 1611.3,
   "marketStatus": "OPEN",
   "items": [
@@ -138,7 +138,7 @@
             "price": 5917.14
           },
           {
-            "time": "07:18",
+            "time": "08:16",
             "price": 5929.0
           }
         ],
@@ -422,7 +422,7 @@
             "price": 7520.32
           },
           {
-            "time": "07:18",
+            "time": "08:16",
             "price": 7535.39
           }
         ],
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "07:18",
+            "time": "08:16",
             "price": 3728.0
           }
         ],
@@ -1410,6 +1410,12 @@
           "date": "08-25 01:31"
         },
         {
+          "title": "Switzerland’s Reconstituted Milk Market Is Set to Grow - Dairy News Today",
+          "source": "Dairy News Today",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGo2ZXY3TUtXRTFzekhCSTBPX3Q3Y0o4eWg2bW1jWGM5bzZwOXVxcGFaM2l0eWt6ZmlLdGdrRzVGTV9IQVBNUG1qaWhiNXN6TU9ubnNTV2M4V1pXWVhWZVkySzdDZVliUmJXaGZIdXVWUDhpYjJwaU0yNi1uTXYta2hNZG9feHoxcEU1M2tWVG1KVlpHVk9VQlZFV2I?oc=5",
+          "date": "08-24 17:13"
+        },
+        {
           "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
@@ -1420,12 +1426,6 @@
           "source": "Dairy News Today",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHR0OVp0N1ZJdlJMOFN0a1FHWmVUTmpRR3FISENEZE0zQTYzWE1qb0JtRzZuT0ZwbXM2a1dZNDU4T0QtNjZlM1JZNTlkcERBUUFqSUMwVDZYU2F5TmxaQ0hYdUZ0UHJRTUxuOU5ZU2ZuUlROMkZmcV9JNXlHcWp4SWxvNnR2S0wydGx0VzBSMjUyU1ptSXVDMy1SSUhxM1JUQ2JYYjk1ZV9lZmVUd01Sdlk5eHl4TTVrQW1DOXBmb3o?oc=5",
           "date": "08-24 10:36"
-        },
-        {
-          "title": "NZ First’s ‘Use It Or Lose It’ Dairy Policy Will Not Lower Supermarket Prices Or Fix Consumer Competition - en.edairynews.com",
-          "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDRTcDdCcnY3cUhNZ2NPRHJ1LWhLMmFHVDhEcDFrUk1GWkotVzZBY2E2SW5qejFCQjVOd2pTVlhQZVZYRWpyVlBwX1VyUVVUaGxzeVFXNUVrQmVYMTZoOUd2d1JOUWF5My1wNUdDOFdSRkpnc1ZSay1YTEpLRFpNTVhPUEdMSUdweFc0TXFjZEh1QmhidW5zRnd6djAxc1p5bTk5S0VIOVFYN01kd0U1SmlsejBEWnh4RXdndHVqc0FwZ0p4X0FMMw?oc=5",
-          "date": "08-24 06:56"
         }
       ],
       "newsKr": [
@@ -2137,7 +2137,7 @@
             "price": 1182.13
           },
           {
-            "time": "07:18",
+            "time": "08:16",
             "price": 1184.5
           }
         ],
@@ -2511,7 +2511,7 @@
             "price": 1926.14
           },
           {
-            "time": "07:18",
+            "time": "08:16",
             "price": 1930.0
           }
         ]
@@ -2593,17 +2593,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1381.75,
-      "change": -3.23,
-      "changePercent": -0.23,
+      "price": 1382.04,
+      "change": -2.94,
+      "changePercent": -0.21,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1382.76,
-      "low24h": 1381.49,
+      "high24h": 1382.82,
+      "low24h": 1381.05,
       "high7d": 1415.37,
-      "low7d": 1381.75,
-      "high1m": 1474.04,
-      "low1m": 1381.75,
+      "low7d": 1382.04,
+      "high1m": 1464.44,
+      "low1m": 1382.04,
       "volume": 0,
       "sparkline": [
         1415.37,
@@ -2612,7 +2612,7 @@
         1389.4,
         1390.79,
         1384.98,
-        1381.75
+        1382.04
       ],
       "history": {
         "7D": [
@@ -2642,14 +2642,10 @@
           },
           {
             "date": "08-24",
-            "price": 1381.75
+            "price": 1382.04
           }
         ],
         "1M": [
-          {
-            "date": "07-23",
-            "price": 1474.04
-          },
           {
             "date": "07-26",
             "price": 1458.01
@@ -2736,25 +2732,25 @@
           },
           {
             "date": "08-24",
-            "price": 1381.75
+            "price": 1382.04
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1373.46
+            "price": 1373.75
           },
           {
             "time": "11:00",
-            "price": 1376.22
+            "price": 1376.51
           },
           {
             "time": "13:00",
-            "price": 1378.99
+            "price": 1379.28
           },
           {
-            "time": "07:18",
-            "price": 1381.75
+            "time": "08:16",
+            "price": 1382.04
           }
         ],
         "1Y": [
@@ -2808,7 +2804,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1381.75
+            "price": 1382.04
           }
         ]
       },
@@ -2852,16 +2848,16 @@
           "date": "08-24 07:59"
         },
         {
+          "title": "강달러 추종 vs 월말 매도 물량 소화⋯\"전일 대비 소폭 상승\" [환율전망] - 이투데이",
+          "source": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6bkRWZW1mMHdCdFNHTEVZU0lSSTQyWjFBRWtTNUhieFhTc01kVXBidi1JTHowVFB3MWJjMEk2UURtd0lsX0t6aDd2eTVEZ0FDdWhDZg?oc=5",
+          "date": "08-25 07:54"
+        },
+        {
           "title": "지금 환전할까? 환율 전망 분석 - 네이버 프리미엄콘텐츠",
           "source": "네이버 프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdnFsZ2FaNUhpd0pYdzBXOFY2dHlJWG52ekE3SzlOOEJJeC12VElpOGdCS3ZvTjNZTEpKR283M3RPNlB4SnFpZHA0QndKWXVCb2pnUjhEXzNqVnRKYTZOV05CbU1zMW5wd0kwUEwtUTVJTUVPSzlfdEQ0bjlmZ2NrOG5Ycy0zVXFocktR?oc=5",
           "date": "08-23 21:18"
-        },
-        {
-          "title": "\"전문가 예상보다 빠른 하락\"…원·달러 환율 1370원대로 - 더팩트",
-          "source": "더팩트",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fOERNZnJ1M0x3UWgxLTJwZmxtTFFUejZpUkVzTWh4bTFGc09OdWc3NjlDLUs2SnFpS1I4TFh3YWFLejlWUzV5U2Jvd1VqNGRrb0lMRdIBVEFVX3lxTE1fOERNZnJ1M0x3UWgxLTJwZmxtTFFUejZpUkVzTWh4bTFGc09OdWc3NjlDLUs2SnFpS1I4TFh3YWFLejlWUzV5U2Jvd1VqNGRrb0lMRQ?oc=5",
-          "date": "08-24 11:47"
         }
       ]
     },
@@ -2894,11 +2890,11 @@
       "changePercent": -0.35,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1611.5,
+      "high24h": 1611.7,
       "low24h": 1610.9,
       "high7d": 1638.16,
       "low7d": 1582.09,
-      "high1m": 1676.49,
+      "high1m": 1665.16,
       "low1m": 1582.09,
       "volume": 0,
       "sparkline": [
@@ -2942,10 +2938,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "07-23",
-            "price": 1676.49
-          },
           {
             "date": "07-26",
             "price": 1657.74
@@ -3049,7 +3041,7 @@
             "price": 1608.08
           },
           {
-            "time": "07:18",
+            "time": "08:16",
             "price": 1611.3
           }
         ],
