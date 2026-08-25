@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-25 16:38:31",
+  "last_updated": "2026-08-25 17:33:38",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 16:38",
+    "report_date": "2026.08.25, 17:33",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -49,7 +49,7 @@ const FALLBACK_DATA = {
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.80원 (▲0.82원)",
+    "fx_usd": "1,384.78원 (▼0.20원)",
     "fx_eur": "1,614.80원 (▼2.17원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 16:38",
+    "report_date": "2026.08.25, 17:33",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -85,13 +85,13 @@ const FALLBACK_DATA = {
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.80원 (▲0.82원)",
+    "fx_usd": "1,384.78원 (▼0.20원)",
     "fx_eur": "1,614.80원 (▼2.17원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-25T16:38:31.646688+09:00",
-  "usdKrwRate": 1385.8,
+  "lastUpdated": "2026-08-25T17:33:38.866333+09:00",
+  "usdKrwRate": 1385.18,
   "eurKrwRate": 1614.8,
   "marketStatus": "OPEN",
   "items": [
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5917.14
           },
           {
-            "time": "16:38",
+            "time": "17:33",
             "price": 5929.0
           }
         ],
@@ -330,10 +330,10 @@ const FALLBACK_DATA = {
           "date": "08-25 01:06"
         },
         {
-          "title": "Signs of Abundant Cocoa Supplies Undercut Prices - Barchart.com",
+          "title": "Cocoa Prices Fall as Supply Concerns Ease - Barchart.com",
           "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUdxWTBKSVF6N2M1Nl93MGNQNDY3OTZsem1iZ3RvS201ZEZkVTdndDZKMHdIaFRtMU5pVFdnbnluRkllWDlNVFZJZXZXdW96MlRsQkI3bmcwWHhaaGtiMXdOaE5QcGExdzZDTDQydG96c2Q4VlVQNnl4SlFMNGdvWDltNE5ydzNMRHJ6SlZmYlBjeEFQcDJr?oc=5",
-          "date": "08-25 01:06"
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLTlJX3B0S0cxUy1ucWJZOWRzMVBjbDk5X0V0MFRybERhS3l2djhmblU4Mllsaml3S01TdUhwem5oT3VQNjd6S09FTkJwLVdqNk9Wdmo3LWctTEtIenc5TXZrY3g2VU9rMXo3SkEyUTB0UWl5VG5GaTl5QVVIb0cwYkoxVXpxaG5CazdDdDlR?oc=5",
+          "date": "08-25 03:31"
         },
         {
           "title": "I Tried And Ranked Chocolate Chip Cookies From 10 Grocery Store Bakeries - Tasting Table",
@@ -435,7 +435,7 @@ const FALLBACK_DATA = {
             "price": 7520.32
           },
           {
-            "time": "16:38",
+            "time": "17:33",
             "price": 7535.39
           }
         ],
@@ -840,7 +840,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "16:38",
+            "time": "17:33",
             "price": 3728.0
           }
         ],
@@ -1431,10 +1431,10 @@ const FALLBACK_DATA = {
           "date": "08-25 06:19"
         },
         {
-          "title": "Switzerland’s Reconstituted Milk Market Is Set to Grow - Dairy News Today",
-          "source": "Dairy News Today",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGo2ZXY3TUtXRTFzekhCSTBPX3Q3Y0o4eWg2bW1jWGM5bzZwOXVxcGFaM2l0eWt6ZmlLdGdrRzVGTV9IQVBNUG1qaWhiNXN6TU9ubnNTV2M4V1pXWVhWZVkySzdDZVliUmJXaGZIdXVWUDhpYjJwaU0yNi1uTXYta2hNZG9feHoxcEU1M2tWVG1KVlpHVk9VQlZFV2I?oc=5",
-          "date": "08-24 17:13"
+          "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
+          "date": "08-24 06:46"
         }
       ],
       "newsKr": [
@@ -2146,7 +2146,7 @@ const FALLBACK_DATA = {
             "price": 1178.64
           },
           {
-            "time": "16:38",
+            "time": "17:33",
             "price": 1181.0
           }
         ],
@@ -2215,16 +2215,16 @@ const FALLBACK_DATA = {
           "date": "08-24 09:00"
         },
         {
-          "title": "CPO Futures End Lower On Profit-taking, Weaker Crude Oil - BernamaBiz",
-          "source": "BernamaBiz",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMktqWmc1S0dRWHgxQmtMTnhRNFhCcTB0X04wYWtGMVdLcEltRkZBMGpWcC1McmkxVDF5UzlzY285b045dW5JZmlxRGR1UVRKRjZ0dFhpYXVkUQ?oc=5",
-          "date": "08-24 23:27"
-        },
-        {
           "title": "Malaysian Palm Oil Prices Snap A Five-Session Winning Streak - Finimize",
           "source": "Finimize",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV29Gd0h5X1R2UWFncTVrTmxUaU1Jbk02bE5CNjhOekpIZFExejhuck9xbXAyeVRLVTZydmtoRkplUWJ3SVQtekoya29YWmpPdVN4Z2F4VGVHU2lHTi1ZNE5oRl90VUQxY1RWWXRnVTdPaHRDYTNVMzJtRnFBc1BsQnozNUdFVkJqTGh6OXFFMGZGNTg?oc=5",
           "date": "08-24 12:07"
+        },
+        {
+          "title": "CPO Futures End Lower On Profit-taking, Weaker Crude Oil - BernamaBiz",
+          "source": "BernamaBiz",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMktqWmc1S0dRWHgxQmtMTnhRNFhCcTB0X04wYWtGMVdLcEltRkZBMGpWcC1McmkxVDF5UzlzY285b045dW5JZmlxRGR1UVRKRjZ0dFhpYXVkUQ?oc=5",
+          "date": "08-24 23:27"
         }
       ],
       "newsKr": [
@@ -2520,7 +2520,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "16:38",
+            "time": "17:33",
             "price": 1930.0
           }
         ]
@@ -2602,17 +2602,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1385.8,
-      "change": 0.82,
-      "changePercent": 0.06,
+      "price": 1384.78,
+      "change": -0.2,
+      "changePercent": -0.01,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1386.78,
       "low24h": 1378.38,
       "high7d": 1415.37,
-      "low7d": 1384.98,
+      "low7d": 1384.78,
       "high1m": 1464.44,
-      "low1m": 1384.98,
+      "low1m": 1384.78,
       "volume": 0,
       "sparkline": [
         1415.37,
@@ -2621,7 +2621,7 @@ const FALLBACK_DATA = {
         1389.4,
         1390.79,
         1384.98,
-        1385.8
+        1384.78
       ],
       "history": {
         "7D": [
@@ -2651,7 +2651,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1385.8
+            "price": 1384.78
           }
         ],
         "1M": [
@@ -2741,25 +2741,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1385.8
+            "price": 1384.78
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1377.49
+            "price": 1376.47
           },
           {
             "time": "11:00",
-            "price": 1380.26
+            "price": 1379.24
           },
           {
             "time": "13:00",
-            "price": 1383.03
+            "price": 1382.01
           },
           {
-            "time": "16:38",
-            "price": 1385.8
+            "time": "17:33",
+            "price": 1384.78
           }
         ],
         "1Y": [
@@ -2813,11 +2813,17 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1385.8
+            "price": 1384.78
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "USD/KRW Rebounds to 1,386.1 Won After Dipping to 1,370s on Month-End Negotiation Selling - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RUWZ1V09vQ2VTeE0wMEh5d3N6U2dyUWFucS1MWVNtbzRudU5KLU1PTkJEMjRCOUhrSVFBU3BXZzFLTmlXZ0FaVU9wS0JFQTd5TnNNMVNTNmtQeWhEQ2p3NnZETHFsWjJla21uN01uMW02N0tGWVE?oc=5",
+          "date": "08-25 17:26"
+        },
         {
           "title": "South Korean Won: Consolidation zone eyed against US Dollar – Commerzbank - FXStreet",
           "source": "FXStreet",
@@ -2835,12 +2841,6 @@ const FALLBACK_DATA = {
           "source": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWo4c29xckMtNUtxRVZnVDZLVDJPblk2RkpkMTdzVUVrcnJrS3JaSk9XTkJnZEgxbHJsVVZXaXliNnI4ZGU1dko5ZVN4TTQzdHpjMFJYX3Q2TWVuaUt1Sjk3X3hZT3J2RlB6cnpmUVpHM3RBaFRvMVRtMlFBLUhoZ0dvLTZXLW9nM0NQeFpn?oc=5",
           "date": "08-24 00:51"
-        },
-        {
-          "title": "USD/KRW Set For Consolidation, Commerzbank Analysts Say - Bitcoin World",
-          "source": "Bitcoin World",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9IUVBXdGtSaUpkQmp3b3gyTDB2RGtTVXNGekhIYm9peWJ2MmRLM3UzVWlTV3d1dnNDellGcTBEa3VrOTE4WlFHWUhNNDU2Y0FESThmN19aZmhBWTdaRXFFZ29WVTViV1g5VmMzSjBn?oc=5",
-          "date": "08-25 11:20"
         }
       ],
       "newsKr": [
@@ -3050,7 +3050,7 @@ const FALLBACK_DATA = {
             "price": 1611.57
           },
           {
-            "time": "16:38",
+            "time": "17:33",
             "price": 1614.8
           }
         ],
@@ -3121,12 +3121,6 @@ const FALLBACK_DATA = {
           "source": "Report.az",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yS3dfU29DRzcwUzE1bk5DMW12US1rUGZTTnJ0dzhxZGdZdHBpbmxwenJIQ045bXU5alR3ZDE0VFFyZFJsTjNSTUlKZW1vMmFkMlFjajVGSlotYjMzTG5oZE00VmJZTHM2dF9fNGdYeHc5T1hqM09OMk5tVdIBe0FVX3lxTE1yS3dfU29DRzcwUzE1bk5DMW12US1rUGZTTnJ0dzhxZGdZdHBpbmxwenJIQ045bXU5alR3ZDE0VFFyZFJsTjNSTUlKZW1vMmFkMlFjajVGSlotYjMzTG5oZE00VmJZTHM2dF9fNGdYeHc5T1hqM09OMk5tVQ?oc=5",
           "date": "08-25 14:29"
-        },
-        {
-          "title": "Dollar Remains Stable, Rouble Gains, Euro Slips — Central Bank Exchange Rates - Fineko/abc.az",
-          "source": "Fineko/abc.az",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelJQRm9yZTJHVHM5bnhoWmRkQUFqbzc5Nk9vVXQtMTRER3Zoa1I3VFhmZ1VlMzg0WXo5UEh6U3BiQldqbzIwOG5UM05nSDJySmxWdkQ2Q3E0ekdQZmV2VkhNMDdzcl8wR01VU0NRUHlCa2YtazYwZGtGT2NTbGRMZ0xfM1I2b1R2MWxoRTVyX3pDMGlIcTk3NFdld2tpb00ySzlVUkF3?oc=5",
-          "date": "08-24 14:34"
         },
         {
           "title": "Nepal Rastra Bank Sets Foreign Exchange Rates - Ratopati",
