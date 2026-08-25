@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-25 15:33:40",
+  "last_updated": "2026-08-25 16:38:31",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 15:33",
+    "report_date": "2026.08.25, 16:38",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.78원 (▲0.80원)",
-    "fx_eur": "1,614.90원 (▼2.07원)",
+    "fx_usd": "1,385.80원 (▲0.82원)",
+    "fx_eur": "1,614.80원 (▼2.17원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 15:33",
+    "report_date": "2026.08.25, 16:38",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.78원 (▲0.80원)",
-    "fx_eur": "1,614.90원 (▼2.07원)",
+    "fx_usd": "1,385.80원 (▲0.82원)",
+    "fx_eur": "1,614.80원 (▼2.17원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-25T15:33:40.389482+09:00",
+  "lastUpdated": "2026-08-25T16:38:31.646688+09:00",
   "usdKrwRate": 1385.8,
-  "eurKrwRate": 1614.9,
+  "eurKrwRate": 1614.8,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5917.14
           },
           {
-            "time": "15:33",
+            "time": "16:38",
             "price": 5929.0
           }
         ],
@@ -307,6 +307,12 @@
       },
       "newsEn": [
         {
+          "title": "Signs of Abundant Cocoa Supplies Undercut Prices - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY3N3LVg4YWY4ZzNFcUlaVWFCQjcyU21WWnVNMk5PbXVGeWc2SmlKYUZvaDQ1OFlIMWlkSUFJRnRVZjM4Mk1PanRBRHFsZlZmZDEtWkVfUmM0YV9SR3pTTUt5RUZVSDUxakJ5REl6QTlXUUNsc2JMOTdPUHdaYnFIY2NvQUhCbW5pclFEYmx5elZnYm04UnV4Nlh1ZzZ5b3ROTXc1LVBDaEtKWUNF?oc=5",
+          "date": "08-25 01:06"
+        },
+        {
           "title": "Signs of Abundant Cocoa Supplies Undercut Prices - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUdxWTBKSVF6N2M1Nl93MGNQNDY3OTZsem1iZ3RvS201ZEZkVTdndDZKMHdIaFRtMU5pVFdnbnluRkllWDlNVFZJZXZXdW96MlRsQkI3bmcwWHhaaGtiMXdOaE5QcGExdzZDTDQydG96c2Q4VlVQNnl4SlFMNGdvWDltNE5ydzNMRHJ6SlZmYlBjeEFQcDJr?oc=5",
@@ -323,12 +329,6 @@
           "source": "Confectionery News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamlONFFZaHhjVVNSNmg5WUtMbGwtLXJpdE1jRHJMNHdHTS1GdVZJZ3h1QzN5M014c3ZnZDJlY1BmMnRnSEVKWkdQbWhtSkg2d1Azc1pkUkM5QkYxMDZwdnVVZVhGRERGNnBlUWxGV2JMTVpYZHl1RWJmNV9QUmJEdU4xSWJuRXB1WVlHUnFSd2kzTWNVNWdYYy0wNWlkVlNManJoRHVuZUFFbHBIbDNXVkd4enFOZndi?oc=5",
           "date": "08-24 23:26"
-        },
-        {
-          "title": "Are Hershey’s (HSY) Halloween Experiments Reframing Its Brand Power Beyond the Candy Aisle? - simplywall.st",
-          "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFNJU3VBRlJJTkFvU3RWNTFlWVFBM2FEWHdKRm9vZ1NUZ0R0U3gtWUNrUmsyUlpzcWpzVW1uRElnVEJJY0ZhYjJ1WS1aUHE4OGc4Ri1Jcm8yNVAwMWhDMnJrci1JQzJVeGtjeG11R2RwOElYUU1ZY2k4OWxHY1IzS2RNOERIZk1KVmU0S0ZUS2tILWR5SkJ3cnhpaTV4Q0FwZEI4U29lTGZFb2RXYjBiVFFlbU41OEg4Y3lYVzRZZEhFc3N1VzJ1OEpIM0tDYVJOWTlpOHBmTdIB1wFBVV95cUxOeFNJU3VBRlJJTkFvU3RWNTFlWVFBM2FEWHdKRm9vZ1NUZ0R0U3gtWUNrUmsyUlpzcWpzVW1uRElnVEJJY0ZhYjJ1WS1aUHE4OGc4Ri1Jcm8yNVAwMWhDMnJrci1JQzJVeGtjeG11R2RwOElYUU1ZY2k4OWxHY1IzS2RNOERIZk1KVmU0S0ZUS2tILWR5SkJ3cnhpaTV4Q0FwZEI4U29lTGZFb2RXYjBiVFFlbU41OEg4Y3lYVzRZZEhFc3N1VzJ1OEpIM0tDYVJOWTlpOHBmTQ?oc=5",
-          "date": "08-25 06:35"
         }
       ],
       "newsKr": [
@@ -418,7 +418,7 @@
             "price": 7520.32
           },
           {
-            "time": "15:33",
+            "time": "16:38",
             "price": 7535.39
           }
         ],
@@ -605,10 +605,10 @@
           "date": "08-24 06:37"
         },
         {
-          "title": "Colombia Coffee Grounds for Packaging - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaDgxeDdYQ1B6b2Fkek1LN2NOR0NCb0ozcWVhU3BmdjlodWpwd2FfRWtNT2xGeHZ3d3dIN2VYWllBaDg0Nk82Q0FNOTdYaExmaVIxYnBreTN5ZEZEcWhhNjlVRFBJaDBCbXFnbkhLU1N1M0RaUG5VM29OT3ppMUNCU2o5V2xFV2NkUXRxSmpRRU1GeTBOWjFkMEJUYTczcnNTcFBjLXBOOUJ6VFVHMUF3djEyUlhnYWZFWWc?oc=5",
-          "date": "08-25 00:36"
+          "title": "Coffee prices today, August 25th: Increase by 1,000 VND/kg - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXV3R2hvNV9jRGZ1OUJWU0hyTlJFUHh6TFF5SEpQSHpCSi1UaVluajAtV1lCeDY2VWJiSWIwbXF0N2FpWDBPb3hkZFVSdGVoeWE3UGUtNko0OFk4a09kZWI3WXZ1elZ6VkZYNmFZVHdOVEtmV2hWbEpTMjBobTVnRkRLNU5hOExVNnl6ejJpVQ?oc=5",
+          "date": "08-25 15:22"
         }
       ],
       "newsKr": [
@@ -823,7 +823,7 @@
             "price": 3720.54
           },
           {
-            "time": "15:33",
+            "time": "16:38",
             "price": 3728.0
           }
         ],
@@ -2129,7 +2129,7 @@
             "price": 1178.64
           },
           {
-            "time": "15:33",
+            "time": "16:38",
             "price": 1181.0
           }
         ],
@@ -2503,7 +2503,7 @@
             "price": 1926.14
           },
           {
-            "time": "15:33",
+            "time": "16:38",
             "price": 1930.0
           }
         ]
@@ -2585,12 +2585,12 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1385.78,
-      "change": 0.8,
+      "price": 1385.8,
+      "change": 0.82,
       "changePercent": 0.06,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1385.98,
+      "high24h": 1386.78,
       "low24h": 1378.38,
       "high7d": 1415.37,
       "low7d": 1384.98,
@@ -2604,7 +2604,7 @@
         1389.4,
         1390.79,
         1384.98,
-        1385.78
+        1385.8
       ],
       "history": {
         "7D": [
@@ -2634,7 +2634,7 @@
           },
           {
             "date": "08-25",
-            "price": 1385.78
+            "price": 1385.8
           }
         ],
         "1M": [
@@ -2724,25 +2724,25 @@
           },
           {
             "date": "08-25",
-            "price": 1385.78
+            "price": 1385.8
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1377.47
+            "price": 1377.49
           },
           {
             "time": "11:00",
-            "price": 1380.24
+            "price": 1380.26
           },
           {
             "time": "13:00",
-            "price": 1383.01
+            "price": 1383.03
           },
           {
-            "time": "15:33",
-            "price": 1385.78
+            "time": "16:38",
+            "price": 1385.8
           }
         ],
         "1Y": [
@@ -2796,7 +2796,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1385.78
+            "price": 1385.8
           }
         ]
       },
@@ -2877,12 +2877,12 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1614.9,
-      "change": -2.07,
+      "price": 1614.8,
+      "change": -2.17,
       "changePercent": -0.13,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1614.9,
+      "high24h": 1615.7,
       "low24h": 1609.3,
       "high7d": 1638.16,
       "low7d": 1582.09,
@@ -2896,7 +2896,7 @@
         1620.23,
         1626.37,
         1616.97,
-        1614.9
+        1614.8
       ],
       "history": {
         "7D": [
@@ -2926,7 +2926,7 @@
           },
           {
             "date": "08-25",
-            "price": 1614.9
+            "price": 1614.8
           }
         ],
         "1M": [
@@ -3016,25 +3016,25 @@
           },
           {
             "date": "08-25",
-            "price": 1614.9
+            "price": 1614.8
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1605.21
+            "price": 1605.11
           },
           {
             "time": "11:00",
-            "price": 1608.44
+            "price": 1608.34
           },
           {
             "time": "13:00",
-            "price": 1611.67
+            "price": 1611.57
           },
           {
-            "time": "15:33",
-            "price": 1614.9
+            "time": "16:38",
+            "price": 1614.8
           }
         ],
         "1Y": [
@@ -3088,7 +3088,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1614.9
+            "price": 1614.8
           }
         ]
       },
@@ -3102,7 +3102,7 @@
         {
           "title": "CBA currency exchange rates (25.08.2026) - Report.az",
           "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FczZ3ZF9OYjJiU3VEdjR2emR0a0N0TXM1bHdPdU5YZGVCRVl1NF9DSFhyV0lVWVU3dGVscHl6RnVRZm1TTjNCMVVKTzNCaC1TUnNUaTFRR2Y0RkNrTS1wdGFCbm15SEotRmQ3SzBmM3IxMDdDaXfSAXtBVV95cUxNckt3X1NvQ0c3MFMxNW5OQzFtdlEta1BmU05ydHc4cWRnWXRwaW5scHpySENOOW11OWpUd2QxNFRRcmRSbE4zUk1JSmVtbzJhZDJRY2o1RkpaLWIzM0xuaGRNNFZiWUxzNnRfXzRnWHh3OU9YajNPTjJObVU?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yS3dfU29DRzcwUzE1bk5DMW12US1rUGZTTnJ0dzhxZGdZdHBpbmxwenJIQ045bXU5alR3ZDE0VFFyZFJsTjNSTUlKZW1vMmFkMlFjajVGSlotYjMzTG5oZE00VmJZTHM2dF9fNGdYeHc5T1hqM09OMk5tVdIBe0FVX3lxTE1yS3dfU29DRzcwUzE1bk5DMW12US1rUGZTTnJ0dzhxZGdZdHBpbmxwenJIQ045bXU5alR3ZDE0VFFyZFJsTjNSTUlKZW1vMmFkMlFjajVGSlotYjMzTG5oZE00VmJZTHM2dF9fNGdYeHc5T1hqM09OMk5tVQ?oc=5",
           "date": "08-25 14:29"
         },
         {
@@ -3112,10 +3112,10 @@
           "date": "08-24 14:34"
         },
         {
-          "title": "CBA currency exchange rates (24.08.2026) - Report.az",
-          "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TdIBe0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TQ?oc=5",
-          "date": "08-24 14:19"
+          "title": "Nepal Rastra Bank Sets Foreign Exchange Rates - Ratopati",
+          "source": "Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3hmbThlS0VKXzRtckluZ2N0YVlDVUVlVHpHMmFBdjU0dC1ZYlM1X3NFSW1XU1lMaEtLa1VsZ3FKVFJnOExSMFpsNzBQZWVzTFFVM3VIdjM1TmpYTFJENDM4c1NlWUVJZ1RLMUhMYTBXdWV2ajlMN3VlSFp5bC10Q3UyZTk?oc=5",
+          "date": "08-24 09:31"
         }
       ],
       "newsKr": [
