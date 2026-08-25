@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-26 05:20:14",
+  "last_updated": "2026-08-26 06:20:35",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 05:20",
+    "report_date": "2026.08.26, 06:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,382.17 (▼11.36%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,381.79원 (▲1.03원)",
-    "fx_eur": "1,613.30원 (▲2.53원)",
+    "fx_usd": "1,380.00원 (▼0.76원)",
+    "fx_eur": "1,610.90원 (▲0.13원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 05:20",
+    "report_date": "2026.08.26, 06:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,382.17 (▼11.36%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,381.79원 (▲1.03원)",
-    "fx_eur": "1,613.30원 (▲2.53원)",
+    "fx_usd": "1,380.00원 (▼0.76원)",
+    "fx_eur": "1,610.90원 (▲0.13원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-26T05:20:14.015525+09:00",
-  "usdKrwRate": 1381.83,
-  "eurKrwRate": 1613.3,
+  "lastUpdated": "2026-08-26T06:20:35.658419+09:00",
+  "usdKrwRate": 1380.0,
+  "eurKrwRate": 1610.9,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5832.31
           },
           {
-            "time": "05:20",
+            "time": "06:20",
             "price": 5844.0
           }
         ],
@@ -346,10 +346,10 @@ const FALLBACK_DATA = {
           "date": "08-25 10:20"
         },
         {
-          "title": "Hotel Chocolat slips to loss after soaring cocoa and employment costs - The Grocer",
-          "source": "The Grocer",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHR3Mk9qY0FMQ3AzVDd4VWdZcFB0eDRoeFJsbVlmNE1RdzZPMmNCY3NuSXVoc1laTGYwU0E2eWJuR2U2NUFKN09IRWdsb0ItbnRQemhrLWFvb05jVEhJTnZzTGNGcmpBc2dlTTAxcEg4S3lQRzkzTTJGQkkwaUk3QU53ZS10Z3c2Q0RfWE5sRk5mOVlNNG96SGJKVlM0ODZESHUtcTBqRTdsMGkzN0RVcXJpNEI2alZt?oc=5",
-          "date": "08-25 22:49"
+          "title": "Lindt takes ultra-dark to the limit with 100% cocoa launch - Confectionery News",
+          "source": "Confectionery News",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamlONFFZaHhjVVNSNmg5WUtMbGwtLXJpdE1jRHJMNHdHTS1GdVZJZ3h1QzN5M014c3ZnZDJlY1BmMnRnSEVKWkdQbWhtSkg2d1Azc1pkUkM5QkYxMDZwdnVVZVhGRERGNnBlUWxGV2JMTVpYZHl1RWJmNV9QUmJEdU4xSWJuRXB1WVlHUnFSd2kzTWNVNWdYYy0wNWlkVlNManJoRHVuZUFFbHBIbDNXVkd4enFOZndi?oc=5",
+          "date": "08-24 23:26"
         }
       ],
       "newsKr": [
@@ -360,16 +360,16 @@ const FALLBACK_DATA = {
           "date": "08-25 21:47"
         },
         {
-          "title": "프리미엄 초콜릿 시장 규모, 점유율, 성장률, 전망, 2034년 - Straits Research",
-          "source": "Straits Research",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE52dnFaRTI2cS04SWt3c2YwNElFbFRFcnZkRm1aamxQTzN4T1JueXRTbk80Qy1rYXZfdjd1aS04SDNTWW5BdWNLQkRFQlAtSkZJLTZ6STdkY2JLT09URlBZQ3dQZzVoWVFPRldRNk1Tdw?oc=5",
-          "date": "08-25 16:46"
-        },
-        {
           "title": "CVS Health와 PepsiCo가 돋보이는 고금리 방어 배당주 3선 - simplywall.st",
           "source": "simplywall.st",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVThURzFUT21aaXd4QUxGS3RHczFmOFU0Ykd1V3lyUW5Xc1pVRWdfYjFLMG9pNENWcXN0d2U5Yml6ZHJqSDJmUXFnbWNUdUZrSWxqeUtnM2FDQ3YzQm50cjhoVmRXZ3ZzbUxqZ1JaT1I5ZndRTTJRdnhOelh3Y1BubTQ2WkYyNjI4STZES2xPRV_SAZYBQVVfeXFMTlV4ZnpNSWMtaW5sOWNWNG9hcC11UVoyZzdMUHVEYjgwckJtaEJsUFNqNWswYVR2UElZOFd2bC0waFdzQ0otUk5fZlQzM1V0dHNrd3NXdGY4cGp5d1Z3RVZGZE5pZHFXa1NqQ0pDZGgwZExpelkxRGxiejNhT3htUVJlci1VUlJFNno4RmZzajRaaU9IcE5R?oc=5",
           "date": "08-23 18:16"
+        },
+        {
+          "title": "극한 폭염의 오싹한 경고 - 충북일보",
+          "source": "충북일보",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Yml5ZHlGS1pWWW5DdDlrRFJ4MThpaVRQN25xcERYaW5aeUZvTHU5M1REQWluUjBJMGlrTF9qaHJFamlMOGJodldaLTNIQ3JvUWd5QjlnR3luem12Uldzakp3?oc=5",
+          "date": "08-24 14:50"
         },
         {
           "title": "5060 사로잡은 '포도계 에르메스' - 네이트",
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 7367.41
           },
           {
-            "time": "05:20",
+            "time": "06:20",
             "price": 7382.17
           }
         ],
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "05:20",
+            "time": "06:20",
             "price": 3728.0
           }
         ],
@@ -953,10 +953,10 @@ const FALLBACK_DATA = {
           "date": "08-25 12:10"
         },
         {
-          "title": "2026년 8월 25일 오늘 커피 가격: 최고가 96,800 VND/kg - Vietnam.vn",
+          "title": "국내 커피 가격은 세계 시장 추세와는 반대로 상승하고 있다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1FCTWtDaHhwRER4UFUxZWIxNWdQbmVQRmM1bEJCQmpzbHlYZ0Y5a05ubWVEQlBZeEZYU2EwdHNvR0l4LWJzWXZqWnVZbEtBNTVKdkQwNkxmRVFJSkRENWRBcnR3US1nUkx6Wk5YVWtPTnZJd3p2VmRva01adUlTNjdLNUE?oc=5",
-          "date": "08-25 12:10"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWljbzRaN3JScFF0RGtKbGQxek0xblFzdmRDZGZlWngzTWVuLVhidEMyeDdWMEhQVTNFNGtjYWlhekZHNEowUkIyUklPMy1XOU9CRUQyaGI0TjZtT0NSM1ZPMVZwczZaSmxBcDI1TFN3NmVkM0ZYT0lqRGhuSWxKOGtEZF95NFBCT0RFMU1uZHBMQQ?oc=5",
+          "date": "08-23 20:21"
         }
       ]
     },
@@ -2142,7 +2142,7 @@ const FALLBACK_DATA = {
             "price": 1178.64
           },
           {
-            "time": "05:20",
+            "time": "06:20",
             "price": 1181.0
           }
         ],
@@ -2208,7 +2208,7 @@ const FALLBACK_DATA = {
           "title": "Palm oil prices steady amid projections of bigger stockpile - The Edge Malaysia",
           "source": "The Edge Malaysia",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VQWlzd204b2otZWEwN1FRbUVNbE5WMVpjMkJKZFBUSElXNUFTRzQ2OVgwTVNaTk13aVNFdkdMTThET09ydXdtSy1ob0tGdUFz?oc=5",
-          "date": "08-26 04:11"
+          "date": "08-25 17:30"
         },
         {
           "title": "United Kingdom Hydrogenated Palm Oil - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
@@ -2243,10 +2243,10 @@ const FALLBACK_DATA = {
           "date": "05-15 16:00"
         },
         {
-          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 네이트",
-          "source": "네이트",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xX3d1bmxxTFVhNENRN2M1UDhVc2pTZFJVY2dxM0JLTElwenZfd19nMnNvV2lpWG1nd0FvdHBrQjlKNlF0bjJPdEdXazg3NkxfdnU4?oc=5",
-          "date": "08-19 14:14"
+          "title": "“팜유 시세 궁금해? AI가 알려줘”···식품·외식업계, AI 도입 가속도 - 매일경제",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tOEVEUU1qYURMZXI2djZoZmdyUFZzNFhYZHdKT2l1UmtYb183c0x3OE1zTVJpVzhmOERZWDRIbXRnSU5YS2U2ajdPV2I3ZEUyNElDck53?oc=5",
+          "date": "09-28 16:00"
         }
       ]
     },
@@ -2516,7 +2516,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "05:20",
+            "time": "06:20",
             "price": 1930.0
           }
         ]
@@ -2586,17 +2586,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1381.79,
-      "change": 1.03,
-      "changePercent": 0.07,
+      "price": 1380.0,
+      "change": -0.76,
+      "changePercent": -0.06,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1386.78,
       "low24h": 1378.38,
       "high7d": 1414.73,
-      "low7d": 1380.76,
+      "low7d": 1380.0,
       "high1m": 1464.44,
-      "low1m": 1380.76,
+      "low1m": 1380.0,
       "volume": 0,
       "sparkline": [
         1414.73,
@@ -2605,7 +2605,7 @@ const FALLBACK_DATA = {
         1390.79,
         1384.98,
         1380.76,
-        1381.79
+        1380.0
       ],
       "history": {
         "7D": [
@@ -2635,7 +2635,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1381.79
+            "price": 1380.0
           }
         ],
         "1M": [
@@ -2729,25 +2729,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1381.79
+            "price": 1380.0
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1373.5
+            "price": 1371.72
           },
           {
             "time": "11:00",
-            "price": 1376.26
+            "price": 1374.48
           },
           {
             "time": "13:00",
-            "price": 1379.03
+            "price": 1377.24
           },
           {
-            "time": "05:20",
-            "price": 1381.79
+            "time": "06:20",
+            "price": 1380.0
           }
         ],
         "1Y": [
@@ -2801,7 +2801,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1381.79
+            "price": 1380.0
           }
         ]
       },
@@ -2825,10 +2825,10 @@ const FALLBACK_DATA = {
           "date": "08-25 17:26"
         },
         {
-          "title": "Non-Financial Firms Sell Record $186.9 Billion in First Half - 조선일보",
-          "source": "조선일보",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWo4c29xckMtNUtxRVZnVDZLVDJPblk2RkpkMTdzVUVrcnJrS3JaSk9XTkJnZEgxbHJsVVZXaXliNnI4ZGU1dko5ZVN4TTQzdHpjMFJYX3Q2TWVuaUt1Sjk3X3hZT3J2RlB6cnpmUVpHM3RBaFRvMVRtMlFBLUhoZ0dvLTZXLW9nM0NQeFpn?oc=5",
-          "date": "08-24 00:51"
+          "title": "South Korean Won: Consolidation zone eyed against US Dollar – Commerzbank - Mitrade",
+          "source": "Mitrade",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmY3Rmw5TUZKM0ZVNDE1WUlmV21ZNnByNDlVWWxYcXdSclFwX09NSE52ZVpEWUhMMXgwdTBoeFY3OXREMWJaUTg4UGhGc3N4LXZub2JzY0l5S3h1QnRWR3Y0UkpEMUFyWm1EUjM1OVZYSXAtM0xtSFRKNWUzRVFxZ3NSbw?oc=5",
+          "date": "08-25 06:19"
         }
       ],
       "newsKr": [
@@ -2837,12 +2837,6 @@ const FALLBACK_DATA = {
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81cGtQckJSODgycUhlYWQtM0hFRGR1dmx5NkU3bTA3SnZnVzFucTBIbzE5a3NRdWQ2elJhYUdFeVNSY1FJemNfc1A1SkdQaVdwcjZMWUloeFFmZFRtRkpzcg?oc=5",
           "date": "08-25 07:58"
-        },
-        {
-          "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 - v.daum.net",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfWHdfNEcyNXZoWG5YY1NVNVhOdWNNaWpZbjdIMGY3QkNQMjcyR0ZKWGFUNEt5alZTcWFFZlN6d3JmRUt3VDJMa2ZSdUlFeHM?oc=5",
-          "date": "08-23 05:21"
         },
         {
           "title": "원화값 '나홀로 강세' 뚜렷…향후 환율 전망은? - 메트로신문",
@@ -2855,6 +2849,12 @@ const FALLBACK_DATA = {
           "source": "뉴닉",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ycDZ2Tjd2SEd6STkxUUZGRUFkU1FkcWl0ZGR0WEJCbWRIcDBjOG9tNjlpUmZSeC12c19hWWdYWWpyNnB5S2hoWVBEZ25hRXNPRkpV?oc=5",
           "date": "08-25 15:15"
+        },
+        {
+          "title": "강달러 추종 vs 월말 매도 물량 소화⋯\"전일 대비 소폭 상승\" [환율전망] - v.daum.net",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tQnFJd3h2T2tWTFE4R0ZSb3BKeDBtaFF2SkFaOFFrTVV2MG5TcF83TzhwV1BQWEd1MEtIM2ZmQlp2cmowdWc?oc=5",
+          "date": "08-25 07:55"
         }
       ]
     },
@@ -2882,9 +2882,9 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1613.3,
-      "change": 2.53,
-      "changePercent": 0.16,
+      "price": 1610.9,
+      "change": 0.13,
+      "changePercent": 0.01,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1616.0,
@@ -2901,7 +2901,7 @@ const FALLBACK_DATA = {
         1626.37,
         1616.97,
         1610.77,
-        1613.3
+        1610.9
       ],
       "history": {
         "7D": [
@@ -2931,7 +2931,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1613.3
+            "price": 1610.9
           }
         ],
         "1M": [
@@ -3025,25 +3025,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1613.3
+            "price": 1610.9
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1603.62
+            "price": 1601.23
           },
           {
             "time": "11:00",
-            "price": 1606.85
+            "price": 1604.46
           },
           {
             "time": "13:00",
-            "price": 1610.07
+            "price": 1607.68
           },
           {
-            "time": "05:20",
-            "price": 1613.3
+            "time": "06:20",
+            "price": 1610.9
           }
         ],
         "1Y": [
@@ -3097,7 +3097,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1613.3
+            "price": 1610.9
           }
         ]
       },
