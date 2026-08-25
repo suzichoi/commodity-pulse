@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-26 04:25:17",
+  "last_updated": "2026-08-26 05:20:14",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 04:25",
+    "report_date": "2026.08.26, 05:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,382.17 (▼11.36%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.93원 (▼2.05원)",
-    "fx_eur": "1,613.70원 (▼3.27원)",
+    "fx_usd": "1,381.79원 (▲1.03원)",
+    "fx_eur": "1,613.30원 (▲2.53원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 04:25",
+    "report_date": "2026.08.26, 05:20",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,382.17 (▼11.36%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.93원 (▼2.05원)",
-    "fx_eur": "1,613.70원 (▼3.27원)",
+    "fx_usd": "1,381.79원 (▲1.03원)",
+    "fx_eur": "1,613.30원 (▲2.53원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-26T04:25:17.830083+09:00",
-  "usdKrwRate": 1382.23,
-  "eurKrwRate": 1613.7,
+  "lastUpdated": "2026-08-26T05:20:14.015525+09:00",
+  "usdKrwRate": 1381.83,
+  "eurKrwRate": 1613.3,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5832.31
           },
           {
-            "time": "04:25",
+            "time": "05:20",
             "price": 5844.0
           }
         ],
@@ -311,12 +311,6 @@
       },
       "newsEn": [
         {
-          "title": "Cocoa price drop \"saves\" profits; Suan Zong's Q2 net profit surges more than fourfold - Moomoo",
-          "source": "Moomoo",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGlIdWNnRUpIQl9UX0hjZmtQbkprMVJPVHVoSXRyd1lfUDh6TDA4NW9FTDliblhoRTduVHNlbmpNSE1yR2ZIRlJDZjZodlVtR3B0dTlNWFVjaG9ucnMtcFJjRy1MWG5LM0F1SndJSWxIWU15a2JXVUZaZmRKRzh5OUEwaWdjalNjQVVPdXVOSVVsb2s2cGk0Qm1hX2V5WnV4TlN3cHF4UjN0MktkQ1ZSYmxIMA?oc=5",
-          "date": "08-25 15:57"
-        },
-        {
           "title": "Cocoa Prices Fall as Supply Concerns Ease - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLTlJX3B0S0cxUy1ucWJZOWRzMVBjbDk5X0V0MFRybERhS3l2djhmblU4Mllsaml3S01TdUhwem5oT3VQNjd6S09FTkJwLVdqNk9Wdmo3LWctTEtIenc5TXZrY3g2VU9rMXo3SkEyUTB0UWl5VG5GaTl5QVVIb0cwYkoxVXpxaG5CazdDdDlR?oc=5",
@@ -333,6 +327,12 @@
           "source": "Tasting Table",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenVTUy1RS2lPX3psUkQxYXU1MFY0R196b3g5TEdpNlpaZW5lRmZKd28xZndHUDVQYmx4S2Q2LVlqRFdfeTREY0xpRkwzcG1qa2JsM0JfRHBDV2FGRVFveVRMNHNfUEFzVEFKdGlUZGU3QmxxUzlYUmhMZ3B0NzhpY0syZEJ0czZXaXJYOWN1MHdLdw?oc=5",
           "date": "08-25 10:20"
+        },
+        {
+          "title": "Hotel Chocolat slips to loss after soaring cocoa and employment costs - The Grocer",
+          "source": "The Grocer",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORHR3Mk9qY0FMQ3AzVDd4VWdZcFB0eDRoeFJsbVlmNE1RdzZPMmNCY3NuSXVoc1laTGYwU0E2eWJuR2U2NUFKN09IRWdsb0ItbnRQemhrLWFvb05jVEhJTnZzTGNGcmpBc2dlTTAxcEg4S3lQRzkzTTJGQkkwaUk3QU53ZS10Z3c2Q0RfWE5sRk5mOVlNNG96SGJKVlM0ODZESHUtcTBqRTdsMGkzN0RVcXJpNEI2alZt?oc=5",
+          "date": "08-25 22:49"
         }
       ],
       "newsKr": [
@@ -349,10 +349,10 @@
           "date": "08-25 16:46"
         },
         {
-          "title": "몬델레즈 인터내셔널(MDLZ), 최근 관심이 커지는 이유는 무엇일까? - simplywall.st",
+          "title": "CVS Health와 PepsiCo가 돋보이는 고금리 방어 배당주 3선 - simplywall.st",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdHRQTWNuRUNGX0lDeW9aT0FvaHZTemxPSlZSREU3WWdMR0JjTFlPdGlBZGFqYVdkTXI2dzFidTljTkV4SURrbUdNLXpQZ3RyemFBTGxiVm9vbGxvTzhWeEF3V3A5SFJlNkN2bUR6RjhURzU5THVZbXJxWkJ4Wmc0UnFKUGRaQ0lSNHJMeENoZ1NiVnNLUGZ3QWxrLXJyd3BzSkg3eFphYWt6Zlh5NkNxb0hadS1uSXF50gG4AUFVX3lxTE50dFBNY25FQ0ZfSUN5b1pPQW9odlN6bE9KVlJERTdZZ0xHQmNMWU90aUFkYWphV2RNcjZ3MWJ1OWNORXhJRGttR00telBndHJ6YUFMbGJWb29sbG9POFZ4QXdXcDlIUmU2Q3ZtRHpGOFRHNTlMdVltcnFaQnhaZzRScUpQZFpDSVI0ckx4Q2hnU2JWc0tQZndBbGstcnJ3cHNKSDd4WmFha3pmWHk2Q3FvSFp1LW5JcXk?oc=5",
-          "date": "08-25 15:29"
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVThURzFUT21aaXd4QUxGS3RHczFmOFU0Ykd1V3lyUW5Xc1pVRWdfYjFLMG9pNENWcXN0d2U5Yml6ZHJqSDJmUXFnbWNUdUZrSWxqeUtnM2FDQ3YzQm50cjhoVmRXZ3ZzbUxqZ1JaT1I5ZndRTTJRdnhOelh3Y1BubTQ2WkYyNjI4STZES2xPRV_SAZYBQVVfeXFMTlV4ZnpNSWMtaW5sOWNWNG9hcC11UVoyZzdMUHVEYjgwckJtaEJsUFNqNWswYVR2UElZOFd2bC0waFdzQ0otUk5fZlQzM1V0dHNrd3NXdGY4cGp5d1Z3RVZGZE5pZHFXa1NqQ0pDZGgwZExpelkxRGxiejNhT3htUVJlci1VUlJFNno4RmZzajRaaU9IcE5R?oc=5",
+          "date": "08-23 18:16"
         },
         {
           "title": "5060 사로잡은 '포도계 에르메스' - 네이트",
@@ -422,7 +422,7 @@
             "price": 7367.41
           },
           {
-            "time": "04:25",
+            "time": "05:20",
             "price": 7382.17
           }
         ],
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "04:25",
+            "time": "05:20",
             "price": 3728.0
           }
         ],
@@ -2125,7 +2125,7 @@
             "price": 1178.64
           },
           {
-            "time": "04:25",
+            "time": "05:20",
             "price": 1181.0
           }
         ],
@@ -2226,10 +2226,10 @@
           "date": "05-15 16:00"
         },
         {
-          "title": "“팜유 시세 궁금해? AI가 알려줘”···식품·외식업계, AI 도입 가속도 - 매일경제",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tOEVEUU1qYURMZXI2djZoZmdyUFZzNFhYZHdKT2l1UmtYb183c0x3OE1zTVJpVzhmOERZWDRIbXRnSU5YS2U2ajdPV2I3ZEUyNElDck53?oc=5",
-          "date": "09-28 16:00"
+          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 네이트",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xX3d1bmxxTFVhNENRN2M1UDhVc2pTZFJVY2dxM0JLTElwenZfd19nMnNvV2lpWG1nd0FvdHBrQjlKNlF0bjJPdEdXazg3NkxfdnU4?oc=5",
+          "date": "08-19 14:14"
         }
       ]
     },
@@ -2499,7 +2499,7 @@
             "price": 1926.14
           },
           {
-            "time": "04:25",
+            "time": "05:20",
             "price": 1930.0
           }
         ]
@@ -2569,33 +2569,29 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1382.93,
-      "change": -2.05,
-      "changePercent": -0.15,
+      "price": 1381.79,
+      "change": 1.03,
+      "changePercent": 0.07,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1386.78,
       "low24h": 1378.38,
-      "high7d": 1415.37,
-      "low7d": 1382.93,
+      "high7d": 1414.73,
+      "low7d": 1380.76,
       "high1m": 1464.44,
-      "low1m": 1382.93,
+      "low1m": 1380.76,
       "volume": 0,
       "sparkline": [
-        1415.37,
         1414.73,
         1413.58,
         1389.4,
         1390.79,
         1384.98,
-        1382.93
+        1380.76,
+        1381.79
       ],
       "history": {
         "7D": [
-          {
-            "date": "08-16",
-            "price": 1415.37
-          },
           {
             "date": "08-17",
             "price": 1414.73
@@ -2617,8 +2613,12 @@
             "price": 1384.98
           },
           {
+            "date": "08-24",
+            "price": 1380.76
+          },
+          {
             "date": "08-25",
-            "price": 1382.93
+            "price": 1381.79
           }
         ],
         "1M": [
@@ -2707,26 +2707,30 @@
             "price": 1384.98
           },
           {
+            "date": "08-24",
+            "price": 1380.76
+          },
+          {
             "date": "08-25",
-            "price": 1382.93
+            "price": 1381.79
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1374.63
+            "price": 1373.5
           },
           {
             "time": "11:00",
-            "price": 1377.4
+            "price": 1376.26
           },
           {
             "time": "13:00",
-            "price": 1380.16
+            "price": 1379.03
           },
           {
-            "time": "04:25",
-            "price": 1382.93
+            "time": "05:20",
+            "price": 1381.79
           }
         ],
         "1Y": [
@@ -2780,11 +2784,23 @@
           },
           {
             "date": "2026-08",
-            "price": 1382.93
+            "price": 1381.79
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "South Korean Won: Strength backed by tech flows against US Dollar – Societe Generale - FXStreet",
+          "source": "FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzJHS3ktX053Q1NrRmV2LXJ5clRxMGxqdlpmRjU3S0RERTBfWnk5NE9iMERmdU55RTZFeGc0UnB2WGFrZU0yMV9QMDFTdkgzd08tVDZNbWp2MlRMSTBPLWxvM2FtRTNtN1NReXA5V3NzVFdrS3NjZ3FmdjdPMTVCVEZYS3lKSFJCYVZ0MUl3MmpBbzZsMEpjaFAybjVPTUFOX0xkM2otM1VQczVQN29qU3hjdkNZSURGNHAyNllFcVJEZw?oc=5",
+          "date": "08-26 04:54"
+        },
+        {
+          "title": "USD/KRW Set for Consolidation, Commerzbank Analysts Say - CryptoRank",
+          "source": "CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VcnhoWWo4WEk3UnJmQWxUVzBFVWFkbjF4WnRyc2IyNExTVG9oNXFGTWdYdmdDVFJmajRNZThVazFsWHJtNjNDOHRwaTIzTHhEQmRETk5SblNDakVuVXBnQVhrazBtMkZPWlA1bkNoaXBoT3JNeVFXQ25qYw?oc=5",
+          "date": "08-25 13:09"
+        },
         {
           "title": "USD/KRW Rebounds to 1,386.1 Won After Dipping to 1,370s on Month-End Negotiation Selling - finance.biggo.com",
           "source": "finance.biggo.com",
@@ -2792,22 +2808,10 @@
           "date": "08-25 17:26"
         },
         {
-          "title": "South Korean Won: Consolidation zone eyed against US Dollar – Commerzbank - Mitrade",
-          "source": "Mitrade",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbmY3Rmw5TUZKM0ZVNDE1WUlmV21ZNnByNDlVWWxYcXdSclFwX09NSE52ZVpEWUhMMXgwdTBoeFY3OXREMWJaUTg4UGhGc3N4LXZub2JzY0l5S3h1QnRWR3Y0UkpEMUFyWm1EUjM1OVZYSXAtM0xtSFRKNWUzRVFxZ3NSbw?oc=5",
-          "date": "08-25 06:19"
-        },
-        {
           "title": "Non-Financial Firms Sell Record $186.9 Billion in First Half - 조선일보",
           "source": "조선일보",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaWo4c29xckMtNUtxRVZnVDZLVDJPblk2RkpkMTdzVUVrcnJrS3JaSk9XTkJnZEgxbHJsVVZXaXliNnI4ZGU1dko5ZVN4TTQzdHpjMFJYX3Q2TWVuaUt1Sjk3X3hZT3J2RlB6cnpmUVpHM3RBaFRvMVRtMlFBLUhoZ0dvLTZXLW9nM0NQeFpn?oc=5",
           "date": "08-24 00:51"
-        },
-        {
-          "title": "South Korea’s Won Rallies As The Dollar Stays Soft - Finimize",
-          "source": "Finimize",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGFlMWxLVlY0cy1LTjdVVUFZRjlFM3FxTlBvbFFmeTUzQW5LOWJQU3F0QVpER1N3WXhOd18xc2ctbmxCaTRUbFMzWEkwVkZXajRfYmZlcFhfWHQwbUkzRjl0c3p1RXRZUWV1VTlzMFNsa1U1VzRsMUhfa2RYYWY0S09RSGs?oc=5",
-          "date": "08-24 20:42"
         }
       ],
       "newsKr": [
@@ -2861,33 +2865,29 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1613.7,
-      "change": -3.27,
-      "changePercent": -0.2,
+      "price": 1613.3,
+      "change": 2.53,
+      "changePercent": 0.16,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1616.0,
       "low24h": 1609.3,
       "high7d": 1638.16,
-      "low7d": 1582.09,
+      "low7d": 1610.77,
       "high1m": 1665.16,
       "low1m": 1582.09,
       "volume": 0,
       "sparkline": [
-        1582.09,
         1638.16,
         1634.92,
         1620.23,
         1626.37,
         1616.97,
-        1613.7
+        1610.77,
+        1613.3
       ],
       "history": {
         "7D": [
-          {
-            "date": "08-16",
-            "price": 1582.09
-          },
           {
             "date": "08-17",
             "price": 1638.16
@@ -2909,8 +2909,12 @@
             "price": 1616.97
           },
           {
+            "date": "08-24",
+            "price": 1610.77
+          },
+          {
             "date": "08-25",
-            "price": 1613.7
+            "price": 1613.3
           }
         ],
         "1M": [
@@ -2999,26 +3003,30 @@
             "price": 1616.97
           },
           {
+            "date": "08-24",
+            "price": 1610.77
+          },
+          {
             "date": "08-25",
-            "price": 1613.7
+            "price": 1613.3
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1604.02
+            "price": 1603.62
           },
           {
             "time": "11:00",
-            "price": 1607.25
+            "price": 1606.85
           },
           {
             "time": "13:00",
-            "price": 1610.47
+            "price": 1610.07
           },
           {
-            "time": "04:25",
-            "price": 1613.7
+            "time": "05:20",
+            "price": 1613.3
           }
         ],
         "1Y": [
@@ -3072,7 +3080,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1613.7
+            "price": 1613.3
           }
         ]
       },
