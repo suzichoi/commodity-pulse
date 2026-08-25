@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-25 08:16:49",
+  "last_updated": "2026-08-25 09:51:51",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 08:16",
+    "report_date": "2026.08.25, 09:51",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.04원 (▼2.94원)",
-    "fx_eur": "1,611.30원 (▼5.67원)",
+    "fx_usd": "1,382.36원 (▼2.62원)",
+    "fx_eur": "1,612.70원 (▼4.27원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 08:16",
+    "report_date": "2026.08.25, 09:51",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,184.50 (▲1.72%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.04원 (▼2.94원)",
-    "fx_eur": "1,611.30원 (▼5.67원)",
+    "fx_usd": "1,382.36원 (▼2.62원)",
+    "fx_eur": "1,612.70원 (▼4.27원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-25T08:16:49.573270+09:00",
-  "usdKrwRate": 1382.21,
-  "eurKrwRate": 1611.3,
+  "lastUpdated": "2026-08-25T09:51:51.981861+09:00",
+  "usdKrwRate": 1381.98,
+  "eurKrwRate": 1612.7,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -130,7 +130,7 @@ const FALLBACK_DATA = {
       "low7d": 5734.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 19704,
+      "volume": 0,
       "sparkline": [
         5734.0,
         6044.0,
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5917.14
           },
           {
-            "time": "08:16",
+            "time": "09:51",
             "price": 5929.0
           }
         ],
@@ -334,6 +334,12 @@ const FALLBACK_DATA = {
           "date": "08-25 03:31"
         },
         {
+          "title": "I Tried And Ranked Chocolate Chip Cookies From 10 Grocery Store Bakeries - Tasting Table",
+          "source": "Tasting Table",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNenVTUy1RS2lPX3psUkQxYXU1MFY0R196b3g5TEdpNlpaZW5lRmZKd28xZndHUDVQYmx4S2Q2LVlqRFdfeTREY0xpRkwzcG1qa2JsM0JfRHBDV2FGRVFveVRMNHNfUEFzVEFKdGlUZGU3QmxxUzlYUmhMZ3B0NzhpY0syZEJ0czZXaXJYOWN1MHdLdw?oc=5",
+          "date": "08-25 09:28"
+        },
+        {
           "title": "Lindt takes ultra-dark to the limit with 100% cocoa launch - Confectionery News",
           "source": "Confectionery News",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNamlONFFZaHhjVVNSNmg5WUtMbGwtLXJpdE1jRHJMNHdHTS1GdVZJZ3h1QzN5M014c3ZnZDJlY1BmMnRnSEVKWkdQbWhtSkg2d1Azc1pkUkM5QkYxMDZwdnVVZVhGRERGNnBlUWxGV2JMTVpYZHl1RWJmNV9QUmJEdU4xSWJuRXB1WVlHUnFSd2kzTWNVNWdYYy0wNWlkVlNManJoRHVuZUFFbHBIbDNXVkd4enFOZndi?oc=5",
@@ -342,14 +348,8 @@ const FALLBACK_DATA = {
         {
           "title": "Are Hershey’s (HSY) Halloween Experiments Reframing Its Brand Power Beyond the Candy Aisle? - simplywall.st",
           "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeDhaTFpjaDRvOGpoWmpPdUdlRVhCeWhMVHk2QWZPUFJpbnFuSDZ4V1VBUkJjaHhieHJNQklUZWlXaHJhWVlFRkU0OXNVa09xSF9qZTAyT3hGYVVEVEZCeXN2Z0U0QnpydlJkLUZvUVZzN1lXMXktc09YTlpvUWFmSnFsWDZqa1diWmd3bmp4bGpqejRvdnR3cVg1NXlYcUFsUFZQdWIxSHVhVWM2YjhyRm5uVGhnRWNTd0tsdHJoWWJrN0JFdG1FR1VMWHhzV29vWUHSAdcBQVVfeXFMTnhTSVN1QUZSSU5Bb1N0VjUxZVlRQTNhRFh3SkZvb2dTVGdEdFN4LVlDa1JrMlJac3Fqc1VtbkRJZ1RCSWNGYWIydVktWlBxODhnOEYtSXJvMjVQMDFoQzJya3ItSUMyVXhrY3htdUdkcDhJWFFNWWNpODlsR2NSM0tkTThESGZNSlZlNEtGVEtrSC1keUpCd3J4aWk1eENBcGRCOFNvZUxmRW9kV2IwYlRRZW1ONThIOGN5WFc0WWRIRXNzdVcydThKSDNLQ2FSTlk5aThwZk0?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeFNJU3VBRlJJTkFvU3RWNTFlWVFBM2FEWHdKRm9vZ1NUZ0R0U3gtWUNrUmsyUlpzcWpzVW1uRElnVEJJY0ZhYjJ1WS1aUHE4OGc4Ri1Jcm8yNVAwMWhDMnJrci1JQzJVeGtjeG11R2RwOElYUU1ZY2k4OWxHY1IzS2RNOERIZk1KVmU0S0ZUS2tILWR5SkJ3cnhpaTV4Q0FwZEI4U29lTGZFb2RXYjBiVFFlbU41OEg4Y3lYVzRZZEhFc3N1VzJ1OEpIM0tDYVJOWTlpOHBmTdIB1wFBVV95cUxOeFNJU3VBRlJJTkFvU3RWNTFlWVFBM2FEWHdKRm9vZ1NUZ0R0U3gtWUNrUmsyUlpzcWpzVW1uRElnVEJJY0ZhYjJ1WS1aUHE4OGc4Ri1Jcm8yNVAwMWhDMnJrci1JQzJVeGtjeG11R2RwOElYUU1ZY2k4OWxHY1IzS2RNOERIZk1KVmU0S0ZUS2tILWR5SkJ3cnhpaTV4Q0FwZEI4U29lTGZFb2RXYjBiVFFlbU41OEg4Y3lYVzRZZEhFc3N1VzJ1OEpIM0tDYVJOWTlpOHBmTQ?oc=5",
           "date": "08-25 06:35"
-        },
-        {
-          "title": "Mondelez CEO Dirk Van De Put Sells 134,000 Shares for $8.5 Million - The Motley Fool",
-          "source": "The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzkzMUtDVVNva0F5eDgzOURIMU5ZZm50RzFPcjBxMHJ1ZmhBSTc5WFFMeDI4SF9kVlV4Ykd3d1p6aGlsOXJUZXF3Ql9kYWlmcUtZZjlJNExPdlI0QWhzWV9EQ1pCQUdtZXNWWE5sbUF2UWVTNjYyTHdoXzUyRkViSUhSYlZtbmpId19RNi1RVDNYWnNDZTJVLVNOU05Cd0FlaHl4TzJNYjF1c1RzeTg5Q2dmQ1d5UmU0MEE?oc=5",
-          "date": "08-24 23:00"
         }
       ],
       "newsKr": [
@@ -414,7 +414,7 @@ const FALLBACK_DATA = {
       "low7d": 7453.82,
       "high1m": 8016.0,
       "low1m": 6918.1,
-      "volume": 22617,
+      "volume": 0,
       "sparkline": [
         7453.82,
         7608.14,
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 7520.32
           },
           {
-            "time": "08:16",
+            "time": "09:51",
             "price": 7535.39
           }
         ],
@@ -624,10 +624,10 @@ const FALLBACK_DATA = {
           "date": "08-24 14:49"
         },
         {
-          "title": "Coffee prices today, August 22nd: Sharp drop, robusta hits a one-week low. - Vietnam.vn",
+          "title": "Agricultural prices today, August 22, 2026: Robusta coffee prices plummet, attention shifts to Vietnam's harvest; New EU tariffs 'hit' the weak points of Chinese goods. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEk2cGczOW10cEJqcWFUY09JZXdfRmZoemJWZkpvbmtpSHNYeDdCM2l0NEZkX0ZHUEpOeWFVdG1sV2R6dlRhVHZvYnpUZkJreEw1TU5fSXhqbHUyM1BiTUU2ODZzb1dSSHlNbHpkVnJhb2k5SHF1TEQzY2ZiTVgyREwwTEtrWVZtMFkw?oc=5",
-          "date": "08-22 13:06"
+          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRWdnMXRmQVRZbmZTQ01hR0Zjb2dMcl9HLVFnWllfd1RlLTFCYVZSaG1rZk1rdDNzcF9WQVM4Y3EwVUpPMHBWRzN5NkVhNk5IQmFseU5BSWZtVkloTlFVWFF6aHd0Y1czd3Y2b0VkZDBUVnlySHpZejJsQlFOVmd1LWMxWmJUM1I5bHRobURZLTBjMkdYaWs5Znk4M2Z6b1lKQlp5aVpIcGpoMDV5b242WHB1N2IzNjZRbWZVcjJzdkt0Ml9IYlJiTjZvcThQbVI4SlRvXzRIZVZvb2tySkJSeGhlT2ZyY0s4UnZvbG5IdGVITlhwLXdDVGhYdw?oc=5",
+          "date": "08-22 14:14"
         },
         {
           "title": "Slow Pace of Brazil Harvest and Tight Inventories Boost Coffee Prices - Barchart.com",
@@ -644,16 +644,16 @@ const FALLBACK_DATA = {
           "date": "08-25 05:37"
         },
         {
+          "title": "오늘(8월 25일) 커피 가격: 급격히 상승하여 로부스타 가격이 3,800달러에 육박하고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkJWeGJkVVNEcFBGTkRxVkhuT1lvRmpaM1Vkd3NGSkxuSGR4UXRRV0pINm0tcU94NXV1ckcxQkVGbEhCSkRTRUlqUzhnT1hmd3JHX05vZHhycDJRUjBpMFNwUXc4aDZ3Zl9kZ3J4VFIzSGw1Z1g3NVNKa1BfV2stVG1jWDlfcTJDLVNFdzBnMHhRa1RaUmpF?oc=5",
+          "date": "08-25 08:23"
+        },
+        {
           "title": "2026년 8월 24일 오늘 농산물 가격: 국내 커피 가격은 계속 상승하고 있으며, 국제 시장의 압력이 여전히 강합니다. 미국의 상호 관세 환급액이 수입을 초과했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPakxJU2lQWk5ZR3dwVU42dk1LNzlNdFhSRE5pdThEM3d1TGhHRUF2UUgyZDhrb24zcmhDZnVpQWNrYXUxWll3YVE1amFxUmQ1Zk9XVUhiQlJDc2JmLU54bVdTcHN5OGlscEhLSlVpV3RuaTI4TC1TSGtwb1dFYXpfRGlzVDM3TnNFMHlONzMzd1pYdEZxUEU5Y0hYZFV6RzZzRGMtZzRGZTlhMXJUQnVTYWxaTHpXakRTMFpmbVhqaWdxR2p3VEI5U0F2eUhhTTU3STRIOG9LWnh5UUp0U2tla1dMLVRxVHJETmdFb21sU3VLeXFYdTVyZzB2c1VuNE4t?oc=5",
           "date": "08-24 14:49"
-        },
-        {
-          "title": "국내 커피 가격은 세계 시장 추세와는 반대로 상승하고 있다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWljbzRaN3JScFF0RGtKbGQxek0xblFzdmRDZGZlWngzTWVuLVhidEMyeDdWMEhQVTNFNGtjYWlhekZHNEowUkIyUklPMy1XOU9CRUQyaGI0TjZtT0NSM1ZPMVZwczZaSmxBcDI1TFN3NmVkM0ZYT0lqRGhuSWxKOGtEZF95NFBCT0RFMU1uZHBMQQ?oc=5",
-          "date": "08-23 20:21"
         },
         {
           "title": "오늘 8월 24일 커피 가격: 소폭 상승, 세계 반대 방향 - Laodong.vn",
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "08:16",
+            "time": "09:51",
             "price": 3728.0
           }
         ],
@@ -935,16 +935,16 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
+          "title": "오늘(8월 25일) 커피 가격: 급격히 상승하여 로부스타 가격이 3,800달러에 육박하고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkJWeGJkVVNEcFBGTkRxVkhuT1lvRmpaM1Vkd3NGSkxuSGR4UXRRV0pINm0tcU94NXV1ckcxQkVGbEhCSkRTRUlqUzhnT1hmd3JHX05vZHhycDJRUjBpMFNwUXc4aDZ3Zl9kZ3J4VFIzSGw1Z1g3NVNKa1BfV2stVG1jWDlfcTJDLVNFdzBnMHhRa1RaUmpF?oc=5",
+          "date": "08-25 08:23"
+        },
+        {
           "title": "2026년 8월 24일 오늘 농산물 가격: 국내 커피 가격은 계속 상승하고 있으며, 국제 시장의 압력이 여전히 강합니다. 미국의 상호 관세 환급액이 수입을 초과했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPakxJU2lQWk5ZR3dwVU42dk1LNzlNdFhSRE5pdThEM3d1TGhHRUF2UUgyZDhrb24zcmhDZnVpQWNrYXUxWll3YVE1amFxUmQ1Zk9XVUhiQlJDc2JmLU54bVdTcHN5OGlscEhLSlVpV3RuaTI4TC1TSGtwb1dFYXpfRGlzVDM3TnNFMHlONzMzd1pYdEZxUEU5Y0hYZFV6RzZzRGMtZzRGZTlhMXJUQnVTYWxaTHpXakRTMFpmbVhqaWdxR2p3VEI5U0F2eUhhTTU3STRIOG9LWnh5UUp0U2tla1dMLVRxVHJETmdFb21sU3VLeXFYdTVyZzB2c1VuNE4t?oc=5",
           "date": "08-24 14:49"
-        },
-        {
-          "title": "국내 커피 가격은 세계 시장 추세와는 반대로 상승하고 있다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWljbzRaN3JScFF0RGtKbGQxek0xblFzdmRDZGZlWngzTWVuLVhidEMyeDdWMEhQVTNFNGtjYWlhekZHNEowUkIyUklPMy1XOU9CRUQyaGI0TjZtT0NSM1ZPMVZwczZaSmxBcDI1TFN3NmVkM0ZYT0lqRGhuSWxKOGtEZF95NFBCT0RFMU1uZHBMQQ?oc=5",
-          "date": "08-23 20:21"
         },
         {
           "title": "오늘 8월 24일 커피 가격: 소폭 상승, 세계 반대 방향 - Laodong.vn",
@@ -953,10 +953,10 @@ const FALLBACK_DATA = {
           "date": "08-24 13:29"
         },
         {
-          "title": "8월 24일 현재 커피 가격은 회복되지 못하고 있으며, 로부스타는 여전히 톤당 3,600달러 미만입니다. - Vietnam.vn",
+          "title": "국내 커피 가격은 세계 시장 추세와는 반대로 상승하고 있다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdV80c2tBX0tuVC1majdqdDdmbzllZ0x2OVA5d1hwYl8wbmxUQU92bENET0I2T2VJNEpPVDZoUnpJSi04N1RSaUZvcEpEc1hmRmZvOGoyNnMyRW1aQ3lLbnE2cTlGdjNDaUE4MnhqV1pTQVliZ05fQU50LTN5Z2ljZjlGSjUyUWdUel9KbVZnc2g4ZHg4LUxncmhR?oc=5",
-          "date": "08-24 13:44"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbWljbzRaN3JScFF0RGtKbGQxek0xblFzdmRDZGZlWngzTWVuLVhidEMyeDdWMEhQVTNFNGtjYWlhekZHNEowUkIyUklPMy1XOU9CRUQyaGI0TjZtT0NSM1ZPMVZwczZaSmxBcDI1TFN3NmVkM0ZYT0lqRGhuSWxKOGtEZF95NFBCT0RFMU1uZHBMQQ?oc=5",
+          "date": "08-23 20:21"
         }
       ]
     },
@@ -1427,12 +1427,6 @@ const FALLBACK_DATA = {
           "date": "08-25 01:31"
         },
         {
-          "title": "Switzerland’s Reconstituted Milk Market Is Set to Grow - Dairy News Today",
-          "source": "Dairy News Today",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGo2ZXY3TUtXRTFzekhCSTBPX3Q3Y0o4eWg2bW1jWGM5bzZwOXVxcGFaM2l0eWt6ZmlLdGdrRzVGTV9IQVBNUG1qaWhiNXN6TU9ubnNTV2M4V1pXWVhWZVkySzdDZVliUmJXaGZIdXVWUDhpYjJwaU0yNi1uTXYta2hNZG9feHoxcEU1M2tWVG1KVlpHVk9VQlZFV2I?oc=5",
-          "date": "08-24 17:13"
-        },
-        {
           "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
@@ -1443,6 +1437,12 @@ const FALLBACK_DATA = {
           "source": "Dairy News Today",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMHR0OVp0N1ZJdlJMOFN0a1FHWmVUTmpRR3FISENEZE0zQTYzWE1qb0JtRzZuT0ZwbXM2a1dZNDU4T0QtNjZlM1JZNTlkcERBUUFqSUMwVDZYU2F5TmxaQ0hYdUZ0UHJRTUxuOU5ZU2ZuUlROMkZmcV9JNXlHcWp4SWxvNnR2S0wydGx0VzBSMjUyU1ptSXVDMy1SSUhxM1JUQ2JYYjk1ZV9lZmVUd01Sdlk5eHl4TTVrQW1DOXBmb3o?oc=5",
           "date": "08-24 10:36"
+        },
+        {
+          "title": "NZ First’s ‘Use It Or Lose It’ Dairy Policy Will Not Lower Supermarket Prices Or Fix Consumer Competition - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaDRTcDdCcnY3cUhNZ2NPRHJ1LWhLMmFHVDhEcDFrUk1GWkotVzZBY2E2SW5qejFCQjVOd2pTVlhQZVZYRWpyVlBwX1VyUVVUaGxzeVFXNUVrQmVYMTZoOUd2d1JOUWF5My1wNUdDOFdSRkpnc1ZSay1YTEpLRFpNTVhPUEdMSUdweFc0TXFjZEh1QmhidW5zRnd6djAxc1p5bTk5S0VIOVFYN01kd0U1SmlsejBEWnh4RXdndHVqc0FwZ0p4X0FMMw?oc=5",
+          "date": "08-24 06:56"
         }
       ],
       "newsKr": [
@@ -2154,7 +2154,7 @@ const FALLBACK_DATA = {
             "price": 1182.13
           },
           {
-            "time": "08:16",
+            "time": "09:51",
             "price": 1184.5
           }
         ],
@@ -2310,153 +2310,153 @@ const FALLBACK_DATA = {
       "history": {
         "7D": [
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1930.0
           },
           {
-            "date": "08-19",
+            "date": "08-20",
             "price": 1931.93
           },
           {
-            "date": "08-20",
+            "date": "08-21",
             "price": 1933.86
           },
           {
-            "date": "08-21",
+            "date": "08-22",
             "price": 1935.79
           },
           {
-            "date": "08-22",
+            "date": "08-23",
             "price": 1937.72
           },
           {
-            "date": "08-23",
+            "date": "08-24",
             "price": 1939.65
           },
           {
-            "date": "08-24",
+            "date": "08-25",
             "price": 1941.58
           }
         ],
         "1M": [
           {
-            "date": "07-26",
+            "date": "07-27",
             "price": 1930.0
           },
           {
-            "date": "07-27",
+            "date": "07-28",
             "price": 1930.96
           },
           {
-            "date": "07-28",
+            "date": "07-29",
             "price": 1931.93
           },
           {
-            "date": "07-29",
+            "date": "07-30",
             "price": 1932.9
           },
           {
-            "date": "07-30",
+            "date": "07-31",
             "price": 1933.86
           },
           {
-            "date": "07-31",
+            "date": "08-01",
             "price": 1934.82
           },
           {
-            "date": "08-01",
+            "date": "08-02",
             "price": 1935.79
           },
           {
-            "date": "08-02",
+            "date": "08-03",
             "price": 1936.76
           },
           {
-            "date": "08-03",
+            "date": "08-04",
             "price": 1937.72
           },
           {
-            "date": "08-04",
+            "date": "08-05",
             "price": 1938.68
           },
           {
-            "date": "08-05",
+            "date": "08-06",
             "price": 1939.65
           },
           {
-            "date": "08-06",
+            "date": "08-07",
             "price": 1940.62
           },
           {
-            "date": "08-07",
+            "date": "08-08",
             "price": 1941.58
           },
           {
-            "date": "08-08",
+            "date": "08-09",
             "price": 1942.54
           },
           {
-            "date": "08-09",
+            "date": "08-10",
             "price": 1943.51
           },
           {
-            "date": "08-10",
+            "date": "08-11",
             "price": 1944.48
           },
           {
-            "date": "08-11",
+            "date": "08-12",
             "price": 1945.44
           },
           {
-            "date": "08-12",
+            "date": "08-13",
             "price": 1946.4
           },
           {
-            "date": "08-13",
+            "date": "08-14",
             "price": 1947.37
           },
           {
-            "date": "08-14",
+            "date": "08-15",
             "price": 1948.34
           },
           {
-            "date": "08-15",
+            "date": "08-16",
             "price": 1949.3
           },
           {
-            "date": "08-16",
+            "date": "08-17",
             "price": 1950.26
           },
           {
-            "date": "08-17",
+            "date": "08-18",
             "price": 1951.23
           },
           {
-            "date": "08-18",
+            "date": "08-19",
             "price": 1952.2
           },
           {
-            "date": "08-19",
+            "date": "08-20",
             "price": 1953.16
           },
           {
-            "date": "08-20",
+            "date": "08-21",
             "price": 1954.12
           },
           {
-            "date": "08-21",
+            "date": "08-22",
             "price": 1955.09
           },
           {
-            "date": "08-22",
+            "date": "08-23",
             "price": 1956.06
           },
           {
-            "date": "08-23",
+            "date": "08-24",
             "price": 1957.02
           },
           {
-            "date": "08-24",
+            "date": "08-25",
             "price": 1957.98
           }
         ],
@@ -2528,7 +2528,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "08:16",
+            "time": "09:51",
             "price": 1930.0
           }
         ]
@@ -2610,17 +2610,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1382.04,
-      "change": -2.94,
-      "changePercent": -0.21,
+      "price": 1382.36,
+      "change": -2.62,
+      "changePercent": -0.19,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1382.82,
-      "low24h": 1381.05,
+      "high24h": 1383.08,
+      "low24h": 1378.38,
       "high7d": 1415.37,
-      "low7d": 1382.04,
+      "low7d": 1382.36,
       "high1m": 1464.44,
-      "low1m": 1382.04,
+      "low1m": 1382.36,
       "volume": 0,
       "sparkline": [
         1415.37,
@@ -2629,7 +2629,7 @@ const FALLBACK_DATA = {
         1389.4,
         1390.79,
         1384.98,
-        1382.04
+        1382.36
       ],
       "history": {
         "7D": [
@@ -2658,8 +2658,8 @@ const FALLBACK_DATA = {
             "price": 1384.98
           },
           {
-            "date": "08-24",
-            "price": 1382.04
+            "date": "08-25",
+            "price": 1382.36
           }
         ],
         "1M": [
@@ -2748,26 +2748,26 @@ const FALLBACK_DATA = {
             "price": 1384.98
           },
           {
-            "date": "08-24",
-            "price": 1382.04
+            "date": "08-25",
+            "price": 1382.36
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1373.75
+            "price": 1374.07
           },
           {
             "time": "11:00",
-            "price": 1376.51
+            "price": 1376.83
           },
           {
             "time": "13:00",
-            "price": 1379.28
+            "price": 1379.6
           },
           {
-            "time": "08:16",
-            "price": 1382.04
+            "time": "09:51",
+            "price": 1382.36
           }
         ],
         "1Y": [
@@ -2821,7 +2821,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1382.04
+            "price": 1382.36
           }
         ]
       },
@@ -2902,13 +2902,13 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1611.3,
-      "change": -5.67,
-      "changePercent": -0.35,
+      "price": 1612.7,
+      "change": -4.27,
+      "changePercent": -0.26,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1611.7,
-      "low24h": 1610.9,
+      "high24h": 1612.7,
+      "low24h": 1609.3,
       "high7d": 1638.16,
       "low7d": 1582.09,
       "high1m": 1665.16,
@@ -2921,7 +2921,7 @@ const FALLBACK_DATA = {
         1620.23,
         1626.37,
         1616.97,
-        1611.3
+        1612.7
       ],
       "history": {
         "7D": [
@@ -2950,8 +2950,8 @@ const FALLBACK_DATA = {
             "price": 1616.97
           },
           {
-            "date": "08-24",
-            "price": 1611.3
+            "date": "08-25",
+            "price": 1612.7
           }
         ],
         "1M": [
@@ -3040,26 +3040,26 @@ const FALLBACK_DATA = {
             "price": 1616.97
           },
           {
-            "date": "08-24",
-            "price": 1611.3
+            "date": "08-25",
+            "price": 1612.7
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1601.63
+            "price": 1603.02
           },
           {
             "time": "11:00",
-            "price": 1604.85
+            "price": 1606.25
           },
           {
             "time": "13:00",
-            "price": 1608.08
+            "price": 1609.47
           },
           {
-            "time": "08:16",
-            "price": 1611.3
+            "time": "09:51",
+            "price": 1612.7
           }
         ],
         "1Y": [
@@ -3113,7 +3113,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1611.3
+            "price": 1612.7
           }
         ]
       },
@@ -3121,7 +3121,7 @@ const FALLBACK_DATA = {
         {
           "title": "CBA currency exchange rates (24.08.2026) - Report.az",
           "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TdIBe0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TQ?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85TGZaUWpESGx3Q2NMSk5lN0dHR3lhcmRLT2lNOTQ1Znl4VVoyT1ZIWnFkcHdyVW4zRWp4bUxnU1pVUXIta0hrQ0N3ODg0MUJVWlJ2V1dPRnpPRmR6Q29DWDF4bHdSRWNZRVc2RDlSb3VWTWVzSlHSAXtBVV95cUxPdEZiQ0lqZTlpd2ZzRFFTTzhJc2JUcm9pNkZtVXRFdEw3NkJsR1VxMVF4OGhDWDFjUFFmWHdjVktnd0VBOEdDMmZXQk1kQU9mUGs5QjRtVjNrTWpGV1V4MGpLTTNlVFB5SVlab0xWQzB3MldpUkxXMXhFdU0?oc=5",
           "date": "08-24 14:19"
         },
         {
@@ -3135,12 +3135,6 @@ const FALLBACK_DATA = {
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3hmbThlS0VKXzRtckluZ2N0YVlDVUVlVHpHMmFBdjU0dC1ZYlM1X3NFSW1XU1lMaEtLa1VsZ3FKVFJnOExSMFpsNzBQZWVzTFFVM3VIdjM1TmpYTFJENDM4c1NlWUVJZ1RLMUhMYTBXdWV2ajlMN3VlSFp5bC10Q3UyZTk?oc=5",
           "date": "08-24 09:31"
-        },
-        {
-          "title": "Nepal Rastra Bank Sets Today's Exchange Rate - Ratopati",
-          "source": "Ratopati",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY1pOMXlsZ18yVmg2VkJCcTItNldQRVA4RV84Ym5hS3lqckUxU1AyaS1WWjQzbk10X1ljRnZ4YWlvNDA3QUpYenpfakhFRFdJWGhhS19KNVZweF9wSXlTdnpSd1g5b2F0OURRdEtPRFl3ay1EVTdNd01YWUphWFloazF1ai00UnZOaEw5Uw?oc=5",
-          "date": "08-22 08:41"
         }
       ],
       "newsKr": [
