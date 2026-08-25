@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-25 12:41:39",
+  "last_updated": "2026-08-25 13:32:02",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 12:41",
+    "report_date": "2026.08.25, 13:32",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.99원 (▼1.99원)",
-    "fx_eur": "1,611.30원 (▼5.67원)",
+    "fx_usd": "1,383.99원 (▼0.99원)",
+    "fx_eur": "1,612.70원 (▼4.27원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 12:41",
+    "report_date": "2026.08.25, 13:32",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,382.99원 (▼1.99원)",
-    "fx_eur": "1,611.30원 (▼5.67원)",
+    "fx_usd": "1,383.99원 (▼0.99원)",
+    "fx_eur": "1,612.70원 (▼4.27원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-25T12:41:39.209556+09:00",
-  "usdKrwRate": 1382.95,
-  "eurKrwRate": 1611.3,
+  "lastUpdated": "2026-08-25T13:32:02.810749+09:00",
+  "usdKrwRate": 1383.97,
+  "eurKrwRate": 1612.7,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5917.14
           },
           {
-            "time": "12:41",
+            "time": "13:31",
             "price": 5929.0
           }
         ],
@@ -173,10 +173,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "07-24",
-            "price": 5376.0
-          },
           {
             "date": "07-27",
             "price": 5100.0
@@ -396,7 +392,7 @@
       "high7d": 8016.0,
       "low7d": 7453.82,
       "high1m": 8016.0,
-      "low1m": 6918.1,
+      "low1m": 7043.76,
       "volume": 0,
       "sparkline": [
         7453.82,
@@ -422,7 +418,7 @@
             "price": 7520.32
           },
           {
-            "time": "12:41",
+            "time": "13:31",
             "price": 7535.39
           }
         ],
@@ -457,10 +453,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "07-24",
-            "price": 6918.1
-          },
           {
             "date": "07-27",
             "price": 7155.09
@@ -613,10 +605,10 @@
           "date": "08-25 00:36"
         },
         {
-          "title": "Agricultural product prices today, August 24, 2026: Domestic coffee prices continue to rise, pressure from international markets remains strong; US reciprocal tariff refunds have exceeded revenue. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWGhTRGh1S040djRlbm9rZEpMai13YVYxekxNQWdyZDNTdm9DXzRqeS04WnpIc0p4MGZVMWhlZ0VnejhBZ3h4M2wtMkhpTWhGdVRTclFTZmpqVjlPM0FGcWZwVXNsOWF2Y1RKNDhkenlVdmJmdzRiWDdPX2RpYlp1WHBTdl9ZZHpGTXpkeDRQcTFiX3NlaVlXRW92WHA1YWs1S1huZ0xXalBWQ3FKeldWTnpwSlJwMHVLTkN3bFpOQVNmT2hyODBzYkxnVlVrdkY2MTM3SUJ6R0l0bFBNcHdEQlZlOHdSTERISTNydmlEeXdvNXdnLVRLMWthQ3Z4WHNZ?oc=5",
-          "date": "08-24 14:49"
+          "title": "Coffee Arabica Weekly: Higher Realm Tested and Speculative Support Holds - DailyForex",
+          "source": "DailyForex",
+          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXdxODMzNl80bENCV3MxdkM4cUIzakpCdGRnaXh2dzNlVTYxQzRXbmtyNHlkczBtbk95U0lBWWF6cEpIeDdoeTN0V3JVNDBNalFKUHJpMWJHcWpJM09ROGs4WVUxTFRoVVFkNkxJdnl0U1dlMXZzMFd5ZXBGSWFrXzA0RFNhVUpsWDl4Q0stek5PQTBMUHFnLW5IV05BYXUtZzlVNWM4ZE4ycXNTLXVRQ21EaHF6RjJGdTlWNEtMZm9lRzVBUXFYWFFIVWE5LThKUUp0TWhyNHl6UQ?oc=5",
+          "date": "08-23 21:04"
         }
       ],
       "newsKr": [
@@ -831,7 +823,7 @@
             "price": 3720.54
           },
           {
-            "time": "12:41",
+            "time": "13:31",
             "price": 3728.0
           }
         ],
@@ -910,10 +902,10 @@
           "date": "08-25 03:30"
         },
         {
-          "title": "Coffee prices today, August 22nd: Sharp drop, robusta hits a one-week low. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaEk2cGczOW10cEJqcWFUY09JZXdfRmZoemJWZkpvbmtpSHNYeDdCM2l0NEZkX0ZHUEpOeWFVdG1sV2R6dlRhVHZvYnpUZkJreEw1TU5fSXhqbHUyM1BiTUU2ODZzb1dSSHlNbHpkVnJhb2k5SHF1TEQzY2ZiTVgyREwwTEtrWVZtMFkw?oc=5",
-          "date": "08-22 13:06"
+          "title": "Arabica futures hit their highest level since January last week: Fnc and Vicofa sound the alarm over El Niño's impact on production - Comunicaffe International",
+          "source": "Comunicaffe International",
+          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2hMQ0d0TFlNOURKaHJabk9RRFZyTXJvUEZNN3ZWeTJNaEs3QUtvMWRpVHNEanhIYVhkWDFXck5DRkpkR0VCMTdhYW9NOW9Ja0RKcXhFdmNQa0J0UXkzRF81a1ZWRmtKTl9jbHlfLUZodFZCTEFEMVo2NWw5VnlhSm5DZnprV0R5STViTU13Z1dRM1dXYzNKaHZ1Y0RJbXM4THU2bW4yN2doTkJlaUFWMUFCR2tZT0U0VlRfdHpvbWJQNzNYLURJS3JmWHo3S2xyN3c?oc=5",
+          "date": "08-24 18:15"
         }
       ],
       "newsKr": [
@@ -1422,10 +1414,10 @@
           "date": "08-25 06:19"
         },
         {
-          "title": "Switzerland’s Reconstituted Milk Market Is Set to Grow - Dairy News Today",
-          "source": "Dairy News Today",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTGo2ZXY3TUtXRTFzekhCSTBPX3Q3Y0o4eWg2bW1jWGM5bzZwOXVxcGFaM2l0eWt6ZmlLdGdrRzVGTV9IQVBNUG1qaWhiNXN6TU9ubnNTV2M4V1pXWVhWZVkySzdDZVliUmJXaGZIdXVWUDhpYjJwaU0yNi1uTXYta2hNZG9feHoxcEU1M2tWVG1KVlpHVk9VQlZFV2I?oc=5",
-          "date": "08-24 17:13"
+          "title": "UK Cheese Exports Reach All-Time High In Q2 2026 As Powders Gain But Overall Dairy Shipments Drop 25% - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSWJQWEo3Y3ZPRm9NWElvWTJkMUZzMUtwVUFMdEdJQi1qSlRrSGp1bVJLWFc4WEdzRmxfMUtHdEsxWTFIWExacDUzM3VQM3hpUTR3Tlp0eWdJOUxmeF9oQ0duUjc2Q2VUV1ZQNTdoTW84aWc5NWdLRjJxUW43YjFIdDcybU1nZXBZZWNoazIwZjZtbmNDRERnWWhuX0YwaVU2ai1yR3l2Q3FPbmFzbkUyUkxsT1N6WUdWaUxpcHNPcTlZem5XMWc?oc=5",
+          "date": "08-24 06:46"
         }
       ],
       "newsKr": [
@@ -2039,10 +2031,6 @@
         ],
         "1M": [
           {
-            "date": "07-24",
-            "price": 1130.25
-          },
-          {
             "date": "07-27",
             "price": 1128.25
           },
@@ -2141,7 +2129,7 @@
             "price": 1178.64
           },
           {
-            "time": "12:41",
+            "time": "13:31",
             "price": 1181.0
           }
         ],
@@ -2204,22 +2192,22 @@
           "date": "08-24 20:28"
         },
         {
+          "title": "Indonesia takes on Malaysia in battle over palm oil pricing - South China Morning Post",
+          "source": "South China Morning Post",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhOZFR2RDlHU1NOdGlrclc4dUZ4TXhvU0lmdmN1UGg3ZXp5UWEzMzRmZGRMMGdhTjMzRlFNNDlTRDFvYlpxUnhLU19GcGNWTlhYMlo3ejVmLVEyYTV5WUZkMno0bVcxdUpXU0VuZldESHo5dWRuN2V0LUw1WVA5NW4tVFJvQldFak4wd3BXWHkzUVROQV9QbG04ZXBiYkJqUDJzeDRBVTlVb29ZRktn0gGvAUFVX3lxTE83Smp1cFZEa2FPX3RSbENIT2x6a3huX0RSZjlOU3BVMGtIM1NnRlU2eFpiUWl3UWpsZVZLN1BacnhGNEJ3Tnlya2J5bFFLM0o5NGZENHhScHpyYXZKN0E4Y2tPcXE1YmR3M2t5aEM4YkdQUW1KVllndUszUzNFX1Jwa2tWYTBwdkVTSVBkZkF5ZnpPRmJBb3JZZ3hnMXBHWmJyc2JMNHVnWHhheV8teW8?oc=5",
+          "date": "08-24 09:00"
+        },
+        {
           "title": "CPO Futures End Lower On Profit-taking, Weaker Crude Oil - BernamaBiz",
           "source": "BernamaBiz",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBUMktqWmc1S0dRWHgxQmtMTnhRNFhCcTB0X04wYWtGMVdLcEltRkZBMGpWcC1McmkxVDF5UzlzY285b045dW5JZmlxRGR1UVRKRjZ0dFhpYXVkUQ?oc=5",
           "date": "08-24 23:27"
         },
         {
-          "title": "Malaysian Palm Oil Prices Snap A Five-Session Winning Streak - Finimize",
-          "source": "Finimize",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV29Gd0h5X1R2UWFncTVrTmxUaU1Jbk02bE5CNjhOekpIZFExejhuck9xbXAyeVRLVTZydmtoRkplUWJ3SVQtekoya29YWmpPdVN4Z2F4VGVHU2lHTi1ZNE5oRl90VUQxY1RWWXRnVTdPaHRDYTNVMzJtRnFBc1BsQnozNUdFVkJqTGh6OXFFMGZGNTg?oc=5",
-          "date": "08-24 12:07"
-        },
-        {
-          "title": "Indonesia takes on Malaysia in battle over palm oil pricing - South China Morning Post",
-          "source": "South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0pqdXBWRGthT190UmxDSE9semt4bl9EUmY5TlNwVTBrSDNTZ0ZVNnhaYlFpd1FqbGVWSzdQWnJ4RjRCd055cmtieWxRSzNKOTRmRDR4UnB6cmF2SjdBOGNrT3FxNWJkdzNreWhDOGJHUFFtSlZZZ3VLM1MzRV9ScGtrVmEwcHZFU0lQZGZBeWZ6T0ZiQW9yWWd4ZzFwR1picnNiTDR1Z1h4YXlfLXlv0gGvAUFVX3lxTE83Smp1cFZEa2FPX3RSbENIT2x6a3huX0RSZjlOU3BVMGtIM1NnRlU2eFpiUWl3UWpsZVZLN1BacnhGNEJ3Tnlya2J5bFFLM0o5NGZENHhScHpyYXZKN0E4Y2tPcXE1YmR3M2t5aEM4YkdQUW1KVllndUszUzNFX1Jwa2tWYTBwdkVTSVBkZkF5ZnpPRmJBb3JZZ3hnMXBHWmJyc2JMNHVnWHhheV8teW8?oc=5",
-          "date": "08-24 09:00"
+          "title": "Indonesia Launches National Commodity Exchange, Challenging Malaysia's Palm Oil Pricing Dominance - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKaDRQUnlFNUJiLUNYLTZURUdfaHVEa2VLOUYtbHQzeVBHcXk2TE9mOUhsSnVwN2p0S19xbjJTbFc2LWtabHhRbWZuNVA5X01FU3RaNHAzSXRlZS10Zndua01KQlUyUXpGMzRpbUtmT2lxQXRsY1E?oc=5",
+          "date": "08-25 03:54"
         }
       ],
       "newsKr": [
@@ -2515,7 +2503,7 @@
             "price": 1926.14
           },
           {
-            "time": "12:41",
+            "time": "13:32",
             "price": 1930.0
           }
         ]
@@ -2597,17 +2585,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1382.99,
-      "change": -1.99,
-      "changePercent": -0.14,
+      "price": 1383.99,
+      "change": -0.99,
+      "changePercent": -0.07,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1383.08,
+      "high24h": 1384.88,
       "low24h": 1378.38,
       "high7d": 1415.37,
-      "low7d": 1382.99,
+      "low7d": 1383.99,
       "high1m": 1464.44,
-      "low1m": 1382.99,
+      "low1m": 1383.99,
       "volume": 0,
       "sparkline": [
         1415.37,
@@ -2616,7 +2604,7 @@
         1389.4,
         1390.79,
         1384.98,
-        1382.99
+        1383.99
       ],
       "history": {
         "7D": [
@@ -2646,7 +2634,7 @@
           },
           {
             "date": "08-25",
-            "price": 1382.99
+            "price": 1383.99
           }
         ],
         "1M": [
@@ -2736,25 +2724,25 @@
           },
           {
             "date": "08-25",
-            "price": 1382.99
+            "price": 1383.99
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1374.69
+            "price": 1375.69
           },
           {
             "time": "11:00",
-            "price": 1377.46
+            "price": 1378.45
           },
           {
             "time": "13:00",
-            "price": 1380.22
+            "price": 1381.22
           },
           {
-            "time": "12:41",
-            "price": 1382.99
+            "time": "13:32",
+            "price": 1383.99
           }
         ],
         "1Y": [
@@ -2808,7 +2796,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1382.99
+            "price": 1383.99
           }
         ]
       },
@@ -2843,7 +2831,7 @@
           "title": "[환율 전망] 달러/원의 바닥을 찾아서 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81cGtQckJSODgycUhlYWQtM0hFRGR1dmx5NkU3bTA3SnZnVzFucTBIbzE5a3NRdWQ2elJhYUdFeVNSY1FJemNfc1A1SkdQaVdwcjZMWUloeFFmZFRtRkpzcg?oc=5",
-          "date": "08-25 10:51"
+          "date": "08-25 07:58"
         },
         {
           "title": "“연말까지 더 내린다”…1300원대 진입한 환율, 전망도 줄하향 - v.daum.net",
@@ -2889,9 +2877,9 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1611.3,
-      "change": -5.67,
-      "changePercent": -0.35,
+      "price": 1612.7,
+      "change": -4.27,
+      "changePercent": -0.26,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1612.7,
@@ -2908,7 +2896,7 @@
         1620.23,
         1626.37,
         1616.97,
-        1611.3
+        1612.7
       ],
       "history": {
         "7D": [
@@ -2938,7 +2926,7 @@
           },
           {
             "date": "08-25",
-            "price": 1611.3
+            "price": 1612.7
           }
         ],
         "1M": [
@@ -3028,25 +3016,25 @@
           },
           {
             "date": "08-25",
-            "price": 1611.3
+            "price": 1612.7
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1601.63
+            "price": 1603.02
           },
           {
             "time": "11:00",
-            "price": 1604.85
+            "price": 1606.25
           },
           {
             "time": "13:00",
-            "price": 1608.08
+            "price": 1609.47
           },
           {
-            "time": "12:41",
-            "price": 1611.3
+            "time": "13:32",
+            "price": 1612.7
           }
         ],
         "1Y": [
@@ -3100,7 +3088,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1611.3
+            "price": 1612.7
           }
         ]
       },
@@ -3112,16 +3100,16 @@
           "date": "08-24 14:19"
         },
         {
-          "title": "Dollar Remains Stable, Rouble Gains, Euro Slips — Central Bank Exchange Rates - Fineko/abc.az",
-          "source": "Fineko/abc.az",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelJQRm9yZTJHVHM5bnhoWmRkQUFqbzc5Nk9vVXQtMTRER3Zoa1I3VFhmZ1VlMzg0WXo5UEh6U3BiQldqbzIwOG5UM05nSDJySmxWdkQ2Q3E0ekdQZmV2VkhNMDdzcl8wR01VU0NRUHlCa2YtazYwZGtGT2NTbGRMZ0xfM1I2b1R2MWxoRTVyX3pDMGlIcTk3NFdld2tpb00ySzlVUkF3?oc=5",
-          "date": "08-24 14:34"
-        },
-        {
           "title": "Nepal Rastra Bank Sets Foreign Exchange Rates - Ratopati",
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3hmbThlS0VKXzRtckluZ2N0YVlDVUVlVHpHMmFBdjU0dC1ZYlM1X3NFSW1XU1lMaEtLa1VsZ3FKVFJnOExSMFpsNzBQZWVzTFFVM3VIdjM1TmpYTFJENDM4c1NlWUVJZ1RLMUhMYTBXdWV2ajlMN3VlSFp5bC10Q3UyZTk?oc=5",
           "date": "08-24 09:31"
+        },
+        {
+          "title": "Dollar Remains Stable, Rouble Gains, Euro Slips — Central Bank Exchange Rates - Fineko/abc.az",
+          "source": "Fineko/abc.az",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelJQRm9yZTJHVHM5bnhoWmRkQUFqbzc5Nk9vVXQtMTRER3Zoa1I3VFhmZ1VlMzg0WXo5UEh6U3BiQldqbzIwOG5UM05nSDJySmxWdkQ2Q3E0ekdQZmV2VkhNMDdzcl8wR01VU0NRUHlCa2YtazYwZGtGT2NTbGRMZ0xfM1I2b1R2MWxoRTVyX3pDMGlIcTk3NFdld2tpb00ySzlVUkF3?oc=5",
+          "date": "08-24 14:34"
         }
       ],
       "newsKr": [
