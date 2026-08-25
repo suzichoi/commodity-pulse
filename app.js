@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-25 14:24:57",
+  "last_updated": "2026-08-25 15:33:40",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 14:24",
+    "report_date": "2026.08.25, 15:33",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.45원 (▼1.53원)",
-    "fx_eur": "1,611.30원 (▼5.67원)",
+    "fx_usd": "1,385.78원 (▲0.80원)",
+    "fx_eur": "1,614.90원 (▼2.07원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.25",
-    "report_date": "2026.08.25, 14:24",
+    "report_date": "2026.08.25, 15:33",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
     "top_loser": "아라비카 커피 : $7,535.39 (▼4.72%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.45원 (▼1.53원)",
-    "fx_eur": "1,611.30원 (▼5.67원)",
+    "fx_usd": "1,385.78원 (▲0.80원)",
+    "fx_eur": "1,614.90원 (▼2.07원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-25T14:24:57.883760+09:00",
-  "usdKrwRate": 1383.05,
-  "eurKrwRate": 1611.3,
+  "lastUpdated": "2026-08-25T15:33:40.389482+09:00",
+  "usdKrwRate": 1385.8,
+  "eurKrwRate": 1614.9,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5917.14
           },
           {
-            "time": "14:24",
+            "time": "15:33",
             "price": 5929.0
           }
         ],
@@ -435,7 +435,7 @@ const FALLBACK_DATA = {
             "price": 7520.32
           },
           {
-            "time": "14:24",
+            "time": "15:33",
             "price": 7535.39
           }
         ],
@@ -642,16 +642,16 @@ const FALLBACK_DATA = {
           "date": "08-25 08:23"
         },
         {
+          "title": "오늘 8월 25일 커피 가격: kg당 1,000동 상승 - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTl6MXJ1YmlFbF9PLWVIQ3hGejhyX012cVR6YmgySkxiQ2FQVGRfMWlSRi1TVmNFUWphN0RTVFFvMkJoV3NvbUk0ZFZwZGdlT0QyR2dudnRjRDFvMkNTVG8zbGxpTjNrVlVYOHdmRVc5Sk9iV1lmRmhjcHZJT0tKc0RxbEtCejQ5S1pkSQ?oc=5",
+          "date": "08-25 15:22"
+        },
+        {
           "title": "2026년 8월 25일 오늘 커피 가격: 최고가 96,800 VND/kg - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1FCTWtDaHhwRER4UFUxZWIxNWdQbmVQRmM1bEJCQmpzbHlYZ0Y5a05ubWVEQlBZeEZYU2EwdHNvR0l4LWJzWXZqWnVZbEtBNTVKdkQwNkxmRVFJSkRENWRBcnR3US1nUkx6Wk5YVWtPTnZJd3p2VmRva01adUlTNjdLNUE?oc=5",
           "date": "08-25 12:10"
-        },
-        {
-          "title": "오늘의 농업 뉴스(8월 25일): 커피 가격이 소폭 상승했습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMEl5ckxEUG1nUE5UZndKUmRnTWRfcWV6a2w5aUpoaGhyc3NrSGFHejBXTjVicERNX3JUYy1SaTVZTUY0Vk4ySUx0SHFlVGpHUUY5QUw4YVBMa3BJNUJqV09MT0NwTjZwd0lWWkxKVmVfVmw1eTlWX1NZX3JFNnFubw?oc=5",
-          "date": "08-25 11:43"
         }
       ],
       "original_price_lb": 341.8
@@ -840,7 +840,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "14:24",
+            "time": "15:33",
             "price": 3728.0
           }
         ],
@@ -901,12 +901,6 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Coffee: How to read Coffee market moves - equiti.com",
-          "source": "equiti.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOURkdnllLTZvTnBOWWQzbnVHSzNQYVdvRm51clFZR3lwbFpRS0VNclZkOGsyVG5nazRrMjVfN25KVk9GR3RlRG8zbHNRNnVic3EyQzdKZTdkdTZNTTlUWU9zcm0wRmVYM1JtZk1nUjVTUjQzWmpDZldJaWw4UHVMNmRNWE1yS0RPNjBwNDRKQkRBZw?oc=5",
-          "date": "08-23 08:22"
-        },
-        {
           "title": "Agricultural product prices today, August 24, 2026: Domestic coffee prices continue to rise, pressure from international markets remains strong; US reciprocal tariff refunds have exceeded revenue. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOWGhTRGh1S040djRlbm9rZEpMai13YVYxekxNQWdyZDNTdm9DXzRqeS04WnpIc0p4MGZVMWhlZ0VnejhBZ3h4M2wtMkhpTWhGdVRTclFTZmpqVjlPM0FGcWZwVXNsOWF2Y1RKNDhkenlVdmJmdzRiWDdPX2RpYlp1WHBTdl9ZZHpGTXpkeDRQcTFiX3NlaVlXRW92WHA1YWs1S1huZ0xXalBWQ3FKeldWTnpwSlJwMHVLTkN3bFpOQVNmT2hyODBzYkxnVlVrdkY2MTM3SUJ6R0l0bFBNcHdEQlZlOHdSTERISTNydmlEeXdvNXdnLVRLMWthQ3Z4WHNZ?oc=5",
@@ -923,6 +917,12 @@ const FALLBACK_DATA = {
           "source": "Comunicaffe International",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2hMQ0d0TFlNOURKaHJabk9RRFZyTXJvUEZNN3ZWeTJNaEs3QUtvMWRpVHNEanhIYVhkWDFXck5DRkpkR0VCMTdhYW9NOW9Ja0RKcXhFdmNQa0J0UXkzRF81a1ZWRmtKTl9jbHlfLUZodFZCTEFEMVo2NWw5VnlhSm5DZnprV0R5STViTU13Z1dRM1dXYzNKaHZ1Y0RJbXM4THU2bW4yN2doTkJlaUFWMUFCR2tZT0U0VlRfdHpvbWJQNzNYLURJS3JmWHo3S2xyN3c?oc=5",
           "date": "08-24 18:15"
+        },
+        {
+          "title": "Slow Pace of Brazil Harvest and Tight Inventories Boost Coffee Prices - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX0xmWVJmNnNURE95UEFpcWxQa01tdm9Nbkt6YS1yVEZJZUxIUkhqMkplYkc3UWUydWRMX3Z1TzkzWGJUc2dxR1FZTU50S21VMDNQdXJIWjlZRVFueUdwc0ZBTThpVmlmc1RMX3Y0dUtrSE8xQ0tYZ05GWW1uNW9kSTVEWVNVb3F0aEYyNGEwMTBJRkpLdS14R2NaWkZhNDVZYU5yVHBBVnJ3a2s3R3FtYzE3dw?oc=5",
+          "date": "08-25 00:43"
         }
       ],
       "newsKr": [
@@ -931,6 +931,12 @@ const FALLBACK_DATA = {
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZkJWeGJkVVNEcFBGTkRxVkhuT1lvRmpaM1Vkd3NGSkxuSGR4UXRRV0pINm0tcU94NXV1ckcxQkVGbEhCSkRTRUlqUzhnT1hmd3JHX05vZHhycDJRUjBpMFNwUXc4aDZ3Zl9kZ3J4VFIzSGw1Z1g3NVNKa1BfV2stVG1jWDlfcTJDLVNFdzBnMHhRa1RaUmpF?oc=5",
           "date": "08-25 08:23"
+        },
+        {
+          "title": "오늘 8월 25일 커피 가격: kg당 1,000동 상승 - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcTl6MXJ1YmlFbF9PLWVIQ3hGejhyX012cVR6YmgySkxiQ2FQVGRfMWlSRi1TVmNFUWphN0RTVFFvMkJoV3NvbUk0ZFZwZGdlT0QyR2dudnRjRDFvMkNTVG8zbGxpTjNrVlVYOHdmRVc5Sk9iV1lmRmhjcHZJT0tKc0RxbEtCejQ5S1pkSQ?oc=5",
+          "date": "08-25 15:22"
         },
         {
           "title": "2026년 8월 25일 오늘, 커피 가격은 전 품목에 걸쳐 kg당 300 VND씩 인상되었습니다. - Vietnam.vn",
@@ -943,12 +949,6 @@ const FALLBACK_DATA = {
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ1FCTWtDaHhwRER4UFUxZWIxNWdQbmVQRmM1bEJCQmpzbHlYZ0Y5a05ubWVEQlBZeEZYU2EwdHNvR0l4LWJzWXZqWnVZbEtBNTVKdkQwNkxmRVFJSkRENWRBcnR3US1nUkx6Wk5YVWtPTnZJd3p2VmRva01adUlTNjdLNUE?oc=5",
           "date": "08-25 12:10"
-        },
-        {
-          "title": "오늘 8월 24일 커피 가격: 소폭 상승, 세계 반대 방향 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaG4yTkc1YmRwVE5iZkhYZnl6SkgwYW4zQkh2RUljMlF3WTZHeTZCdURwRDljM1VHNGFadTctS3FHLUQzdXNMQ0RJZ2RJanM1djE3aXpDRU5UZXRTWDgxeHVlWDBHU1FFYzFTZnZlM01hdmFSejU1b1BUOFhWUVN0UUxCZHF5bWJlNVRWUHBaWnc0d1pOUWs5cXpuektUQQ?oc=5",
-          "date": "08-24 13:29"
         }
       ]
     },
@@ -2146,7 +2146,7 @@ const FALLBACK_DATA = {
             "price": 1178.64
           },
           {
-            "time": "14:24",
+            "time": "15:33",
             "price": 1181.0
           }
         ],
@@ -2221,10 +2221,10 @@ const FALLBACK_DATA = {
           "date": "08-24 23:27"
         },
         {
-          "title": "Indonesia Launches National Commodity Exchange, Challenging Malaysia's Palm Oil Pricing Dominance - finance.biggo.com",
-          "source": "finance.biggo.com",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKaDRQUnlFNUJiLUNYLTZURUdfaHVEa2VLOUYtbHQzeVBHcXk2TE9mOUhsSnVwN2p0S19xbjJTbFc2LWtabHhRbWZuNVA5X01FU3RaNHAzSXRlZS10Zndua01KQlUyUXpGMzRpbUtmT2lxQXRsY1E?oc=5",
-          "date": "08-25 03:54"
+          "title": "Malaysian Palm Oil Prices Snap A Five-Session Winning Streak - Finimize",
+          "source": "Finimize",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV29Gd0h5X1R2UWFncTVrTmxUaU1Jbk02bE5CNjhOekpIZFExejhuck9xbXAyeVRLVTZydmtoRkplUWJ3SVQtekoya29YWmpPdVN4Z2F4VGVHU2lHTi1ZNE5oRl90VUQxY1RWWXRnVTdPaHRDYTNVMzJtRnFBc1BsQnozNUdFVkJqTGh6OXFFMGZGNTg?oc=5",
+          "date": "08-24 12:07"
         }
       ],
       "newsKr": [
@@ -2520,7 +2520,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "14:24",
+            "time": "15:33",
             "price": 1930.0
           }
         ]
@@ -2602,17 +2602,17 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1383.45,
-      "change": -1.53,
-      "changePercent": -0.11,
+      "price": 1385.78,
+      "change": 0.8,
+      "changePercent": 0.06,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1384.88,
+      "high24h": 1385.98,
       "low24h": 1378.38,
       "high7d": 1415.37,
-      "low7d": 1383.45,
+      "low7d": 1384.98,
       "high1m": 1464.44,
-      "low1m": 1383.45,
+      "low1m": 1384.98,
       "volume": 0,
       "sparkline": [
         1415.37,
@@ -2621,7 +2621,7 @@ const FALLBACK_DATA = {
         1389.4,
         1390.79,
         1384.98,
-        1383.45
+        1385.78
       ],
       "history": {
         "7D": [
@@ -2651,7 +2651,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1383.45
+            "price": 1385.78
           }
         ],
         "1M": [
@@ -2741,25 +2741,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1383.45
+            "price": 1385.78
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1375.15
+            "price": 1377.47
           },
           {
             "time": "11:00",
-            "price": 1377.92
+            "price": 1380.24
           },
           {
             "time": "13:00",
-            "price": 1380.68
+            "price": 1383.01
           },
           {
-            "time": "14:24",
-            "price": 1383.45
+            "time": "15:33",
+            "price": 1385.78
           }
         ],
         "1Y": [
@@ -2813,7 +2813,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1383.45
+            "price": 1385.78
           }
         ]
       },
@@ -2857,10 +2857,10 @@ const FALLBACK_DATA = {
           "date": "08-23 05:21"
         },
         {
-          "title": "강달러 추종 vs 월말 매도 물량 소화⋯\"전일 대비 소폭 상승\" [환율전망] - 이투데이",
-          "source": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6bkRWZW1mMHdCdFNHTEVZU0lSSTQyWjFBRWtTNUhieFhTc01kVXBidi1JTHowVFB3MWJjMEk2UURtd0lsX0t6aDd2eTVEZ0FDdWhDZg?oc=5",
-          "date": "08-25 07:54"
+          "title": "원화값 '나홀로 강세' 뚜렷…향후 환율 전망은? - 메트로신문",
+          "source": "메트로신문",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kNU9LaEJpRjJxa0QtY1lIRnAzVHZVYWNfY0ZYd1k5ektVZFJMLW0zbTkyUmpWY0hReGh1WUJOWmJ4bTZYOUFSX0x6NWRMd1ZLdUNUOUVMNWVxNXplRmx5bQ?oc=5",
+          "date": "08-25 14:04"
         },
         {
           "title": "지금 환전할까? 환율 전망 분석 - 네이버 프리미엄콘텐츠",
@@ -2894,12 +2894,12 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1611.3,
-      "change": -5.67,
-      "changePercent": -0.35,
+      "price": 1614.9,
+      "change": -2.07,
+      "changePercent": -0.13,
       "high52w": 1807.42,
       "low52w": 1582.09,
-      "high24h": 1612.7,
+      "high24h": 1614.9,
       "low24h": 1609.3,
       "high7d": 1638.16,
       "low7d": 1582.09,
@@ -2913,7 +2913,7 @@ const FALLBACK_DATA = {
         1620.23,
         1626.37,
         1616.97,
-        1611.3
+        1614.9
       ],
       "history": {
         "7D": [
@@ -2943,7 +2943,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1611.3
+            "price": 1614.9
           }
         ],
         "1M": [
@@ -3033,25 +3033,25 @@ const FALLBACK_DATA = {
           },
           {
             "date": "08-25",
-            "price": 1611.3
+            "price": 1614.9
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1601.63
+            "price": 1605.21
           },
           {
             "time": "11:00",
-            "price": 1604.85
+            "price": 1608.44
           },
           {
             "time": "13:00",
-            "price": 1608.08
+            "price": 1611.67
           },
           {
-            "time": "14:24",
-            "price": 1611.3
+            "time": "15:33",
+            "price": 1614.9
           }
         ],
         "1Y": [
@@ -3105,28 +3105,34 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-08",
-            "price": 1611.3
+            "price": 1614.9
           }
         ]
       },
       "newsEn": [
         {
-          "title": "CBA currency exchange rates (24.08.2026) - Report.az",
-          "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TdIBe0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TQ?oc=5",
-          "date": "08-24 14:19"
+          "title": "Nepal Rastra Bank Sets Today's Foreign Exchange Rates - Ratopati",
+          "source": "Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWlHRU9FbC0xdUkxVUp2WmdpdWpXeWhCMmJnbVZ4Y3NmWXNFcHJfTzFsaEFQbkljRncyN1hxdVVuLUpyLWVLN3pEbGJtOVpSazhpdG53alpWY1BNbUZfRXR5Nl8yVkk2REhuWXBsRm5qdzI1eGc0WEZWZTlzRUJGOEtyR0JxMXBKc3V5cFkxQzA3eWhsRWFDOQ?oc=5",
+          "date": "08-25 08:41"
         },
         {
-          "title": "Nepal Rastra Bank Sets Foreign Exchange Rates - Ratopati",
-          "source": "Ratopati",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa3hmbThlS0VKXzRtckluZ2N0YVlDVUVlVHpHMmFBdjU0dC1ZYlM1X3NFSW1XU1lMaEtLa1VsZ3FKVFJnOExSMFpsNzBQZWVzTFFVM3VIdjM1TmpYTFJENDM4c1NlWUVJZ1RLMUhMYTBXdWV2ajlMN3VlSFp5bC10Q3UyZTk?oc=5",
-          "date": "08-24 09:31"
+          "title": "CBA currency exchange rates (25.08.2026) - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FczZ3ZF9OYjJiU3VEdjR2emR0a0N0TXM1bHdPdU5YZGVCRVl1NF9DSFhyV0lVWVU3dGVscHl6RnVRZm1TTjNCMVVKTzNCaC1TUnNUaTFRR2Y0RkNrTS1wdGFCbm15SEotRmQ3SzBmM3IxMDdDaXfSAXtBVV95cUxNckt3X1NvQ0c3MFMxNW5OQzFtdlEta1BmU05ydHc4cWRnWXRwaW5scHpySENOOW11OWpUd2QxNFRRcmRSbE4zUk1JSmVtbzJhZDJRY2o1RkpaLWIzM0xuaGRNNFZiWUxzNnRfXzRnWHh3OU9YajNPTjJObVU?oc=5",
+          "date": "08-25 14:29"
         },
         {
           "title": "Dollar Remains Stable, Rouble Gains, Euro Slips — Central Bank Exchange Rates - Fineko/abc.az",
           "source": "Fineko/abc.az",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelJQRm9yZTJHVHM5bnhoWmRkQUFqbzc5Nk9vVXQtMTRER3Zoa1I3VFhmZ1VlMzg0WXo5UEh6U3BiQldqbzIwOG5UM05nSDJySmxWdkQ2Q3E0ekdQZmV2VkhNMDdzcl8wR01VU0NRUHlCa2YtazYwZGtGT2NTbGRMZ0xfM1I2b1R2MWxoRTVyX3pDMGlIcTk3NFdld2tpb00ySzlVUkF3?oc=5",
           "date": "08-24 14:34"
+        },
+        {
+          "title": "CBA currency exchange rates (24.08.2026) - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TdIBe0FVX3lxTE90RmJDSWplOWl3ZnNEUVNPOElzYlRyb2k2Rm1VdEV0TDc2QmxHVXExUXg4aENYMWNQUWZYd2NWS2d3RUE4R0MyZldCTWRBT2ZQazlCNG1WM2tNakZXVXgwaktNM2VUUHlJWVpvTFZDMHcyV2lSTFcxeEV1TQ?oc=5",
+          "date": "08-24 14:19"
         }
       ],
       "newsKr": [
