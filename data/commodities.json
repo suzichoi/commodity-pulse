@@ -1,18 +1,18 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-26 19:27:50",
+  "last_updated": "2026-08-26 20:22:03",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 19:27",
+    "report_date": "2026.08.26, 20:22",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,287.37 (▼11.00%)",
+    "top_loser": "아라비카 커피 : $7,273.04 (▼11.17%)",
     "weekly_price_list": [
-      "코코아 : $5,884.00 (▼3.71%)",
-      "아라비카 커피 : $7,287.37 (▲9.46%)",
+      "코코아 : $5,876.00 (▼3.71%)",
+      "아라비카 커피 : $7,273.04 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -22,8 +22,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,884.00 (▼3.71%)",
-      "아라비카 커피 : $7,287.37 (▲9.46%)",
+      "코코아 : $5,876.00 (▼3.71%)",
+      "아라비카 커피 : $7,273.04 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -32,8 +32,8 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.58원 (▲2.82원)",
-    "fx_eur": "1,612.90원 (▲2.13원)",
+    "fx_usd": "1,383.88원 (▲3.12원)",
+    "fx_eur": "1,613.60원 (▲2.83원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
@@ -43,12 +43,12 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 19:27",
+    "report_date": "2026.08.26, 20:22",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,287.37 (▼11.00%)",
+    "top_loser": "아라비카 커피 : $7,273.04 (▼11.17%)",
     "weekly_price_list": [
-      "코코아 : $5,884.00 (▼3.71%)",
-      "아라비카 커피 : $7,287.37 (▲9.46%)",
+      "코코아 : $5,876.00 (▼3.71%)",
+      "아라비카 커피 : $7,273.04 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -58,8 +58,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,884.00 (▼3.71%)",
-      "아라비카 커피 : $7,287.37 (▲9.46%)",
+      "코코아 : $5,876.00 (▼3.71%)",
+      "아라비카 커피 : $7,273.04 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -68,14 +68,14 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,383.58원 (▲2.82원)",
-    "fx_eur": "1,612.90원 (▲2.13원)",
+    "fx_usd": "1,383.88원 (▲3.12원)",
+    "fx_eur": "1,613.60원 (▲2.83원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-26T19:27:50.485834+09:00",
-  "usdKrwRate": 1384.01,
-  "eurKrwRate": 1612.9,
+  "lastUpdated": "2026-08-26T20:22:03.440921+09:00",
+  "usdKrwRate": 1383.78,
+  "eurKrwRate": 1613.6,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -102,9 +102,9 @@
           "글로벌 가공업체 분쇄량(Grindings) 지표 및 완제품 소비 수요"
         ]
       },
-      "price": 5884.0,
-      "change": 125.0,
-      "changePercent": 2.17,
+      "price": 5876.0,
+      "change": 117.0,
+      "changePercent": 2.03,
       "high52w": 7738.0,
       "low52w": 2798.0,
       "high24h": 5940.0,
@@ -113,7 +113,7 @@
       "low7d": 5759.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 1960,
+      "volume": 2518,
       "sparkline": [
         5905.0,
         6046.0,
@@ -121,25 +121,25 @@
         5990.0,
         5820.0,
         5759.0,
-        5884.0
+        5876.0
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 5848.7
+            "price": 5840.74
           },
           {
             "time": "11:00",
-            "price": 5860.46
+            "price": 5852.5
           },
           {
             "time": "13:00",
-            "price": 5872.23
+            "price": 5864.25
           },
           {
-            "time": "19:27",
-            "price": 5884.0
+            "time": "20:21",
+            "price": 5876.0
           }
         ],
         "7D": [
@@ -169,7 +169,7 @@
           },
           {
             "date": "08-26",
-            "price": 5884.0
+            "price": 5876.0
           }
         ],
         "1M": [
@@ -263,7 +263,7 @@
           },
           {
             "date": "08-26",
-            "price": 5884.0
+            "price": 5876.0
           }
         ],
         "1Y": [
@@ -309,7 +309,7 @@
           },
           {
             "date": "2026-08",
-            "price": 5884.0
+            "price": 5876.0
           }
         ]
       },
@@ -319,6 +319,12 @@
           "source": "Seeking Alpha",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMmE4bDU5WXFwVmFDbDhWeE51QTd6SnpEUVI1YWtad3ctZjNJUE55M2x2RDBBeE9UanV3MHRRWEs4T0N1bnd1QzVsNUM3d1oyY0p6cURFcUM5eVdOemFvRXRJYVVUMWZFMGFoN3FsZFV3cVRkR0RrNlFSSnNUZVZ3dEdVRDBVZUdPMlktYUg3Z1M5c3NwbE5aZHNRanZNdmp3M0FMTzRUZ1E?oc=5",
           "date": "08-26 12:15"
+        },
+        {
+          "title": "‘They will do it legally or illegally’: Interview with James Giahyue on Liberia’s cocoa boom - news - Mongabay",
+          "source": "news - Mongabay",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcmlSVE9wQTVidnBfNEtmV0UwSWgzSi1yWGdJWEVCNWRaRXpZUzA5dXY4SWpxaW1wdG9jaGhMNWNiSWg4dlpRWUJlbEZTTGVMTzNwZU5jQmkzbGxZRGlfaU5fUXNzWS1MVFp2QVZLdm1WWGlxRjJqWGJJTEw1Q25PNGp1aG1pcEh4TEN3Rmx6TTRLZ0lQN3Z1MVl0c25hWlJOSy04LTFWb0pIMHpnNFVzbFVsZWVOeERqR1Y3eGp3c2rSAcYBQVVfeXFMUFBQaHF0SDBTRmxmQ1JGYVhFTG0xbG9jVk1zVVVfYWkxaUdTSXpaUnd3RHpiM19xYVpFQU9iTS01dEE4RlhadVpoc2tOTUVNZE9aWTJVNVNtVnFUbDM3X0ptYjdSazB6WHpzMjRrYWVFRjB1cUxjeVpiSlROLTdBdjZQRGs3UjhNRDRZM3lwUzZaMHo4WHd3Y0c4TWZsR1EyM3M3RUhkRk82WEFpZGZ4VDYyRHppRVpaLWZKdk1VOUxHNnRFOTJB?oc=5",
+          "date": "08-26 20:15"
         },
         {
           "title": "Not cuckoo for cocoa prices - Korea JoongAng Daily",
@@ -331,12 +337,6 @@
           "source": "Moomoo",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGlIdWNnRUpIQl9UX0hjZmtQbkprMVJPVHVoSXRyd1lfUDh6TDA4NW9FTDliblhoRTduVHNlbmpNSE1yR2ZIRlJDZjZodlVtR3B0dTlNWFVjaG9ucnMtcFJjRy1MWG5LM0F1SndJSWxIWU15a2JXVUZaZmRKRzh5OUEwaWdjalNjQVVPdXVOSVVsb2s2cGk0Qm1hX2V5WnV4TlN3cHF4UjN0MktkQ1ZSYmxIMA?oc=5",
           "date": "08-25 15:57"
-        },
-        {
-          "title": "Cocoa Prices Fall as Supply Concerns Ease - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLTlJX3B0S0cxUy1ucWJZOWRzMVBjbDk5X0V0MFRybERhS3l2djhmblU4Mllsaml3S01TdUhwem5oT3VQNjd6S09FTkJwLVdqNk9Wdmo3LWctTEtIenc5TXZrY3g2VU9rMXo3SkEyUTB0UWl5VG5GaTl5QVVIb0cwYkoxVXpxaG5CazdDdDlR?oc=5",
-          "date": "08-25 03:31"
         }
       ],
       "newsKr": [
@@ -347,10 +347,10 @@
           "date": "08-26 16:50"
         },
         {
-          "title": "국제 코코아 가격 급등, 제과업계 '경고등' - v.daum.net",
+          "title": "국제 코코아 가격 급등 - v.daum.net",
           "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5lUnFjUjNESTZDaGJGMnJNUVJYZ3J1VTIzQkxXS1FVR2s4Zlh0VlZoejRCMnVsMndlQ3A4eGozUUFpdl84SHRUcUdwTk5jWkk?oc=5",
-          "date": "08-26 14:16"
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WSWMzdDJUOGtySW1FZWVSd0lSMEplMGtvbDBFcVVWdjV5TXZiQzNEcUFubGhLQ2otalRvQ01YRHYtdmM1TEE?oc=5",
+          "date": "08-26 14:17"
         },
         {
           "title": "다시 뛰는 코코아값…빼빼로·초코파이 원가 부담 커진다 - 아이뉴스24",
@@ -359,10 +359,10 @@
           "date": "08-26 14:41"
         },
         {
-          "title": "코코아값 반년 새 두 배 급등…제과업계, 하반기 원가 '경고등' - v.daum.net",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QVy1sM0RiQzZGeVVPM2cwUXRkZ0dNU0RQQVZRT0JocnRDeHBVY2VUbVEtamJxSnpxcVpOeHZOUG5aN2lfTGc?oc=5",
-          "date": "08-26 06:31"
+          "title": "코코아값 반년 새 두 배 급등…제과업계, 하반기 원가 '경고등' - 뉴스1",
+          "source": "뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YTExZSmx3UlNGZTloOXhBMzBiVXRJOXB5TGloS0ctNHAtZmxMcDQzUkNEUWRsSXFJRjFQeHVPYVFucXhwUUlwcWNKSS1iN29Qd2JaUjNfOElPYUdMODlV0gFkQVVfeXFMT19Yd0VlQVR0anJPQkNMOENKN2tDc0had3ZlX3ZvSjJ2Xy1ORnZ2X05meWU0OVRRdDJzWGg3UnBRcTR2S3RJd1F5YXFtUnJyaTY1ZnluejRxX2REOVJPUTlYX0hoTQ?oc=5",
+          "date": "08-26 06:30"
         }
       ]
     },
@@ -390,18 +390,18 @@
           "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
         ]
       },
-      "price": 7287.37,
-      "change": -900.59,
-      "changePercent": -11.0,
+      "price": 7273.04,
+      "change": -914.92,
+      "changePercent": -11.17,
       "high52w": 9655.13,
       "low52w": 5350.61,
       "high24h": 7342.49,
       "low24h": 7257.61,
       "high7d": 8327.95,
-      "low7d": 7287.37,
+      "low7d": 7273.04,
       "high1m": 8327.95,
       "low1m": 7043.76,
-      "volume": 1713,
+      "volume": 1937,
       "sparkline": [
         8011.59,
         7925.61,
@@ -409,25 +409,25 @@
         7909.07,
         8327.95,
         8187.96,
-        7287.37
+        7273.04
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 7243.65
+            "price": 7229.4
           },
           {
             "time": "11:00",
-            "price": 7258.22
+            "price": 7243.95
           },
           {
             "time": "13:00",
-            "price": 7272.8
+            "price": 7258.49
           },
           {
-            "time": "19:27",
-            "price": 7287.37
+            "time": "20:21",
+            "price": 7273.04
           }
         ],
         "7D": [
@@ -457,7 +457,7 @@
           },
           {
             "date": "08-26",
-            "price": 7287.37
+            "price": 7273.04
           }
         ],
         "1M": [
@@ -551,7 +551,7 @@
           },
           {
             "date": "08-26",
-            "price": 7287.37
+            "price": 7273.04
           }
         ],
         "1Y": [
@@ -597,7 +597,7 @@
           },
           {
             "date": "2026-08",
-            "price": 7287.37
+            "price": 7273.04
           }
         ]
       },
@@ -653,7 +653,7 @@
           "date": "08-26 15:15"
         }
       ],
-      "original_price_lb": 330.55
+      "original_price_lb": 329.9
     },
     {
       "id": "robusta",
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "19:27",
+            "time": "20:21",
             "price": 3728.0
           }
         ],
@@ -1918,16 +1918,16 @@
           "date": "08-26 02:35"
         },
         {
+          "title": "Royal A-ware acquires LaBan Foods - Dairy Business Middle East & Africa",
+          "source": "Dairy Business Middle East & Africa",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mTjNPUU9MalZiTVFjV094ZHgwQkk4Rjd0WWxwbDhRYVN4S01ITnM0Q09XaDhXS19xdUZ1eFdCbFFNY1JNUzlsSFh0Q1M4TWl6UWZXdWRCVnpPaDNmbTFkT1dOYkROMmVmZDJTYV9kUkRPZ3lzdTdIWTdnTHdNbUE?oc=5",
+          "date": "08-26 20:21"
+        },
+        {
           "title": "USDA Dairy Market News: CME Butter Cash Trading Update (Aug 24, 2026) - News and Statistics - IndexBox",
           "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMjNPZThMNUdqYTVYaHVZSEJablhpVnRENzdoMlo3enVNeEtpaUJzbnB0dWZNOG1aSFA1V0w4LXc0djNnbTZSLUFpSlJvYmt2VTFydWRkaENUY0gwVGZYWHY0a1NrQ2FocmZMN205NVNPaFFsczloN3Z3MXBTZTQ4YQ?oc=5",
           "date": "08-25 02:00"
-        },
-        {
-          "title": "CME cash dairy prices higher - Brownfield Ag News",
-          "source": "Brownfield Ag News",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZEwzZmpiOWhjak83cFRnYkV4aGdWT1Jnczk3QVZmeFFSU3lnRWVVekNZZjhCTmk3VTh1bGhfTVZDNEk5OFZtdVBXd2pTR2VScmpWRnM5VkhjZkF2M3RFNTZpb1Bxd0E2b3dFS3A2dkV5LUcxZy15UEh4c25PYW1lZ0ZKQQ?oc=5",
-          "date": "08-26 06:37"
         }
       ],
       "newsKr": [
@@ -2137,7 +2137,7 @@
             "price": 1178.64
           },
           {
-            "time": "19:27",
+            "time": "20:22",
             "price": 1181.0
           }
         ],
@@ -2511,7 +2511,7 @@
             "price": 1926.14
           },
           {
-            "time": "19:27",
+            "time": "20:22",
             "price": 1930.0
           }
         ]
@@ -2581,9 +2581,9 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1383.58,
-      "change": 2.82,
-      "changePercent": 0.2,
+      "price": 1383.88,
+      "change": 3.12,
+      "changePercent": 0.23,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1388.09,
@@ -2600,7 +2600,7 @@
         1390.79,
         1384.98,
         1380.76,
-        1383.58
+        1383.88
       ],
       "history": {
         "7D": [
@@ -2630,7 +2630,7 @@
           },
           {
             "date": "08-26",
-            "price": 1383.58
+            "price": 1383.88
           }
         ],
         "1M": [
@@ -2724,25 +2724,25 @@
           },
           {
             "date": "08-26",
-            "price": 1383.58
+            "price": 1383.88
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1375.28
+            "price": 1375.58
           },
           {
             "time": "11:00",
-            "price": 1378.05
+            "price": 1378.34
           },
           {
             "time": "13:00",
-            "price": 1380.81
+            "price": 1381.11
           },
           {
-            "time": "19:27",
-            "price": 1383.58
+            "time": "20:22",
+            "price": 1383.88
           }
         ],
         "1Y": [
@@ -2796,7 +2796,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1383.58
+            "price": 1383.88
           }
         ]
       },
@@ -2806,12 +2806,6 @@
           "source": "FXStreet",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONzJHS3ktX053Q1NrRmV2LXJ5clRxMGxqdlpmRjU3S0RERTBfWnk5NE9iMERmdU55RTZFeGc0UnB2WGFrZU0yMV9QMDFTdkgzd08tVDZNbWp2MlRMSTBPLWxvM2FtRTNtN1NReXA5V3NzVFdrS3NjZ3FmdjdPMTVCVEZYS3lKSFJCYVZ0MUl3MmpBbzZsMEpjaFAybjVPTUFOX0xkM2otM1VQczVQN29qU3hjdkNZSURGNHAyNllFcVJEZw?oc=5",
           "date": "08-26 04:54"
-        },
-        {
-          "title": "S. Korean Won Weakens To USD/KRW 1,435.3 ; KOSPI Closes At 2,219 On Monday Strada Statale 51 Di Alemagna (ldcSUDYOXH) - Mshale",
-          "source": "Mshale",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpTHlDWnFwajNTTENKSzdVYWdsYXY2S05sbHE5d1ZfZ2JzUkltTV9WMkk1MDlJaW54M0dxMUZfcUJNNUVGTjdnYWJ6YlFMZzFBbXlwMzI1VTlmUnM?oc=5",
-          "date": "08-26 12:15"
         },
         {
           "title": "USD/KRW Set for Consolidation, Commerzbank Analysts Say - CryptoRank",
@@ -2824,6 +2818,12 @@
           "source": "WOWK 13 News",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHdoSFp1VnFkeXBVX0F2VlVXdnZ4Ukd4Tzh3WW55MGpkR2ZPVklrODJGclhpTUVzMFZabTRkZXBrUkJSRmpaa1FSVldCQ1d1QVA5SnF4eEJ1RHh0N0JicjJKdFBoMFJyd3ppVG5mSjNONy1BVVhyQWg1Mm5wY082dzNCMzNaQ2x4V25mRDJfLTNwY0JheTNPSGVlQzl3WkEzaFp5UmdSYUVWS2fSAbABQVVfeXFMTnhqZ3otT3o3V3VaOHZTUXhKTjZhTTRuMmhnTGVjQ0hoZGJLSlNQVGMzX3ZKT1hUdXdDMGNnRjhOLVpBZkVBUHZ4UWxVMGoxVkNyTUJpaFpwRXAxVGROV3ljT1NoaDh5X3hDYUd3TS1nRUhXdnpyRUhOYmFDUnpVVm5yMkN5bTNTUUJWZlBCdUpVRTVsd0VuOXZaQWNLeGlKbklrZkhMd215dENGek5ycmY?oc=5",
           "date": "08-26 18:19"
+        },
+        {
+          "title": "Asia FX mixed ahead of U.S. PCE inflation; Aussie dollar gains on hot CPI - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOejN4Z29WWUktcFVmVzZZeFhlWlVWRVdILTlNUDBvdWRBQ2NUbnVtdm00VF94ekJ4UEJnOHM3SkxiMUh3U1JqTDdUWFpSVEMxSEIzel9JbTNqQU1qd3M1N0ZXMng4SS10b2FGbnJydkVrQ0tlN2diVE1OWDVlcXY5X0R1WGV4d0FBWGVFR2ctc21DNGNwU0NIeGVhamdxdlY0VlV5VmJJRl85Z3JiaUdjNWR2NmctamdXNlJpMWU4S3JBd3U0OXNF?oc=5",
+          "date": "08-26 13:43"
         }
       ],
       "newsKr": [
@@ -2877,9 +2877,9 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1612.9,
-      "change": 2.13,
-      "changePercent": 0.13,
+      "price": 1613.6,
+      "change": 2.83,
+      "changePercent": 0.18,
       "high52w": 1807.42,
       "low52w": 1582.09,
       "high24h": 1618.2,
@@ -2896,7 +2896,7 @@
         1626.37,
         1616.97,
         1610.77,
-        1612.9
+        1613.6
       ],
       "history": {
         "7D": [
@@ -2926,7 +2926,7 @@
           },
           {
             "date": "08-26",
-            "price": 1612.9
+            "price": 1613.6
           }
         ],
         "1M": [
@@ -3020,25 +3020,25 @@
           },
           {
             "date": "08-26",
-            "price": 1612.9
+            "price": 1613.6
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1603.22
+            "price": 1603.92
           },
           {
             "time": "11:00",
-            "price": 1606.45
+            "price": 1607.15
           },
           {
             "time": "13:00",
-            "price": 1609.67
+            "price": 1610.37
           },
           {
-            "time": "19:27",
-            "price": 1612.9
+            "time": "20:22",
+            "price": 1613.6
           }
         ],
         "1Y": [
@@ -3092,7 +3092,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1612.9
+            "price": 1613.6
           }
         ]
       },
