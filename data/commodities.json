@@ -1,18 +1,18 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-26 22:48:43",
+  "last_updated": "2026-08-26 23:37:32",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 22:48",
+    "report_date": "2026.08.26, 23:37",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,195.88 (▼12.12%)",
+    "top_loser": "아라비카 커피 : $7,117.62 (▼13.07%)",
     "weekly_price_list": [
-      "코코아 : $5,816.00 (▼3.71%)",
-      "아라비카 커피 : $7,195.88 (▲9.46%)",
+      "코코아 : $5,780.00 (▼3.71%)",
+      "아라비카 커피 : $7,117.62 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -22,8 +22,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,816.00 (▼3.71%)",
-      "아라비카 커피 : $7,195.88 (▲9.46%)",
+      "코코아 : $5,780.00 (▼3.71%)",
+      "아라비카 커피 : $7,117.62 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -32,7 +32,7 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.32원 (▲4.56원)",
+    "fx_usd": "1,386.28원 (▲5.52원)",
     "fx_eur": "1,614.00원 (▲3.23원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
@@ -43,12 +43,12 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.26",
-    "report_date": "2026.08.26, 22:48",
+    "report_date": "2026.08.26, 23:37",
     "top_gainer": "GDT 탈지분유 : $3,502.00 (▲7.39%)",
-    "top_loser": "아라비카 커피 : $7,195.88 (▼12.12%)",
+    "top_loser": "아라비카 커피 : $7,117.62 (▼13.07%)",
     "weekly_price_list": [
-      "코코아 : $5,816.00 (▼3.71%)",
-      "아라비카 커피 : $7,195.88 (▲9.46%)",
+      "코코아 : $5,780.00 (▼3.71%)",
+      "아라비카 커피 : $7,117.62 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -58,8 +58,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,816.00 (▼3.71%)",
-      "아라비카 커피 : $7,195.88 (▲9.46%)",
+      "코코아 : $5,780.00 (▼3.71%)",
+      "아라비카 커피 : $7,117.62 (▲9.46%)",
       "로부스타 커피 : $3,728.00 (▲2.31%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
@@ -68,13 +68,13 @@
       "팜유 : $1,181.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,385.32원 (▲4.56원)",
+    "fx_usd": "1,386.28원 (▲5.52원)",
     "fx_eur": "1,614.00원 (▲3.23원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 가격 5회 연속 하락세"
   },
-  "lastUpdated": "2026-08-26T22:48:43.087537+09:00",
-  "usdKrwRate": 1385.33,
+  "lastUpdated": "2026-08-26T23:37:32.978602+09:00",
+  "usdKrwRate": 1386.31,
   "eurKrwRate": 1614.0,
   "marketStatus": "OPEN",
   "items": [
@@ -102,18 +102,18 @@
           "글로벌 가공업체 분쇄량(Grindings) 지표 및 완제품 소비 수요"
         ]
       },
-      "price": 5816.0,
-      "change": 57.0,
-      "changePercent": 0.99,
+      "price": 5780.0,
+      "change": 21.0,
+      "changePercent": 0.36,
       "high52w": 7738.0,
       "low52w": 2798.0,
       "high24h": 6000.0,
-      "low24h": 5789.0,
+      "low24h": 5760.0,
       "high7d": 6088.0,
       "low7d": 5759.0,
       "high1m": 6088.0,
       "low1m": 5100.0,
-      "volume": 8337,
+      "volume": 9937,
       "sparkline": [
         5905.0,
         6046.0,
@@ -121,25 +121,25 @@
         5990.0,
         5820.0,
         5759.0,
-        5816.0
+        5780.0
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 5781.1
+            "price": 5745.32
           },
           {
             "time": "11:00",
-            "price": 5792.74
+            "price": 5756.88
           },
           {
             "time": "13:00",
-            "price": 5804.37
+            "price": 5768.44
           },
           {
-            "time": "22:48",
-            "price": 5816.0
+            "time": "23:37",
+            "price": 5780.0
           }
         ],
         "7D": [
@@ -169,7 +169,7 @@
           },
           {
             "date": "08-26",
-            "price": 5816.0
+            "price": 5780.0
           }
         ],
         "1M": [
@@ -263,7 +263,7 @@
           },
           {
             "date": "08-26",
-            "price": 5816.0
+            "price": 5780.0
           }
         ],
         "1Y": [
@@ -309,7 +309,7 @@
           },
           {
             "date": "2026-08",
-            "price": 5816.0
+            "price": 5780.0
           }
         ]
       },
@@ -333,10 +333,10 @@
           "date": "08-26 12:15"
         },
         {
-          "title": "Not cuckoo for cocoa prices - Korea JoongAng Daily",
-          "source": "Korea JoongAng Daily",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPci1TNzM1a2xoR2x4VFFKLTQ5MXdwRWIzX0h4elpaMlhEOS1ybXFpTVRFZnJiN3VZb3c5b3RmUWN5Wm1TLW5NREIxVkdpWWIxd2NIanN2S2pYVklqbEt1WWVOTm83VnYzdWhzM1BsVXJTTUU5MXB5U2FCY21zcjZETlVjRG5GUWwxdFVjOVdQS3p2Ymxv?oc=5",
-          "date": "08-26 17:49"
+          "title": "Cocoa price drop \"saves\" profits; Suan Zong's Q2 net profit surges more than fourfold - Moomoo",
+          "source": "Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeGlIdWNnRUpIQl9UX0hjZmtQbkprMVJPVHVoSXRyd1lfUDh6TDA4NW9FTDliblhoRTduVHNlbmpNSE1yR2ZIRlJDZjZodlVtR3B0dTlNWFVjaG9ucnMtcFJjRy1MWG5LM0F1SndJSWxIWU15a2JXVUZaZmRKRzh5OUEwaWdjalNjQVVPdXVOSVVsb2s2cGk0Qm1hX2V5WnV4TlN3cHF4UjN0MktkQ1ZSYmxIMA?oc=5",
+          "date": "08-25 15:57"
         }
       ],
       "newsKr": [
@@ -359,10 +359,10 @@
           "date": "08-26 14:41"
         },
         {
-          "title": "국제 코코아값 두 배 껑충…제과업계 영향은? - 핀포인트뉴스",
-          "source": "핀포인트뉴스",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXMDBRZE1ZOVFqMjhNOERESXF4M3hMRXlpekR0UDJlTEVNUnhKUjZBVFRoSXYteUM5a1FTaE5heUJTOFY0VFRhb0VPcFZwbGdndDRMcHd2YmhmRmJvLTdGWWZCZnRKVlBNZngzRE1KX1pVOXUteDUw0gF3QVVfeXFMUFcwMFFkTVk5UWoyOE04RERJcXgzeExFeWl6RHRQMmVMRU1SeEpSNkFUVGhJdi15QzlrUVNoTmF5QlM4VjRUVGFvRU9wVnBsZ2d0NExwd3ZiaGZGYm8tN0ZZZkJmdEpWUE1meDNETUpfWlU5dS14NTA?oc=5",
-          "date": "08-26 16:20"
+          "title": "코코아값 반년 새 두 배 급등…제과업계, 하반기 원가 '경고등' - v.daum.net",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9QVy1sM0RiQzZGeVVPM2cwUXRkZ0dNU0RQQVZRT0JocnRDeHBVY2VUbVEtamJxSnpxcVpOeHZOUG5aN2lfTGc?oc=5",
+          "date": "08-26 06:31"
         }
       ]
     },
@@ -390,18 +390,18 @@
           "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
         ]
       },
-      "price": 7195.88,
-      "change": -992.08,
-      "changePercent": -12.12,
+      "price": 7117.62,
+      "change": -1070.34,
+      "changePercent": -13.07,
       "high52w": 9655.13,
       "low52w": 5350.61,
       "high24h": 7342.49,
-      "low24h": 7159.5,
+      "low24h": 7092.26,
       "high7d": 8327.95,
-      "low7d": 7195.88,
+      "low7d": 7117.62,
       "high1m": 8327.95,
       "low1m": 7043.76,
-      "volume": 6043,
+      "volume": 8811,
       "sparkline": [
         8011.59,
         7925.61,
@@ -409,25 +409,25 @@
         7909.07,
         8327.95,
         8187.96,
-        7195.88
+        7117.62
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 7152.7
+            "price": 7074.91
           },
           {
             "time": "11:00",
-            "price": 7167.1
+            "price": 7089.15
           },
           {
             "time": "13:00",
-            "price": 7181.49
+            "price": 7103.38
           },
           {
-            "time": "22:48",
-            "price": 7195.88
+            "time": "23:37",
+            "price": 7117.62
           }
         ],
         "7D": [
@@ -457,7 +457,7 @@
           },
           {
             "date": "08-26",
-            "price": 7195.88
+            "price": 7117.62
           }
         ],
         "1M": [
@@ -551,7 +551,7 @@
           },
           {
             "date": "08-26",
-            "price": 7195.88
+            "price": 7117.62
           }
         ],
         "1Y": [
@@ -597,7 +597,7 @@
           },
           {
             "date": "2026-08",
-            "price": 7195.88
+            "price": 7117.62
           }
         ]
       },
@@ -653,7 +653,7 @@
           "date": "08-26 15:15"
         }
       ],
-      "original_price_lb": 326.4
+      "original_price_lb": 322.85
     },
     {
       "id": "robusta",
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "22:48",
+            "time": "23:37",
             "price": 3728.0
           }
         ],
@@ -926,16 +926,16 @@
       ],
       "newsKr": [
         {
-          "title": "오늘(8월 25일) 커피 가격: 로부스타 가격이 톤당 거의 200달러 가까이 오르면서 커피 시장이 다시 활기를 띠고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0R0SmdDNUVPWTZCQkNNQjJSbHRDV1RBSVhMMk5WeF9EQjBsbDdibllYQjJ1SmJmZzcyVWV4QUVDVzZVbVJfbkpTeDVENEowUXAwY1AxMlNkZ2haTFBvcGkwWG40cl80NjljdHp0NTVmeUxSNHdIM1dCRjB5YVhFVDFiSURsREd0UTk4dmtob2szalNKeGxtckhzS29GWGNpMXJzZEFzX0F5a1Z5eWc?oc=5",
-          "date": "08-26 16:26"
-        },
-        {
           "title": "오늘(8월 26일) 커피 가격: 하락 추세 반전, 로부스타 가격 2주 만에 최고치에서 하락. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYURGSW1LbU14anNMS3FkTDYyOVVwRlVvY1g1Z1hpbW5hUE9UR1R0d0dza1NiRW9JLXJwa0IyOWszajdpaGxaVlpza25aekdWTVZnUkcxNGk3XzRVWDZpNDExVmFHdDRrS2lsSHhZZHdmSHVDdG5XZUcwLThpTGFVc25jalk1cnJoM1BGS09tMDhocWR0NEVYMg?oc=5",
           "date": "08-26 11:15"
+        },
+        {
+          "title": "공급 부족으로 전 세계 커피 가격이 전반적으로 상승했습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHpKRW1OdWtHbXlnWGpRdDhKdjFlQjdXSTRNRHg1d2VDOTFHSmtEQ2hGZEFSbG9iR1hqMVN3MDNpWTRhZllKUFROcDZfVkJLclVIRGFuMWlGaXVoUHVHOXBOdDJqak10LXdOb3ZTWDI0dk9yRGt5ZEhzZmlQSUNqQ2QxcXlvanFaRlQwa1NlMWtXZkZM?oc=5",
+          "date": "08-26 16:43"
         },
         {
           "title": "오늘 8월 26일 커피 가격: kg당 500동 하락, 세계 급락 - Laodong.vn",
@@ -944,10 +944,10 @@
           "date": "08-26 15:15"
         },
         {
-          "title": "공급 부족으로 전 세계 커피 가격이 전반적으로 상승했습니다. - Vietnam.vn",
+          "title": "2026년 8월 26일 오늘 커피 가격이 급등하여 kg당 97,700 VND까지 치솟았습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZHpKRW1OdWtHbXlnWGpRdDhKdjFlQjdXSTRNRHg1d2VDOTFHSmtEQ2hGZEFSbG9iR1hqMVN3MDNpWTRhZllKUFROcDZfVkJLclVIRGFuMWlGaXVoUHVHOXBOdDJqak10LXdOb3ZTWDI0dk9yRGt5ZEhzZmlQSUNqQ2QxcXlvanFaRlQwa1NlMWtXZkZM?oc=5",
-          "date": "08-26 16:43"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPM2JERFJtaG4wRmFXbjZYUlRJaVUxaDVFOGZtZDVZQm9MMktqX1JSaHhleDUyZWoyZ1FEUzVvVXJNUFhQclgwZTRYS19LMjZJUVdrUmNOUGxiakZfM2JVUzZ5bGRXaHM0UjN5Q0VXZWxhYVN4b3VsSUdhX1VIWS12QmxnYmoyT25pc2tSaVJkOVktQQ?oc=5",
+          "date": "08-26 11:58"
         }
       ]
     },
@@ -2137,7 +2137,7 @@
             "price": 1178.64
           },
           {
-            "time": "22:48",
+            "time": "23:37",
             "price": 1181.0
           }
         ],
@@ -2511,7 +2511,7 @@
             "price": 1926.14
           },
           {
-            "time": "22:48",
+            "time": "23:37",
             "price": 1930.0
           }
         ]
@@ -2581,9 +2581,9 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1385.32,
-      "change": 4.56,
-      "changePercent": 0.33,
+      "price": 1386.28,
+      "change": 5.52,
+      "changePercent": 0.4,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1388.09,
@@ -2600,7 +2600,7 @@
         1390.79,
         1384.98,
         1380.76,
-        1385.32
+        1386.28
       ],
       "history": {
         "7D": [
@@ -2630,7 +2630,7 @@
           },
           {
             "date": "08-26",
-            "price": 1385.32
+            "price": 1386.28
           }
         ],
         "1M": [
@@ -2724,25 +2724,25 @@
           },
           {
             "date": "08-26",
-            "price": 1385.32
+            "price": 1386.28
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1377.01
+            "price": 1377.96
           },
           {
             "time": "11:00",
-            "price": 1379.78
+            "price": 1380.73
           },
           {
             "time": "13:00",
-            "price": 1382.55
+            "price": 1383.51
           },
           {
-            "time": "22:48",
-            "price": 1385.32
+            "time": "23:37",
+            "price": 1386.28
           }
         ],
         "1Y": [
@@ -2796,11 +2796,17 @@
           },
           {
             "date": "2026-08",
-            "price": 1385.32
+            "price": 1386.28
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "Asian shares mostly rise as oil prices fall and hope grows for AI - KWKT - FOX 44",
+          "source": "KWKT - FOX 44",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQlItc1hwbC1ZRjZSSE44QzV5RWJGeDA3QXNrQ0p0OFg1cnBLbEhWU205VHFiSTZ6UDEwZ052MVBzcDNka2lURlJ5QWx0TmZ3S3ptbTNXNW5LNi1PQm9ORDVYOWFNWGtLNUMwX0lCUDJEeHUxVWxKRlFRMVgyUUN2RjAwYTlVSWYtTk5sdnVTcmllbkxBa0lranY5TGxtVDJVY0RLOC1nM0hTNWRxcTNyVm53TV_SAboBQVVfeXFMT29KTzNESERlYUxmRDVWeGhHdlYtby1JQmdDbUQ1d014ZEV5WnYtQkdEX19DVXlPVHRweHdfY0c2Yzl2clhxNjBTUmg2UGpDSkJFT2haTVBJVk9JUEdZSGlTbUR1cWdOSzNDSXprcWdFb04tdUZ2ZEV1NGhhRnQxaTh0Zk9MbHhmZEw4QWNnWkE1QWxIekNudHVKNy1PZFFNRmVsQXhVc1BmVUNlc0c3LXhxVERVNFAyejl3?oc=5",
+          "date": "08-26 15:51"
+        },
         {
           "title": "South Korean Won: Strength backed by tech flows against US Dollar – Societe Generale - FXStreet",
           "source": "FXStreet",
@@ -2816,14 +2822,8 @@
         {
           "title": "S. Korean Won Weakens To USD/KRW 1,435.3 ; KOSPI Closes At 2,219 On Monday Strada Statale 51 Di Alemagna (ldcSUDYOXH) - Mshale",
           "source": "Mshale",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04VjIxYnZTc1dTeWkwS2ZvV0FoaGJkYjJ3bVoxMlBhb05EZjlmeWRjLU5TZjFGRms4eFdQMl9ud3dydlppMnlXWWNGdnA5YzhmN2N1Vk5rYmxTSkcyMEtVdA?oc=5",
-          "date": "08-26 11:48"
-        },
-        {
-          "title": "Global shares mostly rise as oil prices fall and hope grows for AI - WOWK 13 News",
-          "source": "WOWK 13 News",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOHdoSFp1VnFkeXBVX0F2VlVXdnZ4Ukd4Tzh3WW55MGpkR2ZPVklrODJGclhpTUVzMFZabTRkZXBrUkJSRmpaa1FSVldCQ1d1QVA5SnF4eEJ1RHh0N0JicjJKdFBoMFJyd3ppVG5mSjNONy1BVVhyQWg1Mm5wY082dzNCMzNaQ2x4V25mRDJfLTNwY0JheTNPSGVlQzl3WkEzaFp5UmdSYUVWS2fSAbABQVVfeXFMTnhqZ3otT3o3V3VaOHZTUXhKTjZhTTRuMmhnTGVjQ0hoZGJLSlNQVGMzX3ZKT1hUdXdDMGNnRjhOLVpBZkVBUHZ4UWxVMGoxVkNyTUJpaFpwRXAxVGROV3ljT1NoaDh5X3hDYUd3TS1nRUhXdnpyRUhOYmFDUnpVVm5yMkN5bTNTUUJWZlBCdUpVRTVsd0VuOXZaQWNLeGlKbklrZkhMd215dENGek5ycmY?oc=5",
-          "date": "08-26 18:19"
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpTHlDWnFwajNTTENKSzdVYWdsYXY2S05sbHE5d1ZfZ2JzUkltTV9WMkk1MDlJaW54M0dxMUZfcUJNNUVGTjdnYWJ6YlFMZzFBbXlwMzI1VTlmUnM?oc=5",
+          "date": "08-26 12:15"
         }
       ],
       "newsKr": [
@@ -3037,7 +3037,7 @@
             "price": 1610.77
           },
           {
-            "time": "22:48",
+            "time": "23:37",
             "price": 1614.0
           }
         ],
@@ -3098,28 +3098,28 @@
       },
       "newsEn": [
         {
-          "title": "USD/KRW Set for Consolidation, Commerzbank Analysts Say - CryptoRank",
-          "source": "CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VcnhoWWo4WEk3UnJmQWxUVzBFVWFkbjF4WnRyc2IyNExTVG9oNXFGTWdYdmdDVFJmajRNZThVazFsWHJtNjNDOHRwaTIzTHhEQmRETk5SblNDakVuVXBnQVhrazBtMkZPWlA1bkNoaXBoT3JNeVFXQ25qYw?oc=5",
-          "date": "08-25 13:09"
-        },
-        {
           "title": "CBA currency exchange rates (26.08.2026) - Report.az",
           "source": "Report.az",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VUWRmb093dDhRMnRyYTF3bEwxUmhHc3NKUjM1eElWOW1IVUx0N2t2WEFYbHcxZkFtOWdpcXhUSS1mNGNqLVZCSmRYYmJ2UnZxMmNvSmNpd18tNy0xNHFjRTEzUGhMZVAyZ01QU2lLQWE1aFh2bkHSAXtBVV95cUxQQU1pV2pPQ2wyRnlkN2Y0OU1VVnRfMXpISFRaNFl1cTluazBLNFBqMkVvRTd1VTZ1SEI3aVNqdU9heGdtb1FmV0prVzhvU1loazcxUlFnajQzeTZ1ZHQ0UkFwS254VmpuS2FfM0xNaFR5RmJQUk44VWhfeTg?oc=5",
           "date": "08-26 14:31"
         },
         {
-          "title": "US Dollar Unchanged at 1.7000 AZN, Euro Up, Ruble Down — CBA Official Rates - Fineko/abc.az",
-          "source": "Fineko/abc.az",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakQ2LW5VX2RIb1owcDVrZjg5WUMzSFVmckFKNXFJQUM4bGhsUlFURmNOaXkzOUF3YlFHVzNWRnRDbzg2a0RvSlFPY0VMRXowaFNJX3hPRzVsS2JaLXNVeVhPR2VKQVZFQkhKVW1rMmZIWXJOUGl5VmRKZ1g4VFZzdmwtblZjUWRyXzhSOGZRS2hDLU00ci1LMDlLaUNIb1hkMkE?oc=5",
-          "date": "08-26 14:46"
-        },
-        {
           "title": "Nepal Rastra Bank Sets Foreign Exchange Rates - Ratopati",
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWmNESVYyV0tPa1A3ZDdWNVgzcHA3RkpBQUFzSlM3NVpwRU1IVE5UUWlBNktRR2g5S3pLRENEU3NRYS1sd0JqUm9SV295TGVpbXNVU2V6bG9odzgyX3Z2NkFFU2pVZlZWWEg0NlJOTndMWGNPck1pcUY1MTNQVTdTcnI4LXU3aEQzRU55TjM3QnVYRmN3TjJ4ag?oc=5",
           "date": "08-26 09:37"
+        },
+        {
+          "title": "Nepal Rastra Bank Sets Today's Foreign Exchange Rates - Ratopati",
+          "source": "Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWWlHRU9FbC0xdUkxVUp2WmdpdWpXeWhCMmJnbVZ4Y3NmWXNFcHJfTzFsaEFQbkljRncyN1hxdVVuLUpyLWVLN3pEbGJtOVpSazhpdG53alpWY1BNbUZfRXR5Nl8yVkk2REhuWXBsRm5qdzI1eGc0WEZWZTlzRUJGOEtyR0JxMXBKc3V5cFkxQzA3eWhsRWFDOQ?oc=5",
+          "date": "08-25 08:41"
+        },
+        {
+          "title": "CBA currency exchange rates (25.08.2026) - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FczZ3ZF9OYjJiU3VEdjR2emR0a0N0TXM1bHdPdU5YZGVCRVl1NF9DSFhyV0lVWVU3dGVscHl6RnVRZm1TTjNCMVVKTzNCaC1TUnNUaTFRR2Y0RkNrTS1wdGFCbm15SEotRmQ3SzBmM3IxMDdDaXfSAXtBVV95cUxNckt3X1NvQ0c3MFMxNW5OQzFtdlEta1BmU05ydHc4cWRnWXRwaW5scHpySENOOW11OWpUd2QxNFRRcmRSbE4zUk1JSmVtbzJhZDJRY2o1RkpaLWIzM0xuaGRNNFZiWUxzNnRfXzRnWHh3OU9YajNPTjJObVU?oc=5",
+          "date": "08-25 14:29"
         }
       ],
       "newsKr": [
