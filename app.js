@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-30 06:27:07",
+  "last_updated": "2026-08-30 08:47:29",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.30",
-    "report_date": "2026.08.30, 06:27",
+    "report_date": "2026.08.30, 08:47",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.30",
-    "report_date": "2026.08.30, 06:27",
+    "report_date": "2026.08.30, 08:47",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "코코아값 급등…롯데·오리온, 가격 인상 없이 '버티기'"
   },
-  "lastUpdated": "2026-08-30T06:27:07.899522+09:00",
+  "lastUpdated": "2026-08-30T08:47:29.994126+09:00",
   "usdKrwRate": 1371.5,
   "eurKrwRate": 1592.8,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 6622.73
           },
           {
-            "time": "06:26",
+            "time": "08:47",
             "price": 6636.0
           }
         ],
@@ -443,7 +443,7 @@ const FALLBACK_DATA = {
             "price": 6877.86
           },
           {
-            "time": "06:27",
+            "time": "08:47",
             "price": 6891.64
           }
         ],
@@ -638,10 +638,10 @@ const FALLBACK_DATA = {
           "date": "08-28 19:55"
         },
         {
-          "title": "Coffee exports surge as Robusta powers India’s trade growth - AgroSpectrum India",
-          "source": "AgroSpectrum India",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnp2bm9yb1JVTHhhTkZ1NU1mZEZTN0JJLTJWUUc1OXpRbEtxLWJ4SGJVeUNsRTNYOGZOZ25kWmlfa3hEejZaem5YYy0zam1xemwzS1hJbXRCU3FwZ2x4ZUxQeF9pYVgwek5PX2RVdkFLVkdrSC1fRFZPeHU1cjcwWjlJaDdDcU4wVE9wTFFJQUVBa202cWZ5bGY1LVJhTWx5TWx4MjRKU1lRR3c?oc=5",
-          "date": "08-27 21:14"
+          "title": "Agricultural product prices today, August 28, 2026: Coffee prices continue to fall sharply, domestic prices remain high; the US would suffer losses if it abandoned PNTR with China. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY1FNMVIyRlUweGxoVVdWRU5RWk5rUHFyNVFJUUEtVjdlUm1hRTd3bG43SEN0QWJNQXN0YWMwLWFianpfT0RmQ1pHQWNfREVadGxvc3VPUDdjTlF6UUlBS2dYVktaX2YxRkVhRFhyWGgxQURQMWhOMUxZeVkzNFh4c1doYlVFRWVWVTV3NVU3LUZNSktLZUhZd0N0ZXdEZ2RCUzVnU2lMN2pBNGRxNXRhd1JCTHUxanNhT01XZDNoYXBoNld5cXBJcjFWTURBaXlJelNhU3B0ZXJZV3NKZmdjRm5SazAzN1ZFdHA3ZmFtaHZ4SzF3UmlqeFB6Rmp6MHhH?oc=5",
+          "date": "08-29 04:28"
         }
       ],
       "newsKr": [
@@ -658,16 +658,16 @@ const FALLBACK_DATA = {
           "date": "08-27 22:33"
         },
         {
-          "title": "오늘(8월 28일) 커피 가격: 로부스타 가격이 이틀 연속 하락하며 두 달 만에 최저치를 기록했습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSmxUNEw2VWJfYzd5WUxlcVFTZlNRUmN2c3hrT2dldDdybkY0X3VkV3kzcktnZXlDXzFicmd1ZklkaDVXclpPNDh3c1Q3Zm1mSUVXci1GR1Q4M3RtQ09acEc5TFpXTWtIdkRIbl9SWlJsMWFJUnNaclZORUw5WlFhZENYVHVrWHdUYkY3bXZCOXFQRzhYd2pzUHA0blBvNTZLMWEtbw?oc=5",
-          "date": "08-28 09:43"
-        },
-        {
           "title": "2026년 8월 28일 현재 농산물 가격: 커피 가격은 급락세를 이어가고 있으며, 국내 가격은 여전히 ​​높은 수준을 유지하고 있습니다. 미국이 중국과의 PNTR(농산물 가격 조정 협정)을 포기할 경우 손실을 입을 것입니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOaFplWTNBaTRKTmc5YlQ4NFpHV1BleTlWSk44Z3dnQ2Y5S2x4NTRMYWg5dTVZUy1zU2hQenlURU9VSUNIMTdvRmxTNXh0RDlDbUZOazJ6ZHd5cXpLWU5ZSHE1OVZVOFdCLXRkbW05eTkxSUxWRlF3dXlQR3hURC1WVjRkUUtFTnc5S19FQlZsWm5BRjUtamZkcEp3NHZzeWMtRXhiMFl3ZEhaUEZWNFRwVzlDb1RrMV9MdjBWOUdUQjhrNmFDYTEwX3o4a0o2b2JQUHFvdWFkeldHLUxoekw4UmZOTUxxY0RBTmhvdjhpLVZsRzBpYzBsZW10b1EwaUlq?oc=5",
           "date": "08-29 02:48"
+        },
+        {
+          "title": "로부스타 커피 가격은 톤당 3,900달러 선으로 회복될 것으로 예상됩니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOT1ZPRGg4M2p6TGpsNlMtVkNTQmgwa3FlT3ZCSnBxWTV5VWJ2RW4zbGNJaWJIbXFCM0JkNERGbWxmXzR0Nl9qa0EzQWhMdm9uSFBpQmZpT251OEcxTlBFeGVaSm1iR3B4ekhKeF9BcFRIa1loYmozWmdvdEhPMWNaZlludlJTNFEyS3c?oc=5",
+          "date": "08-28 02:08"
         }
       ],
       "original_price_lb": 312.6
@@ -856,7 +856,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "06:27",
+            "time": "08:47",
             "price": 3728.0
           }
         ],
@@ -929,16 +929,16 @@ const FALLBACK_DATA = {
           "date": "08-29 00:54"
         },
         {
-          "title": "Vietnam promotes Fine Robusta coffee in South Korea - Tuoi Tre News | The News Gateway to Vietnam",
-          "source": "Tuoi Tre News | The News Gateway to Vietnam",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1XWDhpSXNTVzI4RTluNmdfX2FMZXE5Ykp3bHJzVnRNMUkwVWJ2clJtbUdpbkZWUTEyTWJrNU9WY0VXaTNhd0lvZHFlQlVOc2pzNWRnMHU4N1hReDc3MW92Nko3azREQnRKQW9pb0x2b2dFYkxFNnQ4XzdqTnItSjlMOEo0QkVTaWFsUlVXRnNXd1kwUXVaMkJXUDJOb3M?oc=5",
-          "date": "08-29 13:23"
-        },
-        {
           "title": "Robusta coffee climate resilience questioned by new study - Investing.com Australia",
           "source": "Investing.com Australia",
           "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdkZiNU40RGNMV0lqQWFvcklyYTNBOFhmUDNxT0NEdTBRV0E5ekN4YVhRVzlmN1JQUUg3RS10TW1XVG5yekJVY1JVbWZTb05HOXAwcU00X3FvYWdSTE5UbTRmSmJhRnpaZTBJdWczVmlXaDNMdk9xb3FBMDU0VHlzQXMySkNYUXdWLUpBUFZiOHNidjRZQW52aUN3MmRjMW9EdTM3eU90bGd1a3JPb0ZwU0ZyMWdLcnBWTkE?oc=5",
           "date": "08-29 03:04"
+        },
+        {
+          "title": "Vietnam promotes Fine Robusta coffee in South Korea - Tuoi Tre News | The News Gateway to Vietnam",
+          "source": "Tuoi Tre News | The News Gateway to Vietnam",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRG1XWDhpSXNTVzI4RTluNmdfX2FMZXE5Ykp3bHJzVnRNMUkwVWJ2clJtbUdpbkZWUTEyTWJrNU9WY0VXaTNhd0lvZHFlQlVOc2pzNWRnMHU4N1hReDc3MW92Nko3azREQnRKQW9pb0x2b2dFYkxFNnQ4XzdqTnItSjlMOEo0QkVTaWFsUlVXRnNXd1kwUXVaMkJXUDJOb3M?oc=5",
+          "date": "08-29 13:23"
         }
       ],
       "newsKr": [
@@ -952,7 +952,7 @@ const FALLBACK_DATA = {
           "title": "커피(COFFEE) 종목이 8월27일에 3.18% 하락했습니다. 수요 전망이 바뀌고 있는 걸까요? - TradingKey",
           "source": "TradingKey",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUFM5X0JweW05S0ZnNlFMYTMxRVQ5YU9CYkxQXzZIMzJpSE1QWVBOakh0a1IwTWh4NnlrSmdHOHBKd0pBOG9wckhZVkhScXdndUJ1NHlBU3hZOEJ4WV9DWTdVM3lSZWN5eGN5MmJtTHJEdXdXdGxQcGZ5aHFMaWZOTVpNcE5sN2d5MmxGMDJhVWo1QQ?oc=5",
-          "date": "08-27 08:26"
+          "date": "08-27 17:26"
         },
         {
           "title": "2026년 8월 27일 오늘 농산물 가격: 로부스타 커피 가격, 3,900달러까지 하락 예상, 공급 과잉 가능성? 이란, 미국의 제재를 '경제 테러'라고 비난. - Vietnam.vn",
@@ -1179,6 +1179,12 @@ const FALLBACK_DATA = {
           "date": "08-04 16:00"
         },
         {
+          "title": "Global Dairy Trade Index Rises by 6.3% at First 2026 Auction - Dairy News Today",
+          "source": "Dairy News Today",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTXFaTllCVC1sSDdaWjgzdkw5RTlXdFN0aGloY3ZSNEJhX2lKd0R0RjJVMWdzVFFhWGhkaC0yVk0xU1Nuc1hJMHlhWXU3bVR5WUJ0cU9MUldxTENEcjkwbWpqazcyVzNxX0FIMWJUY0pySHZ3WEphNWo4d3BIS2FzczJDTkI2YjlxUmJvTWRtOGJGSEtrc2tKRA?oc=5",
+          "date": "01-08 17:00"
+        },
+        {
           "title": "GDT index rises following two consecutive drops - Irish Farmers Journal",
           "source": "Irish Farmers Journal",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV3VLbHg4RXMzN3Z6cDhWZkZISElYamFTMW54WkpfSURESkxkeXRxZS0xNWNXdFdwTWJqWV9QdE5BcWhLdUtGR2J2V2h1dU1WNm0ycndXbkEtV21vR2NWUTBHcmNISG1DSXB0RnlIdkpiczVUMThTNU1QbVNZd1hEb0N1dGhZamhxUkNMU2RyaVROQ2tzOExSVXlOelJ1VnYzbXlpSWNjTEU2SE0?oc=5",
@@ -1189,21 +1195,9 @@ const FALLBACK_DATA = {
           "source": "Agriland",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
           "date": "08-19 02:15"
-        },
-        {
-          "title": "Sequans cuts Bitcoin stash to 314 coins as it clears debt and refocuses on chips - CryptoRank",
-          "source": "CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlo5VUhSNnA3RjJpNVMxVVlCUWxrSWpqN05ZZDdOLXhQZjVVVUpVT0lzNE1WVF90MEFVSEdEQXpyeGVXNWVnWC15WUNSVjdMQ1RLaUp5cWFNRVdEQWtGV2dnMWJ0MEJPcmFpcnN5VFJqXzRzanhDcXdiaHF3SGw0VHdSdw?oc=5",
-          "date": "08-04 16:00"
         }
       ],
       "newsKr": [
-        {
-          "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
-          "source": "푸드아이콘",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
-          "date": "05-19 16:00"
-        },
         {
           "title": "GDT 유제품 시세 4.3% 오르며 상승세 이어가 - 푸드아이콘",
           "source": "푸드아이콘",
@@ -1455,12 +1449,6 @@ const FALLBACK_DATA = {
           "date": "11-04 16:00"
         },
         {
-          "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
-          "source": "푸드아이콘",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
-          "date": "05-19 16:00"
-        },
-        {
           "title": "뉴질랜드 달러 가치 하락: 왜 NZD는 RBNZ 금리 압박에도 약세일까? - EBC Financial Group",
           "source": "EBC Financial Group",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWTZ4b0NfZDlwckpnTF9yN3RMajUySkE4R1VidUpKaUZDYkVlWHZtYjlTaTFGLXd6VWpYY1pQOENxbkVBNUMwaUpNTjhQdlFKWEE?oc=5",
@@ -1698,12 +1686,6 @@ const FALLBACK_DATA = {
         }
       ],
       "newsKr": [
-        {
-          "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
-          "source": "푸드아이콘",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
-          "date": "05-19 16:00"
-        },
         {
           "title": "GDT 유제품 시세 4.3% 오르며 상승세 이어가 - 푸드아이콘",
           "source": "푸드아이콘",
@@ -1947,12 +1929,6 @@ const FALLBACK_DATA = {
           "source": "푸드아이콘",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVFdYR1FXZUEyLWhSc3lnNEMtRmhwRXI3WW02U0QxTHAxeW1EY20zR0swdVlKZE91WVNjTm5KbDI4QjN5YnJoeWRRMXFpUnZxb3ZEdm5tZjQ2el94QnQ3MEdqc1ZSX0k?oc=5",
           "date": "11-04 16:00"
-        },
-        {
-          "title": "GDT 유제품 가격 5회 연속 하락세 - 푸드아이콘",
-          "source": "푸드아이콘",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBkVkM2Y3BTbV9pMTJuOFViaTJQVmwxc0dDOFN1S2VxdEZPUHJhUmtrN3EwaFJCMVRFSjZYZjVWbFJ5VjRINmNCYVFvR3gtSlo5THZNUFBvQXdrb3lCVkxlV3RkdWREbWxzQTNxeQ?oc=5",
-          "date": "05-19 16:00"
         }
       ]
     },
@@ -2140,7 +2116,7 @@ const FALLBACK_DATA = {
             "price": 1175.64
           },
           {
-            "time": "06:27",
+            "time": "08:47",
             "price": 1178.0
           }
         ],
@@ -2514,23 +2490,35 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "06:27",
+            "time": "08:47",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "7 natural hair oils that can help reduce hair fall - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWXJqcjNnYWRJU0RNUHcwVXpaOVo4WW9JZlQybTUwR0ZHTmc2V09pNU9hS3ZiNmlpZGU4VWdsUlRFYUI5eHNLUGtZR19iSDEyUEswNlJaVFFVTFpFaEM1Ym1HYWo5NldTY09qTS0yRldGZnFTVVB5RGZSQjBWVE1JekNlc0c5WW1MN2Y1a2Z2ZXpKXzdwdFA4Ykh4WDZMV3ZIbU5MOTdtZ3hPVjZ0dS1CaDJfVWJ5U0tnQnRWQjZsdw?oc=5",
-          "date": "08-27 14:00"
+          "title": "Coconut Oil Market Size, Share, Growth Forecast to 2034 - Fortune Business Insights",
+          "source": "Fortune Business Insights",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bEhUZ1VzendLYXMtQWZQU3dxOVZJcnVGVXhObG9yRzB3MUk0bVJxaE5CRExlQWM3UzFNZlpTbEZsMXZmQ20waUZpTTVURWxIb3BkVG1zSWhxYm9aU3AtM1ViYm9IMzM5TUpFcTZUQjlfM1E?oc=5",
+          "date": "08-03 16:00"
         },
         {
-          "title": "Amla Oil - 7 natural hair oils that can help reduce hair fall - The Economic Times",
-          "source": "The Economic Times",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVFYwNWRIQmMwakRKdEJqX2dZYzV1V2pHVnBkTjBibEMxbmJGWWl4YzNYOWFOUFg4aklNTG9CbGRFMU5SZkRSVmpsMnp6dnB1WFlLY0RmcGpnRGlVb0UxczdmVThDVkVNR0FLWnpvekdEVnpzUDhwTnJGbmdfaXc1OHpyekg5cW0wb1c1VEYzYVkzN2QyRDNqd0tQZ0hYYXRHWHpZcXhMSXFZeFdTdHY3RlNUYmxVR0g5RnozSk1Kdw?oc=5",
-          "date": "08-27 14:42"
+          "title": "Desiccated coconuts: stable prices amid subdued trading - Mundus Agri",
+          "source": "Mundus Agri",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGhjaWhXYXhZbzd1d3hqdkFQU2ZaMTluVF81M1lNUHdaRGhJYzVSMTNha2RaWTlqNGFfUU94eWtCY0ZINEVNaWNPdUpkaWpqQ2VMT3p1U3ZmR2VqT280THk3Y1N4M3pQcjNvbnRSdEk1aURMajRBQ0cxQkJPb2k2bWZHeWdvNWJKazVKcXk5ejYtNUx2YXlrZA?oc=5",
+          "date": "08-25 23:43"
+        },
+        {
+          "title": "Imported Coconut Oil Flows Outpace Demand, Pressuring US Market - ChemAnalyst",
+          "source": "ChemAnalyst",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJvZkNka3BvSi1sc25OVGhKelAwY3NzMFlXQm0zUUF6MW5JX25FajRHX2FPMkRkVFNfVmczQlBrUmYybXdOeHdFS0dHRTY0b3BGRWRmdi1kaWJMck41dVlvdXNvSGN0Wm5PcXFMeWNUdmtiQjlwVnBWdnRxQlVJTWNOUTNQWDA4ZTFfdjNwb2JwUkVxbmYxek9ScGlSbnNyVkU1SUw3ZFptZTNnMGIwNFVSai0?oc=5",
+          "date": "02-13 17:00"
+        },
+        {
+          "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
+          "source": "TODAY.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
+          "date": "02-04 17:00"
         }
       ],
       "newsKr": [
@@ -2752,7 +2740,7 @@ const FALLBACK_DATA = {
             "price": 1368.76
           },
           {
-            "time": "06:27",
+            "time": "08:47",
             "price": 1371.5
           }
         ],
@@ -2813,16 +2801,16 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank - FXStreet",
-          "source": "FXStreet",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGR0bXlzMEYwWDM4QmFHckZUQUhkZEw0TE9iLXZzZFZNOWE5VGtvV1NrLVBrOTlFa05KWEVKNWVtTjllelN2SmwzY3pSRnVWYnNtOERuYWdEZ01CTW1HVklIbk9lWk9ORm9OMjBhMHV2QjhjZW84RERkNUhoZUZ0elFpeDd1S3hlai1UMnZwRHZQYUI1M1RvMS10dFllamR0Q2pnc0p1Y1dMWFByeThUVXhhbi1mamI3?oc=5",
-          "date": "08-29 08:41"
-        },
-        {
           "title": "South Korean Won Gains Support from BoK Tightening, Says Commerzbank - CryptoRank",
           "source": "CryptoRank",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORWxwQVl0QjVUTWczSmJpcnloTDZNa0JMdWYxNDdLSFRlRW9VeEc5LXE3bzNWSElNZUd5Z1M1NEtsQS1zbHdkWG5TVXlXVkgxSjcwT3dhTUJWN21zcHdkc1FSSFlRYTRuSjk3bUF6NVpJZWl3MjU2azYwZTFYZlFMNU5kMDFxbmxV?oc=5",
           "date": "08-29 10:38"
+        },
+        {
+          "title": "South Korean Won: BoK tightening supports KRW against US Dollar – Commerzbank - FXStreet",
+          "source": "FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOGR0bXlzMEYwWDM4QmFHckZUQUhkZEw0TE9iLXZzZFZNOWE5VGtvV1NrLVBrOTlFa05KWEVKNWVtTjllelN2SmwzY3pSRnVWYnNtOERuYWdEZ01CTW1HVklIbk9lWk9ORm9OMjBhMHV2QjhjZW84RERkNUhoZUZ0elFpeDd1S3hlai1UMnZwRHZQYUI1M1RvMS10dFllamR0Q2pnc0p1Y1dMWFByeThUVXhhbi1mamI3?oc=5",
+          "date": "08-29 08:41"
         },
         {
           "title": "Semis might not have ‘won’ just yet (SMH:NASDAQ) - Seeking Alpha",
@@ -2839,10 +2827,16 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "1550원까지 갔었는데…1300원대 안착한 환율 전망은[주末머니] - 아시아경제",
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNlhLX2VuaTlSdERtNFJGZlkxUW5ZdjlreHlSbFAtNW8yaWxZdi1LTnozQXpCVzZQRmQ1R0NpakVMVWowNFZobE5EcjNNVGNiZTJubzJCSnBnV1ZMLTFxTA?oc=5",
-          "date": "08-29 10:01"
+          "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\" - 연합뉴스",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHd9IBYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHdw?oc=5",
+          "date": "08-30 05:53"
+        },
+        {
+          "title": "1550원까지 갔었는데…1300원대 안착한 환율 전망은[주末머니] - v.daum.net",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1qbDJGZHo3OHFVX0dSM3pKallLRkpqR0dXUFZYUnhjR09nTmZXNUczTDhaMnZLUmpPTUkzSjlxTzY4ZWZiR0EyeFQ5bU1IQlU?oc=5",
+          "date": "08-29 10:03"
         },
         {
           "title": "[환율 전망] 소문난 잔치 잭슨홀, 먹을 게 있을까? - KB Think",
@@ -2855,12 +2849,6 @@ const FALLBACK_DATA = {
           "source": "굿모닝경제",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uR3huQUNETmdXakdZd1ZLNWtWdE1rMVNNUmI2T0tQOFExVmNvVkp3c3l4Z1dzR0doVTJrN1ROVXQ4cG5fQVg3ZlBHbjRWRFhSdnZwZ2k2eWVldnBBNGhUcnd5RnZwSkxhdWJRSw?oc=5",
           "date": "08-29 07:00"
-        },
-        {
-          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
-          "source": "LiteFinance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
-          "date": "08-29 13:00"
         }
       ]
     },
@@ -3056,7 +3044,7 @@ const FALLBACK_DATA = {
             "price": 1589.61
           },
           {
-            "time": "06:27",
+            "time": "08:47",
             "price": 1592.8
           }
         ],
@@ -3117,6 +3105,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
+          "source": "Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNnpWeVZCYm9aMkpVZG00d1JPTHJMcXVkSEhCTDdhYThucFJZQS1nZFBuR1hJRmF2NVF1anlLam91aGxkWnEzS3Bzalc3enVGRG1Pczh5cnRlVkVZTS1XMDNmWENyaGJpV3o1OTJrWGE0MjdVblJNZzZaNmJFN2V3dVB1NkZxWEk?oc=5",
+          "date": "08-30 08:34"
+        },
+        {
           "title": "South Korean Won Gains Support From BoK Tightening, Says Commerzbank - Bitcoin World",
           "source": "Bitcoin World",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qY1prTHBLOXFnTHVtMEYtakpDUGNGeER2eDBhdXFxQndPbzhwaVZpOEJLdFRfWGZjcVN1bnJ5ZzVicjdZNjlVMXE1S3E2a2Y5QS0tdWNnZ1YzMWxVSC1KeldmRnloaHJ4SkZpbldIUzN5TWFEbWYxMmYyOA?oc=5",
@@ -3127,12 +3121,6 @@ const FALLBACK_DATA = {
           "source": "Investing.com India",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTRBbTNfVHkyWFdBY3dWRTRteUY5YUJ2bkRoZ1JJYjFpLWxMaFBwdUpYZHI2WG9LT3FDVEZTSjBsQVNlTVpQZ3BLUDE5Q3RhRWQ0anFCbWJjSFlEN3haUXl6YnE2THM5czJDLVBCMVRibzlBck9IT1hMYnFtTzcxbFVhT1RneGhJMWhVZ09SekludWJZVnI1T2YwLVBJUlNHX0ZiWTlQSUJkRWl4X3VxRENUQ0xGSU85SEJKYWgtQUdhQ0dZcHpjcw?oc=5",
           "date": "08-27 22:15"
-        },
-        {
-          "title": "Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
-          "source": "Ratopati",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObEVzbTRZNnhJaW5aZ0dpc0MweThTM1FLTVppRm9VdWFnNVRVT3FRdlFvMU9EemtKVWRKVHNzdVRkMmdRdnhEOUhKbnc0NjV1SmVjTk1TVVNtN1hpNkRlcEdnR1ZHREpMRDUySlpDaWQzRHdzMmtaUlcwa09aWjZ0bVVhcE1fU1piZlJEVkNaalY4SFViLVZzTHFuU3pYeTQ?oc=5",
-          "date": "08-27 08:58"
         },
         {
           "title": "CBA currency exchange rates (28.08.2026) - Report.az",
