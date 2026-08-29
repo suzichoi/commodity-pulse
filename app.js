@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-30 03:05:09",
+  "last_updated": "2026-08-30 06:27:07",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.30",
-    "report_date": "2026.08.30, 03:05",
+    "report_date": "2026.08.30, 06:27",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.30",
-    "report_date": "2026.08.30, 03:05",
+    "report_date": "2026.08.30, 06:27",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "코코아값 급등…롯데·오리온, 가격 인상 없이 '버티기'"
   },
-  "lastUpdated": "2026-08-30T03:05:09.491210+09:00",
+  "lastUpdated": "2026-08-30T06:27:07.899522+09:00",
   "usdKrwRate": 1371.5,
   "eurKrwRate": 1592.8,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 6622.73
           },
           {
-            "time": "03:05",
+            "time": "06:26",
             "price": 6636.0
           }
         ],
@@ -350,10 +350,10 @@ const FALLBACK_DATA = {
           "date": "08-28 13:56"
         },
         {
-          "title": "US Cocoa Futures (COCOA-F) Is up 3.06% on Aug 27: Why It Happened - TradingKey",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZDV5OExEa09OQ3NsUkVOQUFZZ0tNLXdxbDJjTFR3ci1UYlVlQ0ZpNjZOa2tsajNvbnVidzlUZXBfOG9MQlMyTm1KY1I3WEdZMmJiMFdnOXVpX1ZpZGd6UkZnbzhwZGlRaUV1cUwxd2FKTXZzMjVub0dpWFo3ZVlrUHNGN2J3NnNxZVdpWXJ3UQ?oc=5",
-          "date": "08-27 18:46"
+          "title": "This Investor Wants to Turn El Niño Into a Windfall - WSJ",
+          "source": "WSJ",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRHdNRjQwWnZNZHhzWXFoN2t3bWRUSFZ2djBGNkVTWGI1M2ViVGdfV3luWGlMSlppZG9CeVJqWEx0eE1EYTRqS196Y0ZWNk9HTXF5MjM2RjlBNWRzQUtOWGJuVExveHJqWHAtQ3Nsd0p2RW0xMTM4Qi1NRm1BazJibUpTbmsyS2RCZlBFNDdVNHdJdTVy?oc=5",
+          "date": "08-27 22:30"
         }
       ],
       "newsKr": [
@@ -370,16 +370,16 @@ const FALLBACK_DATA = {
           "date": "08-27 18:45"
         },
         {
-          "title": "What 몬델리즈 인터내셔널(MDLZ)의 고단백 확대가 북미 성장에 새 동력이 될까? - simplywall.st",
-          "source": "simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRGY3cnF1OS1UdHRRcTg5WXlHdzRxN0EydEt2aGRRVXNEQUl6LUVwNDZvdEdwZnVaS0tObUEzY0cyX2xXbHRBa2U5WWh6ZDJ5RTNwQjdQOEMzNUdtX095OEtEckpGakMyLWN1V2R1R0ZGVFI5bFQxNUtBWE1xU1kydjE3S0ozOU81d3lsQl9JMHpYXzhWMWVLOFhRNmpKZGRiZlZKdXFQNG5reFZldjNpR1QwMNIBuAFBVV95cUxPYjZ2eGVzLXJYdnpyWlVEcXc5VGdzc2RpNzc1eHppS3BPaGNpdHJsSnA2MGUtcmRmWWpOOFByRGZGQTUySDRrRE5aQXUyVWdkXzNheWNhMU5WSExXbmhTSm92WDdZRHkwQmxqSnFmYURtT2Y0d0gtT0RWYmZaeVhtcGdsc3FlQnhDamM4V04xRVRxUGRCT2JZT3h1MTlNNF9tdWV2ZU1GNi0zY1FHLUp1aU1yZE9DelYy?oc=5",
-          "date": "08-28 13:28"
+          "title": "역대 최악 '슈퍼 엘니뇨' 세계 경제에 먹구름…식량·물류·자원 비상 - 네이트",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAycFpBZ29tY2M4NF9USGUwVk5vR2VoUWNHbzM0UndpVWhxbVZCWmN6eUxJUURhZ3FEaVZrelV1VEVvWjBJZHZNa3VfTXc0UTd0czdIcjF3SnE3SGNZTlRJYg?oc=5",
+          "date": "08-30 06:00"
         },
         {
-          "title": "극한기상이 농산물값을 더 크게 흔드는 경로 - 비건뉴스",
-          "source": "비건뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kNzZsdEd1TTUtNVd3QWRuRi1hQXZwcXNnOUVlOGdYXzFQamZTOWotUnM2Mm1LNGJkdVJoLWlTaWt0NElOLUtiMzNyMnJJb1c1d3BZc3NGZlFadGlpRDBoZks1RFMzUQ?oc=5",
-          "date": "08-28 17:49"
+          "title": "코코아 가격 전망: CC 7.52% 급등, $6,931 저항선 주목 - Traders Union",
+          "source": "Traders Union",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeS1fR09qR0tTNGZST1hxbWVSRzJkR0plNUkyQUY5Y2ZWbC1qVFc4bWJzNmZLZUdjZW5aVUdZVU5jTWNWOU00V1RHdV91bTJCSFhNVnRfaVZRX3JlYk9OUmdmU3p0Q25nUE5NUk8yZFM4bFdGT3RnTG1mMm02Ni0xZDdEam94S2xJMmpzWTRyQjBXQXpYc0RiZg?oc=5",
+          "date": "08-29 00:10"
         }
       ]
     },
@@ -443,7 +443,7 @@ const FALLBACK_DATA = {
             "price": 6877.86
           },
           {
-            "time": "03:05",
+            "time": "06:27",
             "price": 6891.64
           }
         ],
@@ -856,7 +856,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "03:05",
+            "time": "06:27",
             "price": 3728.0
           }
         ],
@@ -1173,12 +1173,6 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "New Zealand GDT Price Index Jumps 2.3% in Latest Auction - CryptoRank",
-          "source": "CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LN1lNdlBCeEs2ODEzV003OHM4TGZ4Rmt2dHVic2RvWjU0Y0VPSzI1c1RjNUREcVdfQ3oxV1p3OW9YMDRydEhKeTRrLXVxMXNuZTBtR0dOVHdxOGZRSnNTMnVNOWpsQll1Mkl2eElPRmVZWGxuSzNHVmtYZw?oc=5",
-          "date": "08-19 12:21"
-        },
-        {
           "title": "Global Dairy Trade: Dairy Price Index Rises 0.1% - en.edairynews.com",
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85SU4wd1NDZGRaZ0EzWlEtTXFFYnA3WUZVYkhEbUl4SmtCZ3hhazlYSlc5aTFqY3ZubjdSX0tlVGtpeUJjSjI2WS1UUV96c2Nya0xuX09RUzEtWEdBcEFZMnBuSVd1UmQxLWVLZXNYUzVhT1NETVhNZ0tzMERTZw?oc=5",
@@ -1195,6 +1189,12 @@ const FALLBACK_DATA = {
           "source": "Agriland",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
           "date": "08-19 02:15"
+        },
+        {
+          "title": "Sequans cuts Bitcoin stash to 314 coins as it clears debt and refocuses on chips - CryptoRank",
+          "source": "CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlo5VUhSNnA3RjJpNVMxVVlCUWxrSWpqN05ZZDdOLXhQZjVVVUpVT0lzNE1WVF90MEFVSEdEQXpyeGVXNWVnWC15WUNSVjdMQ1RLaUp5cWFNRVdEQWtGV2dnMWJ0MEJPcmFpcnN5VFJqXzRzanhDcXdiaHF3SGw0VHdSdw?oc=5",
+          "date": "08-04 16:00"
         }
       ],
       "newsKr": [
@@ -1209,12 +1209,6 @@ const FALLBACK_DATA = {
           "source": "푸드아이콘",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVFdYR1FXZUEyLWhSc3lnNEMtRmhwRXI3WW02U0QxTHAxeW1EY20zR0swdVlKZE91WVNjTm5KbDI4QjN5YnJoeWRRMXFpUnZxb3ZEdm5tZjQ2el94QnQ3MEdqc1ZSX0k?oc=5",
           "date": "11-04 16:00"
-        },
-        {
-          "title": "버터값 최고치…베이커리업계 직격탄 - 한국경제",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzTXJKcDFiaXJnSUpFX1AxMGc0eEFuTTkwckVDR3lZRTJYQjNKQnFUWW91TGxwUFNkcXlMaE5DMm9meGpzbzZXX21JOUU0U1RkVG5Cd1FLeGNxQQ?oc=5",
-          "date": "08-18 16:00"
         },
         {
           "title": "뉴질랜드 달러 가치 하락: 왜 NZD는 RBNZ 금리 압박에도 약세일까? - EBC Financial Group",
@@ -1441,8 +1435,8 @@ const FALLBACK_DATA = {
           "date": "08-29 04:20"
         },
         {
-          "title": "Two Dairy Industry Giants Nearing the Critical Profit Inflection Point - 36氪",
-          "source": "36氪",
+          "title": "Two Dairy Industry Giants Nearing the Critical Profit Inflection Point - 36Kr",
+          "source": "36Kr",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HRXhPNGl1azVrelFXeEZodGpxQUd1VVdjRkM3ZkItMEhUYXdpTjBCNm1odUZCdkdGR0RNUnVDR2hVQnJsRFFDeVhVNXFVOGswMnYw?oc=5",
           "date": "08-28 13:00"
         },
@@ -1679,28 +1673,28 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "New Zealand GDT Price Index Jumps 2.3% in Latest Auction - CryptoRank",
-          "source": "CryptoRank",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LN1lNdlBCeEs2ODEzV003OHM4TGZ4Rmt2dHVic2RvWjU0Y0VPSzI1c1RjNUREcVdfQ3oxV1p3OW9YMDRydEhKeTRrLXVxMXNuZTBtR0dOVHdxOGZRSnNTMnVNOWpsQll1Mkl2eElPRmVZWGxuSzNHVmtYZw?oc=5",
-          "date": "08-19 12:21"
-        },
-        {
           "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
           "source": "TheLandOnline",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLXJZOS1mLU1QcHBWV254eWNiaUVnQkthYk5vbjB2bV9yQ2oxWWFvajdkamVuczBLQTV1cFJqZWd2QzdaamwzbFc4QVgzUlYwMDl1M0NrVWQyR3RqQ09SYVduTDRPRXZtVnNPRXNOdm9PVDhrNVBoVWFaUVJWTU9OQi1yeVZZaHpwUWVOYnV5Wm1qTEl0ZnlScmR1eUdZOUV1NjZzQUN3N1ZHY0J0cEtYZjN1Yk5lWXdCSkI5UXVtUWo4b3FJaHY2dDl0MzE4WVUtVzBPR2VuMGZSQS13ekh2ZVI3RnU?oc=5",
           "date": "07-23 16:00"
         },
         {
-          "title": "Dairy commodity prices | GDT Sees Modest Dairy Gains as Powder Prices Drop - en.edairynews.com",
+          "title": "fonterra farmgate milk forecast | Supply Glut Slashes Global Dairy Auction Prices - en.edairynews.com",
           "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaTctU21zaVlnRWZYSWZrUDZaajk3Q21ONlBiaklOd0Vyb3VONUljM2EweFVXb1hJZ3RuSXNGTWFFOEExb1lNUHBuQURYS0swVEI5TmZsYlpaUWVQOF80ZjF1N1BVZEFkX00za19abnRZOC0ydlFxdFNpbVlZak5lVjV3?oc=5",
-          "date": "03-17 16:00"
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRnhWX3Y2LTN0RkpnNEZlYmdvLWhVRlZTWGt0N21YbExYYWlXeVpNOTZwX29mQVBkcUk3ODNNZFRVSlFlVDlIa1Q3c2IzR2diVjJHRUNGemRFMXVZVWFVOWVqTUFKRDVVal9mSGhtaU1tNnllWWpORnRQZ0E3bnM?oc=5",
+          "date": "06-16 16:00"
         },
         {
           "title": "Dairy markets update: Some milk price rises likely for May - Farmers Guardian",
           "source": "Farmers Guardian",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3h0TjllanNQMVVDZDltRjV4MjFvZWx3bWlvanNfeTlCODhLTjktTkdhN2xKZmpwSDQtYnBuNW1uSHVPanNkN0p0RWxXMlNuLUh4OWY4YS1kcjEteGdLSGNDVC1IYW5hdXMzVG1WUVZFYWRYdmFPLU9RMHdSVU9BWExRbkhwdTJGWFE?oc=5",
           "date": "03-20 16:00"
+        },
+        {
+          "title": "As Milk Production Picks Up, Milk Powder Prices will Soften - Dairy Herd",
+          "source": "Dairy Herd",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUTIyN0lZempieUIxRkY5MzBzcHV6Vkt6UXVMVF9aZEZKQUctOFNEazhya1FuOGxfeWtpblpXZXJYTlpVSjdtcEFXbDd0djBUYUpwT0lOVkc1dTNCVmNsYkpSSXA1bVFtUEFzMVdSRW00ZW5xMWJOWXpaSnVTNXdDYms2SkIxQ05yVi1sMVRGY05qWmF1elZN?oc=5",
+          "date": "09-08 16:00"
         }
       ],
       "newsKr": [
@@ -1949,12 +1943,6 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "버터값 최고치…베이커리업계 직격탄 - 한국경제",
-          "source": "한국경제",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzTXJKcDFiaXJnSUpFX1AxMGc0eEFuTTkwckVDR3lZRTJYQjNKQnFUWW91TGxwUFNkcXlMaE5DMm9meGpzbzZXX21JOUU0U1RkVG5Cd1FLeGNxQQ?oc=5",
-          "date": "08-18 16:00"
-        },
-        {
           "title": "GDT 유제품 시세 4.3% 오르며 상승세 이어가 - 푸드아이콘",
           "source": "푸드아이콘",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkVFdYR1FXZUEyLWhSc3lnNEMtRmhwRXI3WW02U0QxTHAxeW1EY20zR0swdVlKZE91WVNjTm5KbDI4QjN5YnJoeWRRMXFpUnZxb3ZEdm5tZjQ2el94QnQ3MEdqc1ZSX0k?oc=5",
@@ -2152,7 +2140,7 @@ const FALLBACK_DATA = {
             "price": 1175.64
           },
           {
-            "time": "03:05",
+            "time": "06:27",
             "price": 1178.0
           }
         ],
@@ -2221,16 +2209,16 @@ const FALLBACK_DATA = {
           "date": "08-29 20:15"
         },
         {
+          "title": "Palm Oil Market to Reach USD 119.54 Billion by 2035, Driven by Refining Demand at 4.72% CAGR - EIN News",
+          "source": "EIN News",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVDdZOWRFX3RpNzN6ZkFVSlBKVHlkbm1oZ3NYaUEyMHpkN3R1Nm5XXzljdmhRWUJ4UTJSRjRmZnFIa2J4c0tiTDhyRVcyelhXRzB6M3JCdVo4cHRqTHhaVUtFSnhRbmNla01Vd0hseEs1ZDBHT0VGOHF5NG1fSHowRmNhTjBCNDNpNkxiZXBPQ25vekFzdEVuNk44Rk1ZRVdkQzZRelc3VTI0NVVINzJIcm5ZbW5KYmNORWlqQXdJYy1Wa1g3Ym1INXNJZUk?oc=5",
+          "date": "08-28 21:02"
+        },
+        {
           "title": "Palm oil prices snap three-week winning streak - UkrAgroConsult",
           "source": "UkrAgroConsult",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGpLbnhiRk5lUDNKbk5YMlNGQ2xDWmNZTldXNDVBZ2dYY3M0aUhmanZ3LVAzMTdXeklrdW4zMHNQa0xtb3dwcGJHZjk4U19ENWVhT18wYlM3X3pwTkY2MGpDQWZ1ZWcxWGk4bVdWN3NWcVBjNHFiVHBpWWtGemJGRF9mS0pnQUZ3VGc?oc=5",
           "date": "08-28 23:07"
-        },
-        {
-          "title": "IOI Corp stock holds its ground as FY2026 profit rises and CPO prices stay elevated - AD HOC NEWS",
-          "source": "AD HOC NEWS",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbERDQ0hvNkRydjVUQjNiSkZHVWF1dUowSUc1Sm1rRGhnTDVWQUM3TEY0VjZZSmhMeFJJU21ZS2hRNDRreEVxdkJ4OXJpUkZtVU9IbG04QW81WGxEQVRDTGkycFp5OHpPUXZ3TDNsY1RBRmxLb25iSllSYVVxOUUyeE10NkZxRDFlczFidWR2MEtLaHI0MllOc1pGR3FKSzJOZ21QQkRSSHktdVd6WDVKdVo5ZDVITERVSDhwTWY3QW1FUy1JdVRVV2pJT09jQQ?oc=5",
-          "date": "08-29 18:26"
         }
       ],
       "newsKr": [
@@ -2526,7 +2514,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "03:05",
+            "time": "06:27",
             "price": 1930.0
           }
         ]
@@ -2764,7 +2752,7 @@ const FALLBACK_DATA = {
             "price": 1368.76
           },
           {
-            "time": "03:05",
+            "time": "06:27",
             "price": 1371.5
           }
         ],
@@ -2851,10 +2839,10 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "1550원까지 갔었는데…1300원대 안착한 환율 전망은[주末머니] - v.daum.net",
-          "source": "v.daum.net",
-          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wWlBiT0Y4SUgzZG82LTFGb3dPR2d6WFhhdzA0UjZ5RTFOdnRZUFZ4UzNyM3piLTRwSUx3WW9IVVY0b1NlS0E?oc=5",
-          "date": "08-29 10:03"
+          "title": "1550원까지 갔었는데…1300원대 안착한 환율 전망은[주末머니] - 아시아경제",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNlhLX2VuaTlSdERtNFJGZlkxUW5ZdjlreHlSbFAtNW8yaWxZdi1LTnozQXpCVzZQRmQ1R0NpakVMVWowNFZobE5EcjNNVGNiZTJubzJCSnBnV1ZMLTFxTA?oc=5",
+          "date": "08-29 10:01"
         },
         {
           "title": "[환율 전망] 소문난 잔치 잭슨홀, 먹을 게 있을까? - KB Think",
@@ -3068,7 +3056,7 @@ const FALLBACK_DATA = {
             "price": 1589.61
           },
           {
-            "time": "03:05",
+            "time": "06:27",
             "price": 1592.8
           }
         ],
@@ -3129,12 +3117,6 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Euro FX EUR/USD Overview - CME Group",
-          "source": "CME Group",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ia3l5aDN1d2dNSk53N05JM3lJcGVUYlEzMGIzSXBNaEFDSm9VUlh5dXcwWnpQdy1EbmZOVnBvZnBIdlRkRHNwR1RQRlJiSjBWQjUtZi1Ka1NHZmplb0tkQmdR?oc=5",
-          "date": "08-27 16:00"
-        },
-        {
           "title": "South Korean Won Gains Support From BoK Tightening, Says Commerzbank - Bitcoin World",
           "source": "Bitcoin World",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qY1prTHBLOXFnTHVtMEYtakpDUGNGeER2eDBhdXFxQndPbzhwaVZpOEJLdFRfWGZjcVN1bnJ5ZzVicjdZNjlVMXE1S3E2a2Y5QS0tdWNnZ1YzMWxVSC1KeldmRnloaHJ4SkZpbldIUzN5TWFEbWYxMmYyOA?oc=5",
@@ -3151,6 +3133,12 @@ const FALLBACK_DATA = {
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObEVzbTRZNnhJaW5aZ0dpc0MweThTM1FLTVppRm9VdWFnNVRVT3FRdlFvMU9EemtKVWRKVHNzdVRkMmdRdnhEOUhKbnc0NjV1SmVjTk1TVVNtN1hpNkRlcEdnR1ZHREpMRDUySlpDaWQzRHdzMmtaUlcwa09aWjZ0bVVhcE1fU1piZlJEVkNaalY4SFViLVZzTHFuU3pYeTQ?oc=5",
           "date": "08-27 08:58"
+        },
+        {
+          "title": "CBA currency exchange rates (28.08.2026) - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRVFPalpSMGtmVVFfVnlNUThERkpmbzAzR1NleVk1UDJ4U3F5YWtGX09RN1R6SnJxWTlzQWlmcUl3a2Q2NFZoeVVwUTZIZUstMXJaZjBzZjNfY0kwQkYtaXc2LWlJRHJfUm5NWDhkVzhLeTIxcFhSVUh0c9IBe0FVX3lxTE9sRVFPalpSMGtmVVFfVnlNUThERkpmbzAzR1NleVk1UDJ4U3F5YWtGX09RN1R6SnJxWTlzQWlmcUl3a2Q2NFZoeVVwUTZIZUstMXJaZjBzZjNfY0kwQkYtaXc2LWlJRHJfUm5NWDhkVzhLeTIxcFhSVUh0cw?oc=5",
+          "date": "08-28 14:26"
         }
       ],
       "newsKr": [
