@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-08-30 17:47:50",
+  "last_updated": "2026-08-30 23:11:37",
   "weekly_report": {
     "title": "[2026 Week 35 Report]",
     "week_number": 35,
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.30",
-    "report_date": "2026.08.30, 17:47",
+    "report_date": "2026.08.30, 23:11",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
@@ -32,10 +32,10 @@
       "팜유 : $1,178.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,371.50원 (▼8.95원)",
+    "fx_usd": "1,375.67원 (▼4.78원)",
     "fx_eur": "1,592.80원 (▼14.33원)",
     "news_category": "오늘의 주요 헤드라인",
-    "news_title": "코코아값 급등…롯데·오리온, 가격 인상 없이 '버티기'"
+    "news_title": "내수엔 호재·수출엔 악재…환율 급락에 식품업계 실적 출렁"
   },
   "daily_briefing": {
     "title": "[2026 Week 35 Report]",
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.24 ~ 2026.08.28",
     "weekly_price_title": "[W35 주요품목가격]",
     "date": "2026.08.30",
-    "report_date": "2026.08.30, 17:47",
+    "report_date": "2026.08.30, 23:11",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
@@ -68,13 +68,13 @@
       "팜유 : $1,178.00 (▲1.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,371.50원 (▼8.95원)",
+    "fx_usd": "1,375.67원 (▼4.78원)",
     "fx_eur": "1,592.80원 (▼14.33원)",
     "news_category": "오늘의 주요 헤드라인",
-    "news_title": "코코아값 급등…롯데·오리온, 가격 인상 없이 '버티기'"
+    "news_title": "내수엔 호재·수출엔 악재…환율 급락에 식품업계 실적 출렁"
   },
-  "lastUpdated": "2026-08-30T17:47:50.239305+09:00",
-  "usdKrwRate": 1371.5,
+  "lastUpdated": "2026-08-30T23:11:37.209806+09:00",
+  "usdKrwRate": 1375.67,
   "eurKrwRate": 1592.8,
   "marketStatus": "OPEN",
   "items": [
@@ -138,7 +138,7 @@
             "price": 6622.73
           },
           {
-            "time": "17:47",
+            "time": "23:11",
             "price": 6636.0
           }
         ],
@@ -329,36 +329,36 @@
           "date": "08-28 13:56"
         },
         {
-          "title": "Raw sugar recedes after hitting one-year high, cocoa surges - Business Recorder",
-          "source": "Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5tYm96eUg2ZE5LTVFmY3lLSjFWUUhoYWItZUJ3YnBTUzNRWlg2eHBlZ2JtM0ZoazRaRWp4N1ctTmJRYnkxczNoRktNQjFLTUVJbFZxc0pR0gFWQVVfeXFMTm1ib3p5SDZkTktNUWZjeUtKMVZRSGhhYi1lQndicFNTM1FaWDZ4cGVnYm0zRmhrNFpFang3Vy1OYlFieTFzM2hGS01CMUtNRUlsVnFzSlE?oc=5",
-          "date": "08-30 06:32"
+          "title": "Cocoa Prices Jump on Concern Over West African Crop Quality - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGI5cWY3V29LeW1zd2x1R3BXZFpNM1pBZEpLYVdSamxBN1BGc0dZZF9lR3hfTjlKNVZ2VjFPWVVXMlBKa3A2b2lfTDA2S000M2pleU9nRkZEM2FWd1BEQU1xWThPVjF6VVRhbHByU0xsS1BoeWxLX1NkTzJNQzloRmxMZUdKaEh4em9rc0F2YkpiZUt4S2tacmROcnFOOUpmNk1CWDFn?oc=5",
+          "date": "08-28 01:06"
         }
       ],
       "newsKr": [
         {
-          "title": "코코아값 급등…롯데·오리온, 가격 인상 없이 '버티기' - 서울경제TV",
-          "source": "서울경제TV",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE85ZmNXVXQzZ1F4N3lMM3plRTJXek9JbU5CejBwMVR0Z1IxcUdUVVFXVk9hTWxkcUVER0tlcEg4WUpJOGFvX081TzU3ZEprdTVxTUZqMFJnRDZwUmdXVDA2QmM2Slc?oc=5",
-          "date": "08-27 18:08"
-        },
-        {
-          "title": "미국 코코아 선물(COCOA-F) 종목이 8월27일에 변동성이 심화되었습니다. 무엇에 주목해야 할까요? - TradingKey",
-          "source": "TradingKey",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOV290S1FDU1FCb3VVeDJHY2R1WXg0RW5ZVG95c2ZIMmk1RFRZMVltbTNUTmRiekt2czVpYVB3UmJvaTJNcFkycUVCM0JXbWhSM0hOMHhub254OVFxQkZsemFJUzJZWVpXYUR1TERIZFJuTjJ6amc1ODh1Z0kyUlFqek41UEptbmpYWFpneHpSYlVBLXM?oc=5",
-          "date": "08-27 18:45"
-        },
-        {
           "title": "내수엔 호재·수출엔 악재…환율 급락에 식품업계 실적 출렁 - 뉴스1",
           "source": "뉴스1",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55VmZEVS16QVE0TnVpaVZMOXZ5VWx3ZGQ3U1I1S1A3YkxKTkRVMEFiWlhabDN1ZWJ1R1IzM3k2b2RDd2JlaDhqLVJXRlJZSURTSjY5ODh6cGlIRFBGUDduTG5XaUrSAWRBVV95cUxOeVZmRFUtekFRNE51aWlWTDl2eVVsd2RkN1NSNUtQN2JMSk5EVTBBYlpYWmwzdWVidUdSMzN5Nm9kQ3diZWg4ai1SV0ZSWUlEU0o2OTg4enBpSERQRlA3bkxuV2lK?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ON2xkc1N4Sm50LVBlYkV5YmNnaVlEeG1qaTRGSDAtcFRJMTFPbXo0VnhXQmdoWmJRMGN2X3lSR0JDV3pSRWRpS3FidzJrQ0g4b3ZJdExJaU9jcno5NUNN0gFkQVVfeXFMTnlWZkRVLXpBUTROdWlpVkw5dnlVbHdkZDdTUjVLUDdiTEpORFUwQWJaWFpsM3VlYnVHUjMzeTZvZEN3YmVoOGotUldGUllJRFNKNjk4OHpwaUhEUEZQN25MbldpSg?oc=5",
           "date": "08-30 14:49"
         },
         {
-          "title": "저항선 돌파 시도: 코코아 가격 상승세 이어질까? - Traders Union",
+          "title": "역대 최악 '슈퍼 엘니뇨' 세계 경제에 먹구름…식량·물류·자원 비상 - 네이트",
+          "source": "네이트",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwUElCc3AyUTZmaTNwbHVFRWpGSXdJWnJPa0U4Vk5JLWNFLUI1V3h6LUVyUzlvU05yZV80Mnl0a1hGV0pUak9rYTUwRjFwTEkyR3pv?oc=5",
+          "date": "08-30 06:00"
+        },
+        {
+          "title": "엘니뇨 90% 경고, 팜유·코코아 먼저 반응 - tokenpost.kr",
+          "source": "tokenpost.kr",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE15MzdLQ1FnOUZzTjBmODd6aGU1Z05BX21GaFJqTVVWcUtmQWQxTkxoSUhPNThWMWRSU09oOUlWa3JpMmF4NmZTRHFZRDBpb3dFMi0yRmE1UHJHb1I00gFcQVVfeXFMTXkzN0tDUWc5RnNOMGY4N3poZTVnTkFfbUZoUmpNVVZxS2ZBZDFOTGhJSE81OFYxZFJTT2g5SVZrcmkyYXg2ZlNEcVlEMGlvd0UyLTJGYTVQckdvUjQ?oc=5",
+          "date": "08-30 08:32"
+        },
+        {
+          "title": "가나의 생산량 감소 전망이 강세 모멘텀을 촉발하며 코코아 가격이 거의 6% 급등 - Traders Union",
           "source": "Traders Union",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXI0X0pINml6cDVvWlZNd2xld0I5d1NMblhrWFVKM3FMTDJGckRIcW84aXZHcURVb1dVTnRfWm1MNHBkSXMtbXMxS3dtTHpsYXZJc0s0aDExVC1yQXFMaVdvZ0dKQnVWeGlsQWZDckt4YU5leWQ5SXV6NTRCbmZfYXFGYTJMRHBiczJhTXgxLWNVWnd2c3B0V3lB?oc=5",
-          "date": "08-27 21:35"
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFAwTVdMV3l1TUNCanQwV3duMEFvUFNHNXlFV0dWemlPRGc5ZlVvQUZ2b3hhTjB3WmRWZi1xTV8wV3VOUk9xQUl2dm5NVUNyZ25TcVVLZlMyODg4NC1sWkJTRm53X21JX3BGRThaUFhSUzBZdEFYNjFJTmkzYUhMWXJOdC1SZ1JMQjJPUU5sS0R4XzlFdEhnMW1qeGo?oc=5",
+          "date": "08-28 21:07"
         }
       ]
     },
@@ -391,7 +391,7 @@
       "changePercent": -8.57,
       "high52w": 9655.13,
       "low52w": 5350.61,
-      "high24h": 6985.34,
+      "high24h": 6988.65,
       "low24h": 6805.66,
       "high7d": 8327.95,
       "low7d": 6891.64,
@@ -422,7 +422,7 @@
             "price": 6877.86
           },
           {
-            "time": "17:47",
+            "time": "23:11",
             "price": 6891.64
           }
         ],
@@ -607,16 +607,16 @@
           "date": "08-28 20:19"
         },
         {
+          "title": "Arabica coffee stocks hit 26-year low, supporting prices - Zawya",
+          "source": "Zawya",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVBpZ1ZfZE02WmljVUNCVlpKU1lvSTF1QWxmTmJ3dVYyVXJkZW1mOGR3UVFhc3JPUXU3SVJ6blRlS3dxQTh0c25udjl0NVFiQ2U2bFVpai1UTmNLU1hzcDdRb1JlN2xwNmF2MUJJOV8xNG1FcTF2RnpYRmZERTd5Q1g3d05iWXRVSkdPb2Q2VUlpMnF4LUltRmdMVWo?oc=5",
+          "date": "08-28 21:17"
+        },
+        {
           "title": "Arabica coffee stocks hit 26-year low, supporting prices - The Straits Times",
           "source": "The Straits Times",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUk9HMVBRZXlCNnVjOGxvenVybnR1T29td25za3loc0R3dGtsZGg3MURLRXUzblVhT1Y5ZG13bDdPS3VKdzFkT09CbV9ybGFlM3oza1dtdTRDeFVmS1RtNVVkaURqdUE3MkIxNmQ3Ui1PNHZxRkIxQnh5djRlcjFUUzlrSmtqLXNmQlpzMGFiWEh2OGtKcjduUg?oc=5",
           "date": "08-28 19:55"
-        },
-        {
-          "title": "Agricultural product prices today, August 28, 2026: Coffee prices continue to fall sharply, domestic prices remain high; the US would suffer losses if it abandoned PNTR with China. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPY1FNMVIyRlUweGxoVVdWRU5RWk5rUHFyNVFJUUEtVjdlUm1hRTd3bG43SEN0QWJNQXN0YWMwLWFianpfT0RmQ1pHQWNfREVadGxvc3VPUDdjTlF6UUlBS2dYVktaX2YxRkVhRFhyWGgxQURQMWhOMUxZeVkzNFh4c1doYlVFRWVWVTV3NVU3LUZNSktLZUhZd0N0ZXdEZ2RCUzVnU2lMN2pBNGRxNXRhd1JCTHUxanNhT01XZDNoYXBoNld5cXBJcjFWTURBaXlJelNhU3B0ZXJZV3NKZmdjRm5SazAzN1ZFdHA3ZmFtaHZ4SzF3UmlqeFB6Rmp6MHhH?oc=5",
-          "date": "08-29 04:28"
         }
       ],
       "newsKr": [
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "17:47",
+            "time": "23:11",
             "price": 3728.0
           }
         ],
@@ -2087,7 +2087,7 @@
             "price": 1175.64
           },
           {
-            "time": "17:47",
+            "time": "23:11",
             "price": 1178.0
           }
         ],
@@ -2150,22 +2150,22 @@
           "date": "08-28 21:02"
         },
         {
-          "title": "Palm-Based Wax Market 2035: 6.8% CAGR Driven by Electronics Substitution of Paraffin - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjlxSFRreDJJN2JJV24zMFlnSEhVcVZVQjZsc3VIY05aMk5wb0Q2MWFlZ1FEZkY3elNyU3JjT0dLT0ZzdXpVQmNrYjNRWXRfa3JudlFRRThtUHdqSEluSVF4all5N2gzMHpqVHYxb2wwTFNyY0NoRy1wcXpJU0lsZXFSckZJdFVOMmpnLUUzQVRJbkk1WFhYclZ4NV9pcDJtNXo5TVQ3OUtzRjIzY1Q4d3Fn?oc=5",
-          "date": "08-29 20:11"
-        },
-        {
           "title": "Palm oil prices snap three-week winning streak - UkrAgroConsult",
           "source": "UkrAgroConsult",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObGpLbnhiRk5lUDNKbk5YMlNGQ2xDWmNZTldXNDVBZ2dYY3M0aUhmanZ3LVAzMTdXeklrdW4zMHNQa0xtb3dwcGJHZjk4U19ENWVhT18wYlM3X3pwTkY2MGpDQWZ1ZWcxWGk4bVdWN3NWcVBjNHFiVHBpWWtGemJGRF9mS0pnQUZ3VGc?oc=5",
           "date": "08-28 23:07"
         },
         {
-          "title": "First Thing Today | Grain markets pull back a bit overnight - Pro Farmer",
+          "title": "Palm-Based Wax Market 2035: 6.8% CAGR Driven by Electronics Substitution of Paraffin - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjlxSFRreDJJN2JJV24zMFlnSEhVcVZVQjZsc3VIY05aMk5wb0Q2MWFlZ1FEZkY3elNyU3JjT0dLT0ZzdXpVQmNrYjNRWXRfa3JudlFRRThtUHdqSEluSVF4all5N2gzMHpqVHYxb2wwTFNyY0NoRy1wcXpJU0lsZXFSckZJdFVOMmpnLUUzQVRJbkk1WFhYclZ4NV9pcDJtNXo5TVQ3OUtzRjIzY1Q4d3Fn?oc=5",
+          "date": "08-29 20:11"
+        },
+        {
+          "title": "First Thing Today | Grains extend gains, score new highs overnight - Pro Farmer",
           "source": "Pro Farmer",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUVCeVNpZU5WNlpMaEdsZFN3Rk1Bb0xpMGY3Z1AxQ283bnNpNm5jNnJVNmhmMWJkM3VBTW9uQWhuOWFxNzNoY1dWcC1ra092ZjNtY3pFWXNUZlE0djJQMzhGdzVmT2FXbC1FTWR1bkMtUFZTMjNWM0RxYWw4eUJ3dFVJV2pCSDVfcEJCOXQ0NERRSTdxbVQwaXg4d2tnNFlKck03STdLSQ?oc=5",
-          "date": "08-27 20:12"
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUZQRUpQdWhMQm56M1h2SE9BWWpaSVY0RVFfRjA2NTN6dGtBWFFVOHE1Tkt3V1IzRTduNjlTWWNIYWZfSVV2d0F5MGlOX2Y5dnBmVjhXQjhkMDQ3dllZaFZOVkZuT2ZldVNlejFZWlBHYnVpa3BTVjE3MXFSNzZoTnRGT29OSHRuMS1NVHBRdG9oQWNyZE1PeV9ieXpYaGF1WUFFTG5SQmZ2N2k4eVpGVGZB?oc=5",
+          "date": "08-28 20:26"
         }
       ],
       "newsKr": [
@@ -2461,35 +2461,35 @@
             "price": 1926.14
           },
           {
-            "time": "17:47",
+            "time": "23:11",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Desiccated coconuts: demand drives market trends - Mundus Agri",
+          "title": "Coconut Oil Market Size, Share, Growth Forecast to 2034 - Fortune Business Insights",
+          "source": "Fortune Business Insights",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2bEhUZ1VzendLYXMtQWZQU3dxOVZJcnVGVXhObG9yRzB3MUk0bVJxaE5CRExlQWM3UzFNZlpTbEZsMXZmQ20waUZpTTVURWxIb3BkVG1zSWhxYm9aU3AtM1ViYm9IMzM5TUpFcTZUQjlfM1E?oc=5",
+          "date": "08-03 16:00"
+        },
+        {
+          "title": "Desiccated coconuts: stable prices amid subdued trading - Mundus Agri",
           "source": "Mundus Agri",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa0dpV3lETUtvZnlyZWxYaDRiVlRobjE3MVVFS29RaE9xcXRFSkpBUFJyS0ZMRlJtMUVuZkFjRDRsMDk0ZUJLanJ2LVNhZWt5MzhLMzFBUnQ0SGdYX3NWQ181YmNORjE2aG1OcEJCLUVTZzJOejBtQTRwZ0NnYjVldlNuMElGd1NWWHFtMm13cFJ3TnphY3c?oc=5",
-          "date": "07-08 16:00"
-        },
-        {
-          "title": "Buyers are clamoring for coconut oil - Food Business News",
-          "source": "Food Business News",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRENjSllUeERtdXI3NWVBdEdJRW9YMGRjQkluZm1DZkt2VzNJYjlBT0FmM3JtVUtnNFVfcm40NmN1OWZFN1N6Wjh0MmZJSXBvWU5ZUjVhWGdvWFJMT1l5VHYxSUVDUDdxYTNoTXM1MDh5SW1Na05sRkowamJrSU9GRTh0MEdfb0t5UVpmbQ?oc=5",
-          "date": "04-29 16:00"
-        },
-        {
-          "title": "Coconut Oil Price Falls 7.0% in Sri Lanka, 5.5% in Indonesia — Q1 2026 Update - IMARC Group",
-          "source": "IMARC Group",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaGRQSXZYTlNEczFUMEpvTjNoMm9FZmI1M0xmalpaNjRTLXNVWmpNc0lSSEtGdFZOOHBGUU5GX2V2Yjc5N3ZMVV9yNGRTeVY3eF9maGJhWU84RlJKVG9TTk1yN2R4MzJtT3dWa3RZWWdyOEdxQ0RyOU9hTlFOdnRnWA?oc=5",
-          "date": "07-23 16:00"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZGhjaWhXYXhZbzd1d3hqdkFQU2ZaMTluVF81M1lNUHdaRGhJYzVSMTNha2RaWTlqNGFfUU94eWtCY0ZINEVNaWNPdUpkaWpqQ2VMT3p1U3ZmR2VqT280THk3Y1N4M3pQcjNvbnRSdEk1aURMajRBQ0cxQkJPb2k2bWZHeWdvNWJKazVKcXk5ejYtNUx2YXlrZA?oc=5",
+          "date": "08-25 23:43"
         },
         {
           "title": "Imported Coconut Oil Flows Outpace Demand, Pressuring US Market - ChemAnalyst",
           "source": "ChemAnalyst",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUlJvZkNka3BvSi1sc25OVGhKelAwY3NzMFlXQm0zUUF6MW5JX25FajRHX2FPMkRkVFNfVmczQlBrUmYybXdOeHdFS0dHRTY0b3BGRWRmdi1kaWJMck41dVlvdXNvSGN0Wm5PcXFMeWNUdmtiQjlwVnBWdnRxQlVJTWNOUTNQWDA4ZTFfdjNwb2JwUkVxbmYxek9ScGlSbnNyVkU1SUw3ZFptZTNnMGIwNFVSai0?oc=5",
           "date": "02-13 17:00"
+        },
+        {
+          "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - TODAY.com",
+          "source": "TODAY.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
+          "date": "02-04 17:00"
         }
       ],
       "newsKr": [
@@ -2543,17 +2543,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1371.5,
-      "change": -8.95,
-      "changePercent": -0.65,
+      "price": 1375.67,
+      "change": -4.78,
+      "changePercent": -0.35,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1371.5,
+      "high24h": 1375.67,
       "low24h": 1371.5,
       "high7d": 1390.79,
-      "low7d": 1371.5,
+      "low7d": 1375.67,
       "high1m": 1464.44,
-      "low1m": 1371.5,
+      "low1m": 1375.67,
       "volume": 0,
       "sparkline": [
         1390.79,
@@ -2562,7 +2562,7 @@
         1381.49,
         1383.49,
         1380.45,
-        1371.5
+        1375.67
       ],
       "history": {
         "7D": [
@@ -2592,7 +2592,7 @@
           },
           {
             "date": "08-30",
-            "price": 1371.5
+            "price": 1375.67
           }
         ],
         "1M": [
@@ -2694,25 +2694,25 @@
           },
           {
             "date": "08-30",
-            "price": 1371.5
+            "price": 1375.67
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1363.27
+            "price": 1367.42
           },
           {
             "time": "11:00",
-            "price": 1366.01
+            "price": 1370.17
           },
           {
             "time": "13:00",
-            "price": 1368.76
+            "price": 1372.92
           },
           {
-            "time": "17:47",
-            "price": 1371.5
+            "time": "23:11",
+            "price": 1375.67
           }
         ],
         "1Y": [
@@ -2766,7 +2766,7 @@
           },
           {
             "date": "2026-08",
-            "price": 1371.5
+            "price": 1375.67
           }
         ]
       },
@@ -2804,12 +2804,6 @@
           "date": "08-30 17:00"
         },
         {
-          "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\" - 연합뉴스",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHd9IBYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHdw?oc=5",
-          "date": "08-30 05:53"
-        },
-        {
           "title": "[환율 전망] 소문난 잔치 잭슨홀, 먹을 게 있을까? - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlOUNKVjltQ1htSUktclpSdU5BbXFBVEhFUFNHX2VBQ054VkR1Uk1wMlRzVGxRaGpOTFJOeF9YYS12YUFVRmN0R0MwYnhBcEF5clJUb3ZQSUZITDFYS2RiWg?oc=5",
@@ -2820,6 +2814,12 @@
           "source": "아시아경제",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNlhLX2VuaTlSdERtNFJGZlkxUW5ZdjlreHlSbFAtNW8yaWxZdi1LTnozQXpCVzZQRmQ1R0NpakVMVWowNFZobE5EcjNNVGNiZTJubzJCSnBnV1ZMLTFxTA?oc=5",
           "date": "08-29 10:01"
+        },
+        {
+          "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\" - 연합뉴스",
+          "source": "연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHd9IBYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHdw?oc=5",
+          "date": "08-30 05:53"
         }
       ]
     },
@@ -3015,7 +3015,7 @@
             "price": 1589.61
           },
           {
-            "time": "17:47",
+            "time": "23:11",
             "price": 1592.8
           }
         ],
@@ -3076,6 +3076,12 @@
       },
       "newsEn": [
         {
+          "title": "Euro FX EUR/USD Futures Overview - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ia3l5aDN1d2dNSk53N05JM3lJcGVUYlEzMGIzSXBNaEFDSm9VUlh5dXcwWnpQdy1EbmZOVnBvZnBIdlRkRHNwR1RQRlJiSjBWQjUtZi1Ka1NHZmplb0tkQmdR?oc=5",
+          "date": "08-28 16:34"
+        },
+        {
           "title": "Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNnpWeVZCYm9aMkpVZG00d1JPTHJMcXVkSEhCTDdhYThucFJZQS1nZFBuR1hJRmF2NVF1anlLam91aGxkWnEzS3Bzalc3enVGRG1Pczh5cnRlVkVZTS1XMDNmWENyaGJpV3o1OTJrWGE0MjdVblJNZzZaNmJFN2V3dVB1NkZxWEk?oc=5",
@@ -3088,15 +3094,9 @@
           "date": "08-29 09:00"
         },
         {
-          "title": "Earnings call transcript: Delivery Hero tops Q2 2026 revenue forecast - Investing.com India",
-          "source": "Investing.com India",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZTRBbTNfVHkyWFdBY3dWRTRteUY5YUJ2bkRoZ1JJYjFpLWxMaFBwdUpYZHI2WG9LT3FDVEZTSjBsQVNlTVpQZ3BLUDE5Q3RhRWQ0anFCbWJjSFlEN3haUXl6YnE2THM5czJDLVBCMVRibzlBck9IT1hMYnFtTzcxbFVhT1RneGhJMWhVZ09SekludWJZVnI1T2YwLVBJUlNHX0ZiWTlQSUJkRWl4X3VxRENUQ0xGSU85SEJKYWgtQUdhQ0dZcHpjcw?oc=5",
-          "date": "08-27 22:15"
-        },
-        {
           "title": "CBA currency exchange rates (28.08.2026) - Report.az",
           "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sRVFPalpSMGtmVVFfVnlNUThERkpmbzAzR1NleVk1UDJ4U3F5YWtGX09RN1R6SnJxWTlzQWlmcUl3a2Q2NFZoeVVwUTZIZUstMXJaZjBzZjNfY0kwQkYtaXc2LWlJRHJfUm5NWDhkVzhLeTIxcFhSVUh0c9IBe0FVX3lxTE9sRVFPalpSMGtmVVFfVnlNUThERkpmbzAzR1NleVk1UDJ4U3F5YWtGX09RN1R6SnJxWTlzQWlmcUl3a2Q2NFZoeVVwUTZIZUstMXJaZjBzZjNfY0kwQkYtaXc2LWlJRHJfUm5NWDhkVzhLeTIxcFhSVUh0cw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jTkZpTTl3VENoVDlOR184Z1NoU2tVMGJybnNoVkdBOS1oMjBGOTczaFdWNERlYXdvb0RuVnMtMTg2b1k4TUtBVk00dUNCTElkX0dsanIxZU5lV2Y2MmhoMmJ6WEd5d2xDV1VlUWozYlVZYllmbnfSAXtBVV95cUxPbEVRT2paUjBrZlVRX1Z5TVE4REZKZm8wM0dTZXlZNVAyeFNxeWFrRl9PUTdUekpycVk5c0FpZnFJd2tkNjRWaHlVcFE2SGVLLTFyWmYwc2YzX2NJMEJGLWl3Ni1pSURyX1JuTVg4ZFc4S3kyMXBYUlVIdHM?oc=5",
           "date": "08-28 14:26"
         }
       ],
