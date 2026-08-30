@@ -17,37 +17,37 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-08-30 23:11:37",
+  "last_updated": "2026-08-31 03:19:53",
   "weekly_report": {
-    "title": "[2026 Week 35 Report]",
-    "week_number": 35,
-    "week_date_range": "2026.08.24 ~ 2026.08.28",
-    "weekly_price_title": "[W35 주요품목가격]",
-    "date": "2026.08.30",
-    "report_date": "2026.08.30, 23:11",
+    "title": "[2026 Week 36 Report]",
+    "week_number": 36,
+    "week_date_range": "2026.08.31 ~ 2026.09.04",
+    "weekly_price_title": "[W36 주요품목가격]",
+    "date": "2026.08.31",
+    "report_date": "2026.08.31, 03:19",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
-      "코코아 : $6,636.00 (▼3.71%)",
-      "아라비카 커피 : $6,891.64 (▲9.46%)",
-      "로부스타 커피 : $3,728.00 (▲2.31%)",
+      "코코아 : $6,636.00 (▲14.02%)",
+      "아라비카 커피 : $6,891.64 (▼17.25%)",
+      "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,178.00 (▲1.42%)",
-      "라우릭 오일 : $1,930.00 (▲0.35%)"
+      "팜유 : $1,178.00 (▼0.25%)",
+      "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
     "other_commodities": [
-      "코코아 : $6,636.00 (▼3.71%)",
-      "아라비카 커피 : $6,891.64 (▲9.46%)",
-      "로부스타 커피 : $3,728.00 (▲2.31%)",
+      "코코아 : $6,636.00 (▲14.02%)",
+      "아라비카 커피 : $6,891.64 (▼17.25%)",
+      "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,178.00 (▲1.42%)",
-      "라우릭 오일 : $1,930.00 (▲0.35%)"
+      "팜유 : $1,178.00 (▼0.25%)",
+      "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
     "fx_usd": "1,375.67원 (▼4.78원)",
     "fx_eur": "1,592.80원 (▼14.33원)",
@@ -55,42 +55,42 @@ const FALLBACK_DATA = {
     "news_title": "내수엔 호재·수출엔 악재…환율 급락에 식품업계 실적 출렁"
   },
   "daily_briefing": {
-    "title": "[2026 Week 35 Report]",
-    "week_number": 35,
-    "week_date_range": "2026.08.24 ~ 2026.08.28",
-    "weekly_price_title": "[W35 주요품목가격]",
-    "date": "2026.08.30",
-    "report_date": "2026.08.30, 23:11",
+    "title": "[2026 Week 36 Report]",
+    "week_number": 36,
+    "week_date_range": "2026.08.31 ~ 2026.09.04",
+    "weekly_price_title": "[W36 주요품목가격]",
+    "date": "2026.08.31",
+    "report_date": "2026.08.31, 03:19",
     "top_gainer": "코코아 : $6,636.00 (▲7.81%)",
     "top_loser": "아라비카 커피 : $6,891.64 (▼8.57%)",
     "weekly_price_list": [
-      "코코아 : $6,636.00 (▼3.71%)",
-      "아라비카 커피 : $6,891.64 (▲9.46%)",
-      "로부스타 커피 : $3,728.00 (▲2.31%)",
+      "코코아 : $6,636.00 (▲14.02%)",
+      "아라비카 커피 : $6,891.64 (▼17.25%)",
+      "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,178.00 (▲1.42%)",
-      "라우릭 오일 : $1,930.00 (▲0.35%)"
+      "팜유 : $1,178.00 (▼0.25%)",
+      "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
     "other_commodities": [
-      "코코아 : $6,636.00 (▼3.71%)",
-      "아라비카 커피 : $6,891.64 (▲9.46%)",
-      "로부스타 커피 : $3,728.00 (▲2.31%)",
+      "코코아 : $6,636.00 (▲14.02%)",
+      "아라비카 커피 : $6,891.64 (▼17.25%)",
+      "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,873.00 (▲2.51%)",
       "GDT 전지분유 : $3,591.00 (▲3.10%)",
       "GDT 탈지분유 : $3,502.00 (▲7.39%)",
       "GDT 버터 : $5,090.00 (▼2.58%)",
-      "팜유 : $1,178.00 (▲1.42%)",
-      "라우릭 오일 : $1,930.00 (▲0.35%)"
+      "팜유 : $1,178.00 (▼0.25%)",
+      "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
     "fx_usd": "1,375.67원 (▼4.78원)",
     "fx_eur": "1,592.80원 (▼14.33원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "내수엔 호재·수출엔 악재…환율 급락에 식품업계 실적 출렁"
   },
-  "lastUpdated": "2026-08-30T23:11:37.209806+09:00",
+  "lastUpdated": "2026-08-31T03:19:53.732505+09:00",
   "usdKrwRate": 1375.67,
   "eurKrwRate": 1592.8,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 6622.73
           },
           {
-            "time": "23:11",
+            "time": "03:19",
             "price": 6636.0
           }
         ],
@@ -346,10 +346,10 @@ const FALLBACK_DATA = {
           "date": "08-28 13:56"
         },
         {
-          "title": "Cocoa Prices Jump on Concern Over West African Crop Quality - Barchart.com",
+          "title": "Cocoa Prices Surge on West African Cocoa Quality Concerns - Barchart.com",
           "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGI5cWY3V29LeW1zd2x1R3BXZFpNM1pBZEpLYVdSamxBN1BGc0dZZF9lR3hfTjlKNVZ2VjFPWVVXMlBKa3A2b2lfTDA2S000M2pleU9nRkZEM2FWd1BEQU1xWThPVjF6VVRhbHByU0xsS1BoeWxLX1NkTzJNQzloRmxMZUdKaEh4em9rc0F2YkpiZUt4S2tacmROcnFOOUpmNk1CWDFn?oc=5",
-          "date": "08-28 01:06"
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbEN2MnhyWVlSVGpUcVBremxNZVM1clVDLUJ1b2NYdjdqQzRzMHlqV3E4ZTN3Q3RhUFFpM1pLd1dKelJVTXJFRW5HWWNaTUJNQ09lVXpwNnF0c0d3Y3ViWVF6dFNLSmgxSlVaQm0zamprZUFrVEQ4UURtNHdCTWxlOXNaSV9mRWpPT0pVYWtKTzh6amd3dFhKd3VQQXQ2Y29aaGg4?oc=5",
+          "date": "08-28 03:26"
         }
       ],
       "newsKr": [
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 6877.86
           },
           {
-            "time": "23:11",
+            "time": "03:19",
             "price": 6891.64
           }
         ],
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "23:11",
+            "time": "03:19",
             "price": 3728.0
           }
         ],
@@ -1177,16 +1177,16 @@ const FALLBACK_DATA = {
           "date": "08-17 10:28"
         },
         {
-          "title": "fonterra farmgate milk forecast | Supply Glut Slashes Global Dairy Auction Prices - en.edairynews.com",
-          "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WRnhWX3Y2LTN0RkpnNEZlYmdvLWhVRlZTWGt0N21YbExYYWlXeVpNOTZwX29mQVBkcUk3ODNNZFRVSlFlVDlIa1Q3c2IzR2diVjJHRUNGemRFMXVZVWFVOWVqTUFKRDVVal9mSGhtaU1tNnllWWpORnRQZ0E3bnM?oc=5",
-          "date": "06-16 16:00"
-        },
-        {
           "title": "GDT index up 2.3% after latest trading event - Agriland",
           "source": "Agriland",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRy13REV3eThpcklkMFNmd3pESFV1b0JHak16NWJveEZoQjlfQl9NYVZHbV81UUZoQ1cwa1owZ3YxUVF4RDlGTURUYTZSZDQ3ZDl1MlhrVVZ2YmJhUTVjOHhyZVlkVU9vcUhVelpvcHgzT2VzeTdtUTRjc190V2lLMzB2OHhZVGZv?oc=5",
           "date": "08-19 02:15"
+        },
+        {
+          "title": "Sequans cuts Bitcoin stash to 314 coins as it clears debt and refocuses on chips - CryptoRank",
+          "source": "CryptoRank",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYlo5VUhSNnA3RjJpNVMxVVlCUWxrSWpqN05ZZDdOLXhQZjVVVUpVT0lzNE1WVF90MEFVSEdEQXpyeGVXNWVnWC15WUNSVjdMQ1RLaUp5cWFNRVdEQWtGV2dnMWJ0MEJPcmFpcnN5VFJqXzRzanhDcXdiaHF3SGw0VHdSdw?oc=5",
+          "date": "08-04 16:00"
         }
       ],
       "newsKr": [
@@ -1897,16 +1897,16 @@ const FALLBACK_DATA = {
           "date": "08-28 04:57"
         },
         {
+          "title": "U.S. dairy industry accelerates push to boost milk protein levels - Oklahoma Farm Report",
+          "source": "Oklahoma Farm Report",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUFyOW1qOEU2c2h3U0c4cnhuaE80cTRoZjRVTjI5UC13dnJHRUxrNjdyUnRoekpKejdqQ2xtMEJjMWVnSkdIUXc1SmFXN1h0OVEzdWdJOGFvenYtY2ZOX0VvSkZJcWYzVzBfTkFFeXBqN24wSjFHMjNQVWhWaF9ma2dvalNieldISEtvMGN5TTlueWVnOUxldFNaa09pSHY4cjNvTV9XRG5WbkZqRFltZw?oc=5",
+          "date": "08-28 22:31"
+        },
+        {
           "title": "CME Butter Prices Weekly Report | USDA AMS MyMarketNews - News and Statistics - IndexBox",
           "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWN6OWFtTDBUSGZVb2hpdlpJWnVBWDduSE9XVV8tNThnc0IyUHBXTGVCNFI1M3pqdGNqem0tWDhqSzJ1a1BaVFJwWGw2WWlpeVYzT2NlaWdneXNnUHdtaE8yVGx1MUs2ajNhUEpmYzI0TzJwdjdRLUxpd3BiYW80M0x5ZkpnNjcx?oc=5",
           "date": "08-29 03:21"
-        },
-        {
-          "title": "U.S. dairy industry accelerates push to boost milk protein levels - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnNJY241R05JM0pZZjViU2lhQTZGVDVmUDFIYm9od0VCX3kxUksyenVaRjdPZnJwTVhmdTVuUzFEYmxRMVMwTWo5WFIzeGt6NEpfR1d4VHpjWk5ldWlNNkxFTVI2aXlTTlFaMmt4eHJnRXplakpJdDBEZ1Vkc3d3TEVOai1PcGh1Rmw5Sy0wMlp3V2d3YlZBbU5FbmVtVnhFbUtyNzhR?oc=5",
-          "date": "08-28 02:01"
         },
         {
           "title": "IDFA Opens Nominations For 2027 Dairy Industry Leadership Awards - en.edairynews.com",
@@ -2104,7 +2104,7 @@ const FALLBACK_DATA = {
             "price": 1175.64
           },
           {
-            "time": "23:11",
+            "time": "03:19",
             "price": 1178.0
           }
         ],
@@ -2179,10 +2179,10 @@ const FALLBACK_DATA = {
           "date": "08-29 20:11"
         },
         {
-          "title": "First Thing Today | Grains extend gains, score new highs overnight - Pro Farmer",
-          "source": "Pro Farmer",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVUZQRUpQdWhMQm56M1h2SE9BWWpaSVY0RVFfRjA2NTN6dGtBWFFVOHE1Tkt3V1IzRTduNjlTWWNIYWZfSVV2d0F5MGlOX2Y5dnBmVjhXQjhkMDQ3dllZaFZOVkZuT2ZldVNlejFZWlBHYnVpa3BTVjE3MXFSNzZoTnRGT29OSHRuMS1NVHBRdG9oQWNyZE1PeV9ieXpYaGF1WUFFTG5SQmZ2N2k4eVpGVGZB?oc=5",
-          "date": "08-28 20:26"
+          "title": "CPO Futures End Lower On Weaker Soybean, Crude Oil Prices - BernamaBiz",
+          "source": "BernamaBiz",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kZ1lzdGRSbTU4d3I3Ykc5RHZRYzF2V2FGd3ZiMmVMLVFIc18wRGNBN0ZvMVI5bVVjcXVjcVNxRVctYWJ1YzR5SS1qQ3llWmlhek1UQ0pNOW9iQQ?oc=5",
+          "date": "08-29 20:10"
         }
       ],
       "newsKr": [
@@ -2478,7 +2478,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "23:11",
+            "time": "03:19",
             "price": 1930.0
           }
         ]
@@ -2728,7 +2728,7 @@ const FALLBACK_DATA = {
             "price": 1372.92
           },
           {
-            "time": "23:11",
+            "time": "03:19",
             "price": 1375.67
           }
         ],
@@ -2827,16 +2827,16 @@ const FALLBACK_DATA = {
           "date": "08-28 08:02"
         },
         {
-          "title": "1550원까지 갔었는데…1300원대 안착한 환율 전망은[주末머니] - 아시아경제",
-          "source": "아시아경제",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNlhLX2VuaTlSdERtNFJGZlkxUW5ZdjlreHlSbFAtNW8yaWxZdi1LTnozQXpCVzZQRmQ1R0NpakVMVWowNFZobE5EcjNNVGNiZTJubzJCSnBnV1ZMLTFxTA?oc=5",
-          "date": "08-29 10:01"
+          "title": "1550원까지 갔었는데…1300원대 안착한 환율 전망은[주末머니] - v.daum.net",
+          "source": "v.daum.net",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wWlBiT0Y4SUgzZG82LTFGb3dPR2d6WFhhdzA0UjZ5RTFOdnRZUFZ4UzNyM3piLTRwSUx3WW9IVVY0b1NlS0E?oc=5",
+          "date": "08-29 10:03"
         },
         {
-          "title": "원화 강세 힘받나…IIF \"반도체 호조로 코로나 전 수준 회복\" - 연합뉴스",
-          "source": "연합뉴스",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHd9IBYEFVX3lxTE0wMTk2Y0ZmVFpvZUlXWlpyNWtWdVhYNnBldVlRbWMyQ2tHRzNrOS1qb2FsMGdSZjQzMGJXeXk3U2ZnUmZyOHdiU0xFS2pZLXdrMjZzUDZaQjJ5aFlxVkRHdw?oc=5",
-          "date": "08-30 05:53"
+          "title": "[다음주 환율전망] 1370원대까지 내려온 원·달러…美 고용지표에 방향 갈린다 - 굿모닝경제",
+          "source": "굿모닝경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9uR3huQUNETmdXakdZd1ZLNWtWdE1rMVNNUmI2T0tQOFExVmNvVkp3c3l4Z1dzR0doVTJrN1ROVXQ4cG5fQVg3ZlBHbjRWRFhSdnZwZ2k2eWVldnBBNGhUcnd5RnZwSkxhdWJRSw?oc=5",
+          "date": "08-29 07:00"
         }
       ]
     },
@@ -3032,7 +3032,7 @@ const FALLBACK_DATA = {
             "price": 1589.61
           },
           {
-            "time": "23:11",
+            "time": "03:19",
             "price": 1592.8
           }
         ],
