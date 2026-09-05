@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-09-06 01:26:22",
+  "last_updated": "2026-09-06 03:42:48",
   "weekly_report": {
     "title": "[2026 Week 36 Report]",
     "week_number": 36,
     "week_date_range": "2026.08.31 ~ 2026.09.04",
     "weekly_price_title": "[W36 주요품목가격]",
     "date": "2026.09.06",
-    "report_date": "2026.09.06, 01:26",
+    "report_date": "2026.09.06, 03:42",
     "top_gainer": "GDT 탈지분유 : $3,695.00 (▲5.51%)",
     "top_loser": "아라비카 커피 : $6,457.33 (▼9.70%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.08.31 ~ 2026.09.04",
     "weekly_price_title": "[W36 주요품목가격]",
     "date": "2026.09.06",
-    "report_date": "2026.09.06, 01:26",
+    "report_date": "2026.09.06, 03:42",
     "top_gainer": "GDT 탈지분유 : $3,695.00 (▲5.51%)",
     "top_loser": "아라비카 커피 : $6,457.33 (▼9.70%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "뉴질랜드 유제품 가격, GDT 경매서 반등…뉴질랜드달러(NZD) 및 선물 전망 ‘훈풍’"
   },
-  "lastUpdated": "2026-09-06T01:26:22.244463+09:00",
+  "lastUpdated": "2026-09-06T03:42:48.753441+09:00",
   "usdKrwRate": 1351.1,
   "eurKrwRate": 1562.4,
   "marketStatus": "OPEN",
@@ -138,7 +138,7 @@
             "price": 6162.65
           },
           {
-            "time": "01:26",
+            "time": "03:42",
             "price": 6175.0
           }
         ],
@@ -321,14 +321,8 @@
           "date": "09-05 01:07"
         },
         {
-          "title": "Cocoa Prices Retreat as Supply Fears Abate - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaFdYMW1ocGRqdDg1aTZJQ3JQVllCemxkZWlIdVVBaVVnUWZacDBIRmt0ZDl3aVhxTFc5dWFhVEwwV0x4THlWX3VPMlF5alRERkxXcVcySnktZlY2UFZyQ1dhTXZKLUF0bk9wdlRqY1dfbGpFR1FfNjRzNUp5aldrOU83cGNiUXl2VGtMQjRaYWU1Z29YS1ExblFVdkVjeEkxb2NHZkxn?oc=5",
-          "date": "09-04 03:20"
-        },
-        {
-          "title": "Valentine's Day shoppers face soaring chocolate prices - abcnews.com",
-          "source": "abcnews.com",
+          "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHk5UVN1QjBrajdlbmpya0g4VjJfQ3BxLTM2X1hsem5lUG5TRVJlVEpTaEZGOUxwRkFIR3UwdDFzaGdUaWxyeGd6STZNX0FYa0tfT0ZjdmpCTlMtcldyMVU5anFsaExRUnFsZ0ZOTlA4S1FjdDdyNW5kc2FpZTRpSGpnSG12NkFRWVQ4WU93YzVnNURVREZ0dUtpYTZLNU96ZlNr0gGoAUFVX3lxTE1iZmtJbWlEVTNqRlYwU3pDeTFoVnNRbGZhM0JaaGhzZGo0VXd5eHM4dzJFZF81V0ZZMVNycml2ZWlkdmhKeXFhbS1GclJPLXZTelA2RDZRek1SeXlSb185OW52TU9ySVR5SnRSa2xPZThNTTNlQ3QxaUV0Zy1TVldMTUZFM083N0tOdi15VXFNYy0zTnhVWGE0dFprTXV3SkViZHUyWG94MQ?oc=5",
           "date": "09-04 12:01"
         },
@@ -337,6 +331,12 @@
           "source": "africanews.com",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTVNfdkxBRnZWSGRYNW0yU0V1aDA2UUlkYnZjb0dUSjNyWkllRW5tbXdjUHMtOFFQcWk4QXdlcUtMd01pU0ltLXlXXzQwelpBQnl2R1VuejFHLV81NzBhNlhleTRpM0czUEJEYVdmRlRUbDhWYTlSWWlGMW00NkZMRkJTal9qR0Y5UXgxRGhyb2JRWTNnNjlZWkt0Wl_SAaIBQVVfeXFMTm1ZUFJVZWRjal9QcDJ6NWQwZmI5eHk3RUQ3ZUY3UlQyeGxKZXAxeV9QRWgwd1BpVE00Q3Y3SFhndWVRQ2IwaUx6a21BYzg5VVUtNU4wUVlZblU0bmFVeUZVVldJcm9rNmwyT281a0prWmpMSzRsbFY1TDJvNG84UjZkWkl1bjYzTnVmcUNFOHBtdmpNUXExN0lhWmdIaDlYSVJ3?oc=5",
           "date": "09-03 16:11"
+        },
+        {
+          "title": "Cocoa Prices Slip as Supply Worries Grow - Briefs Finance",
+          "source": "Briefs Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDYyT2wyTVlveTR3TFF2TXoyX0RqcDFxSTNrd0Z5Ui1palRxZ1RmeFR3VkU0ZGZqbHFhY3YwQWlwYWU2YlVLWWFkT3RwQmNLSmJUZDdDQUlLOUF0RmpZTzVMa0NDUEhhRV9XdEVXdHlIZ1ZJd0xkZ2JHRUN3VDEzMXdOcjZ6UE05VVpMTlYwOXBKUQ?oc=5",
+          "date": "09-04 21:51"
         }
       ],
       "newsKr": [
@@ -426,7 +426,7 @@
             "price": 6444.42
           },
           {
-            "time": "01:26",
+            "time": "03:42",
             "price": 6457.33
           }
         ],
@@ -621,8 +621,8 @@
           "date": "09-05 14:10"
         },
         {
-          "title": "What’s brewing in the coffee market? - ocj.com",
-          "source": "ocj.com",
+          "title": "What’s brewing in the coffee market? - Ohio's Country Journal",
+          "source": "Ohio's Country Journal",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VbDdxVHhLT0JhcTIzamgtbWRvQi1fUWk5WGQ0d2ZFRU5jQzlSa09FNno2T0U4ZVJtYjRrVVBaSmVmcnFicDhUb2RwNzl6YmhTLVc0cHg1b0lDQzQwbldPREtFUm1GR3AtSVdJ?oc=5",
           "date": "09-04 04:20"
         }
@@ -839,7 +839,7 @@
             "price": 3720.54
           },
           {
-            "time": "01:26",
+            "time": "03:42",
             "price": 3728.0
           }
         ],
@@ -1174,6 +1174,12 @@
           "source": "VT Markets",
           "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNVm5PdmZiM05ycHU4Z0hpelMtTWVmM2FOcFI1Vk9mSktOemtXSm9naFdDSDZMSWZNai1QMkJidjBQME5NUmQ1c0dtUHNETGlOY0dfRUhCS0sxbjJNX0Z0Zk04aWpoM2E2TUd5MnBHOE91R3JrRWFxU2EzOGRHcDM4dDdQWV9Ud3UxMVIzS3oyaHBRYTBQTW9uQU10Um9RWVdDUmFQVS0zcDhfMzBMWllRTy1tdkVydHI5ZklnZDFTQU5POFBHZ241TmhaMDRfalpQbDBVWHhDX0w3WmZMSjJJeUxTbkNOYjNxSU9CbTEyQ0pXTldfa1Y2dWE2V2V6T1hINGpHS1NRNzJTeHpTU2J5U2Y4UEs3TEtSQW5idzI1U2JEMEZpdDQ1VGFsLUlQeDJOQTYzcHp4NEdTZmJSVnF3eWxwUlJfeTNpVzQxc1c1aHl6OEJ0cVRUWQ?oc=5",
           "date": "07-22 08:42"
+        },
+        {
+          "title": "뉴질랜드 달러 가치 하락: 왜 NZD는 RBNZ 금리 압박에도 약세일까? - EBC Financial Group",
+          "source": "EBC Financial Group",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWTZ4b0NfZDlwckpnTF9yN3RMajUySkE4R1VidUpKaUZDYkVlWHZtYjlTaTFGLXd6VWpYY1pQOENxbkVBNUMwaUpNTjhQdlFKWEE?oc=5",
+          "date": "06-12 16:00"
         }
       ]
     },
@@ -1394,10 +1400,10 @@
           "date": "09-04 02:10"
         },
         {
-          "title": "Trump’s tariff tit for tat is on again with Canada - Farmers' Advance",
-          "source": "Farmers' Advance",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0R0bkttOGI0dnVCdVZ0TzZicFVYNGF1QjVKSkMzZkM0X1JEN3RSMlFXbHhwZVUzZnhieXJyX0xlVVRKekMxaVo3OU0yUVVFWmlab2YyOVJmZDJlWjNRYVNBMTFTOS03SWlYS2lOQUFnSk1Ea1RwUXVfWUkyUVlrbzYxTWlOUFA2Ymxrdm9xWktsQTRrWDJvVjljdV9UbGxmcm1iMjJ2RzJlTmdzdlVla0JVMkZhdw?oc=5",
-          "date": "09-03 03:21"
+          "title": "USDA Organic Dairy Market Report September 2026: Prices, Production, and Retail Trends - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUThiUUN0VHY4S1k2S0tQeWdRQ0NsM0ZsVFp0UFNMRE8tVm82bkJacXlwSWJPcnozTXhneHR2VUxnYlV3U2FqaE9vOGctRWlWYmNIdHpxN2ZaYkgyNWNlRktZeGdHQ0JoWkxSYTBDLTVkS1J4d2FxM3NxQnhvZmppLWxlNGprX3FqZmZvcTAtcnNqWWVwNi1nR1VvUk1qREd5OTB0bDNjX1BfYTBtM3k0UGNMVQ?oc=5",
+          "date": "09-05 03:51"
         },
         {
           "title": "ByHeart And Dairy Industry Fund Botulism Report: 22 Recommendations, No Parents, And No Mandatory Rules - en.edairynews.com",
@@ -1412,6 +1418,12 @@
           "source": "VT Markets",
           "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNVm5PdmZiM05ycHU4Z0hpelMtTWVmM2FOcFI1Vk9mSktOemtXSm9naFdDSDZMSWZNai1QMkJidjBQME5NUmQ1c0dtUHNETGlOY0dfRUhCS0sxbjJNX0Z0Zk04aWpoM2E2TUd5MnBHOE91R3JrRWFxU2EzOGRHcDM4dDdQWV9Ud3UxMVIzS3oyaHBRYTBQTW9uQU10Um9RWVdDUmFQVS0zcDhfMzBMWllRTy1tdkVydHI5ZklnZDFTQU5POFBHZ241TmhaMDRfalpQbDBVWHhDX0w3WmZMSjJJeUxTbkNOYjNxSU9CbTEyQ0pXTldfa1Y2dWE2V2V6T1hINGpHS1NRNzJTeHpTU2J5U2Y4UEs3TEtSQW5idzI1U2JEMEZpdDQ1VGFsLUlQeDJOQTYzcHp4NEdTZmJSVnF3eWxwUlJfeTNpVzQxc1c1aHl6OEJ0cVRUWQ?oc=5",
           "date": "07-22 08:42"
+        },
+        {
+          "title": "뉴질랜드 달러 가치 하락: 왜 NZD는 RBNZ 금리 압박에도 약세일까? - EBC Financial Group",
+          "source": "EBC Financial Group",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PWTZ4b0NfZDlwckpnTF9yN3RMajUySkE4R1VidUpKaUZDYkVlWHZtYjlTaTFGLXd6VWpYY1pQOENxbkVBNUMwaUpNTjhQdlFKWEE?oc=5",
+          "date": "06-12 16:00"
         }
       ]
     },
@@ -1858,16 +1870,16 @@
           "date": "09-05 00:17"
         },
         {
-          "title": "Trump’s tariff tit for tat is on again with Canada - Farmers' Advance",
-          "source": "Farmers' Advance",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS0R0bkttOGI0dnVCdVZ0TzZicFVYNGF1QjVKSkMzZkM0X1JEN3RSMlFXbHhwZVUzZnhieXJyX0xlVVRKekMxaVo3OU0yUVVFWmlab2YyOVJmZDJlWjNRYVNBMTFTOS03SWlYS2lOQUFnSk1Ea1RwUXVfWUkyUVlrbzYxTWlOUFA2Ymxrdm9xWktsQTRrWDJvVjljdV9UbGxmcm1iMjJ2RzJlTmdzdlVla0JVMkZhdw?oc=5",
-          "date": "09-03 03:21"
-        },
-        {
           "title": "H1 2026 dairy trade review: exports of milk powders and cheese at an all-time high - AHDB",
           "source": "AHDB",
           "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOczJqLTVNMVFYekQ0MmVxVmlNZ3U1bmprMG5tOGw0QlMzMUpzRVFRQlc0LUFUQWNHNW9vVFdOUUN0Z2kwVU1vQkE3eVNrTTZybmpzUXV4UEpHS2JrQ2lxNVVQcGpjcElwVEZZMndjLTJRaFNDLWZXdEozUGhaajkzUmdDbzV5dGEyMDM5ODh6eW43MThFcHE2a2t5S0I0T2tTbi1iYVBOSkxUdw?oc=5",
           "date": "09-04 03:57"
+        },
+        {
+          "title": "MMPA And IDFA Host Sen. Elissa Slotkin At Ovid Dairy Facility For Tour And Industry Roundtable - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVjJNNkU4RWoyYUxvcWpnUlE4SHF4Z0R2eVR2QnNvLVFXWEVieGpnQXFPWUJOdHoyOFNwWldTZDJmV29zWGZYeU9lQzRueTd1RmNFeUZrNGhEYlJ4azBYQk8yTjg3VDU5emtzS3l4WTV6aGVLZGJkMk9yWS1DNHU5bWltazY4eWEtQzQwU0pud2xEQ3NzN2J1bzhVbFZCdTJpTlFDRnhTSTlqRjladWk0RWRqSl9YeEpXaUdEQQ?oc=5",
+          "date": "09-03 20:18"
         }
       ],
       "newsKr": [
@@ -2063,7 +2075,7 @@
             "price": 1231.78
           },
           {
-            "time": "01:26",
+            "time": "03:42",
             "price": 1234.25
           }
         ],
@@ -2152,8 +2164,8 @@
           "date": "08-19 16:00"
         },
         {
-          "title": "FAO 7월 세계식량가격지수 131.1포인트 기록… 곡물·유지류·설탕 상승세 주도 - mtnews.net",
-          "source": "mtnews.net",
+          "title": "FAO 7월 세계식량가격지수 131.1포인트 기록… 곡물·유지류·설탕 상승세 주도 - 기계신문",
+          "source": "기계신문",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mT2pzSERFb1dCV3hmbkRjQjFyM2NlSXdUUXFnYjlSN3pZZDN6dEM0RmREMndxQ0ZwUXVmN2NzU1JrS1B3dkx0TTVUc0RkSDQyZFBheWR4aHZoQXZ6MGYxaTBQNktEczQ?oc=5",
           "date": "08-08 16:00"
         },
@@ -2437,21 +2449,27 @@
             "price": 1926.14
           },
           {
-            "time": "01:26",
+            "time": "03:42",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Desiccated coconuts: high supply weighs on prices - mundus-agri.eu",
-          "source": "mundus-agri.eu",
+          "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
+          "source": "Mundus Agri",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
           "date": "06-30 16:00"
         },
         {
-          "title": "Desiccated coconuts: weather and energy costs weigh on the markets - mundus-agri.eu",
-          "source": "mundus-agri.eu",
+          "title": "7 natural hair oils that can help reduce hair fall - The Economic Times",
+          "source": "The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMHVYZ2J6eGJWSk45S3d5TTYtMk15QUQ5am90UWdJVFp4VVRDbEx5NWQ5RUV5MUpXOEhYSERIMmgxLTVXbG9HRnNfSkJpMWlNMkpvTkxSa2VnY0NFNFd2c3NHQThZSTM3QlVhUVgySGpFWWdINzJjMzA4dUxWTXFQbTF0a0M0cEpNRVh3VHpHdDFNX1hGdjN1NE9PNWRlR2lCZUozVTBxd0lrRkFRU05tQ0lFc3FXeFZsTm42Z3k0cmdmZ2M?oc=5",
+          "date": "08-27 16:00"
+        },
+        {
+          "title": "Desiccated coconuts: weather and energy costs weigh on the markets - Mundus Agri",
+          "source": "Mundus Agri",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWdMdnpYejMtS3BrX1BONGthX0xQYWpVa09DRWVkTVJldXRjSnN2OC10Y2h0aUxOOUVzbVhJbGJ5ZFpZUG50LTZ2YVI4OG1laDlzZTdwZHpqWmxsNHZ5Y1ZGNVlnbEVRSmpPSHNfeWgtV1hyNEd3aDdBSFh2a0MtVm0tUktzZ0czQ2pRWnFYWTcwSUMtRGV2Ym1jdVpOYzA?oc=5",
           "date": "05-13 16:00"
         },
@@ -2460,12 +2478,6 @@
           "source": "Food Business News",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRENjSllUeERtdXI3NWVBdEdJRW9YMGRjQkluZm1DZkt2VzNJYjlBT0FmM3JtVUtnNFVfcm40NmN1OWZFN1N6Wjh0MmZJSXBvWU5ZUjVhWGdvWFJMT1l5VHYxSUVDUDdxYTNoTXM1MDh5SW1Na05sRkowamJrSU9GRTh0MEdfb0t5UVpmbQ?oc=5",
           "date": "04-29 16:00"
-        },
-        {
-          "title": "Fatty Alcohol Prices Stabilize in Q4 Amid Tight Supply and Improving Market Fundamentals - IMARC Group",
-          "source": "IMARC Group",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1YaTJQVkg4YmxiZFI0bmFkOHZneWp2RXM3YzQwVFREczJ5eFJkM0E4SFJKb1NoZEk3R1FCNFVFWlVPVUtVV01HUnZSa0dtRWlXcHdGTldRQmNkWGdXWWpfRmY2TTNMUmZi?oc=5",
-          "date": "11-19 17:00"
         }
       ],
       "newsKr": [
@@ -2687,7 +2699,7 @@
             "price": 1348.4
           },
           {
-            "time": "01:26",
+            "time": "03:42",
             "price": 1351.1
           }
         ],
@@ -2760,16 +2772,16 @@
           "date": "09-04 13:03"
         },
         {
+          "title": "Risks in the South Korean stock market? Goldman Sachs: Retail investors have withdrawn, share buyback ammunition will be exhausted by October, leaving foreign capital as the only remaining support. - Moomoo",
+          "source": "Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWM1T2xhN0lOSUdwUTRhWnBGRFU3T0NCVEdCTV9LcmU3ZThjNzc4UHFlemhQeWlla194YXhua293NVhoRTVHZ1E1ajBIWk5nTndFQ2Q1dmhxelhZQzkzVDUtbzFRVzdWWnpZTldUWjA2VHRMSTAzV1Y4RTFYYUlTb1o5WmFPZG9wZ0Q5eGVpekFLZEZfZndrem1KQWExMldNRUdn?oc=5",
+          "date": "09-04 12:11"
+        },
+        {
           "title": "This is Asia’s best-performing currency so far in 2026 - Investing.com",
           "source": "Investing.com",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY05wbDR6Y3lvX3VZZnJqaTdvTkE4YlVGeXFlV0dmZi1QelZETmZMaXozN2RKelY3d0lnT3lzMHY0THBGM3BYUF9xaTlweTZiVEhRR2pjdjJ5dG1pZWpRSlNVbHRieHNGTHJxUHIzdXV6VHE3eUxkMGlTNHotWDhMS0VFRkRxRTA5eVlKQW0xVTg4ZXQ1T2w1elJ6b05JSWhYbFIxY01NZ0pnVE0?oc=5",
           "date": "09-03 15:50"
-        },
-        {
-          "title": "Korean won hits 14-month high against US dollar as Japan's yen strengthens - koreatimes.co.kr",
-          "source": "koreatimes.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczFBaWFBYlpCLXFyb1NQVS1SSXZxOUdmUDVMekRrZy0wVm93bW9iMWk4N2FEMlJ5Z0JWZGQ0bHU4LTU0Q0hUdTM4M1Jid3pfN1NyZzdOc21McG9BU1l2V0hfRkRfSF81eXVDVDdieTU4Tkg3T0NhQjZmYzFxa1hGZ1BnOUhqZl9iaHlPWkFZQmZ5aHBEVVNMT0o3amw4a18wbmZnWkFDaDBNRnhWa0wySktKNlVwTFlCNEdF0gHAAUFVX3lxTE43THpxMU1kWWdEUEUyb0M5TU1rNFlOM0hJSFB3cml3dTRnX1N5U0t6c2ZNN1Q3Vk10X0p1MWRmdWxmd2R1Nkp4N01qSFJBemhSeE5RUXl4NjdZb1p5VUZjRGwyWmE0WmtwVUVOSDNUR3pkUTU1WTdIVEhObHhQUU9vX3E2NkZPUi1LUGFXallwOW5FWE5HZ20tV08tWmlLNlFlWmJwR2gyOFFhU0JmeDVNUUpxYmJsZUZjcThvMjlEdQ?oc=5",
-          "date": "09-03 16:27"
         }
       ],
       "newsKr": [
@@ -2991,7 +3003,7 @@
             "price": 1559.28
           },
           {
-            "time": "01:26",
+            "time": "03:42",
             "price": 1562.4
           }
         ],
@@ -3064,14 +3076,14 @@
           "date": "09-05 03:49"
         },
         {
-          "title": "Azerbaijani currency to world currency rates for September 4 - trend.az",
+          "title": "Azerbaijani currency to world currency rates for September 3 - trend.az",
           "source": "trend.az",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xdkFKQmtldEdzNkc4RDBXcUpaYWd4dlpOV1htSU40amt0b2Naa1A0c2pZd09YWTdqTktoYWJEUjdqTkoxaEp6UTMtei05eDgwdnctbQ?oc=5",
-          "date": "09-04 14:22"
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE50TnlMTWNoMVNTOWtfWGFUcmxLYXlSOHF6UVJIdllWNnFxUkpaRUlkYmxqcmZua2czMTJhNDh1Q29zV1dDa29TOU5GRmFLVDdVdDkxOQ?oc=5",
+          "date": "09-03 14:15"
         },
         {
-          "title": "CBA currency exchange rates (04.09.2026) - Report.az",
-          "source": "Report.az",
+          "title": "CBA currency exchange rates (04.09.2026) - report.az",
+          "source": "report.az",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SkRNYjZuUE9HbWNlY0g4ZW03MGxCSGtpU3RuRlNCWXUzMTZSd0xud3NjbVcxdzJ3cUpydWNoQjhXWkRFYmVZNW01QkNoNEY5NFNIV2hkYjBleG5VeFJrTExFNTY3a1N2MW1qclhOamd1cG9EUHfSAXtBVV95cUxNenNlYi1wbkdaVmQ0NTJBbUFLRml5aFdlZWUwRV9YektPRk5aMTY1dVN4Vzl2eDROQm4xWHBhcFBPb0hMYXFjbm14UFl0Q3RMa2F4QXdHY0FXUERlaEctNVNDa05EbzdQQUJTN0gzSzhZaEJGQkQ5U1NFdE0?oc=5",
           "date": "09-04 14:21"
         }
@@ -3090,8 +3102,8 @@
           "date": "05-22 16:00"
         },
         {
-          "title": "유로 환율 전망 4월 이렇게 갑니다 - contents.premium.naver.com",
-          "source": "contents.premium.naver.com",
+          "title": "유로 환율 전망 4월 이렇게 갑니다 - 네이버 프리미엄콘텐츠",
+          "source": "네이버 프리미엄콘텐츠",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTFZ3WlhWNjdPTnRoOFBicjBFandEQWd4NFhQWkhON3E0THJ6enNzZFBlNTVnWDYtcHpMUGFsRmMyc25XeERPN0NKbXgyanJBNWpGX2V5d0JPVWtBa1NiUmJsXzFEYTIwcGpZUUZUbUV6WnhnVVlHa0xZQTRyWDRYcjVIX1BzRUpHYks0?oc=5",
           "date": "04-01 16:00"
         },
