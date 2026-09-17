@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-09-18 04:27:25",
+  "last_updated": "2026-09-18 07:36:06",
   "weekly_report": {
     "title": "[2026 Week 38 Report]",
     "week_number": 38,
     "week_date_range": "2026.09.14 ~ 2026.09.18",
     "weekly_price_title": "[W38 주요품목가격]",
     "date": "2026.09.18",
-    "report_date": "2026.09.18, 04:27",
+    "report_date": "2026.09.18, 07:36",
     "top_gainer": "라우릭 오일 : $1,930.00 (▲0.31%)",
     "top_loser": "아라비카 커피 : $6,101.29 (▼6.46%)",
     "weekly_price_list": [
@@ -49,8 +49,8 @@ const FALLBACK_DATA = {
       "팜유 : $1,218.75 (▼2.33%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,380.27원 (▲16.70원)",
-    "fx_eur": "1,583.40원 (▲10.45원)",
+    "fx_usd": "1,379.99원 (▲3.39원)",
+    "fx_eur": "1,583.20원 (▲4.66원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "DS단석, 바이오원료 글로벌 판로 확대·협력방안 논의"
   },
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.09.14 ~ 2026.09.18",
     "weekly_price_title": "[W38 주요품목가격]",
     "date": "2026.09.18",
-    "report_date": "2026.09.18, 04:27",
+    "report_date": "2026.09.18, 07:36",
     "top_gainer": "라우릭 오일 : $1,930.00 (▲0.31%)",
     "top_loser": "아라비카 커피 : $6,101.29 (▼6.46%)",
     "weekly_price_list": [
@@ -85,14 +85,14 @@ const FALLBACK_DATA = {
       "팜유 : $1,218.75 (▼2.33%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,380.27원 (▲16.70원)",
-    "fx_eur": "1,583.40원 (▲10.45원)",
+    "fx_usd": "1,379.99원 (▲3.39원)",
+    "fx_eur": "1,583.20원 (▲4.66원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "DS단석, 바이오원료 글로벌 판로 확대·협력방안 논의"
   },
-  "lastUpdated": "2026-09-18T04:27:25.886482+09:00",
-  "usdKrwRate": 1380.27,
-  "eurKrwRate": 1583.4,
+  "lastUpdated": "2026-09-18T07:36:06.461219+09:00",
+  "usdKrwRate": 1379.98,
+  "eurKrwRate": 1583.1,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5608.76
           },
           {
-            "time": "04:27",
+            "time": "07:34",
             "price": 5620.0
           }
         ],
@@ -443,7 +443,7 @@ const FALLBACK_DATA = {
             "price": 6089.09
           },
           {
-            "time": "04:27",
+            "time": "07:34",
             "price": 6101.29
           }
         ],
@@ -856,7 +856,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "04:27",
+            "time": "07:34",
             "price": 3728.0
           }
         ],
@@ -2112,7 +2112,7 @@ const FALLBACK_DATA = {
             "price": 1216.31
           },
           {
-            "time": "04:27",
+            "time": "07:35",
             "price": 1218.75
           }
         ],
@@ -2486,7 +2486,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "04:27",
+            "time": "07:35",
             "price": 1930.0
           }
         ]
@@ -2568,33 +2568,29 @@ const FALLBACK_DATA = {
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1380.27,
-      "change": 16.7,
-      "changePercent": 1.22,
+      "price": 1379.99,
+      "change": 3.39,
+      "changePercent": 0.25,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1387.98,
-      "low24h": 1373.18,
-      "high7d": 1380.27,
+      "high24h": 1380.29,
+      "low24h": 1379.37,
+      "high7d": 1379.99,
       "low7d": 1339.17,
       "high1m": 1415.37,
       "low1m": 1339.17,
       "volume": 0,
       "sparkline": [
-        1339.21,
         1339.17,
         1348.17,
         1344.64,
         1345.61,
         1363.57,
-        1380.27
+        1376.6,
+        1379.99
       ],
       "history": {
         "7D": [
-          {
-            "date": "09-08",
-            "price": 1339.21
-          },
           {
             "date": "09-09",
             "price": 1339.17
@@ -2616,8 +2612,12 @@ const FALLBACK_DATA = {
             "price": 1363.57
           },
           {
+            "date": "09-16",
+            "price": 1376.6
+          },
+          {
             "date": "09-17",
-            "price": 1380.27
+            "price": 1379.99
           }
         ],
         "1M": [
@@ -2714,26 +2714,30 @@ const FALLBACK_DATA = {
             "price": 1363.57
           },
           {
+            "date": "09-16",
+            "price": 1376.6
+          },
+          {
             "date": "09-17",
-            "price": 1380.27
+            "price": 1379.99
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1371.99
+            "price": 1371.71
           },
           {
             "time": "11:00",
-            "price": 1374.75
+            "price": 1374.47
           },
           {
             "time": "13:00",
-            "price": 1377.51
+            "price": 1377.23
           },
           {
-            "time": "04:27",
-            "price": 1380.27
+            "time": "07:35",
+            "price": 1379.99
           }
         ],
         "1Y": [
@@ -2787,7 +2791,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-09",
-            "price": 1380.27
+            "price": 1379.99
           }
         ]
       },
@@ -2868,33 +2872,29 @@ const FALLBACK_DATA = {
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1583.4,
-      "change": 10.45,
-      "changePercent": 0.66,
+      "price": 1583.2,
+      "change": 4.66,
+      "changePercent": 0.3,
       "high52w": 1807.42,
       "low52w": 1549.5,
-      "high24h": 1590.4,
-      "low24h": 1575.5,
-      "high7d": 1583.4,
+      "high24h": 1583.3,
+      "low24h": 1582.6,
+      "high7d": 1583.2,
       "low7d": 1555.19,
       "high1m": 1638.16,
       "low1m": 1555.19,
       "volume": 0,
       "sparkline": [
-        1556.73,
         1557.39,
         1565.09,
         1556.39,
         1555.19,
         1572.95,
-        1583.4
+        1578.54,
+        1583.2
       ],
       "history": {
         "7D": [
-          {
-            "date": "09-08",
-            "price": 1556.73
-          },
           {
             "date": "09-09",
             "price": 1557.39
@@ -2916,8 +2916,12 @@ const FALLBACK_DATA = {
             "price": 1572.95
           },
           {
+            "date": "09-16",
+            "price": 1578.54
+          },
+          {
             "date": "09-17",
-            "price": 1583.4
+            "price": 1583.2
           }
         ],
         "1M": [
@@ -3014,26 +3018,30 @@ const FALLBACK_DATA = {
             "price": 1572.95
           },
           {
+            "date": "09-16",
+            "price": 1578.54
+          },
+          {
             "date": "09-17",
-            "price": 1583.4
+            "price": 1583.2
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1573.9
+            "price": 1573.7
           },
           {
             "time": "11:00",
-            "price": 1577.07
+            "price": 1576.87
           },
           {
             "time": "13:00",
-            "price": 1580.23
+            "price": 1580.03
           },
           {
-            "time": "04:27",
-            "price": 1583.4
+            "time": "07:36",
+            "price": 1583.2
           }
         ],
         "1Y": [
@@ -3087,7 +3095,7 @@ const FALLBACK_DATA = {
           },
           {
             "date": "2026-09",
-            "price": 1583.4
+            "price": 1583.2
           }
         ]
       },
