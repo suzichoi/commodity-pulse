@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-09-19 07:56:47",
+  "last_updated": "2026-09-19 09:55:52",
   "weekly_report": {
     "title": "[2026 Week 38 Report]",
     "week_number": 38,
     "week_date_range": "2026.09.14 ~ 2026.09.18",
     "weekly_price_title": "[W38 주요품목가격]",
     "date": "2026.09.19",
-    "report_date": "2026.09.19, 07:56",
+    "report_date": "2026.09.19, 09:55",
     "top_gainer": "라우릭 오일 : $1,930.00 (▲0.31%)",
     "top_loser": "코코아 : $5,330.00 (▼7.66%)",
     "weekly_price_list": [
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.09.14 ~ 2026.09.18",
     "weekly_price_title": "[W38 주요품목가격]",
     "date": "2026.09.19",
-    "report_date": "2026.09.19, 07:56",
+    "report_date": "2026.09.19, 09:55",
     "top_gainer": "라우릭 오일 : $1,930.00 (▲0.31%)",
     "top_loser": "코코아 : $5,330.00 (▼7.66%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "DS단석, 바이오원료 글로벌 판로 확대·협력방안 논의"
   },
-  "lastUpdated": "2026-09-19T07:56:47.446820+09:00",
+  "lastUpdated": "2026-09-19T09:55:52.290285+09:00",
   "usdKrwRate": 1385.95,
   "eurKrwRate": 1590.9,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5319.34
           },
           {
-            "time": "07:56",
+            "time": "09:55",
             "price": 5330.0
           }
         ],
@@ -350,8 +350,8 @@ const FALLBACK_DATA = {
           "date": "09-17 23:05"
         },
         {
-          "title": "The $4 Billion Debt Crisis: Cocoa Failure or Governance Failure? - Modern Ghana",
-          "source": "Modern Ghana",
+          "title": "The $4 Billion Debt Crisis: Cocoa Failure or Governance Failure? - modernghana.com",
+          "source": "modernghana.com",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNEJKbFY2UmZ0WDM3dklGdlZQTm42ZzUyNk0xUHVKSWVUU0tQSjVDeWF2MllVOE1icGJLaWhTWEo1cGhQZTBzRnl0SjJYTE1JaE5LRUdEN1ZZVnFxcXNESnQ1akpRNld3Y1lEcUhfMnRMQlVWSWRGWFJVRHZZNjVydjlCNHdSZjJteVl3akN6MG1WVVlEQm5WadIBmAFBVV95cUxNNEJKbFY2UmZ0WDM3dklGdlZQTm42ZzUyNk0xUHVKSWVUU0tQSjVDeWF2MllVOE1icGJLaWhTWEo1cGhQZTBzRnl0SjJYTE1JaE5LRUdEN1ZZVnFxcXNESnQ1akpRNld3Y1lEcUhfMnRMQlVWSWRGWFJVRHZZNjVydjlCNHdSZjJteVl3akN6MG1WVVlEQm5WaQ?oc=5",
           "date": "09-18 19:45"
         }
@@ -364,12 +364,6 @@ const FALLBACK_DATA = {
           "date": "09-16 12:56"
         },
         {
-          "title": "보너스가 없는 구성도 있을까? 안전 놀이터 카지노 커뮤니티 유형 설명 - Histoire pour tous",
-          "source": "Histoire pour tous",
-          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNekdOWW5LNmtRcGV1bGxoRklQZmsydUVXd0NYbDhfdjZYQUJEZUM2MWpzX0MwbThTUzVuSUNiRlZzWlRxV0dEcEcyN3RSeUdrU0txaGVHdEVGV0gzbDIxWGJHSFBnMWZvS0thay0tdWZuZXdIdURqdWdRMm5VYXdDOW9IWENsTUw2dE1tbVdyRUpKTlNCMHhjTi1ibEtCX0hwaTlGUlhGRHVUWmFOVGc2VHNmVnNYbVE4UVpFQmZ3?oc=5",
-          "date": "09-16 23:10"
-        },
-        {
           "title": "S&P, 카메룬 국가신용등급 ’B-/B’ 확인...부채 전망 고려 - Investing.com 한국어",
           "source": "Investing.com 한국어",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RU1FzQThpeVdZalVjM2VGVkRCYmE1aFNfbjRVSV8yNVdfa0pLbDVPMHZCb1B5TmYzQTNZa0QxUXNBN181N0NON01ZMkVsTHc0NkVJdjNJYklPZE9RQkpzNERqeUN1SmNZeG5YOVBn?oc=5",
@@ -380,6 +374,12 @@ const FALLBACK_DATA = {
           "source": "더트래커",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE44aUl5dGVlTTBiRDdGWnhST01RQ1phYzVMVXpYNERxNTYweTZ6WXZReE95N2RnaHh2ampfUThISjZnWXhaLXV5bnpjQnVhaGozcW1SX1ozTW0?oc=5",
           "date": "09-18 11:24"
+        },
+        {
+          "title": "‘국민 과자’ 가격 또 오른다…해태제과 주요 제품, 10월부터 줄줄이 인상 - 위키트리",
+          "source": "위키트리",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oTzRJX1dvUVNtcDM0a0E5ci1wMkdsNVluTzdCcElleUZsZGZDV3dySWJtNFZVaUNxQWRVQzV2aWlYcWhoX2Yyd3NlamlrU0NtcDRqbXRB?oc=5",
+          "date": "09-18 15:48"
         }
       ]
     },
@@ -443,7 +443,7 @@ const FALLBACK_DATA = {
             "price": 6098.99
           },
           {
-            "time": "07:56",
+            "time": "09:55",
             "price": 6111.21
           }
         ],
@@ -626,8 +626,8 @@ const FALLBACK_DATA = {
           "date": "09-17 03:28"
         },
         {
-          "title": "Arabica coffee prices ease on strong Brazil exports - brecorder.com",
-          "source": "brecorder.com",
+          "title": "Arabica coffee prices ease on strong Brazil exports - Business Recorder",
+          "source": "Business Recorder",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMURyNTI5MExSaVRfaS1ocTNoUy1faDhYNEU1cy1CV1F6ZUVKQXZuSEN6YXZlOVpvZFpWenVaRDdSNkZpNUhWa0htOG1IOFU1QUwxSk01QWJLQzF5VmNhWGhiZS1sOUtaaXVKN2Y0UGxfbGZQeWdUUGF2d3ZJMjAtMEk3RV9zMnFraVZTcmR0SUNpOTRFNWfSAVZBVV95cUxPLWNGRk9RRldDaTZvVEZLY2F2c3gyQ1FMNHpmZG9EeENXamdaR2hvMnl2blN5YWFWdEJRdjFBNnBIMTFsRmZvTjhuOGFDWUFDaG1lMUdnUQ?oc=5",
           "date": "09-16 11:01"
         },
@@ -646,6 +646,12 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
+          "title": "오늘(9월 19일) 커피 가격: 아라비카와 로부스타 모두 하락 압력을 받고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzZPS01DTmx1OVZTWXNXQXZIY041N2xzSjlmMVRPTlA3VTFGVnhPenVDUXhVUW82bHZkaDBwQzVsM2ZNSmstVHlnMDBIcmQ5b3pwUGU4dnpYS0tMMjVNUWs4cENBdUdiZ09FNm4xc2RtOXlPQlFEYmpWbjZQci16VkxmUnlsM3JIZHktVzQyTE4?oc=5",
+          "date": "09-19 07:31"
+        },
+        {
           "title": "아라비카 커피 가격, 수출 회복과 재고 부족이 엇갈리는 이유 - EBC Financial Group",
           "source": "EBC Financial Group",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RcFFGSXlCWWR3b0c4czA4NWlocHEtTmNfM3hpb1loUnhSbXlHRmstRGtrbVRYakh0U01oZUptaGxCSURmd2VwRnJuNUFDVWpLUXc?oc=5",
@@ -662,12 +668,6 @@ const FALLBACK_DATA = {
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWJZYW1VYktiVGxEc1paYlhEdGVoUzJxQ0o1dktLMU41UHpUSnZxODFTYk5DZzJUS1hFMTFmbVd0dEpyTXdsVlUxSWllQm5MZDhPaFEzTC1Wa3BtZU9rY2YtUDh1R2VOV1pIcE9ZVU5DcnFkYzk3ZHRtM3lPUmRPMnQzaVExS3FlQmc?oc=5",
           "date": "09-18 17:43"
-        },
-        {
-          "title": "오늘(9월 18일) 커피 가격: 3거래일 연속 하락세. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGd5bVZucEZJaTdQZFVoV0pfeFViQkJkMlFkX3M1TzBfS2FhWGx5S29YZDdjemxJbEFNV1ZyNHp5RGRkYkpsU3YydnVKeVY3eW1jaU9DTkZUeGVpeGFPdkdRN0xuLTdWdEEyR0M1NlFCQlFkdV9Nbl84YTI3NlJpTG9Hdw?oc=5",
-          "date": "09-18 23:41"
         }
       ],
       "original_price_lb": 277.2
@@ -856,7 +856,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "07:56",
+            "time": "09:55",
             "price": 3728.0
           }
         ],
@@ -917,31 +917,37 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Improving Global Supply Pressures Coffee Prices - inkl.com",
-          "source": "inkl.com",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1FZ2hVbk5aOUlFN05Hc1ZYRExuU19TQ29rcHJYZk5UVUZ1Tk03ODFRQlRqalY0dTZPd18wLXJOLUJ2MmxfTDFOSnlCcFN4WWViU1AxZjFwVFNLRFhPTENjVktka0FhUS0zVjFiZlhuZVFvcm1vcExTek5uTmlpdw?oc=5",
+          "title": "Improving Global Supply Pressures Coffee Prices - TradingView",
+          "source": "TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMlhZUENCdnBwaUQyZW1PUnhrWU5SX1ZWS2g5VDltLUREV3lIRzF5cEhBYU1vWHZkeHhCZ3IyeDFNSFJjemRiQnJsM3dWUFlnUFJHbTU3TDRNQjJWYTJ4b2tlUHBPeTBvb0hjWnhPNVcwYTFvaG14WkRLYzVqV2NHZzBfUFJVbmNSSmZJWFdXSE9wakpRUGFDRmFxcXBPaXpxbDZyZkFBcEthUQ?oc=5",
           "date": "09-19 00:44"
         },
         {
-          "title": "Coffee futures extend losses, Starbucks reportedly weighs sale of a majority stake of its sizable Japanese business - comunicaffe.com",
-          "source": "comunicaffe.com",
+          "title": "Coffee futures extend losses, Starbucks reportedly weighs sale of a majority stake of its sizable Japanese business - Comunicaffe International",
+          "source": "Comunicaffe International",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeDQ4c2NpOUlSVFRiVWtkdUJTLVQzbUNtYUJhd1I5c0tfblc5MlZ2dkxRV0pRSjdBaDN5OTlvbC1MdUltVE95allnM3VPM0ZkWEloR0xhX2xER3ZuMkxHVUwxXy1PWm85YTUyTkFaZnRKNV94bHJGMzB0Z0QtX0JVMWM1TGpQOGNOaDRBSi1jWk8zcmdwMU1VZ0lXQW1KQWIwLWRLTmxXdmpRZC1ld3RDdXBmNkcycDdnTnZiZk5XQVVTVlM2ekJmdDlrYjJCUQ?oc=5",
           "date": "09-17 07:59"
         },
         {
-          "title": "Robusta coffee prices down in Vietnam - brecorder.com",
-          "source": "brecorder.com",
+          "title": "Robusta coffee prices down in Vietnam - Business Recorder",
+          "source": "Business Recorder",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcFZEbnQ2RVpNTzFHUlRtakZWbV9HZTI2TEFub3J0c2tQendfeG93SUVyZTI5b0RUcGd1YU1qT1JDOVBxME1ZUUM0YkJGbU55eVY2eUxWcG1MLTJvVGU4TzZ6UUQ0Vzd4TXltNmdTOVhyUkJnVFRuVDJIRkNkSUZLdVlBWdIBVkFVX3lxTFBPcnpvQzhSTEp6RTJvNlBFTm1tbTlBdVkweFd0anFFT0dhUklleUN1dE9WS045Wk1QQUxEbExaT2RYdGQ3TF9Sb0EtaDBOV0NyR0ZqYUpB?oc=5",
           "date": "09-18 09:15"
         },
         {
-          "title": "Agricultural commodity prices today, September 18, 2026: Coffee prices fall sharply amid a series of negative factors; US may ban fuel exports. - Vietnam.vn",
+          "title": "Agricultural product prices today, September 16, 2026: Domestic coffee prices struggle to maintain recovery momentum; US reacts cautiously to retaliatory tariffs from Canada. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenY4WEZDSGFkYW45YWVvTDByZW16Yng5THJwT3h2ZFJYRmNVcnBvTkRGQ0lMX1BpNHFpdXlza2I2NWFrTFdZb2dZUERnMlFfekk5eDRYbXNFZTJMUXhjVk1mVGxJOFB5eUpUbkIxUmNERVVSRTBGWC1EeU5mOHpPcEwzUU5iUE5ZU1Fhbld3ZWZLRTQzRWMybGNvYWhZNU5NN2VFSVBIaUxmczV6QWtyQWtjU1ZGU2VqdmRvTURycXo3ZDBPYXNfcWNmTzBxNUdLdi1DSTJ3?oc=5",
-          "date": "09-18 13:21"
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPaWpBMkxYMi16UkFOTkhUYUNqaXlyNlNXd0w2a1NRUmZFVG45WjU3MXF5bmlLaG9NMTlBRU9aamhURXd0RTZhc2k4VGNUY2VIODZ0Y3VOeXNsbWJZQ3Blc09ZWGZ2YUNJMGE3REJ3N0RkRDEyenRXaVpGNmhpN2VxUEFxcU1CT0t1a1Fsa3NkWC1wSXFWeW8wLUh3X3g2WGVXOU1EMW5EYUtTTm5lbzRfRmpKMHp4TmJFQVJCUVRMOUR3c1FQc1hTLVhaWGd3bm1FUExWUUdmWU5mTUdIRmVaaFB0ZVJickF6Vmc?oc=5",
+          "date": "09-16 14:06"
         }
       ],
       "newsKr": [
+        {
+          "title": "오늘(9월 19일) 커피 가격: 아라비카와 로부스타 모두 하락 압력을 받고 있습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzZPS01DTmx1OVZTWXNXQXZIY041N2xzSjlmMVRPTlA3VTFGVnhPenVDUXhVUW82bHZkaDBwQzVsM2ZNSmstVHlnMDBIcmQ5b3pwUGU4dnpYS0tMMjVNUWs4cENBdUdiZ09FNm4xc2RtOXlPQlFEYmpWbjZQci16VkxmUnlsM3JIZHktVzQyTE4?oc=5",
+          "date": "09-19 07:31"
+        },
         {
           "title": "베트남산 커피 가격은 공급 부족이 지속되는 가운데서도 소폭 하락했다. - Vietnam.vn",
           "source": "Vietnam.vn",
@@ -953,12 +959,6 @@ const FALLBACK_DATA = {
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOXZ3UUlHelVIVUljUVZ2S1JWSHo5NFhsRy1aaXlBV1FRQkNTQ0UwbW5qcF9IMTNFUWQ5UF9nQVE4QmVYdURJNVlNYjhQMl9vNEFoZVZPcksxU0VDTXE3UVhrUVotOUFseGM3dmxsa3hmMDM3WE9mZXVYelF0YVVublpQakIyY3Jvc0lScE16STVoWmtobHhQekxDTkhyRWxlX0U0Q0owS1A4dmpfMFlncG5TYUJIVl9IaTBvQTBNaWFvRHFOLVdPQUJrN3JsMllCOVNCWk1B?oc=5",
           "date": "09-18 14:57"
-        },
-        {
-          "title": "2026년 9월 18일 오늘 커피 가격: 3거래일 연속 하락세. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdWJZYW1VYktiVGxEc1paYlhEdGVoUzJxQ0o1dktLMU41UHpUSnZxODFTYk5DZzJUS1hFMTFmbVd0dEpyTXdsVlUxSWllQm5MZDhPaFEzTC1Wa3BtZU9rY2YtUDh1R2VOV1pIcE9ZVU5DcnFkYzk3ZHRtM3lPUmRPMnQzaVExS3FlQmc?oc=5",
-          "date": "09-18 17:43"
         },
         {
           "title": "오늘(9월 18일) 커피 가격: 3거래일 연속 하락세. - Vietnam.vn",
@@ -1173,6 +1173,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "Retaliatory Canadian tariffs hit US dairy markets - farmersadvance.com",
+          "source": "farmersadvance.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcncxajBkUkZfT3hnNkxuc25OanlZeTBYTnNpUGxieWZHOFVSazRCeUYxc09UMWtXbDYtcklJWkhXeWNMU2FZa19iUHlwN1JUSXE5Wkx0a0ZwckZXRHItTkJIM2ZBZzkza3U2Q0pTc2haWHprY3dBVXV0eXFVbHlzekFWNkFEOC1oTTR5TmI4Y0tVTy0tZzU5QTJPR21kaEJ0RmdtWFlMQWNuZEI1MlJLal9nRFFjQQ?oc=5",
+          "date": "09-17 23:29"
+        },
+        {
           "title": "Global Dairy Markets Are Expected to Stabilise and Improve - Dairy News Today",
           "source": "Dairy News Today",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWpTeE5rOFh0Nk1lcVJYVzBJckxTTER1RXdISWx2XzhHdHExcjU3Z3U0RFZmU2dlOGM3b20zdmFIX2t3Z3hHRjhxUnlIVEw5UlVWcFNyVTJBdk4xbnNna1BFTnhGTzJSR1hNWDRsZ3cta1M1WHpUVjlJa2NSWmxKTnViVkxSbW9fY184OEp3eE9YYmJNUlZkRXN2QmY0dlVOTldUSnhxVlVHRms?oc=5",
@@ -1189,12 +1195,6 @@ const FALLBACK_DATA = {
           "source": "Agriland",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV1ZHNE5BNW9vbVh1WTVYenpKV3BjS294cjVMYnNUcE5GblRQcFhjejZsWURpdEdEQk1ac2hXaVdEZTJaQ2pNcGlHLVBKUDY5XzZieVhKQk1YQnUwbFpaMXJUeUt2dDBwNFhKRnhpell6My0zVnZrWW5UaWV4SDgybVpxYVZKTmZWYktj?oc=5",
           "date": "09-16 17:00"
-        },
-        {
-          "title": "Dairy Trends: short-term outlook for dairy markets stable and likely to improve 16 September 2026 Premium - Irish Farmers Journal",
-          "source": "Irish Farmers Journal",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM3BGSk10VnY5WFhSeld2U2FzSVJBb29wdlM0aUJWeHV6QmpmUW5rVXdwYm44UlJyMVNWWHljUjFfc1hIS1Q2Y3E0eGdFUnc4TDBIQ1pCMzQxX0VNUzBadkQ0YUM0Vnd6a1ZRd0ZGMFpaQmRtaDlLYzlBVTZUMllGMkFMYnI2VDdNc2F1a3JVZUVtNlZ0ajZDd2F4VnJoQXJyQTc0djFxRHFjWTZBRVN4M2RwekpQSnVvSUFCeDNHVUxZV1RKWDVUNDc2UXIzdw?oc=5",
-          "date": "09-17 06:06"
         }
       ],
       "newsKr": [
@@ -1417,6 +1417,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "Retaliatory Canadian tariffs hit US dairy markets - farmersadvance.com",
+          "source": "farmersadvance.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcncxajBkUkZfT3hnNkxuc25OanlZeTBYTnNpUGxieWZHOFVSazRCeUYxc09UMWtXbDYtcklJWkhXeWNMU2FZa19iUHlwN1JUSXE5Wkx0a0ZwckZXRHItTkJIM2ZBZzkza3U2Q0pTc2haWHprY3dBVXV0eXFVbHlzekFWNkFEOC1oTTR5TmI4Y0tVTy0tZzU5QTJPR21kaEJ0RmdtWFlMQWNuZEI1MlJLal9nRFFjQQ?oc=5",
+          "date": "09-17 23:29"
+        },
+        {
           "title": "Economic Update: USDA ends mandatory farmer funding of ESG commitments in dairy checkoff - Ag Proud",
           "source": "Ag Proud",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjBFYW9kMWhUamg2XzE3N1BYTy1PWTBBVVF3VUpVQ1owVk1vZGc0eEUxUUl3UjE1UElPaS1oTXBvV1FrQWRhQkZUdkxMVEhfeVllcjhmaFNaNUMyVnRMcFRuZXdObFF6V21Fb2dCOWk1aS16WkRxbWVvQ1cyUVVGNFZ6WUpYYi1LVG1XOEEyVWtLM2ZWOGZxTXdCbzJ2WXRKTHVUWTljendrOFpLRk5uMmhWRWVFekVtZ3o3dGVUSThQR2wz?oc=5",
@@ -1433,12 +1439,6 @@ const FALLBACK_DATA = {
           "source": "Dairy News Today",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWpTeE5rOFh0Nk1lcVJYVzBJckxTTER1RXdISWx2XzhHdHExcjU3Z3U0RFZmU2dlOGM3b20zdmFIX2t3Z3hHRjhxUnlIVEw5UlVWcFNyVTJBdk4xbnNna1BFTnhGTzJSR1hNWDRsZ3cta1M1WHpUVjlJa2NSWmxKTnViVkxSbW9fY184OEp3eE9YYmJNUlZkRXN2QmY0dlVOTldUSnhxVlVHRms?oc=5",
           "date": "09-17 14:58"
-        },
-        {
-          "title": "Weekly protein report: Egg prices rise, chicken remains below last-year levels - The Poultry Site",
-          "source": "The Poultry Site",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyY2tmVjRnRENyUXRZWGJkM1d4bHVZU0tVRFNfTDhKSGd6RDVNbWFkOGFTUF80R2kyY3VtOXk3WGpid055REdJemQ3aEUwcy1PV3dSZVJ5d19Mcm9ReWt5c2p4anp0UzVDT09HNDNR?oc=5",
-          "date": "09-18 09:30"
         }
       ],
       "newsKr": [
@@ -1677,12 +1677,6 @@ const FALLBACK_DATA = {
           "source": "The Weekly Times",
           "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNWQxaXpjM3FEZHdpUUNjZl8wRVJRaDdVekpOUGNNVHM2dW0tdncxUDFDazBxZldIa0pydGJWY011WW9zdDlKZjB6WV9XWkxCc185bERyUVZmVVQ4SGZETmF3dm5teU5wbFowN3o0MEtVVnRJM1FucHIyVTdTelhnZGtGRHdYYUZBeVlaMllWYXFjSDBULVVkelNJaFdzLXh2OWlGSi1salI0eHZSVEFKd2U0LUlBRS1IaWk5em9ucF8zZ2h5eTJUdGRZaDdpM0djRE1kbHVKakR0Qk1mc0RhTVdjY25tUQ?oc=5",
           "date": "09-16 13:18"
-        },
-        {
-          "title": "Global dairy price drop points to 'mixed market' - RNZ",
-          "source": "RNZ",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV2M1VzhsUXNTUGs4U3hhcTk3Wm81d1gzbElrTGhwR2pJbDNXVWVQUzNMeWthWGtsUDBUNm03bmFHSExpLVZTc0wyaFZTd0hTcVRZd1NrRVRQVWRWc3QyNlM3Mk1zOXJFbGRabUlIdXBKTXlRb1hhaEswbGF4ZWZ6SEdrWGFrVmVZckNMbWczRE5fM28?oc=5",
-          "date": "09-16 09:43"
         }
       ],
       "newsKr": [
@@ -1899,6 +1893,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "Retaliatory Canadian tariffs hit US dairy markets - farmersadvance.com",
+          "source": "farmersadvance.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcncxajBkUkZfT3hnNkxuc25OanlZeTBYTnNpUGxieWZHOFVSazRCeUYxc09UMWtXbDYtcklJWkhXeWNMU2FZa19iUHlwN1JUSXE5Wkx0a0ZwckZXRHItTkJIM2ZBZzkza3U2Q0pTc2haWHprY3dBVXV0eXFVbHlzekFWNkFEOC1oTTR5TmI4Y0tVTy0tZzU5QTJPR21kaEJ0RmdtWFlMQWNuZEI1MlJLal9nRFFjQQ?oc=5",
+          "date": "09-17 23:29"
+        },
+        {
           "title": "CME Weekly Average Cash Grade AA Butter Prices Hold Within Charted Range - IndexBox",
           "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamZnTkdORG1felRhX1prS1NRSkZ4bzV4N0tZZlhwRlFxTG54cFVYcF81NkZaUVJ5aVlZRUdmUmp0MTdaUkI2ZTJ3Z3hERFU0TkVDOXFtSVZyMndOcGYwSnEyVXRqR1VnekRfYllUVUw3WE02ZVVQangwMExBWThkRDJ4QkloLVBRUDJVYVNWVnJFNjNCMGlJOTRJWkluUVRGQlJsYw?oc=5",
@@ -1915,12 +1915,6 @@ const FALLBACK_DATA = {
           "source": "en.edairynews.com",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUFI3YUpOVlBFbzVWeFlsaFJJbE5JeE9fWnZOQ0lWQ1Axd0IySGhSQ0xqdkhYOFRUczJwZEE5bW41R1JtUTJ4UTFxZVFCSFhsb0lBU21hQVhPSnhqdVR5Z0JJRjVaR251dWhqQ1lPTXFLSzZCbGNDNzRjbi1CaW9wUU5uTTg5SFVXSWhzXzZXNUxBQllYSGYxaE5FRQ?oc=5",
           "date": "09-17 19:51"
-        },
-        {
-          "title": "Economic Update: USDA ends mandatory farmer funding of ESG commitments in dairy checkoff - Ag Proud",
-          "source": "Ag Proud",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjBFYW9kMWhUamg2XzE3N1BYTy1PWTBBVVF3VUpVQ1owVk1vZGc0eEUxUUl3UjE1UElPaS1oTXBvV1FrQWRhQkZUdkxMVEhfeVllcjhmaFNaNUMyVnRMcFRuZXdObFF6V21Fb2dCOWk1aS16WkRxbWVvQ1cyUVVGNFZ6WUpYYi1LVG1XOEEyVWtLM2ZWOGZxTXdCbzJ2WXRKTHVUWTljendrOFpLRk5uMmhWRWVFekVtZ3o3dGVUSThQR2wz?oc=5",
-          "date": "09-18 04:11"
         }
       ],
       "newsKr": [
@@ -2112,7 +2106,7 @@ const FALLBACK_DATA = {
             "price": 1206.33
           },
           {
-            "time": "07:56",
+            "time": "09:55",
             "price": 1208.75
           }
         ],
@@ -2201,14 +2195,14 @@ const FALLBACK_DATA = {
           "date": "08-10 16:00"
         },
         {
-          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
-          "source": "뉴시스",
+          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - newsis.com",
+          "source": "newsis.com",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zSnQ4UkszR1psQ0tpLVpfTmIzODYwaWx6UGlkbURQRWZBSDYxbnZwNjhZc2t0OHM0aVEwV1JGY29ZdGJoOHJvOUhTSEd2LWM0b3VHZzRTUExxOWpWSzlHLdIBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
           "date": "08-19 16:00"
         },
         {
-          "title": "세계식량가격지수 3개월 연속 오름세…4월 130.7포인트 - 식품음료신문",
-          "source": "식품음료신문",
+          "title": "세계식량가격지수 3개월 연속 오름세…4월 130.7포인트 - thinkfood.co.kr",
+          "source": "thinkfood.co.kr",
           "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fbEljWDY1OFROSXRmNDlPS1RTb1JHWFliLUVNekpWM0J4aHk0TlM2RkprcV9aUUh4QjVkeFVUaVZucWxmZlBsSWZaSlg1SS12VlFzWkpsWnZGc1AtLVVkb0xMZjNxQ2JnYlNFS2NJZw?oc=5",
           "date": "05-15 16:00"
         },
@@ -2268,153 +2262,153 @@ const FALLBACK_DATA = {
       "history": {
         "7D": [
           {
-            "date": "09-12",
+            "date": "09-13",
             "price": 1930.0
           },
           {
-            "date": "09-13",
+            "date": "09-14",
             "price": 1931.93
           },
           {
-            "date": "09-14",
+            "date": "09-15",
             "price": 1933.86
           },
           {
-            "date": "09-15",
+            "date": "09-16",
             "price": 1935.79
           },
           {
-            "date": "09-16",
+            "date": "09-17",
             "price": 1937.72
           },
           {
-            "date": "09-17",
+            "date": "09-18",
             "price": 1939.65
           },
           {
-            "date": "09-18",
+            "date": "09-19",
             "price": 1941.58
           }
         ],
         "1M": [
           {
-            "date": "08-20",
+            "date": "08-21",
             "price": 1930.0
           },
           {
-            "date": "08-21",
+            "date": "08-22",
             "price": 1930.96
           },
           {
-            "date": "08-22",
+            "date": "08-23",
             "price": 1931.93
           },
           {
-            "date": "08-23",
+            "date": "08-24",
             "price": 1932.9
           },
           {
-            "date": "08-24",
+            "date": "08-25",
             "price": 1933.86
           },
           {
-            "date": "08-25",
+            "date": "08-26",
             "price": 1934.82
           },
           {
-            "date": "08-26",
+            "date": "08-27",
             "price": 1935.79
           },
           {
-            "date": "08-27",
+            "date": "08-28",
             "price": 1936.76
           },
           {
-            "date": "08-28",
+            "date": "08-29",
             "price": 1937.72
           },
           {
-            "date": "08-29",
+            "date": "08-30",
             "price": 1938.68
           },
           {
-            "date": "08-30",
+            "date": "08-31",
             "price": 1939.65
           },
           {
-            "date": "08-31",
+            "date": "09-01",
             "price": 1940.62
           },
           {
-            "date": "09-01",
+            "date": "09-02",
             "price": 1941.58
           },
           {
-            "date": "09-02",
+            "date": "09-03",
             "price": 1942.54
           },
           {
-            "date": "09-03",
+            "date": "09-04",
             "price": 1943.51
           },
           {
-            "date": "09-04",
+            "date": "09-05",
             "price": 1944.48
           },
           {
-            "date": "09-05",
+            "date": "09-06",
             "price": 1945.44
           },
           {
-            "date": "09-06",
+            "date": "09-07",
             "price": 1946.4
           },
           {
-            "date": "09-07",
+            "date": "09-08",
             "price": 1947.37
           },
           {
-            "date": "09-08",
+            "date": "09-09",
             "price": 1948.34
           },
           {
-            "date": "09-09",
+            "date": "09-10",
             "price": 1949.3
           },
           {
-            "date": "09-10",
+            "date": "09-11",
             "price": 1950.26
           },
           {
-            "date": "09-11",
+            "date": "09-12",
             "price": 1951.23
           },
           {
-            "date": "09-12",
+            "date": "09-13",
             "price": 1952.2
           },
           {
-            "date": "09-13",
+            "date": "09-14",
             "price": 1953.16
           },
           {
-            "date": "09-14",
+            "date": "09-15",
             "price": 1954.12
           },
           {
-            "date": "09-15",
+            "date": "09-16",
             "price": 1955.09
           },
           {
-            "date": "09-16",
+            "date": "09-17",
             "price": 1956.06
           },
           {
-            "date": "09-17",
+            "date": "09-18",
             "price": 1957.02
           },
           {
-            "date": "09-18",
+            "date": "09-19",
             "price": 1957.98
           }
         ],
@@ -2486,23 +2480,17 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "07:56",
+            "time": "09:55",
             "price": 1930.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Desiccated coconuts: weather and energy costs weigh on the markets - Mundus Agri",
+          "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
           "source": "Mundus Agri",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWdMdnpYejMtS3BrX1BONGthX0xQYWpVa09DRWVkTVJldXRjSnN2OC10Y2h0aUxOOUVzbVhJbGJ5ZFpZUG50LTZ2YVI4OG1laDlzZTdwZHpqWmxsNHZ5Y1ZGNVlnbEVRSmpPSHNfeWgtV1hyNEd3aDdBSFh2a0MtVm0tUktzZ0czQ2pRWnFYWTcwSUMtRGV2Ym1jdVpOYzA?oc=5",
-          "date": "05-13 16:00"
-        },
-        {
-          "title": "Does Coconut Oil Benefit Your Skin? Experts Explain — Plus Products to Shop - today.com",
-          "source": "today.com",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRUtma2JheTljOU9uX09lTVFQcWZhei05X2JMdEhsellRdHl5TS1QVk93ZWdOb3FHOVM5eFFFbVhBYms3Uk5DVE5fOUszczJ6b2pYdkxZSkFvTU9vYVpMZkpVSUtSUktQbFpsR0VHaW4?oc=5",
-          "date": "02-04 17:00"
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
+          "date": "06-30 16:00"
         },
         {
           "title": "7 natural hair oils that can help reduce hair fall - The Economic Times",
@@ -2511,10 +2499,16 @@ const FALLBACK_DATA = {
           "date": "08-27 16:00"
         },
         {
-          "title": "Desiccated coconuts: high supply weighs on prices - Mundus Agri",
+          "title": "Desiccated coconuts: weather and energy costs weigh on the markets - Mundus Agri",
           "source": "Mundus Agri",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSzBxNlpldUhhTjdaNFhEQ1BYOWYxeVlVaFRoSE9NXy1xdnYwVXVjdi0zQ3lmZElLeEI2ZWYxWjhrTGhnUEdkY0pMd2pRUkVqV1NKN3BhX2V3VUkxLWdPa09FcjRIZU5sMFRjOUZXa2RvWnN1ejZzVmpOeUxJLWltTDc0UEZtTG8yQVA0MDduZFRES1U?oc=5",
-          "date": "06-30 16:00"
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWdMdnpYejMtS3BrX1BONGthX0xQYWpVa09DRWVkTVJldXRjSnN2OC10Y2h0aUxOOUVzbVhJbGJ5ZFpZUG50LTZ2YVI4OG1laDlzZTdwZHpqWmxsNHZ5Y1ZGNVlnbEVRSmpPSHNfeWgtV1hyNEd3aDdBSFh2a0MtVm0tUktzZ0czQ2pRWnFYWTcwSUMtRGV2Ym1jdVpOYzA?oc=5",
+          "date": "05-13 16:00"
+        },
+        {
+          "title": "Buyers are clamoring for coconut oil - Food Business News",
+          "source": "Food Business News",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRENjSllUeERtdXI3NWVBdEdJRW9YMGRjQkluZm1DZkt2VzNJYjlBT0FmM3JtVUtnNFVfcm40NmN1OWZFN1N6Wjh0MmZJSXBvWU5ZUjVhWGdvWFJMT1l5VHYxSUVDUDdxYTNoTXM1MDh5SW1Na05sRkowamJrSU9GRTh0MEdfb0t5UVpmbQ?oc=5",
+          "date": "04-29 16:00"
         }
       ],
       "newsKr": [
@@ -2736,7 +2730,7 @@ const FALLBACK_DATA = {
             "price": 1383.18
           },
           {
-            "time": "07:56",
+            "time": "09:55",
             "price": 1385.95
           }
         ],
@@ -2797,28 +2791,28 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Canadian Dollar CAD/USD Overview - CME Group",
-          "source": "CME Group",
+          "title": "South Korean Won: Foreign equity flows keep KRW heavy against US Dollar – OCBC - FXStreet",
+          "source": "FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVkk4Y29WaXUwM0E3SXMyVldwNEc0TkZ6QmktWkhTbGdpY1hRQ0dHWXgwdkR2RnNma3lCeG9EUmpfTUI1dHgwdjgtMGc2OThIaHZWaDQwYkZxWWpFMmx1VkRyV1p4ekJVNThYWFhqeXZiOEY1OEhxTjQxUWNlZGtEMC1GSUdSMWhQVVpBcERTQTZwWmx6UUxDQTlhbDJLR2U4ZERrdjc5ZzV6WFVEaGpLN1ZCejdnMnJMLWc?oc=5",
+          "date": "09-19 08:27"
+        },
+        {
+          "title": "Dollar’s allure, oil surge fan bearish bets on emerging Asian currencies: Reuters poll - whbl.com",
+          "source": "whbl.com",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3hpTXNhRktMVV9HWEhQVVV2QUIxbFdsSW9EXzJpSXhjaTlSS3R3ck56UjhuNHV5QTNlWHA0NnVTN3NXTm9uOWJIQVctekEyaXU1S2RTRWMtM0VwZGMtVEZuc1lPamdHc2hmMnRqQzZyeUg3VlRPNHpEZ2FOczdIUDRkZEdpZkFWX2ZUY3I3VHFiNzdtZUdaRURXQ0t6UlpqSDZfNmRWS0F4ZENxcEFDY3Jn?oc=5",
+          "date": "09-18 12:01"
+        },
+        {
+          "title": "South Korea's \"memory chip duopoly\" bolsters prospects for simultaneous gains in equities and currency! Citi trading head favors contrarian positioning on the Korean won at the 1,400 level. - 富途牛牛",
+          "source": "富途牛牛",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWTNWNHBoUmR1WDFIRE81LVRldVhWaWM4M0RsR19aajBlaTNvV09YQmZxY21vNThuTlFORXBaNTNHZ2ZsMVFBSjhQOFp1bHlIMTdlUUhzVFJ6Q1RxLUJEb3pMZmZKemtmTG82MWZtTURkbTNKOXZFbm5NZkZGREpKWTBvTzhhdXFNNEt4dnZTMGI1cTZfbUlTUDhKS3A0b3pkckJUeGhrT01mdFdXNmRn?oc=5",
+          "date": "09-18 10:21"
+        },
+        {
+          "title": "Canadian Dollar CAD/USD Overview - cmegroup.com",
+          "source": "cmegroup.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9GQklIb3JlZjBWc0VaM296ZGlibGdKM0FjVzR3eTk1dDNNODV3QVdZUVpaRHYyMUNqdkZwSTJubThfVGk1VFZ2WXd3UExDaU1sdVZGczI0R29xV1V3ZW9vYjRGR3c4WkFjMGM0Vg?oc=5",
           "date": "09-17 04:59"
-        },
-        {
-          "title": "Dollar's allure, oil surge fan bearish bets on emerging Asian currencies: Reuters poll - Reuters",
-          "source": "Reuters",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTjZNT3kxN1I5MU1zUWhFWTdlRm1tZVpGOU1sdWVEX0t6R2pDMkt0TXY0ZVQ5SVotOG1qZ3BZVFNlZGl5dktfamVFZmxYb2RtUkY2aF9SNVFTN2ItTHIyR2FodldIYlJZSDl2eEpkOGVwa3pCSmtBQko4X3pCWElueWJaZERaZEFvZm1WT3dJTVY4Q3hxUVowRU4yX0JtOTZjRVhtVzJ1UWZnalhVZV9pOXpRVFlGU3A4MHJETkxsMA?oc=5",
-          "date": "09-17 16:42"
-        },
-        {
-          "title": "Ripple Partners SBI and Kyobo Complete Direct Japan-Korea Stablecoin Transfer Pilot - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQUJEalRNNGtkLU11U1NOdHJBYTZSZEZpVFRScTU1VzlfSkxKNS1WZmlXWXlwWjkxa09HNTdyVlJCbHRrYnk5dy16LVZoM3NGTzVrMjlEVndGUU1nLVZ0RGJPVHVRV0hOamo5d19QNU1vYURJTjhxMTF1RzFWbFByaURHTGw1RGwwTVlqTDhYWHg4d1UzMUtJUW0ydnF4eGlm?oc=5",
-          "date": "09-17 15:21"
-        },
-        {
-          "title": "Korean won rally fades as structural inflows and BoK tightening point to USD/KRW range trading - VT Markets",
-          "source": "VT Markets",
-          "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZnNiaGluM0Rvb1NEazlfTVFXbzNLLVZJaU40eWRuam5GZlJIR3NWUEg5SW5sSlFhbEo2RVN4UlY0Sm00Wkl6bUhlYjlhQjZCOC04N0Y2Z1NacUZNc1BKYThyM1pPNTNoQnFkOHkycEJmN2c3SHVqQm44WXJVOWFrSmgtQjJNNlUtR29XdzhvTktWUmtGODVOcUZYT2pyZlJKMFlmN1JRV1dpZjk4aDZrREtzX0Nvd0NjbUFncndhUjdSM3gxTUJMTHJLdWNuSzVoeDdvT3otWnQxZw?oc=5",
-          "date": "09-16 09:46"
         }
       ],
       "newsKr": [
@@ -3040,7 +3034,7 @@ const FALLBACK_DATA = {
             "price": 1587.72
           },
           {
-            "time": "07:56",
+            "time": "09:55",
             "price": 1590.9
           }
         ],
@@ -3133,20 +3127,20 @@ const FALLBACK_DATA = {
           "date": "09-19 07:00"
         },
         {
-          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
-          "source": "LiteFinance",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
-          "date": "09-18 09:14"
-        },
-        {
           "title": "[환율 전망] 원화 기초체력 無하자, 결국 살아남을 승자 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41V081aTZ1aE1tOGFKdml0RHRqeWdJamJydndDVm9ZR0p1SllMLXFoeWtwaDlSdzVGOFBYclVMQkxZcGV0TWdwTi1nVzJ5NXVvazRVMmVabEFTOUhoT2VvMg?oc=5",
           "date": "09-18 08:00"
         },
         {
-          "title": "유가 급등에도 석유최고가 3연속 동결…휘발유 소비자가 1800원대 유지 - 뉴스1",
-          "source": "뉴스1",
+          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
+          "source": "LiteFinance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
+          "date": "09-18 09:14"
+        },
+        {
+          "title": "유가 급등에도 석유최고가 3연속 동결…휘발유 소비자가 1800원대 유지 - news1.kr",
+          "source": "news1.kr",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qQXJzUDhkanQyQllYVVRTNnFNMlpUbW5rbjlsZDhXRkVSWGkzaS1mUjdiNFF4ZTdmbHVPVmRKbFpDZklFOFo0bkwtNmtaOW1QdnBxTXQ0eDAtUdIBWkFVX3lxTE9qQXJzUDhkanQyQllYVVRTNnFNMlpUbW5rbjlsZDhXRkVSWGkzaS1mUjdiNFF4ZTdmbHVPVmRKbFpDZklFOFo0bkwtNmtaOW1QdnBxTXQ0eDAtUQ?oc=5",
           "date": "09-18 18:03"
         }
