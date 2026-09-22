@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-09-23 04:27:12",
+  "last_updated": "2026-09-23 07:35:52",
   "weekly_report": {
     "title": "[2026 Week 39 Report]",
     "week_number": 39,
     "week_date_range": "2026.09.21 ~ 2026.09.25",
     "weekly_price_title": "[W39 주요품목가격]",
     "date": "2026.09.23",
-    "report_date": "2026.09.23, 04:27",
+    "report_date": "2026.09.23, 07:35",
     "top_gainer": "코코아 : $5,419.00 (▲1.27%)",
     "top_loser": "GDT 버터 : $4,760.00 (▼5.33%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,203.75 (▼0.91%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,358.23원 (▼26.63원)",
-    "fx_eur": "1,553.90원 (▼39.10원)",
+    "fx_usd": "1,355.39원 (▼18.29원)",
+    "fx_eur": "1,550.80원 (▼23.03원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "미국 코코아 선물(COCOA-F) 종목이 9월22일에 2.07% 하락했습니다. 시장이 가격을 다시 책정하고 있나요?"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.09.21 ~ 2026.09.25",
     "weekly_price_title": "[W39 주요품목가격]",
     "date": "2026.09.23",
-    "report_date": "2026.09.23, 04:27",
+    "report_date": "2026.09.23, 07:35",
     "top_gainer": "코코아 : $5,419.00 (▲1.27%)",
     "top_loser": "GDT 버터 : $4,760.00 (▼5.33%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,203.75 (▼0.91%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,358.23원 (▼26.63원)",
-    "fx_eur": "1,553.90원 (▼39.10원)",
+    "fx_usd": "1,355.39원 (▼18.29원)",
+    "fx_eur": "1,550.80원 (▼23.03원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "미국 코코아 선물(COCOA-F) 종목이 9월22일에 2.07% 하락했습니다. 시장이 가격을 다시 책정하고 있나요?"
   },
-  "lastUpdated": "2026-09-23T04:27:12.498537+09:00",
-  "usdKrwRate": 1358.23,
-  "eurKrwRate": 1553.9,
+  "lastUpdated": "2026-09-23T07:35:52.667487+09:00",
+  "usdKrwRate": 1355.42,
+  "eurKrwRate": 1550.8,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5408.16
           },
           {
-            "time": "04:27",
+            "time": "07:35",
             "price": 5419.0
           }
         ],
@@ -313,10 +313,10 @@
           "date": "09-23 01:05"
         },
         {
-          "title": "Cocoa Prices Supported by Forecasts for Dry Weather in the Ivory Coast - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRDZRRmtSYXBCRzFCWjRpazBiNEVGNE9Tdy12X04wNmJCQVNXY2UyRy1odHMzdzV1bk5tdi15UElRY3BtREJEYVZwNXBjZXhJVTJGZklaLWRoejY0SWJsSW1ITXFnUEZHc1lDWmhsMWFncnlGTlNDVFhyYkNYYzcyTXI0R0xHMkROaC1fUncwZzl2T0tGTjVlYWVRMFNDdmtvUTljRnhRT3J1QQ?oc=5",
-          "date": "09-22 03:22"
+          "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News - Breaking News, Latest News and Videos",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHk5UVN1QjBrajdlbmpya0g4VjJfQ3BxLTM2X1hsem5lUG5TRVJlVEpTaEZGOUxwRkFIR3UwdDFzaGdUaWxyeGd6STZNX0FYa0tfT0ZjdmpCTlMtcldyMVU5anFsaExRUnFsZ0ZOTlA4S1FjdDdyNW5kc2FpZTRpSGpnSG12NkFRWVQ4WU93YzVnNURVREZ0dUtpYTZLNU96ZlNr0gGoAUFVX3lxTE1iZmtJbWlEVTNqRlYwU3pDeTFoVnNRbGZhM0JaaGhzZGo0VXd5eHM4dzJFZF81V0ZZMVNycml2ZWlkdmhKeXFhbS1GclJPLXZTelA2RDZRek1SeXlSb185OW52TU9ySVR5SnRSa2xPZThNTTNlQ3QxaUV0Zy1TVldMTUZFM083N0tOdi15VXFNYy0zTnhVWGE0dFprTXV3SkViZHUyWG94MQ?oc=5",
+          "date": "09-21 21:01"
         },
         {
           "title": "US Cocoa Futures (COCOA-F) Moved Sharply on Sep 22: Inventories, the Dollar, or Geopolitics? - TradingKey",
@@ -325,10 +325,10 @@
           "date": "09-22 18:05"
         },
         {
-          "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News - Breaking News, Latest News and Videos",
-          "source": "ABC News - Breaking News, Latest News and Videos",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHk5UVN1QjBrajdlbmpya0g4VjJfQ3BxLTM2X1hsem5lUG5TRVJlVEpTaEZGOUxwRkFIR3UwdDFzaGdUaWxyeGd6STZNX0FYa0tfT0ZjdmpCTlMtcldyMVU5anFsaExRUnFsZ0ZOTlA4S1FjdDdyNW5kc2FpZTRpSGpnSG12NkFRWVQ4WU93YzVnNURVREZ0dUtpYTZLNU96ZlNr0gGoAUFVX3lxTE1iZmtJbWlEVTNqRlYwU3pDeTFoVnNRbGZhM0JaaGhzZGo0VXd5eHM4dzJFZF81V0ZZMVNycml2ZWlkdmhKeXFhbS1GclJPLXZTelA2RDZRek1SeXlSb185OW52TU9ySVR5SnRSa2xPZThNTTNlQ3QxaUV0Zy1TVldMTUZFM083N0tOdi15VXFNYy0zTnhVWGE0dFprTXV3SkViZHUyWG94MQ?oc=5",
-          "date": "09-21 21:01"
+          "title": "Mondelēz names new chief procurement officer as cocoa market stabilizes - Supply Chain Dive",
+          "source": "Supply Chain Dive",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNc1RMaUlINzdKLS05U3FKWjdZMUtsZXF6U2FDMWp4Y3ZueVNTLVFYT0J2cXRiNUVWS0VtQnNfejNwVllfQ0RBUWxvWXVWRGVERXF4a09zY2h5SkFpX0xIVENQamR3TWRrUTBzNGxQcnNieXJ6S3JxeFdXdDNzMnFVTnFfeGs1S3N4N1puZHdVQmFQNFF6clBfMFJjWEJaajhKVVVRUFo3QUFtbTlXTHZ1eHFtZkJ0eHc?oc=5",
+          "date": "09-21 22:27"
         }
       ],
       "newsKr": [
@@ -351,8 +351,8 @@
           "date": "09-21 18:50"
         },
         {
-          "title": "롯데웰푸드, 인도·카자흐스탄 해외사업 재평가…수익성 회복 본격화-한화투자증권 - press9.kr",
-          "source": "press9.kr",
+          "title": "롯데웰푸드, 인도·카자흐스탄 해외사업 재평가…수익성 회복 본격화-한화투자증권 - PRESS9",
+          "source": "PRESS9",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XbmxxLU5qTEk4cXdKcTNxNGFzZDhzOFlRLUFZN3BhUlFVTjhhZHc3UUsxUUJ2SG5SZFpDU1QtSzFOUkRrdXFSV3YzTEFNXzZwRjhRaWpfdFMwTVZJc3lhc19Kc1MzQQ?oc=5",
           "date": "09-21 11:06"
         }
@@ -393,7 +393,7 @@
       "low7d": 5991.05,
       "high1m": 8327.95,
       "low1m": 5991.05,
-      "volume": 15734,
+      "volume": 15733,
       "sparkline": [
         6775.9,
         6606.14,
@@ -418,7 +418,7 @@
             "price": 5979.07
           },
           {
-            "time": "04:27",
+            "time": "07:35",
             "price": 5991.05
           }
         ],
@@ -587,16 +587,16 @@
       },
       "newsEn": [
         {
-          "title": "Ample Global Coffee Supplies Weigh on Prices - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzkyOG01bmk3c2tPd2ZVZi1aSW9LeXcxRy1rd0wwNFpHWDd5c2F2ai1FMEFEN3pneF92TzBaXzFndC12aGlnanlsRXkzOVhfLThVaUk2c1dBWmplX0FEZE1SYTJLeGcyWktQRUN4OE9EQUtSUzN4LVFoM1Atbmx5VUNLbHIxX082Umtja2h5YjlqUQ?oc=5",
-          "date": "09-23 00:56"
-        },
-        {
           "title": "Coffee futures prices stabilise at lower levels in both markets amid easing tensions and looming climate uncertainties - Comunicaffe International",
           "source": "Comunicaffe International",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORTFnVXFaNFZVb1JLSVdnSHNrLUhLVHlvalhXQkUtLVUxQjJtaWJ6ZlhCUUpoZnFzRFFCWnh3TmM5TEZkNTJnYzJTQUlvdWR6cUFHSjRKTGwyRmd2dV92RlV0ZEluZWY1N3Jldk9kUGozM0VDQ1NKTmRIcFRWQmMzejNyNVEzaDEyVHBDV1Q1ZVV6R3R0WXdUS3QyeWFzMXowUi1kRlQ5S1BJTDV4QXJzN3ZIU1ItdTVqVnMxMFdqUHQwY2FO?oc=5",
           "date": "09-21 07:59"
+        },
+        {
+          "title": "Yunnan Coffee Industry 30-Year Development: A Remarkable Turnaround Journey - eu.36kr.com",
+          "source": "eu.36kr.com",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50TEVKWEFQNW45ZzdMQ2NTWnFDS0ZLLWZ1VmIzcTB4MG9keDh6RTNHUHltUFQ3RVcxX0lwaEpCbFZZM2dOSndrZlM5WklWZFJ4RENj?oc=5",
+          "date": "09-21 14:45"
         },
         {
           "title": "Coffee prices fall despite record low inventories, supply situation is reversing. - Vietnam.vn",
@@ -605,10 +605,10 @@
           "date": "09-22 15:23"
         },
         {
-          "title": "Yunnan Coffee Industry 30-Year Development: A Remarkable Turnaround Journey - eu.36kr.com",
-          "source": "eu.36kr.com",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50TEVKWEFQNW45ZzdMQ2NTWnFDS0ZLLWZ1VmIzcTB4MG9keDh6RTNHUHltUFQ3RVcxX0lwaEpCbFZZM2dOSndrZlM5WklWZFJ4RENj?oc=5",
-          "date": "09-21 14:45"
+          "title": "Coffee Arabica Weekly Forex Forecast 20/09 - DailyForex",
+          "source": "DailyForex",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOa3BrVTJQY2ZZb194YnZnNXlOVWFEZEtnVHMwX3h0am1vNjJ4YlhfQ3p0bTBxdFJWVFlZMlAzaGE1Qkh6RWRibFYtbDVOQTZLTExCaEIyRmRpLTM0eDlrNU5iX0pqWVNuWmVWYkU2VlotbmdWQVFXOFNEMkZ0bWtQVkd6ckloSmRqTkp3ZWFXLWE1YVctQy1ldll0RjVLelgwVlNQTW9taGo3dw?oc=5",
+          "date": "09-20 18:30"
         }
       ],
       "newsKr": [
@@ -823,7 +823,7 @@
             "price": 3720.54
           },
           {
-            "time": "04:27",
+            "time": "07:35",
             "price": 3728.0
           }
         ],
@@ -884,10 +884,10 @@
       },
       "newsEn": [
         {
-          "title": "Ample Global Coffee Supplies Weigh on Prices - Barchart.com",
+          "title": "Coffee Prices Fall as Global Supplies Grow - Barchart.com",
           "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzkyOG01bmk3c2tPd2ZVZi1aSW9LeXcxRy1rd0wwNFpHWDd5c2F2ai1FMEFEN3pneF92TzBaXzFndC12aGlnanlsRXkzOVhfLThVaUk2c1dBWmplX0FEZE1SYTJLeGcyWktQRUN4OE9EQUtSUzN4LVFoM1Atbmx5VUNLbHIxX082Umtja2h5YjlqUQ?oc=5",
-          "date": "09-23 00:56"
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUzk2WmZZZDFpa0Fqakt1VDlnbUlKdVhqR2lBN0IwSnF3WUQ5VDlFLXUxaXBJX0JDMkVTZldZYlM5UDRRcE1tVlRMaVlfTnNveGNVTDNoUjA3ZjF5cGJjQlVsd1NrcUl2dXVyQUNJM2M1MWI3WDFMQXlCTVlLZU9YbEFNREZIWXg0N0cxMV90WQ?oc=5",
+          "date": "09-23 03:23"
         },
         {
           "title": "Coffee futures prices stabilise at lower levels in both markets amid easing tensions and looming climate uncertainties - Comunicaffe International",
@@ -896,30 +896,30 @@
           "date": "09-21 07:59"
         },
         {
-          "title": "Coffee Prices Retreat as Global Supply Situation Improves - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcVk0ZzR1bHQ0cEpNRHRpWmc1U0txalVSVTZTLTVTRWEwVVZzMUNSRmphc1A4SjdIcG4wR1lTSWVEeU9RUTRZS3BpYVIza1NxaFZpam9DMkRwTlBSTXE1Ti1zall4dmNNbk5MQUhkMmd4VmZQc3JGa2NFcnZNMlpHVDhETTVqN21fWXN0djUwamh2ODR0WUVodFRPZmxCYjBxM3ow?oc=5",
-          "date": "09-22 03:19"
-        },
-        {
           "title": "Agricultural product prices today, September 21, 2026: Domestic coffee prices move against global trends, the market remains under significant pressure; Positive signals from US-China negotiations. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX2YySEgwTlJNUmhVWDhrZU5BWE9DYUxVNmVMTjFFSFFBZnlKeVVKa0tXdG5EVTM2Qi1zeVlWMHN3WE5IbFhoVXF6QlEzRHhGX1VtbFFueXl6Z1paVG95RnFRMUpaSTd2VU9zN2w2VXJiQU1IcDN4WVk3Mnd1VzFjOUJQZzN2UGpvQmJWdFQyUE5lbDFRQ29DQzl0NVNWTVliNWhUaU1ha0JSV1gzYnJlT2FyQklVYmxna3NsWTkwTmt2NUtBMVhhRXBKMW1VcFl3eFlqdzhQVXJwWHZpYXA3TDN0YTV0ZGRfUTV1VW85bkJZaGNDNE1kLW5n?oc=5",
           "date": "09-21 15:40"
+        },
+        {
+          "title": "Falling coffee, cocoa prices driven by global supply, drought- govt - monitor.co.ug",
+          "source": "monitor.co.ug",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTkZNdnFIcnN5eXBiYmw3OUxXb0NzNktucWhMOVk5MUhGNHhzekU1dDk2THB1UkFGd1Rjc0VoSEZfV25SRS1LLVQ4Rm5QN1B0RWtUX2k3NGhkNXZLQ1luTUROTHg5eENUS1FJRm5wTFNQUG9LOGxHbk1VWG53RDhFWjBmOXVrNW9IWlNndlFWT2owOW9SWVpYdEhzZXJrcjZENzNPaEZEQjBWVXI0YW0yUVJ4Z1lZOHBpY2NR?oc=5",
+          "date": "09-20 17:55"
         }
       ],
       "newsKr": [
-        {
-          "title": "오늘(9월 22일) 커피 가격: 국내외 시장 모두에서 급격한 하락세. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmk3TmFQQjdJZnVCSFpkWEpvNi1jOFAxc2czWmJqU2FrSVNJWHRPamhlQjE1SHFmZWI1U3RRQ25ldVBUUDVPSjBGMUdaRUtGQVQ1d0lJdFZuRGVXaWNHWk0yODlUNWxWTWFuUENPWTk0R0o5NW0zS2ZSQUlnN0J2SXMtYXYySTA5Y01BbEh4cjlOX3BZOUVnX1lpVQ?oc=5",
-          "date": "09-22 16:06"
-        },
         {
           "title": "세계 커피 가격이 전반적으로 하락한 반면 브라질의 공급량은 계속 증가하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMzNTR2c0ZWs4X2kweW9VclcyTFlGMzRUWVhVcmVodzFQVl9qbDVPNm5VMktUY2JFTmpoNkhLLXpiNHBqSEFEaHJNSFV2dTNCLXBueExKR0R2OVlLLVFzX3EzMVo0aFktbW9XMFBNLUJBZkwwRXVqNmNxbHFHZmwwR19QWk1xOFU3a3J5N3BPN2d6MzVZNXM3dlk5UQ?oc=5",
           "date": "09-21 16:00"
+        },
+        {
+          "title": "오늘(9월 22일) 커피 가격: 국내외 시장 모두에서 급격한 하락세. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWmk3TmFQQjdJZnVCSFpkWEpvNi1jOFAxc2czWmJqU2FrSVNJWHRPamhlQjE1SHFmZWI1U3RRQ25ldVBUUDVPSjBGMUdaRUtGQVQ1d0lJdFZuRGVXaWNHWk0yODlUNWxWTWFuUENPWTk0R0o5NW0zS2ZSQUlnN0J2SXMtYXYySTA5Y01BbEh4cjlOX3BZOUVnX1lpVQ?oc=5",
+          "date": "09-22 16:06"
         },
         {
           "title": "오늘 9월 22일 커피 가격: 거래소 하락, 3개월 만에 최저 수준 - Laodong.vn",
@@ -928,10 +928,10 @@
           "date": "09-22 15:20"
         },
         {
-          "title": "오늘(9월 22일) 커피 가격: 공급량 증가 전망이 밝아지면서 3개월 만에 최저치로 하락했습니다. - Vietnam.vn",
+          "title": "오늘(9월 21일) 커피 가격: 국내외 시장 모두 하락세입니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenRZY1hQdk56dEN3Qy0xQTJFc25jSVRFU0RuUEVEYlM2eTVvUEh6NDZnNkZqa1ctcXltWjNhZ2FwaEM1QzhuX3pTWUtDRXRYamF0Yko5eVUycVpEZFZvNUs0anAzeG41UjBEaFEwY2o5T0RNd3JDX0FtcWZJcXp1V20weGpoV3ZhNG5ra0NTWXRtMDU1SDU0QW9HYWhaLU1oTFNuZDUyMXhJY3hvb0p1RA?oc=5",
-          "date": "09-22 08:15"
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZldrU2tHZFE1R2xUaHh5eGRfdUdBNmJRX1ZqT3h4ZkoxZ1FlQ1dGWVdmSGU3d0dwREpreDJtcmg3QkplWEJhdTczNXBzNnUzTnBsb2NJZTAxZm12WlNMZjZqTDlLXzZ6SWJ4MzdVVkJKLUhfSGRyUkRBbTBRSm5jOFF2SXJwRlVHR2tRdEI3d0lPZ3FFY1lTZk1WV3I4UVZjd1VpUV8wR0I?oc=5",
+          "date": "09-21 15:01"
         }
       ]
     },
@@ -1152,16 +1152,16 @@
           "date": "09-22 06:49"
         },
         {
-          "title": "Farmers Weekly dairy markets | Fonterra Lifts Forecast Midpoint to $9.50/kgMS Ahead of Annual Financial Results - en.edairynews.com",
-          "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRfLUZSeFJuU1cyclB6X0VaOGxPbWx0bU9RRzJLSmRVQ2ZpMllBczZaMnFJT3ozTGpIcFBYd2RRWURiMGJQWFM3MTFoc3hVNzE3R0pmYTI2QnZOS2g1SXVENU5YTU9odk1VbE5jRTRTanh6VDdGVEEyVDlneTZPSmxNS00taTVnUzFpajVEZ3RJZnNJMEF1V0dRRFhmbVNtYnhzR0doa3gzQQ?oc=5",
-          "date": "09-22 07:26"
-        },
-        {
           "title": "Fonterra lifts 2026/27 milk price forecast midpoint to $9.50 per kgMS - BusinessDesk | NZ",
           "source": "BusinessDesk | NZ",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYkpsQkQ4WlNfbWQxQzNXVFg5a081cmsxSjd4N3VPN0FfM1lESnE5MzhSbU1PQmFMTVFFdWxNZ0lPd0ZtN0Y2TmZOWGN6QWxqRDkxeVdIbDB0dlJXUU5lUERxcDR3WFJzWHJwaXI3SWpXaUUwQl9hWG5KYnpRTzlUSkJkSVAxN01FclQwSHVFYWxxRm9keXZrYzQxWk9zVnZvblFiU3BsM0NkRnI1c2NsQlI1YjQySFk?oc=5",
           "date": "09-21 06:00"
+        },
+        {
+          "title": "Farmers Weekly dairy markets | Fonterra Lifts Forecast Midpoint to $9.50/kgMS Ahead of Annual Financial Results - en.edairynews.com",
+          "source": "en.edairynews.com",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRfLUZSeFJuU1cyclB6X0VaOGxPbWx0bU9RRzJLSmRVQ2ZpMllBczZaMnFJT3ozTGpIcFBYd2RRWURiMGJQWFM3MTFoc3hVNzE3R0pmYTI2QnZOS2g1SXVENU5YTU9odk1VbE5jRTRTanh6VDdGVEEyVDlneTZPSmxNS00taTVnUzFpajVEZ3RJZnNJMEF1V0dRRFhmbVNtYnhzR0doa3gzQQ?oc=5",
+          "date": "09-22 07:26"
         }
       ],
       "newsKr": [
@@ -1384,22 +1384,22 @@
           "date": "09-22 06:49"
         },
         {
-          "title": "Farmers Weekly dairy markets | Fonterra Lifts Forecast Midpoint to $9.50/kgMS Ahead of Annual Financial Results - en.edairynews.com",
-          "source": "en.edairynews.com",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVkRfLUZSeFJuU1cyclB6X0VaOGxPbWx0bU9RRzJLSmRVQ2ZpMllBczZaMnFJT3ozTGpIcFBYd2RRWURiMGJQWFM3MTFoc3hVNzE3R0pmYTI2QnZOS2g1SXVENU5YTU9odk1VbE5jRTRTanh6VDdGVEEyVDlneTZPSmxNS00taTVnUzFpajVEZ3RJZnNJMEF1V0dRRFhmbVNtYnhzR0doa3gzQQ?oc=5",
-          "date": "09-22 07:26"
+          "title": "Fonterra raises 2026/27 farmgate milk price forecast - Dairy News Today",
+          "source": "Dairy News Today",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcDR2VkhmeFR0SDlPOERBNjBoTFFjS3ZGNElFa0IxZGNQRFBDeXdTeFIyM3F5aGVleFAxeDg2UFdtNWx0MGg2M0VHczBYY04zQlY2QlBFU0xBU2pQTmJFendVeFhDWTRabjFDeFFvQk1JUFhBZkpRLTF0YWEwMlkyamJxSHllem8wb3ZRdVRpcGItYXVKbzFtSmZ6bHVHZEE3aV84?oc=5",
+          "date": "09-22 02:00"
+        },
+        {
+          "title": "Philippines Plain Evaporated Milk - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWdHZjJHUF92MllqaTJrclBlbzFSaFhrU0tUbWo1bzc4bHpCa2FoOGcyWkpQVU8yQk9wdlMwOThpWm5YMzNTbV9BNGJCZWhuYmxhdER1S2ZiSDQ4Q2lPNC14WnQ2NHBuNmhJR0RuMlNyOGhoMHV3TFgwSGhjd3ZJb25iV1ByeGVNTlhlV1B3aEZJd1dyVVNINm4zYW1DSHF2MHBBQ2RQNlhlWnc4bkJhcGV3cDQ?oc=5",
+          "date": "09-21 14:42"
         },
         {
           "title": "NZ Milk Price Could Hit $10/kgMS as Global Supply Eases - Rural News Group",
           "source": "Rural News Group",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZWVEQWItV2VGdTJjMHRoNTcxNE1oZk5GSGtzd2ZQcEljVnJZSVBjOXJKaExnYTFkUVlYT3RUSFFBSndCUDhRRGE3Y19GQUJFM3pUWV9WQlBGSmdIV2Y3TzdIRkRBdmwwRmhKeVhWeUt1Znk4ME82el9SSVZBZVVCYUtvcHF6d3NQMHRMQXlHZjh4TTFhdGxzMzZiWTk4QkxJR3otRFAtbTM?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZ05LNEZ5ekpRdXhnUEcwVUQtVEwtazV1WVE5cG5pRlFWTDdra0JFUWpfMm9fRFhoM2VLbEZEZlRHTm9RRU55Nld3Q2lBVmx1ZlRSYjJhV1l0SlczUVRDVUt1MWUwYmdxVm1ocHp1OURuaU95QnpJRUdLSzhRZ2Noc08wdHdkN3hCckVINXRKejlXNWxtMkwtQWFBWTJrd0VzMDk0?oc=5",
           "date": "09-22 07:55"
-        },
-        {
-          "title": "Fonterra lifts farmgate milk price forecast to $9.50/kgMS - NZ Herald",
-          "source": "NZ Herald",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVVYwQnRKX1Q0R2g2aTBJZVBrdlZpcDBHWnFEMTMyXzY5LTNKZUliTmZMYmJ6SG1YdDV5OGZHYjgtYUw4Rms1Umk4bFFaYk9CcENRYm1oQU4xQk1Eblg3blpmZGJCUjdCSDZTWTQyUjlmMVNpRXBSVkNvem5oSmlCeURjTjdLMEN2NFNIb3JDMVFLbkNHYlFIVm9uZEVsV3l0bnNIUE1ESUl2X1pzaGVUX3hFdHN4UndDTkQ3YTRRSjFoZDBUXzZRaWoyeDNJaktqelE?oc=5",
-          "date": "09-21 06:59"
         }
       ],
       "newsKr": [
@@ -1622,8 +1622,8 @@
           "date": "09-22 06:49"
         },
         {
-          "title": "Philippines Plain Evaporated Milk - Market Analysis, Forecast, Size, Trends and Insights - indexbox.io",
-          "source": "indexbox.io",
+          "title": "Philippines Plain Evaporated Milk - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+          "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOWdHZjJHUF92MllqaTJrclBlbzFSaFhrU0tUbWo1bzc4bHpCa2FoOGcyWkpQVU8yQk9wdlMwOThpWm5YMzNTbV9BNGJCZWhuYmxhdER1S2ZiSDQ4Q2lPNC14WnQ2NHBuNmhJR0RuMlNyOGhoMHV3TFgwSGhjd3ZJb25iV1ByeGVNTlhlV1B3aEZJd1dyVVNINm4zYW1DSHF2MHBBQ2RQNlhlWnc4bkJhcGV3cDQ?oc=5",
           "date": "09-21 14:42"
         },
@@ -1866,8 +1866,8 @@
           "date": "09-23 00:31"
         },
         {
-          "title": "Back to the Future: Would 1980s Dairy Farmers Even Recognize Today’s Industry? - Dairy Herd",
-          "source": "Dairy Herd",
+          "title": "Back to the Future: Would 1980s Dairy Farmers Even Recognize Today’s Industry? - dairyherd.com",
+          "source": "dairyherd.com",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSG1ELUtXcTUzN1hGTGdTblJWbWVyQjhER3hiTDJ0amRpRnNTSF80NnNTcHBvU3hlQi0wVHlkYldPRkN6SEprdkM1TExIUl9SUVNXMVQ4NDVnUTRXTUFqM3dka0dzSW5nNDJWR0p5QS1JUHI1OUp6UDJ3VWdadUJqeXFDX1BLUUJfZEN5bE1IZHpuSjcwZUFJQzdiWGN3NURi?oc=5",
           "date": "09-21 23:10"
         },
@@ -2059,7 +2059,7 @@
             "price": 1201.34
           },
           {
-            "time": "04:27",
+            "time": "07:35",
             "price": 1203.75
           }
         ],
@@ -2128,16 +2128,16 @@
           "date": "09-22 19:57"
         },
         {
-          "title": "Crude palm oil prices to remain above $1,154 per ton for rest of 2026, MPOC says - marketscreener.com",
-          "source": "marketscreener.com",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTZtanJrcHp2YTZhSDdnUGdVeVpTSUdqWXpkWXpqOUZOTVFpVURyUXVjWjVyX2U1b3lZNHZQdU9OclM3TEE0RUowQVl1eEJuTnA0TzUtcWIyb2laV3JjSzhiOWwwc2p6LVFuRGVyUi1DeUJOQUo1cDlZVjZLNW9TYmZha29SWU1aSXFMRGVzZG1keEpGYzhQTmxNcWxlNHg2bnJfRFlWUUlVMmtjUXk3NXlKMkFPZzJxdWhHYWxLLUNqNnR1a3ZHVVlfNA?oc=5",
-          "date": "09-22 11:04"
-        },
-        {
           "title": "Malaysian palm oil falls to more than five-week low - UkrAgroConsult",
           "source": "UkrAgroConsult",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbE5uVUJfbDd6Ui1acDFLVDVUTnctbU5oVHd1eVhZZVBHT3RuWDZKNWpIQW5XUDl1akYxd2FxWF9iU3gxdlZkd3BCUzRLV3NUTUpBZzhUQXpFUzY0bVdmel9ZN0dKNFNvNklQaXEtT3NUVmFKSjJ5bE9LMS05bV9WWVlEakdaeXpxN0FpaTFoMEY?oc=5",
           "date": "09-22 20:39"
+        },
+        {
+          "title": "Crude palm oil prices to remain above $1,154 per ton for rest of 2026, MPOC says - marketscreener.com",
+          "source": "marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONTZtanJrcHp2YTZhSDdnUGdVeVpTSUdqWXpkWXpqOUZOTVFpVURyUXVjWjVyX2U1b3lZNHZQdU9OclM3TEE0RUowQVl1eEJuTnA0TzUtcWIyb2laV3JjSzhiOWwwc2p6LVFuRGVyUi1DeUJOQUo1cDlZVjZLNW9TYmZha29SWU1aSXFMRGVzZG1keEpGYzhQTmxNcWxlNHg2bnJfRFlWUUlVMmtjUXk3NXlKMkFPZzJxdWhHYWxLLUNqNnR1a3ZHVVlfNA?oc=5",
+          "date": "09-22 11:04"
         }
       ],
       "newsKr": [
@@ -2160,10 +2160,10 @@
           "date": "08-10 16:00"
         },
         {
-          "title": "밀가루·팜유에 용기까지 뛰었다…식품업계, 가격 인상 '궁여지책' - 뉴시스",
-          "source": "뉴시스",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1nc9IBeEFVX3lxTE9ETGFmQXdoenB4TWdidnpVX1pSQmtEd2EzTzdSU0Vydnp3Uy04eG1iWTRaOWtSVEhEU3BHT1M5czRLT2Jab2QwTDNVM2p0dWpDUnVQV3FLQmZtMGJ4eGZxV1Z2WFJpOFRlYjR2bTFUdjlqYlhkTy1ncw?oc=5",
-          "date": "08-19 14:13"
+          "title": "롯데웰푸드, AI로 카카오·팜유 시세 예측 - 한국경제TV",
+          "source": "한국경제TV",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZGppTXBqdWFyNVl5eWFubFd0X1NFZHBOazNGX05NTHJNdzVSR0xlelZZQUh2QW5RMEQtNnVZdnYyZ3Jtc1FoUkY3U2lEcUhlWGwtTmZCdWtTUm5CdkQwNk9WZllqTzdmN25PWm84THl4aENXMk1jcG95bTF1ZEEybQ?oc=5",
+          "date": "09-25 16:00"
         }
       ]
     },
@@ -2433,7 +2433,7 @@
             "price": 1926.14
           },
           {
-            "time": "04:27",
+            "time": "07:35",
             "price": 1930.0
           }
         ]
@@ -2466,14 +2466,14 @@
       ],
       "newsKr": [
         {
-          "title": "DS단석, 바이오원료 글로벌 판로 확대·협력방안 논의 - 에너지플랫폼뉴스",
-          "source": "에너지플랫폼뉴스",
+          "title": "DS단석, 바이오원료 글로벌 판로 확대·협력방안 논의 - e-platform.net",
+          "source": "e-platform.net",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZN0J6ck9ITFA4dUh2SVl3cWd4QzZEUUlNMzlFYS1qWVFoQUhNblVFUG5ybVM2UGRfeVVlX2ctdkZ5aXVrQWFCVEwzZ3FZdm1nYy1jUlVfMHdFMEdJZC1WTVRBRGZWX0ExUHMxU9IBcEFVX3lxTE0tekNYcm1sZ1IzejBsc2MtRllZQ1BpbDBVWmg2M0Q3ME9VTFA2YUFtdnNVY2hTaG1oUGxyUTQ4a0JBTnRQZ2h3V3lmaXlqaDNkWHZYVXRIWFBXa1lzMXppYnBCbDZTWGZ5amc1Q0VCS3U?oc=5",
           "date": "02-19 17:00"
         },
         {
-          "title": "DS단석, 글로벌 행사서 바이오디젤 공정 고도화 방향 제시 - 전기신문",
-          "source": "전기신문",
+          "title": "DS단석, 글로벌 행사서 바이오디젤 공정 고도화 방향 제시 - electimes.com",
+          "source": "electimes.com",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9valNza2JQLW5XeHRlRWhaNUJ5bWh5QXpIaHlCbjNFbTRsdkkzc0plUkUzbjhRa2V6cklNbnB1aTZGdUpNUThNaTk4cllETEhzTjFPa3VGNlhHVTcyWXdmaXJJYzBnaV9FbmNwZtIBcEFVX3lxTE9zbVJLQURvVmN4Y1RqVXhUbTdXVlpKOHpBN1Q5S3hKQXhQRUFlZ1FWMU1GbXQ3ZndjY2hVNW5iSXA0cEFMeldMZlJWamVMZVY4NklvQmI0YmF0SzZHbkFlRGNReFNuY1ZSVk5mV0NDV3M?oc=5",
           "date": "02-19 17:00"
         },
@@ -2515,33 +2515,29 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1358.23,
-      "change": -26.63,
-      "changePercent": -1.92,
+      "price": 1355.39,
+      "change": -18.29,
+      "changePercent": -1.33,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1375.73,
-      "low24h": 1352.58,
+      "high24h": 1355.63,
+      "low24h": 1354.21,
       "high7d": 1384.86,
-      "low7d": 1344.64,
+      "low7d": 1345.61,
       "high1m": 1384.98,
       "low1m": 1339.17,
       "volume": 0,
       "sparkline": [
-        1344.64,
         1345.61,
         1363.57,
         1376.6,
         1379.53,
         1384.86,
-        1358.23
+        1373.68,
+        1355.39
       ],
       "history": {
         "7D": [
-          {
-            "date": "09-13",
-            "price": 1344.64
-          },
           {
             "date": "09-14",
             "price": 1345.61
@@ -2563,8 +2559,12 @@
             "price": 1384.86
           },
           {
+            "date": "09-21",
+            "price": 1373.68
+          },
+          {
             "date": "09-22",
-            "price": 1358.23
+            "price": 1355.39
           }
         ],
         "1M": [
@@ -2653,26 +2653,30 @@
             "price": 1384.86
           },
           {
+            "date": "09-21",
+            "price": 1373.68
+          },
+          {
             "date": "09-22",
-            "price": 1358.23
+            "price": 1355.39
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1350.08
+            "price": 1347.26
           },
           {
             "time": "11:00",
-            "price": 1352.8
+            "price": 1349.97
           },
           {
             "time": "13:00",
-            "price": 1355.51
+            "price": 1352.68
           },
           {
-            "time": "04:27",
-            "price": 1358.23
+            "time": "07:35",
+            "price": 1355.39
           }
         ],
         "1Y": [
@@ -2726,7 +2730,7 @@
           },
           {
             "date": "2026-09",
-            "price": 1358.23
+            "price": 1355.39
           }
         ]
       },
@@ -2744,16 +2748,16 @@
           "date": "09-22 17:39"
         },
         {
-          "title": "Wall Street holds near its record as Brent oil falls below $100 per barrel - Ottumwa Courier",
+          "title": "Wall Street holds near its record after Brent oil briefly falls below $98 per barrel - Ottumwa Courier",
           "source": "Ottumwa Courier",
           "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxObmg1aE5OakVjV3h1bFV5V0tNNU84cnp2dmh5OGZvZFMwaGxJZkNqdkh2eTlrRlZWMnBtcnFSN2hoT1hIZFpYbjFzaHJGMHdxV1JRbFRLNGlRa2NMLVVZSHlONlh0Y1lqS0NyNHYzRGl5MzBnaWVJbHd6OEJZcFFHaDVPWEl0d0JrUFE0SkRERkJlWFFZakRHc3NhQkNCV2ZSdWFnLXRwYzFTNURseTVfUTQwUWRodUtuSGN3bzl5dmNtTEVyRUxtVXFxV1ZuN09zdWZZblZ3Zi1lN0w1eGtkLTROR244R2FlRWNLSVZRUXhEWVRYSlEzMTlkM01ndlNKUExz?oc=5",
           "date": "09-23 00:17"
         },
         {
-          "title": "Global benchmarks mostly rise after Wall Street's rally - goshennews.com",
-          "source": "goshennews.com",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOXzRCQ2x0Ym9DYXNHY2xiaG9wOXNuVU9MM0Y2emItcF9ZQW9US2JLcHJQcUdXOG1LOVVFWXR0MXlKaml1ZE95eDdYcG16bE9YT1dGMWhLOFAyMlZDZEVVQWVWT2pmZFBfcGp5OVRLNXZnSzlYY25CTGYtUjhlN3g1Q3hJZ3ZpdnlobGNsNnI1UEdUaXUydll3ZzB2VXl5bWZYcmZXOWRCc2hVQzk0R3FDNzZ5T09BYmtQeUdxUlc3SS1vNUtxV21IQkRKMmJFVmVvQk9pcXVGVkpYdzByRGRxV2g3Vm4?oc=5",
-          "date": "09-22 19:25"
+          "title": "Won Jumps 22.8 Won Against Dollar Ahead of Chuseok Holiday - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONVhrZlRxM3MyMUY1bGt0R3VHanI4bFBUM1VuREpVTUttZFhVQ1JkSDU5WG5MNmpLT2M3clp0WmhfZUZVVF9kNV9UbFAxSDNRbXpLWnhiRlpObzRzdGZmYmUwR3gteUJSd3ZpektId0ZmLTloNGI5LVdqcXN0NWRNZzhHLVlJQTgtNHRreVFRdklPT0E5VmxlN1BvYUE5Z1Jz?oc=5",
+          "date": "09-22 16:52"
         }
       ],
       "newsKr": [
@@ -2807,33 +2811,29 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1553.9,
-      "change": -39.1,
-      "changePercent": -2.45,
+      "price": 1550.8,
+      "change": -23.03,
+      "changePercent": -1.46,
       "high52w": 1807.42,
       "low52w": 1549.5,
-      "high24h": 1575.6,
-      "low24h": 1549.6,
+      "high24h": 1551.1,
+      "low24h": 1550.6,
       "high7d": 1593.0,
-      "low7d": 1553.9,
+      "low7d": 1550.8,
       "high1m": 1616.97,
-      "low1m": 1553.9,
+      "low1m": 1550.8,
       "volume": 0,
       "sparkline": [
-        1556.39,
         1555.19,
         1572.95,
         1578.54,
         1582.81,
         1593.0,
-        1553.9
+        1573.83,
+        1550.8
       ],
       "history": {
         "7D": [
-          {
-            "date": "09-13",
-            "price": 1556.39
-          },
           {
             "date": "09-14",
             "price": 1555.19
@@ -2855,8 +2855,12 @@
             "price": 1593.0
           },
           {
+            "date": "09-21",
+            "price": 1573.83
+          },
+          {
             "date": "09-22",
-            "price": 1553.9
+            "price": 1550.8
           }
         ],
         "1M": [
@@ -2945,26 +2949,30 @@
             "price": 1593.0
           },
           {
+            "date": "09-21",
+            "price": 1573.83
+          },
+          {
             "date": "09-22",
-            "price": 1553.9
+            "price": 1550.8
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1544.58
+            "price": 1541.5
           },
           {
             "time": "11:00",
-            "price": 1547.68
+            "price": 1544.6
           },
           {
             "time": "13:00",
-            "price": 1550.79
+            "price": 1547.7
           },
           {
-            "time": "04:27",
-            "price": 1553.9
+            "time": "07:35",
+            "price": 1550.8
           }
         ],
         "1Y": [
@@ -3018,7 +3026,7 @@
           },
           {
             "date": "2026-09",
-            "price": 1553.9
+            "price": 1550.8
           }
         ]
       },
@@ -3036,8 +3044,8 @@
           "date": "09-22 15:13"
         },
         {
-          "title": "CBA currency exchange rates (22.09.2026) - Report.az",
-          "source": "Report.az",
+          "title": "CBA currency exchange rates (22.09.2026) - report.az",
+          "source": "report.az",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zaW4ydXVBb2ZqMFBVVmZLaDNfYU5QQUVMR0c0cTYxVWtadmtPSTA5aUtCZXI4V2psSkdDYUoyYW5oRVNwbndSclpDOHRnM09vRklPeTBadU0yUGtqOHlnUW51dGd3OWVyNFpsTnVCRE9abUI3Q1BRa2NhNNIBe0FVX3lxTE0zaW4ydXVBb2ZqMFBVVmZLaDNfYU5QQUVMR0c0cTYxVWtadmtPSTA5aUtCZXI4V2psSkdDYUoyYW5oRVNwbndSclpDOHRnM09vRklPeTBadU0yUGtqOHlnUW51dGd3OWVyNFpsTnVCRE9abUI3Q1BRa2NhNA?oc=5",
           "date": "09-22 14:30"
         },
