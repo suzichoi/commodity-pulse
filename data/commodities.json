@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-10-10 12:42:32",
+  "last_updated": "2026-10-10 19:20:29",
   "weekly_report": {
     "title": "[2026 Week 41 Report]",
     "week_number": 41,
     "week_date_range": "2026.10.05 ~ 2026.10.09",
     "weekly_price_title": "[W41 주요품목가격]",
     "date": "2026.10.10",
-    "report_date": "2026.10.10, 12:42",
+    "report_date": "2026.10.10, 19:20",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.10.05 ~ 2026.10.09",
     "weekly_price_title": "[W41 주요품목가격]",
     "date": "2026.10.10",
-    "report_date": "2026.10.10, 12:42",
+    "report_date": "2026.10.10, 19:20",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-10T12:42:32.953665+09:00",
+  "lastUpdated": "2026-10-10T19:20:29.912881+09:00",
   "usdKrwRate": 1340.9,
   "eurKrwRate": 1500.2,
   "marketStatus": "OPEN",
@@ -138,7 +138,7 @@
             "price": 5659.66
           },
           {
-            "time": "12:42",
+            "time": "19:20",
             "price": 5671.0
           }
         ],
@@ -173,10 +173,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "09-09",
-            "price": 5924.0
-          },
           {
             "date": "09-10",
             "price": 5961.0
@@ -321,6 +317,12 @@
           "date": "10-10 01:11"
         },
         {
+          "title": "El Niño Threatens West Africa Cocoa Supply - Briefs Finance",
+          "source": "Briefs Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUVFaVdaWHVSQ0ljbFlHZ1pnQmw4SkRDVzRhMTV0SW8ybl9idW9uZHNLblVQcWI0aFBCeFc4U05LaTJraXA3NGNfWDE4aFVkdWlLTVJMOG1RUkpJM1JQNHU5ZkpsQWdmR1dKbzFlbUJxNi00RnlVUzBIUjBNUkFoLTF6bk5GaDh2a1hvdGlGdzBEQQ?oc=5",
+          "date": "10-10 08:34"
+        },
+        {
           "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHk5UVN1QjBrajdlbmpya0g4VjJfQ3BxLTM2X1hsem5lUG5TRVJlVEpTaEZGOUxwRkFIR3UwdDFzaGdUaWxyeGd6STZNX0FYa0tfT0ZjdmpCTlMtcldyMVU5anFsaExRUnFsZ0ZOTlA4S1FjdDdyNW5kc2FpZTRpSGpnSG12NkFRWVQ4WU93YzVnNURVREZ0dUtpYTZLNU96ZlNr?oc=5",
@@ -331,12 +333,6 @@
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTWxXLXBhMEtYWlZ3VlhIOFMzS2d0LV8tSm0yQkdDT3NRUllCM3liS2s3MWJ1NDQyWWpxdjVVcDI5UGt1MEYzTDgxLU1kTU5JdGtjLVJpYkNfdUVtVk85MUtRZTVXdkxlYnVheTNKc3AxTXpUV3FNYldtcVFYVEZ1dDRBc1hQWXdtbUtuNjJfY2NDWmRzSUNjUlN5Z2NTdGkxVEExcVRYMA?oc=5",
           "date": "10-09 01:06"
-        },
-        {
-          "title": "Why you might find less chocolate in your Halloween bag - Fresno Bee",
-          "source": "Fresno Bee",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBQRFowanZrelM1dG5SZmZiT0w2bXBTNnFRVUY2QUZ2b24xeFA5WncwMjFON1pMRzBLaS1FVXpnX1N2amZraWFyODNud2ZOVVhPWm1FZy1VQ0tfVU5fd3JzRXo5VkpmTUFwcnZhZk05c09wV1VTclJjXzV2OTVIdEk?oc=5",
-          "date": "10-07 18:04"
         }
       ],
       "newsKr": [
@@ -353,16 +349,16 @@
           "date": "10-09 14:22"
         },
         {
-          "title": "오늘 10월 7일 농산물: 커피 가격 상승, 후추 및 코코아 가격 하락 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPREVJOFZsWHo0RzdUZlB4aUl6cDc2Vk9LQ3dHTzZIVXd3TjVablVZMEN5MS1kN0pYSXpCM1BnalpZVXlfRDUtLWlYemtaXzNwVkI3ZUcxUVpYNGpLeFQ3RGNJZXplaHFMMUs0NVBnd0YtUUJTYWdzU0hXM2otWUwxZjNZcUo0M19kRHVDaTR2ZGRCSUJUZjZGMGFwTWpZZUlTckdxOGQyM1Y1QVhO?oc=5",
-          "date": "10-07 15:02"
-        },
-        {
           "title": "오늘 10월 8일 농산물: 1주일 만에 가격 급락 - Laodong.vn",
           "source": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWFpsRXNTR0ZJWTBUclZsbmc1ZkE0cDk3SWN3V1lVdm5iYzIwbzlPcUJmd2RzbjJaMEZOajMyQlVPXzNwaC1wOVhjRmRNMllVQ2pwMERobXRPN2hvX1hoTGVoaDVRb3dMOHZVNGdvSG5SNG03d3FOWU9VR2dYbHpmRkFOaGFZWnlONk9GNWl6MHU?oc=5",
           "date": "10-08 13:56"
+        },
+        {
+          "title": "2026년 9월 헝가리 소비자물가: 전년 대비 1.6% 상승 - 뉴스 및 통계 - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXZ0SGRaRDBNdm9SeHpLX2kwNHpmMVJlbTBFQlRzV2pGeHh3emNucEtDZDBVMlkxUjB4ZTJfX3AxbkR3VFFkZGYtNHlDb0xHRVNOT0RUSlhWX3VjVEQtazc2NWVfcHlNOVFXcWxWcHhlUUV1N0VDb2hBeFhRaC1GaFJraXpkbi1HaUdTNnp0Y2Y?oc=5",
+          "date": "10-07 19:20"
         }
       ]
     },
@@ -399,7 +395,7 @@
       "low24h": 6267.73,
       "high7d": 6711.97,
       "low7d": 6286.47,
-      "high1m": 7037.15,
+      "high1m": 6951.17,
       "low1m": 6003.18,
       "volume": 14830,
       "sparkline": [
@@ -426,7 +422,7 @@
             "price": 6273.9
           },
           {
-            "time": "12:42",
+            "time": "19:20",
             "price": 6286.47
           }
         ],
@@ -461,10 +457,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "09-09",
-            "price": 7037.15
-          },
           {
             "date": "09-10",
             "price": 6951.17
@@ -615,10 +607,10 @@
           "date": "10-09 05:33"
         },
         {
-          "title": "Coffee prices today, October 10, 2026: Domestic prices drop sharply. - Vietnam.vn",
+          "title": "Agricultural product prices today, October 10, 2026: Domestic coffee prices surge at the end of the week; 'Let Vietnamese robusta break free from its role as a base coffee, assert its own brand' - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVm9iTEtTdlBLQWE1RndZSEI0N0VhXzJxNklocGdrNHZnQV9Pa1RlcTlhNVVSRlhLSTZVM3I1M2FjU29rRDVPQVk1WVlHR3YzUDNlWVM3U0hMU1cxLU96bnAzZmF3c2lJcUdUb3F4SUtQV1BPaV8xT3ZrU3FlOTNBZk5IWkZHQQ?oc=5",
-          "date": "10-10 08:31"
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRFp4eTlnRjVscVp1THhxUDRuS3dvNzJvdnRJLW1FNEV0ckVmRTNLSENjN01udGRJQ0hZV3IzQTUtRjY3WTQ2TUdKUHJ6aHlwSlVCWTdRUTV3aWRVWUs1SWRDdUMtWGxzci1GTTBVTVRnUk1WMFotaTZGTl9TaDI2TzFQTmwzQmdPdXNMRkdCRi1UTktmZ3Bpc2FEZUprR2FvNE9yVWlvZFhjSGtFWThod09FcmpHN1ZfRzZsMXd4cXZfRkpMWEdydm04a2RUT2pyQ2dCRFZsb3U5enRzMXpDMzNKeWw2QXNBSzA0V25RajNYcG9LcUFjUEs1YXk?oc=5",
+          "date": "10-10 14:12"
         },
         {
           "title": "Coffee prices today, October 8th: Prices fall sharply due to increased supply from Brazil. - Vietnam.vn",
@@ -629,10 +621,10 @@
       ],
       "newsKr": [
         {
-          "title": "오늘의 농업 뉴스(10월 10일): 커피 가격이 계속 하락하고 있습니다. - Vietnam.vn",
+          "title": "2026년 10월 10일 오늘 농산물 가격: 주말을 맞아 국내 커피 가격 급등; '베트남산 로부스타 커피가 베이스 커피라는 틀을 벗어나 독자적인 브랜드를 구축해야 한다' - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2pUaFhjUDBscGsydmV6LURtWi1iS2tXSDVNRlA2VzZwQW1zSWhmUkcwM3lTZER6UXh6LVlydGY1MVlTeFBuS3N2cEtxSldRNzA1NWlWQkhuWTlRZ3dUQzZsNkg5REszSnp1bHhGYUNQcTZZNEZwSldZMXE5LTdNMDN2SWpiVk56?oc=5",
-          "date": "10-10 10:31"
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTjBab2tIbjN4M0N4b2c5cVlTckdZc0JPX1pfRzhXUlBOc3VRRUg5ckNGYU5fZVd1UEFCWTBvZlVFVFllNmN0NnRwVGJDbHJxZGFabmxOZUtQb3pTUHp0NGI2YVcyeWpNS1RwU3RXWXcyVlRDek1Pc01ZN2otOFJiTVZsREY1dEpISVhfUDVrUk5tcUdsdjJVRUFaVzNjOE9wUVJ3dGdFcVR1UXNRQmpUaTFUZ0UxNTNRQlY4R1NYODRuUXJCekluNmQ1TVUwODNMZEh6Z1VJeTFzVktnS2NzWklKU3lRNW9GWmNaODl6aEJELVVabEhPU3FYaGk?oc=5",
+          "date": "10-10 15:02"
         },
         {
           "title": "온두라스·과테말라 커피 생산↓…엘니뇨 탓에 가격 오르나 - 연합뉴스",
@@ -647,10 +639,10 @@
           "date": "10-09 08:16"
         },
         {
-          "title": "2026년 10월 10일 오늘 커피 가격: 국내 가격이 급락했습니다. - Vietnam.vn",
+          "title": "오늘의 농업 뉴스(10월 10일): 커피 가격이 계속 하락하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXpob0NvTzgzdkNxU2FqczlvSzN0QU5PZ3RtREhaWVVHdGVpdm9sa19DWHBPZzdKRVoxR2FNZDJUWlNGeTBTTlgxMFBoSmJfWnI0RlBneUVxSVVhd0lCSzVtLXBZbUYzbjN0T3pjWjlnVmYwZFJWTHJmQktUVWUxQ0J5T196Zw?oc=5",
-          "date": "10-10 08:40"
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2pUaFhjUDBscGsydmV6LURtWi1iS2tXSDVNRlA2VzZwQW1zSWhmUkcwM3lTZER6UXh6LVlydGY1MVlTeFBuS3N2cEtxSldRNzA1NWlWQkhuWTlRZ3dUQzZsNkg5REszSnp1bHhGYUNQcTZZNEZwSldZMXE5LTdNMDN2SWpiVk56?oc=5",
+          "date": "10-10 10:31"
         }
       ],
       "original_price_lb": 285.15
@@ -839,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "12:42",
+            "time": "19:20",
             "price": 3728.0
           }
         ],
@@ -900,31 +892,37 @@
       },
       "newsEn": [
         {
-          "title": "Stronger Brazil Coffee Exports Weigh on Arabica Prices - TradingView",
+          "title": "Arabica Coffee Falls on Robust Brazil Exports - TradingView",
           "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDFhZWk4bmxQMnBEMjdEcF9kcXUxanNrTlBNaGZjdzRxLVoxY3NlWXA5SGVGVGw5cXBZaVJZeExGUUtybGVma1NFdlJPb1E1UTZIekl0blNxUzZRVFFXUFU2NU9jNENDcERtUU5PU29fSXhjS282eHJQRU9Vb1Z0WVFQd3VNekNWZ0tKaVc5T0c5bmpMeFFlNTNfNkVoOHpGcTd1U1REdkpmZGk1ZnZ0UngwTQ?oc=5",
-          "date": "10-10 00:50"
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmhGaUwzSnpmVUFJTmhmM3p3MXZBa1pHenJ6bXpOTTh3WEVwMExwYUstOUU4eXU2ZlItNXFFUlBKNUxuTHdtb1FxZnZycC1fZlRlQU1leVZ1TnF2X0U1Y0JOSWhLTlJ5SkpDNDJqWmNydVJqbjdxRF8tWFhINHNvd252NldLVFBQVmVLN3lXTC1TOE50UG5sbzY2RUlaRkN1emVFeHVvTQ?oc=5",
+          "date": "10-10 03:22"
         },
         {
-          "title": "For every five Robusta beans in the world, two come from Vietnam, but who do you remember? - Vietnam.vn",
+          "title": "Vietnamese coffee wins over Amazon shoppers, eyes premium prices - Tuoi Tre News | The News Gateway to Vietnam",
+          "source": "Tuoi Tre News | The News Gateway to Vietnam",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzlkNGdMYnNmZ0hXazNNbVhuWnp3RC1yNFZ4SFhfV1VYZjJPb0s2Q3JIemtDUUV5dWpZTld1QnJoTE42M0RoSE5jRkxFWGtjS3pxNWs3dC1FV1RjbXZwRmxnOVQ4dGp5T2UwYnFsQ3FxSlV5bTdCX2xCMTRQNGxKcjRKTzY1RTJjVm9jOFVqcnkwRUNobklDVGdmOHo5LVVGOHRoYnNNaklkZzEwMmpF?oc=5",
+          "date": "10-10 17:48"
+        },
+        {
+          "title": "Vietnamese coffee: From exporting raw materials to conquering global market value. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT3RPVFFZaERQb3h2UzlTRzVSTDlZc2xtWnhQLUoyaUczbGg1QjRrZnBwTjRqYUtUeEFQNGw2Skt6UnlfQkM1aVl1V0RGa0YtZTljTjRRN0tQR0duN0FnR1hhRXdnYW9kdGhCTFJaT0NzTnVHZlpmNExHSWFUWkNBRkZlS2ZsQzVvUk1vSUlPVQ?oc=5",
-          "date": "10-09 20:25"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2duMWFVQXZMenI2UTJQZTBMVlN3WG5QYjkwM2JMZ2k2c2QyMXc4MUJRRlExR29aNEtqUXdrQUlKOHRsRzFPSFBKX2ZEVGZvTC1FV2JJWFB2bnc0RGxrTFRreWZrNTdqV2pCOEVtV040U29ob0l3djZNMmpEcjM4S1MwaW5NSnB4N1cxdXR0dHh1YndtOVV5M2Zn?oc=5",
+          "date": "10-10 17:09"
         },
         {
-          "title": "From leading exports to the brand problem for Robusta Vietnam - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGNzdmRIRWlrV1hCa2JDN0Z6RVV2YUk5NVd4UnZUV3pzbURKVFZIeG4wZWxxM3VOQ2ZNUFloanpDMEFiM0FIeTFmckk5dU9MSzZoczNLLWdSREh0SVNKc045cWVuZXBURm5yQ3VUdGV6ajhDSUV5YzNTUWF5SWdDellDamRuZ3B2Y05EdmRNTDE2aUdhYTJ2dk10LUIwNFNKSkN5Y3c5TENMXzV5TE9GWmlFSQ?oc=5",
-          "date": "10-09 19:05"
-        },
-        {
-          "title": "Vietnamese Robusta coffee needs to build its own brand to increase export value. - Vietnam.vn",
+          "title": "Vietnamese coffee attracts customers on Amazon, creating opportunities to sell at higher prices. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ2hybDBSV3dyTndQVWVyQzNyYktEelZhaHZPeGQ2b1h3emxGLTRQd29CNTI5NEJSemxwVjBkbi0wZnNPalRQdGRuN0Y4TWJUMy1mdW5OWE16ajF3a3FMYmp0aTl2V0dmcVhZbE9YZFRheUkyeEc1LWxKSlI0YXBsbVZVRURBemFKWXNMX0F5bEtHLXd1OF9hdUd3UDNleUJP?oc=5",
-          "date": "10-09 20:19"
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHpxS1dfQXNhQ21RcjVnSnZuM0hRVjFmNGJkR3FHelROb2xaYUt6cGc2SlhEZWc0eXJ3cFNnQTJ6M2hlX1dTUFhMQ1RuU28tVU1SWExtVHhZXzJDb01OVWdKeG5YcHVkcUc5VlhnWm96N0F4NkE5d05SS2FmYnRnYTliN0w?oc=5",
+          "date": "10-10 13:38"
         }
       ],
       "newsKr": [
+        {
+          "title": "2026년 10월 10일 오늘 농산물 가격: 주말을 맞아 국내 커피 가격 급등; '베트남산 로부스타 커피가 베이스 커피라는 틀을 벗어나 독자적인 브랜드를 구축해야 한다' - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTjBab2tIbjN4M0N4b2c5cVlTckdZc0JPX1pfRzhXUlBOc3VRRUg5ckNGYU5fZVd1UEFCWTBvZlVFVFllNmN0NnRwVGJDbHJxZGFabmxOZUtQb3pTUHp0NGI2YVcyeWpNS1RwU3RXWXcyVlRDek1Pc01ZN2otOFJiTVZsREY1dEpISVhfUDVrUk5tcUdsdjJVRUFaVzNjOE9wUVJ3dGdFcVR1UXNRQmpUaTFUZ0UxNTNRQlY4R1NYODRuUXJCekluNmQ1TVUwODNMZEh6Z1VJeTFzVktnS2NzWklKU3lRNW9GWmNaODl6aEJELVVabEhPU3FYaGk?oc=5",
+          "date": "10-10 15:02"
+        },
         {
           "title": "2026년 10월 10일 오늘 커피 가격: 국내 가격이 급락했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
@@ -938,16 +936,10 @@
           "date": "10-09 19:05"
         },
         {
-          "title": "2026년 10월 9일 오늘 커피 가격: kg당 1,400 VND 급락, 로부스타 가격 폭락, 람동 지역 가격 여전히 최고가 유지. - Vietnam.vn",
+          "title": "오늘(10월 9일) 커피 가격: 로부스타 톤당 100달러 이상 하락, 센트럴 하이랜드 커피 가격 급락. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY3ZnNThwM3ZuNVdrS0F6TVNoRHZ4TDd2azJyMjQ5RUZza2pTc1ZFM1dybjNQekwyNkNpNVpsR3RvME5qemtXSDJJelJsY1VrNDQyMFR2N2lyd1hqbUt4SV9tNW1VN0JvdEZsd2RuUVg3bEt4am1VVXg5cTBZcl9BODAyVUtJckdhcUY0VnFZTjN1M3h2ZE5TeTZtNnJUS3ZNVzdHdlphd2Y2N05sNjNHRDRHX1RDZGEtSllEa3ZMWFc?oc=5",
-          "date": "10-09 16:24"
-        },
-        {
-          "title": "오늘(10월 9일) 커피 가격: 브라질 수출 급증으로 커피 가격에 하락 압력이 가해지고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQekNLOWJaUUJpYXVPOFFrV2lRd3lUUG85eFVndmVDYURFYktPSS1yQjc2dkZiTldTU2xvRkZHR2FoaWpXQTA4U3NSZm1vRElXUnBYSWtNQ2ZVMWNLMVdYb0I3RHRoanlXdktjZGNXdlBOR2lHcjJ2elNvd0p0WUgtMWdFcHNBWmlFRDlETjNKMzUzRkNXU1U5Uk5uZy1CNjg5OU1mRA?oc=5",
-          "date": "10-09 16:14"
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnJJWURha19MVV9aVlJlTXRZWjV5Nk5ULXlWMmdKbkFjRWU5VUNwNVdSMkRIZVlsaDlBUmduUGRnZGFBcGtObzRQQnVKOEJ0NHY5RVozVzQ1S1VlbTRBR1FzajlzclFwcU9PMm5iUTl2YWZWTmhGRkl0THFDaHY4ZTJ1LTVOX3hCM1NQMFRoa2VIT1FwVm4tN2RhRUkxUQ?oc=5",
+          "date": "10-09 12:15"
         }
       ]
     },
@@ -1168,16 +1160,16 @@
           "date": "10-09 22:11"
         },
         {
-          "title": "Dairy Trends: powders prop up positive GDT index 07 October 2026 Premium - Irish Farmers Journal",
-          "source": "Irish Farmers Journal",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPb3cxR1VkUG1uOTUwN0dRN19aNlVDMmxfTHlVTDg3UDREamE0N0ozX1MxRDI5MGR6WHJxcVdqSGRubmtENVJ0XzNYM19JWlJ6NUxyckRhM2l5TzFVNVVaMkRJQlJOMUZNOG5DM0dHU1dvVE1GRV9SWTBZd0pIaEl2WG44ZjM1dlViXzctOHBRc0ZTREZzcDJkT1VNQi0zRFA2NGVVRw?oc=5",
-          "date": "10-08 06:59"
+          "title": "NZX Milk Futures Exceed $10 Across Three Seasons - dairynews.today",
+          "source": "dairynews.today",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcFdPam4zSjhfRGcxT0h6TDFWOUhsRmhEc3ZWc01XX0VzNU1YLVp1Qk5GNDh1Q2tacTNITk44dzhjeGoyX2tvdHNDa0todGZSRzN2emh4N2g3OGlMSURLU0JYblB3ekRiZklrNS1NLW4xeHU2ZUxIaTk3QXM2dTQ2SW9PWGs4WVhDVEpMNU5tZWlxUlk?oc=5",
+          "date": "10-08 06:23"
         },
         {
-          "title": "Dairy commodity prices | NZX milk price futures signal three seasons over ten dollars - https://en.edairynews.com/",
-          "source": "https://en.edairynews.com/",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRV9PdzB5M2M5RlhRbkhQWGliZlJvU3ZDcE50LUNZWmdEUXlESUpnUndSd19EenFSUVVZR19XT09SRDl6dFBUOXpDVnNkcUt0eUJiVDZVdHNTbmd0Vi1JOGt1NFR2bzJNbklDVkxxaEdUNXZFWklIb1U0bmU0S05RR20xSldrdVR6cnl5YzlLRXM?oc=5",
-          "date": "10-08 05:15"
+          "title": "Dairy Trends: powders prop up positive GDT index - Irish Farmers Journal",
+          "source": "Irish Farmers Journal",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0QtdmdLMzB6amNfa1JuVm8zNXZKSUFJQVhTdDJGcG92US1yYk95RUpLOUo0WDh6NVlzV1lWTE5GNDlFeXo2VWg0ODlGbTNRSHFQUzFHNTM1RTFLdU9BM2MzbnZfa3czd3pOaWlweWdiNk82ZVZfUzR2M281YXNXZGYydHFmOU5ZY3N1RDNGdTZXWUZWT1V0Tm5zVGFIWmc?oc=5",
+          "date": "10-08 06:07"
         }
       ],
       "newsKr": [
@@ -1936,7 +1928,7 @@
       "low24h": 820.0,
       "high7d": 1147.5,
       "low7d": 1121.25,
-      "high1m": 1238.5,
+      "high1m": 1226.0,
       "low1m": 1121.25,
       "volume": 10,
       "sparkline": [
@@ -1980,10 +1972,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "09-09",
-            "price": 1238.5
-          },
           {
             "date": "09-10",
             "price": 1226.0
@@ -2037,10 +2025,6 @@
             "price": 1192.0
           },
           {
-            "date": "09-29",
-            "price": 1191.0
-          },
-          {
             "date": "09-30",
             "price": 1191.0
           },
@@ -2087,7 +2071,7 @@
             "price": 1133.73
           },
           {
-            "time": "12:42",
+            "time": "19:20",
             "price": 1136.0
           }
         ],
@@ -2461,7 +2445,7 @@
             "price": 1926.14
           },
           {
-            "time": "12:42",
+            "time": "19:20",
             "price": 1930.0
           }
         ]
@@ -2695,7 +2679,7 @@
             "price": 1338.22
           },
           {
-            "time": "12:42",
+            "time": "19:20",
             "price": 1340.9
           }
         ],
@@ -2788,16 +2772,16 @@
           "date": "10-08 08:07"
         },
         {
-          "title": "무역흑자 사상 최대인데…원·달러 환율 1250원 vs 1400원 '엇갈린 전망' - 파이낸셜포스트",
-          "source": "파이낸셜포스트",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CUDVOQmgyQnRySXMzcUJkVXpDTzM1cDNsTEFTdUtjblNVV08zakJzODlxXzNYV1hKQzUyRE5JOFdrTm9rVV9LckNTSTFEWUJUOWl1enJ5cmJ1R1J1b1FoSU1JLThJZzZmQnN2U1JJb1FPNV9F?oc=5",
-          "date": "10-10 09:00"
-        },
-        {
           "title": "[다음주 환율전망] 원·달러 1330원대 안착 시도…다음주도 원화 강세 이어질까 - 굿모닝경제",
           "source": "굿모닝경제",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oNWtxTElXTnBXdHI4LXpadGxQMFpyQl9fZGttTFRwc2l6WWxER0VSbkp1NWI5SGlYMnhrYWI1U0VNNEhKSUhWdG9hZ0NtNnZ1NWJfdnBPelYtM1F5dkNvRW9VWVRjMnd5cnJEVg?oc=5",
           "date": "10-09 07:00"
+        },
+        {
+          "title": "무역흑자 사상 최대인데…원·달러 환율 1250원 vs 1400원 '엇갈린 전망' - 파이낸셜포스트",
+          "source": "파이낸셜포스트",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CUDVOQmgyQnRySXMzcUJkVXpDTzM1cDNsTEFTdUtjblNVV08zakJzODlxXzNYV1hKQzUyRE5JOFdrTm9rVV9LckNTSTFEWUJUOWl1enJ5cmJ1R1J1b1FoSU1JLThJZzZmQnN2U1JJb1FPNV9F?oc=5",
+          "date": "10-10 09:00"
         },
         {
           "title": "\"환율 단기 상·하방 압력 상존…달러 강세에 반등 가능성 有\" | - 연합인포맥스",
@@ -2995,7 +2979,7 @@
             "price": 1497.2
           },
           {
-            "time": "12:42",
+            "time": "19:20",
             "price": 1500.2
           }
         ],
@@ -3056,16 +3040,16 @@
       },
       "newsEn": [
         {
+          "title": "Iran releases currency exchange rates for October 10 - Trend News Agency",
+          "source": "Trend News Agency",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51TUoxRnl0TVJuYXQ3aWcxOTdaTVdscDV1QWdnX2xZby1JRzEwazFPcm9jaGY5YlJOcmpHaHA5bEEtbU82NlF0eko4LTl2WHM?oc=5",
+          "date": "10-10 14:16"
+        },
+        {
           "title": "Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVZ2aWZDM0JlM0tXdG1oTWFUSVVWbGpwWjBnVmFiZlA2cHg1cFh2WVBIakZNbTRIMFZVNXA0MVB0Wnk0RzZIb3dteEF4SUVIQTZpbGdGaGl0TGxCcnNFaEREWWJyQVp3Znc2dFVaMkFLeUxjMy1reDV4RTVuY1hRc0tPVU41SXFzdEVyWDVOUQ?oc=5",
           "date": "10-10 08:45"
-        },
-        {
-          "title": "Korean Won Firms for Fourth Day Despite Broad Dollar Strength - Seoul Economic Daily",
-          "source": "Seoul Economic Daily",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWjlLcDVBM2FyN3JlQ2p0Vnk4bEFYUG94MVYtb3ExTjhvWXBqdEdZdW8xNGRGTnc1dXNZRk1KRFA0ZzlROFZ3QkFIa2ROTk5ReHRGZTZEOGJ1dTVQS1p6dFEtNkNCMGt4MlhPTnJQb2lDN0dQM1kyQ3hWX1JZM0Y0dG1MbElaQ01uT1VWdDlqYjBzZE5hWlh0eldn?oc=5",
-          "date": "10-07 16:13"
         },
         {
           "title": "CBA currency exchange rates (09.10.2026) - Report.az",
@@ -3074,10 +3058,10 @@
           "date": "10-09 14:10"
         },
         {
-          "title": "Iran releases currency exchange rates for October 8 - Trend News Agency",
-          "source": "Trend News Agency",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TbV9wX1RTZkJwdjNic1dVeHlDd0dkbkN1X1hvVHZfNklQbEY3R0ZOc3NVRVlwQ0o5NVd4QmJEZk1TWXR2OVRVU1NiMThqV2s?oc=5",
-          "date": "10-08 14:31"
+          "title": "Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
+          "source": "Ratopati",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNWJoXzgyN2V1clNMT1k2d1N5dXBMR2NzbnJnamVqUXI5WWU3aDR6OE5jVTN5ODRqWE1PanFYSDVhT0drZnFFYklDckM3OWp2dklldF84eVJQU3lFdmNkb3gyVkZfUmFlY0RIR3otWlVqdWQzLWVwTndSMlVhd2pTU1Z1Y2NtaXE1Y1Q4elkyaw?oc=5",
+          "date": "10-09 08:24"
         }
       ],
       "newsKr": [
