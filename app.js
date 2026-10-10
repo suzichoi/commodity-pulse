@@ -17,16 +17,16 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-10-10 19:20:29",
+  "last_updated": "2026-10-11 01:04:28",
   "weekly_report": {
     "title": "[2026 Week 41 Report]",
     "week_number": 41,
     "week_date_range": "2026.10.05 ~ 2026.10.09",
     "weekly_price_title": "[W41 주요품목가격]",
-    "date": "2026.10.10",
-    "report_date": "2026.10.10, 19:20",
+    "date": "2026.10.11",
+    "report_date": "2026.10.11, 01:04",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
-    "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
+    "top_loser": "아라비카 커피 : $6,286.47 (▼2.58%)",
     "weekly_price_list": [
       "코코아 : $5,671.00 (▲4.97%)",
       "아라비카 커피 : $6,286.47 (▲1.32%)",
@@ -59,10 +59,10 @@ const FALLBACK_DATA = {
     "week_number": 41,
     "week_date_range": "2026.10.05 ~ 2026.10.09",
     "weekly_price_title": "[W41 주요품목가격]",
-    "date": "2026.10.10",
-    "report_date": "2026.10.10, 19:20",
+    "date": "2026.10.11",
+    "report_date": "2026.10.11, 01:04",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
-    "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
+    "top_loser": "아라비카 커피 : $6,286.47 (▼2.58%)",
     "weekly_price_list": [
       "코코아 : $5,671.00 (▲4.97%)",
       "아라비카 커피 : $6,286.47 (▲1.32%)",
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-10T19:20:29.912881+09:00",
+  "lastUpdated": "2026-10-11T01:04:28.226811+09:00",
   "usdKrwRate": 1340.9,
   "eurKrwRate": 1500.2,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5659.66
           },
           {
-            "time": "19:20",
+            "time": "01:04",
             "price": 5671.0
           }
         ],
@@ -337,7 +337,7 @@ const FALLBACK_DATA = {
           "title": "El Niño Threatens West Africa Cocoa Supply - Briefs Finance",
           "source": "Briefs Finance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUVFaVdaWHVSQ0ljbFlHZ1pnQmw4SkRDVzRhMTV0SW8ybl9idW9uZHNLblVQcWI0aFBCeFc4U05LaTJraXA3NGNfWDE4aFVkdWlLTVJMOG1RUkpJM1JQNHU5ZkpsQWdmR1dKbzFlbUJxNi00RnlVUzBIUjBNUkFoLTF6bk5GaDh2a1hvdGlGdzBEQQ?oc=5",
-          "date": "10-10 08:34"
+          "date": "10-10 05:05"
         },
         {
           "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News - Breaking News, Latest News and Videos",
@@ -372,10 +372,10 @@ const FALLBACK_DATA = {
           "date": "10-08 13:56"
         },
         {
-          "title": "2026년 9월 헝가리 소비자물가: 전년 대비 1.6% 상승 - 뉴스 및 통계 - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSXZ0SGRaRDBNdm9SeHpLX2kwNHpmMVJlbTBFQlRzV2pGeHh3emNucEtDZDBVMlkxUjB4ZTJfX3AxbkR3VFFkZGYtNHlDb0xHRVNOT0RUSlhWX3VjVEQtazc2NWVfcHlNOVFXcWxWcHhlUUV1N0VDb2hBeFhRaC1GaFJraXpkbi1HaUdTNnp0Y2Y?oc=5",
-          "date": "10-07 19:20"
+          "title": "수출 농산물의 부가가치 향상. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yODc3VXdDVDhGYV9jcmV5ZV9HQWNpeWFELW1pOWVhZVdsaDFDMjMzVThrbGs3eHNUWUN2R3REbU44X0VVdWZnUDVtRE13WktmWWc5RjkwaURLdDBXdlowZ3ZJdlk2eFNjNmZFYkJB?oc=5",
+          "date": "10-08 16:00"
         }
       ]
     },
@@ -404,24 +404,24 @@ const FALLBACK_DATA = {
         ]
       },
       "price": 6286.47,
-      "change": -85.98,
-      "changePercent": -1.35,
+      "change": -166.45,
+      "changePercent": -2.58,
       "high52w": 9655.13,
       "low52w": 5350.61,
       "high24h": 6433.08,
-      "low24h": 6267.73,
+      "low24h": 6266.63,
       "high7d": 6711.97,
       "low7d": 6286.47,
       "high1m": 6951.17,
       "low1m": 6003.18,
       "volume": 14830,
       "sparkline": [
+        6408.83,
         6354.82,
         6365.84,
         6449.62,
         6711.97,
         6452.92,
-        6372.45,
         6286.47
       ],
       "history": {
@@ -439,11 +439,15 @@ const FALLBACK_DATA = {
             "price": 6273.9
           },
           {
-            "time": "19:20",
+            "time": "01:04",
             "price": 6286.47
           }
         ],
         "7D": [
+          {
+            "date": "09-30",
+            "price": 6408.83
+          },
           {
             "date": "10-01",
             "price": 6354.82
@@ -466,10 +470,6 @@ const FALLBACK_DATA = {
           },
           {
             "date": "10-08",
-            "price": 6372.45
-          },
-          {
-            "date": "10-09",
             "price": 6286.47
           }
         ],
@@ -556,10 +556,6 @@ const FALLBACK_DATA = {
           },
           {
             "date": "10-08",
-            "price": 6372.45
-          },
-          {
-            "date": "10-09",
             "price": 6286.47
           }
         ],
@@ -638,10 +634,10 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "2026년 10월 10일 오늘 농산물 가격: 주말을 맞아 국내 커피 가격 급등; '베트남산 로부스타 커피가 베이스 커피라는 틀을 벗어나 독자적인 브랜드를 구축해야 한다' - Vietnam.vn",
+          "title": "오늘(10월 10일) 커피 가격: 재고 감소 덕분에 로부스타 가격이 회복세를 보였습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTjBab2tIbjN4M0N4b2c5cVlTckdZc0JPX1pfRzhXUlBOc3VRRUg5ckNGYU5fZVd1UEFCWTBvZlVFVFllNmN0NnRwVGJDbHJxZGFabmxOZUtQb3pTUHp0NGI2YVcyeWpNS1RwU3RXWXcyVlRDek1Pc01ZN2otOFJiTVZsREY1dEpISVhfUDVrUk5tcUdsdjJVRUFaVzNjOE9wUVJ3dGdFcVR1UXNRQmpUaTFUZ0UxNTNRQlY4R1NYODRuUXJCekluNmQ1TVUwODNMZEh6Z1VJeTFzVktnS2NzWklKU3lRNW9GWmNaODl6aEJELVVabEhPU3FYaGk?oc=5",
-          "date": "10-10 15:02"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXRoZTZtS19TVlNNS3Y5alZhMVdvbDdHN2JTTGJOUWxKbnc0US1VNTBlY1lidVVjZDBZSHdiOWo5SDNhY0c0WWpRcHg1X09fR2s1S1RWY3FZTlVXUjNOVEZGYmZoWkd4MHJiSWZpU3BUU1ZUNzFSQ1ZKaXJFOV9vc0Qyc0tvWjlDV3dhdg?oc=5",
+          "date": "10-10 20:56"
         },
         {
           "title": "온두라스·과테말라 커피 생산↓…엘니뇨 탓에 가격 오르나 - 연합뉴스",
@@ -650,16 +646,16 @@ const FALLBACK_DATA = {
           "date": "10-09 01:53"
         },
         {
+          "title": "2026년 10월 10일 오늘 커피 가격: 안정세, 최고가 91,800 VND/kg - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzhuWTJzT0IwUGNsTWJpWDg5QUwySXZPUHphS0RsOEtkeVVpRXhjYXo3cXR4YVlIU2xFTDNOZ2ROeEF3NHpXb0M0UDR3bWl2aWFWalJXT3lkNjhtaVBjaDlFZGVlWW5PVUh2UUtib2ZZYkV4emJVaUdBcXZNME1Td05tMDhpWW9fRUx2M0RINWE4QQ?oc=5",
+          "date": "10-10 19:32"
+        },
+        {
           "title": "온두라스·과테말라 커피 생산 감소…엘니뇨에 가격 상승 우려 - 코리아포스트 한글판",
           "source": "코리아포스트 한글판",
           "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZk4wMFA5NHB3Q2swN2lma1BKTk01NTdHTWpYTWFoeUZhYU1xUHdmaFZ5U1loWFI1WjdXZ255a0wwZ3ZKeUJyaTRhOE5JUFMzWmhHVWtCSkFBSjJHVG4zWURaQnZYVmxUYThRdFpR?oc=5",
           "date": "10-09 08:16"
-        },
-        {
-          "title": "오늘의 농업 뉴스(10월 10일): 커피 가격이 계속 하락하고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2pUaFhjUDBscGsydmV6LURtWi1iS2tXSDVNRlA2VzZwQW1zSWhmUkcwM3lTZER6UXh6LVlydGY1MVlTeFBuS3N2cEtxSldRNzA1NWlWQkhuWTlRZ3dUQzZsNkg5REszSnp1bHhGYUNQcTZZNEZwSldZMXE5LTdNMDN2SWpiVk56?oc=5",
-          "date": "10-10 10:31"
         }
       ],
       "original_price_lb": 285.15
@@ -848,7 +844,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "19:20",
+            "time": "01:04",
             "price": 3728.0
           }
         ],
@@ -935,16 +931,16 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "2026년 10월 10일 오늘 농산물 가격: 주말을 맞아 국내 커피 가격 급등; '베트남산 로부스타 커피가 베이스 커피라는 틀을 벗어나 독자적인 브랜드를 구축해야 한다' - Vietnam.vn",
+          "title": "오늘(10월 10일) 커피 가격: 재고 감소 덕분에 로부스타 가격이 회복세를 보였습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTjBab2tIbjN4M0N4b2c5cVlTckdZc0JPX1pfRzhXUlBOc3VRRUg5ckNGYU5fZVd1UEFCWTBvZlVFVFllNmN0NnRwVGJDbHJxZGFabmxOZUtQb3pTUHp0NGI2YVcyeWpNS1RwU3RXWXcyVlRDek1Pc01ZN2otOFJiTVZsREY1dEpISVhfUDVrUk5tcUdsdjJVRUFaVzNjOE9wUVJ3dGdFcVR1UXNRQmpUaTFUZ0UxNTNRQlY4R1NYODRuUXJCekluNmQ1TVUwODNMZEh6Z1VJeTFzVktnS2NzWklKU3lRNW9GWmNaODl6aEJELVVabEhPU3FYaGk?oc=5",
-          "date": "10-10 15:02"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXRoZTZtS19TVlNNS3Y5alZhMVdvbDdHN2JTTGJOUWxKbnc0US1VNTBlY1lidVVjZDBZSHdiOWo5SDNhY0c0WWpRcHg1X09fR2s1S1RWY3FZTlVXUjNOVEZGYmZoWkd4MHJiSWZpU3BUU1ZUNzFSQ1ZKaXJFOV9vc0Qyc0tvWjlDV3dhdg?oc=5",
+          "date": "10-10 20:56"
         },
         {
-          "title": "2026년 10월 10일 오늘 커피 가격: 국내 가격이 급락했습니다. - Vietnam.vn",
+          "title": "2026년 10월 10일 오늘 커피 가격: 안정세, 최고가 91,800 VND/kg - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXpob0NvTzgzdkNxU2FqczlvSzN0QU5PZ3RtREhaWVVHdGVpdm9sa19DWHBPZzdKRVoxR2FNZDJUWlNGeTBTTlgxMFBoSmJfWnI0RlBneUVxSVVhd0lCSzVtLXBZbUYzbjN0T3pjWjlnVmYwZFJWTHJmQktUVWUxQ0J5T196Zw?oc=5",
-          "date": "10-10 08:40"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzhuWTJzT0IwUGNsTWJpWDg5QUwySXZPUHphS0RsOEtkeVVpRXhjYXo3cXR4YVlIU2xFTDNOZ2ROeEF3NHpXb0M0UDR3bWl2aWFWalJXT3lkNjhtaVBjaDlFZGVlWW5PVUh2UUtib2ZZYkV4emJVaUdBcXZNME1Td05tMDhpWW9fRUx2M0RINWE4QQ?oc=5",
+          "date": "10-10 19:32"
         },
         {
           "title": "선도적인 수출에서 베트남 로부스타 브랜드 문제까지 - Laodong.vn",
@@ -953,10 +949,10 @@ const FALLBACK_DATA = {
           "date": "10-09 19:05"
         },
         {
-          "title": "오늘(10월 9일) 커피 가격: 로부스타 톤당 100달러 이상 하락, 센트럴 하이랜드 커피 가격 급락. - Vietnam.vn",
+          "title": "2026년 10월 10일 오늘 농산물 가격: 주말을 맞아 국내 커피 가격 급등; '베트남산 로부스타 커피가 베이스 커피라는 틀을 벗어나 독자적인 브랜드를 구축해야 한다' - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUnJJWURha19MVV9aVlJlTXRZWjV5Nk5ULXlWMmdKbkFjRWU5VUNwNVdSMkRIZVlsaDlBUmduUGRnZGFBcGtObzRQQnVKOEJ0NHY5RVozVzQ1S1VlbTRBR1FzajlzclFwcU9PMm5iUTl2YWZWTmhGRkl0THFDaHY4ZTJ1LTVOX3hCM1NQMFRoa2VIT1FwVm4tN2RhRUkxUQ?oc=5",
-          "date": "10-09 12:15"
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQTjBab2tIbjN4M0N4b2c5cVlTckdZc0JPX1pfRzhXUlBOc3VRRUg5ckNGYU5fZVd1UEFCWTBvZlVFVFllNmN0NnRwVGJDbHJxZGFabmxOZUtQb3pTUHp0NGI2YVcyeWpNS1RwU3RXWXcyVlRDek1Pc01ZN2otOFJiTVZsREY1dEpISVhfUDVrUk5tcUdsdjJVRUFaVzNjOE9wUVJ3dGdFcVR1UXNRQmpUaTFUZ0UxNTNRQlY4R1NYODRuUXJCekluNmQ1TVUwODNMZEh6Z1VJeTFzVktnS2NzWklKU3lRNW9GWmNaODl6aEJELVVabEhPU3FYaGk?oc=5",
+          "date": "10-10 15:02"
         }
       ]
     },
@@ -1415,16 +1411,16 @@ const FALLBACK_DATA = {
           "date": "10-09 22:11"
         },
         {
-          "title": "Rising Milk Production Collides With Dairy Trade Barriers - https://en.edairynews.com/",
-          "source": "https://en.edairynews.com/",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQ2RxMXJtdFZIRUN5ejZ4aGJyRkR6OE1IOFp4WkVnb2ozcTBRSEx4M3ZwMGhiUVI3SHNKRnBVYlFoLVZPZlFfUXVucER2dU9jUmctNEp2eGQxektJZnhqVWU5MF83cEY4TEN1cHJ5VTFDbGVCaHJYRlBmNUFNczJ4T1ZpczJsZVpTZWVSdg?oc=5",
-          "date": "10-07 21:46"
-        },
-        {
           "title": "Ornua Raises Indicative Irish Milk Price by Two Cents - dairynews.today",
           "source": "dairynews.today",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVBtMkludXhHUjN6UnpGNWVRMHZaMWtwSFZiY3JPbG5HUnNiX3FtLVBQRjkwZk40NHZ0cDB2dEtDdk45ZU96MFNPbzZZWkdnQUhkZGJkV3V6OG1KTG1EWnJpVDJCSmxzVTFSdFY2Q2hIQVJMSFF3TWVQd282TTdTVDE1WjRFVWlEdzIxTHpDX0ZQY2E1VjlDbDhlRQ?oc=5",
           "date": "10-09 09:07"
+        },
+        {
+          "title": "Dairy commodity prices | NZX milk price futures signal three seasons over ten dollars - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRV9PdzB5M2M5RlhRbkhQWGliZlJvU3ZDcE50LUNZWmdEUXlESUpnUndSd19EenFSUVVZR19XT09SRDl6dFBUOXpDVnNkcUt0eUJiVDZVdHNTbmd0Vi1JOGt1NFR2bzJNbklDVkxxaEdUNXZFWklIb1U0bmU0S05RR20xSldrdVR6cnl5YzlLRXM?oc=5",
+          "date": "10-08 05:15"
         }
       ],
       "newsKr": [
@@ -1657,12 +1653,6 @@ const FALLBACK_DATA = {
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY25penBJUUw5Tkp3bVpXQUpHdll3aGNMdDByblFnLXNDc0tXWHlqeTczX0RGaG5jWk8zWndTemNFNG1KZkdpaktYQ2RmRmdlUEx4WVJLQy1zeDhPRlFfSGphRjNfOTlkQm9GWEQ0aENqd3pqdlI5RjRNNDhOMjltSGpWdzhFVHM?oc=5",
           "date": "10-08 05:11"
-        },
-        {
-          "title": "Ornua PPI indicative milk price up 2c/L - Agriland",
-          "source": "Agriland",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3NnTE1yZ2hRWVk4SHJDVkgyUk04S0Y4YzhfQXE4RWdxYmVFT0lsYUhPOEhYdkZVU1VvUDRjV1d0SjlJMXZBZkVIOTFEcHQ1Tjg4WktpXzYydEtwQUhRc0hZSGpiUGRPTTNkdk1YQXltVnhUUkU0Nk5haC1USFBfX0Zvcw?oc=5",
-          "date": "10-08 00:31"
         }
       ],
       "newsKr": [
@@ -1879,6 +1869,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "From Wisconsin farm kid to World Dairy Expo Person of the Year - Farm Progress",
+          "source": "Farm Progress",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXJxcHlGSWtLYl9LeTloRkpKMUtXelU5Vm9SYWhTUzVBSWU5RVFoMUEtaVVweDY3OE81ZVlxN19OZWZFQjVKQ243WW1uWFRCY09hM0JuTm1SWFVQQ3I0dXRBNlJIeGZkTzItam04TlJKR1RGV1UwdWQxUW1rTy1xNTlRZzJRMDF5NXdld2p5UXZmaUREOUlTV3c3bUJwTmZlcFROeUZTMmlPTGZnN3c?oc=5",
+          "date": "10-10 12:48"
+        },
+        {
           "title": "Dairy commodity prices | Price divergence widens at Global Dairy Trade auction - https://en.edairynews.com/",
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY25penBJUUw5Tkp3bVpXQUpHdll3aGNMdDByblFnLXNDc0tXWHlqeTczX0RGaG5jWk8zWndTemNFNG1KZkdpaktYQ2RmRmdlUEx4WVJLQy1zeDhPRlFfSGphRjNfOTlkQm9GWEQ0aENqd3pqdlI5RjRNNDhOMjltSGpWdzhFVHM?oc=5",
@@ -1891,16 +1887,10 @@ const FALLBACK_DATA = {
           "date": "10-09 22:11"
         },
         {
-          "title": "The Protein Economy: How One Nutrient Is Reshaping Dairy from Farm to Shelf - Dairy Herd",
+          "title": "Protein Demand is Sustaining Dairy, but Labor and Costs Are Pinching, Land O’Lakes’ Ford Says - Dairy Herd",
           "source": "Dairy Herd",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaDIzZjFxY2thYkYzX0NBUnFpSVg1QmtHLTk2MW5PbHREUEdENXEtMV9fX1VnTGtaTkVWTk1Ta29haGlWdzBHV2ZQR0JQNF9DY2pDWmFOWU1aZmFEMEI0Q200SlEycG9ySkRkQVd4ZmYyTkotVU5YWEhFc1VmVzRVdllNVk5aN1B5Y3pMT3gwQ1Q1ODZC?oc=5",
-          "date": "10-07 22:22"
-        },
-        {
-          "title": "From Wisconsin farm kid to World Dairy Expo Person of the Year - Farm Progress",
-          "source": "Farm Progress",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQXJxcHlGSWtLYl9LeTloRkpKMUtXelU5Vm9SYWhTUzVBSWU5RVFoMUEtaVVweDY3OE81ZVlxN19OZWZFQjVKQ243WW1uWFRCY09hM0JuTm1SWFVQQ3I0dXRBNlJIeGZkTzItam04TlJKR1RGV1UwdWQxUW1rTy1xNTlRZzJRMDF5NXdld2p5UXZmaUREOUlTV3c3bUJwTmZlcFROeUZTMmlPTGZnN3c?oc=5",
-          "date": "10-09 10:04"
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVVF6dVpQWlloT0ZfbmpONWlxckl0MDQ3cm5qUTFRTFZjbkQtWTdneklUU1A2aTRBNkt5a2tha1EzeHZQSHB6cnVpTHJDMUMzdzNnbG1OZS1VdUJDdzd6YlRoY21XYmdGckVuOFNqTzdXNmdKUmpOWEU4cGY5MHFMdnlmRk9lWGxoczR4aU9Dd1ptS192UjduNEdzV253Qk9xMC1HcGQ4NzU4RDItenhTTHlubw?oc=5",
+          "date": "10-09 01:22"
         }
       ],
       "newsKr": [
@@ -2042,6 +2032,10 @@ const FALLBACK_DATA = {
             "price": 1192.0
           },
           {
+            "date": "09-29",
+            "price": 1191.0
+          },
+          {
             "date": "09-30",
             "price": 1191.0
           },
@@ -2088,7 +2082,7 @@ const FALLBACK_DATA = {
             "price": 1133.73
           },
           {
-            "time": "19:20",
+            "time": "01:04",
             "price": 1136.0
           }
         ],
@@ -2151,6 +2145,12 @@ const FALLBACK_DATA = {
           "date": "10-09 21:07"
         },
         {
+          "title": "Indonesia’s B50 mandate, El Niño may lift palm oil prices in 2027 - BioEnergy Times",
+          "source": "BioEnergy Times",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbENGR0M1ZFpJZWRxNEFjRENqcmt1M3hlY0w2NUY3SlljazJvSEk1Z2VnemttYlYwSHlBRkFKVS1DaERMNmlnSUE4ZFJvdWVyakFkVGNtWXRkRWxWb0hPMHRQYk1OZGxoR1ZNcEY3b3QyZlNUY2hsblYwaWVMU01qZWtQSzVLdVN5Y1hYQmRhTVotNHROcVE?oc=5",
+          "date": "10-10 16:54"
+        },
+        {
           "title": "Palm oil rises more than 3% on strong Indian demand - UkrAgroConsult",
           "source": "UkrAgroConsult",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHZYZlBRd3BIc0FFX0hrWjB3U2NKVENrT0tMcnlPbHp5NW5nb0lmdmp0dmpaRk5EQzQyNjhiVlBHYk5tNXlCSVpIUnhQOFJ0bmktYnNVOTVYQmJMQ2V6WTMyQ3VoQjV1UHRQelpZM1FsTFdJc21QU0t5NUFrMVo2UkxrbWpLRy1XbEtVOUZvTQ?oc=5",
@@ -2161,12 +2161,6 @@ const FALLBACK_DATA = {
           "source": "Moomoo",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVXlTS2hWQzZsWEd5YzJVNTJoS1NIamN3dl9OQ3JPck8zNkY2NFJxSGIyY1pxNXYyd0o0WnV5WXhETk92UVJGNjR3bTRqRDh5dVFkUGdULVAxbzZvOGxzMVdzbnlQZTBlY0RYUzloVzRsOXRrWXltZmd6bEtMWTFKT0RxNWR5bTZjNUZ1UzhrUlUwdG9Ud2Nsb2hud3BjQTh6aGxNWVVwYkI0Rmc?oc=5",
           "date": "10-08 19:13"
-        },
-        {
-          "title": "\"Partnerships that go beyond buying and selling\": Malaysia eyes expanding trade beyond crude palm oil in India - Devdiscourse",
-          "source": "Devdiscourse",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNa3RYVGg5N1M5YjRMdnlRNmRnX21hTWhxekJjV2wxaF9EdWlRVWV4NGZOcWhCYzhueGVLN2oyUjBCS3FvTVRHMWRJUnBTSW0tOU9yRW5hbFdteUxFd2RfaktfeUtBSzg5a0RrTklEenFMaG90empwNVctSERtdnpOaS1oMER6b0paOXBmSEtPQmlqRUJlY1hHUlRuYnVYOExlRTVsX2dGZERKZWpncDVQcnB1ZGZ0V2JPSzhTQWVaZlRKZGxpeEI4RXBMbjRkOGF1Vm9Kb21RUmpVSVZTNi1kM3VOZ0t2R0F1LUZvaFdub2I4VHRfX2pTU3Y2VG1XMjTSAf8BQVVfeXFMTWt0WFRoOTdTOWI0THZ5UTZkZ19tYU1ocXpCY1dsMWhfRHVpUVVleDRmTnFoQmM4bnhlSzdqMlIwQktxb01URzFkSVJwU0ltLTlPckVuYWxXbXlMRXdkX2pLX3lLQUs4OWtEa05JRHpxTGhvdHpqcDVXLUhEbXZ6TmktaDBEem9KWjlwZkhLT0JpakVCZWNYR1JUbmJ1WDhMZUU1bF9nRmRESmVqZ3A1UHJwdWRmdFdiT0s4U0FlWmZUSmRsaXhCOEVwTG40ZDhhdVZvSm9tUVJqVUlWUzYtZDN1TmdLdkdBdS1Gb2hXbm9iOFR0X19qU1N2NlRtVzI0?oc=5",
-          "date": "10-09 16:15"
         }
       ],
       "newsKr": [
@@ -2462,7 +2456,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "19:20",
+            "time": "01:04",
             "price": 1930.0
           }
         ]
@@ -2696,7 +2690,7 @@ const FALLBACK_DATA = {
             "price": 1338.22
           },
           {
-            "time": "19:20",
+            "time": "01:04",
             "price": 1340.9
           }
         ],
@@ -2996,7 +2990,7 @@ const FALLBACK_DATA = {
             "price": 1497.2
           },
           {
-            "time": "19:20",
+            "time": "01:04",
             "price": 1500.2
           }
         ],
@@ -3101,10 +3095,10 @@ const FALLBACK_DATA = {
           "date": "10-09 14:26"
         },
         {
-          "title": "롯데제주 카지노 추가 규칙이 붙는 상황 - Calgary Roughnecks",
+          "title": "설명 화면에서 찾는 자리 룰렛 게임 정보 - Calgary Roughnecks",
           "source": "Calgary Roughnecks",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9scmRqcGtXYXd2RHlYWUM1ZDE0OUM0TEhqY2txYjhzdW1FN2hvZ0JqYlNCV2Y5cWlSQ2dIbXBZb2UyRVNtQ09yZWw4NWpRNUpvc1NBOUp1WDV5ZTJQSU1GRXQ4eXlVVGtranIxLXZTdw?oc=5",
-          "date": "10-08 00:24"
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vMDhiUzdsMWIzSHhpVmkyYWM4Mm9JSUFieXA4Z3BHUzdoamhEeGpXbkYzaVB0R0RKbk5pRk1sNXE4U2Fzczd5RFctcGFBTGtSbGh2c1F5MHlyamFKaUhNNTBNcW01bnZzTGlqTWtISlNBTEtM?oc=5",
+          "date": "10-09 02:21"
         }
       ]
     }
