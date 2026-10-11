@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-10-12 03:33:55",
+  "last_updated": "2026-10-12 07:37:11",
   "weekly_report": {
     "title": "[2026 Week 42 Report]",
     "week_number": 42,
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
     "date": "2026.10.12",
-    "report_date": "2026.10.12, 03:33",
+    "report_date": "2026.10.12, 07:37",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,136.00 (▲0.42%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,340.02원 (▼2.97원)",
-    "fx_eur": "1,500.20원 (▼3.46원)",
+    "fx_usd": "1,341.07원 (▼1.92원)",
+    "fx_eur": "1,501.20원 (▼2.46원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
     "date": "2026.10.12",
-    "report_date": "2026.10.12, 03:33",
+    "report_date": "2026.10.12, 07:37",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,136.00 (▲0.42%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,340.02원 (▼2.97원)",
-    "fx_eur": "1,500.20원 (▼3.46원)",
+    "fx_usd": "1,341.07원 (▼1.92원)",
+    "fx_eur": "1,501.20원 (▼2.46원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-12T03:33:55.207789+09:00",
-  "usdKrwRate": 1340.02,
-  "eurKrwRate": 1500.2,
+  "lastUpdated": "2026-10-12T07:37:11.312863+09:00",
+  "usdKrwRate": 1341.07,
+  "eurKrwRate": 1501.2,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5659.66
           },
           {
-            "time": "03:33",
+            "time": "07:37",
             "price": 5671.0
           }
         ],
@@ -418,7 +418,7 @@
             "price": 6273.9
           },
           {
-            "time": "03:33",
+            "time": "07:37",
             "price": 6286.47
           }
         ],
@@ -593,12 +593,6 @@
           "date": "10-11 19:56"
         },
         {
-          "title": "'Consumers should feel ripped off': How coffee brands have changed - ABC News & Headlines – Australian Broadcasting Corporation",
-          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVzdRbzNOQzF6LTc0Z1pBZUJCLVk4VnVkRDhlaEd2MXc2N1RkMU5HckZFZXZmNzBPVndRRjF3LWs2QWc3YldHdVBWWENSOVhKSG5TaUtTNzd6cElndWc1SUlSU2k2YWt1cUpoTG1Yd0pEaFdrZGJpZy1VbTEzYkY1Z0x4ZjltRkI5ZEdibWZibDlVb2VTbGZsN2JNOXYyTWFVYU1LNTNQTlF2dw?oc=5",
-          "date": "10-09 05:33"
-        },
-        {
           "title": "Coffee brands change blends as bean prices hit near 50-year highs - Proactive Investors Australia",
           "source": "Proactive Investors Australia",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObDBiMFhrNTR4YkRIbDRFV2NBbzZGU0IxbnZGV0JfNTFRWmNQVkNULU1wNnFQMnNSUEVvREQ5WkVhc3NBRlNLZ0JCaHRjUUc3bGtuamQwT1hVYzBBSm9CYmtoWmR1dDJLZkpxaWNyNktJMjZsaEpMVXlEdjlZMEdBdExieHpaTWNwSG1qM1B2R1pQTDBVczdmd1k2SHROZGp6U1VpQTRYTXY3YjItbFl4VXBMX2o?oc=5",
@@ -609,6 +603,12 @@
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcTRxV2w0Ry1HeDBnT0lzUGRWOFVrcmlwQ1VhSnMyZWZzNkRwMHhWX2poODA2TUlfT1VBUHVNOWFHTVFCUjFNYmNBWHN0ZjhjOGJDRklkdkkzVHc3Ql9lVDgyRzZLcnVYTVg0OVJRMjA3Y3hWbld0NGtVM2FpNEJWU2ZCYzNrdDRqSG5xa1BoSzUtajdURGZ3ek1ha29IbDd3NnZBQVhCdndSWnQyNHB6QXVpZW1NRGU2ODQzWUZVOUw?oc=5",
           "date": "10-09 16:10"
+        },
+        {
+          "title": "Stronger Brazil Coffee Exports Weigh on Arabica Prices - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMldqaWxuR2VwMDduY05MTGM5MTJQOF9tQy04dW85Xy1VdWdfYnp0MkRJMTJtUnNXLWFPdWFYZ1dub01lZEdUXzhJYzNTdHF4QnlXZ1pKMUZTeEM1R3ZLTjgyOWFhbVl1LVpmeDFMRXloWlRDcUM1TkgyNUpMc0k3OXA2eHJTN2RZUEVPeG0xRlFpbzNPcnZ1S0xSUzZ2alU?oc=5",
+          "date": "10-10 00:50"
         }
       ],
       "newsKr": [
@@ -631,10 +631,10 @@
           "date": "10-09 08:16"
         },
         {
-          "title": "2026년 10월 11일 오늘 커피 가격: 다시 상승하여 kg당 93,000 VND까지 올랐습니다. - Vietnam.vn",
+          "title": "2026년 10월 10일 오늘 커피 가격: 안정세, 최고가 91,800 VND/kg - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkV4UVU1WEN4SVlnbmNQbVZvZUR1UGE4RjFqRFZmZWhqM1lSdExVbExRSjVwd1g1ZTI3dDZ3dldjMEFOZE5sVE1SZW9xRjFLT1pLUzNqbTlLMENOb1ZCSzhuLVhGYWtGYVVjdnMydnRKVmZBbi0wR1hGdlpFVERtOGNMS2ZwZkQ4NGRSa29LbXRualhoQW9SMTF5eHc?oc=5",
-          "date": "10-11 08:41"
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzhuWTJzT0IwUGNsTWJpWDg5QUwySXZPUHphS0RsOEtkeVVpRXhjYXo3cXR4YVlIU2xFTDNOZ2ROeEF3NHpXb0M0UDR3bWl2aWFWalJXT3lkNjhtaVBjaDlFZGVlWW5PVUh2UUtib2ZZYkV4emJVaUdBcXZNME1Td05tMDhpWW9fRUx2M0RINWE4QQ?oc=5",
+          "date": "10-10 19:32"
         }
       ],
       "original_price_lb": 285.15
@@ -823,7 +823,7 @@
             "price": 3720.54
           },
           {
-            "time": "03:33",
+            "time": "07:37",
             "price": 3728.0
           }
         ],
@@ -928,10 +928,10 @@
           "date": "10-09 19:05"
         },
         {
-          "title": "2026년 10월 11일 오늘 커피 가격: 다시 상승하여 kg당 93,000 VND까지 올랐습니다. - Vietnam.vn",
+          "title": "오늘(10월 10일) 커피 가격: 재고 감소 덕분에 로부스타 가격이 회복세를 보였습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWkV4UVU1WEN4SVlnbmNQbVZvZUR1UGE4RjFqRFZmZWhqM1lSdExVbExRSjVwd1g1ZTI3dDZ3dldjMEFOZE5sVE1SZW9xRjFLT1pLUzNqbTlLMENOb1ZCSzhuLVhGYWtGYVVjdnMydnRKVmZBbi0wR1hGdlpFVERtOGNMS2ZwZkQ4NGRSa29LbXRualhoQW9SMTF5eHc?oc=5",
-          "date": "10-11 08:41"
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXRoZTZtS19TVlNNS3Y5alZhMVdvbDdHN2JTTGJOUWxKbnc0US1VNTBlY1lidVVjZDBZSHdiOWo5SDNhY0c0WWpRcHg1X09fR2s1S1RWY3FZTlVXUjNOVEZGYmZoWkd4MHJiSWZpU3BUU1ZUNzFSQ1ZKaXJFOV9vc0Qyc0tvWjlDV3dhdg?oc=5",
+          "date": "10-10 20:56"
         }
       ]
     },
@@ -1372,6 +1372,12 @@
           "date": "10-11 23:39"
         },
         {
+          "title": "Fonterra’s impact on milk prices over 25 years - Farmers Weekly",
+          "source": "Farmers Weekly",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNay0xY1RicmJQSEJXb3FTRTZYN0VIUXM0RlpXenM5T3pyeUhmejE4ekc0a3Uxdkx5cHhqNkttS2dXVG9BTGFfb2NudXRSU0R0SWo2ZVI0WGlNQUYxZ3R5VFRXaTRBWEhDSTJNWjl0NjVJcXV3MGVyenBRQTNoMEZ2NDB0TWJNMTNqN2YtR3hSeThGR3JBUUZZelJHcGR2M0tERkE?oc=5",
+          "date": "10-12 07:19"
+        },
+        {
           "title": "Global Dairy Trade | New Zealand opens dairy season with record August milk collections - https://en.edairynews.com/",
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcENKdVVMbV9lZ2xNTVNMV1R6aTlxMmxqV3dGSHVxSGlqcjg2R2JydEFOTW9VVmNFOWV6ck5CWXZOdUZrY0hVVE9zdjBaWngxeXhyYlFoSW4yNFJkY1EtYU96eUdiZXFHNTFjTFFOSnkzeHN5YWdhdFZza3E2Y0kxRlVsOTFEUTl2b1haOXh2RWU5dHpvTHV5Ug?oc=5",
@@ -1382,12 +1388,6 @@
           "source": "UkrAgroConsult",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVTMngxSnQ3R1RMYWt6bjFiamtzdzRCSk91azJvT3pqQWhXVlhDZ0dqNGNRSnpVU2hxU1ZCZEdkdmcxYzdNN0lxbWdSc2FzSEJBX2IwclVaLUVvN3h3SVUxckpuU3dDT3QzTkZRMU1yOGRtSkJSOHNjQkp1cERNc0FwY3p2Yng0a1hJMTlGYUxKakZXUDRpMDhSUF9HQkNu?oc=5",
           "date": "10-09 22:11"
-        },
-        {
-          "title": "Ornua Raises Indicative Irish Milk Price by Two Cents - dairynews.today",
-          "source": "dairynews.today",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeVBtMkludXhHUjN6UnpGNWVRMHZaMWtwSFZiY3JPbG5HUnNiX3FtLVBQRjkwZk40NHZ0cDB2dEtDdk45ZU96MFNPbzZZWkdnQUhkZGJkV3V6OG1KTG1EWnJpVDJCSmxzVTFSdFY2Q2hIQVJMSFF3TWVQd282TTdTVDE1WjRFVWlEdzIxTHpDX0ZQY2E1VjlDbDhlRQ?oc=5",
-          "date": "10-09 09:07"
         }
       ],
       "newsKr": [
@@ -1608,6 +1608,12 @@
           "source": "UkrAgroConsult",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVTMngxSnQ3R1RMYWt6bjFiamtzdzRCSk91azJvT3pqQWhXVlhDZ0dqNGNRSnpVU2hxU1ZCZEdkdmcxYzdNN0lxbWdSc2FzSEJBX2IwclVaLUVvN3h3SVUxckpuU3dDT3QzTkZRMU1yOGRtSkJSOHNjQkp1cERNc0FwY3p2Yng0a1hJMTlGYUxKakZXUDRpMDhSUF9HQkNu?oc=5",
           "date": "10-09 22:11"
+        },
+        {
+          "title": "EU milk production | Annual global milk supply forecast to expand by two percent in 2026 - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmFZUUdYMlVWcHU3Z21CTDRjMFg0SzNWcUNqeDloNHdvdXp5T1lCT0FBbXNtZHhmZThNSlI1TlgwOGd4VzY2OU05Y2EyMXp1anZMS3c4X2ZRSE9aNmZDRUFyRXV0VTBlWGttZFRWN3lzVk5yOEdNWE1hbTREbXdDSnFqMV9qdjRKcmVMZm5HZ0U4WmRtSjBRb09R?oc=5",
+          "date": "10-11 23:39"
         },
         {
           "title": "Global Dairy Trade | New Zealand opens dairy season with record August milk collections - https://en.edairynews.com/",
@@ -2035,7 +2041,7 @@
             "price": 1133.73
           },
           {
-            "time": "03:33",
+            "time": "07:37",
             "price": 1136.0
           }
         ],
@@ -2409,7 +2415,7 @@
             "price": 1926.14
           },
           {
-            "time": "03:33",
+            "time": "07:37",
             "price": 1930.0
           }
         ]
@@ -2491,12 +2497,12 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1340.02,
-      "change": -2.97,
-      "changePercent": -0.22,
+      "price": 1341.07,
+      "change": -1.92,
+      "changePercent": -0.14,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1340.9,
+      "high24h": 1341.38,
       "low24h": 1340.02,
       "high7d": 1360.59,
       "low7d": 1339.08,
@@ -2510,7 +2516,7 @@
         1339.74,
         1339.08,
         1342.99,
-        1340.02
+        1341.07
       ],
       "history": {
         "7D": [
@@ -2540,7 +2546,7 @@
           },
           {
             "date": "10-11",
-            "price": 1340.02
+            "price": 1341.07
           }
         ],
         "1M": [
@@ -2638,25 +2644,25 @@
           },
           {
             "date": "10-11",
-            "price": 1340.02
+            "price": 1341.07
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1331.98
+            "price": 1333.02
           },
           {
             "time": "11:00",
-            "price": 1334.66
+            "price": 1335.71
           },
           {
             "time": "13:00",
-            "price": 1337.34
+            "price": 1338.39
           },
           {
-            "time": "03:33",
-            "price": 1340.02
+            "time": "07:37",
+            "price": 1341.07
           }
         ],
         "1Y": [
@@ -2710,7 +2716,7 @@
           },
           {
             "date": "2026-10",
-            "price": 1340.02
+            "price": 1341.07
           }
         ]
       },
@@ -2720,6 +2726,12 @@
           "source": "BigGo Finance",
           "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yc0wteG5SN2pXMlZrZUNCVG5VQWk5S0tGUkUzSEhvMEd5QXlCN0hkTzVFaTFldUswRHNxTjgxc0t2STdzLTMzLVB2ZU54aWQxaVdzamdKWEY4SFVoM2dlQmlDbEtCcGxQMDFvMy1LbF9nNU1ZOEE?oc=5",
           "date": "10-11 08:05"
+        },
+        {
+          "title": "AUD/USD - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WcVBsZ2ZEZzI2SGE5U1hJSXRMb0Nid0lUWGFXVlhkU2l5VVRtWUFjOFdrb2lQamJkZU9waUlsQ0pSeU5rdmpmMjQtR1NtQmFYaDZjVmpVRFpkWllHUHQtRHhpdHZpaGtj?oc=5",
+          "date": "10-09 09:00"
         },
         {
           "title": "South Korean stock turnover collapses 70pc as foreign funds flee, Bloomberg reports - The Standard (HK)",
@@ -2732,12 +2744,6 @@
           "source": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5femczaTFFNEcyX3FOMFoyYTZGck9jaW9IUmRBVTVSamh3d21iUnJZOGRScW9yZmQ3QTJ4bUN4QVBxcG1Xb21jdG9IZ3NQdW82N2c?oc=5",
           "date": "10-11 07:33"
-        },
-        {
-          "title": "AUD/USD - CME Group",
-          "source": "CME Group",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9WcVBsZ2ZEZzI2SGE5U1hJSXRMb0Nid0lUWGFXVlhkU2l5VVRtWUFjOFdrb2lQamJkZU9waUlsQ0pSeU5rdmpmMjQtR1NtQmFYaDZjVmpVRFpkWllHUHQtRHhpdHZpaGtj?oc=5",
-          "date": "10-09 09:00"
         }
       ],
       "newsKr": [
@@ -2748,22 +2754,22 @@
           "date": "10-11 17:00"
         },
         {
-          "title": "원·달러 환율 1338.5원…美 물가 둔화 땐 추가 하락 기대 - 블루밍비트",
-          "source": "블루밍비트",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zOS04NEVhUHNwTXlxWmpTVlduWFlBVGVyOHJyN20zd2RKdFJLeWxfUHBfTFJ3dWlpS3cwWVUwVDVMN0NISUdXRWRyNThFcW43?oc=5",
-          "date": "10-11 18:59"
-        },
-        {
           "title": "[경제뭔데]“일본 주말에 또 갈까”···원·엔 환율 18년만에 최저, 원화는 왜 강할까 - 경향신문",
           "source": "경향신문",
           "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5Yam00b0w4QzJ5UGFjNk9aYURNUTlyZjRMWTY3elJ4OVpjbXV6YV96U0wzNG9zYzNvNHUyRW8wMFFxLWZ2VTR3Zms3Zmk0ZUFGZUtvb2NhTTVVZ9IBX0FVX3lxTE1lekItT1paLXJ2LWpsX2JaejZ0TVl4NjREUnV1NUxrVFNmMWhNLTJnMU5NbXRPaVNoeUplUlBIUFhPWEV6bGZjTjJ4MTlWOU5HRS1mVXV3aXZhOXZZVnJV?oc=5",
           "date": "10-10 06:00"
         },
         {
-          "title": "[다음주 환율전망] 원·달러 1330원대 안착 시도…다음주도 원화 강세 이어질까 - 굿모닝경제",
-          "source": "굿모닝경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oNWtxTElXTnBXdHI4LXpadGxQMFpyQl9fZGttTFRwc2l6WWxER0VSbkp1NWI5SGlYMnhrYWI1U0VNNEhKSUhWdG9hZ0NtNnZ1NWJfdnBPelYtM1F5dkNvRW9VWVRjMnd5cnJEVg?oc=5",
-          "date": "10-09 07:00"
+          "title": "원·달러 환율 1338.5원…美 물가 둔화 땐 추가 하락 기대 - 블루밍비트",
+          "source": "블루밍비트",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zOS04NEVhUHNwTXlxWmpTVlduWFlBVGVyOHJyN20zd2RKdFJLeWxfUHBfTFJ3dWlpS3cwWVUwVDVMN0NISUdXRWRyNThFcW43?oc=5",
+          "date": "10-11 18:59"
+        },
+        {
+          "title": "미국 중간선거 뒤 환율도 안정될까…달러 강세 가르는 금리·유가·관세 - 강릉뉴스",
+          "source": "강릉뉴스",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XT1dTeE15Mkh4UUk1c0tQQ1MzeE9MSUViRnRERGY2cW9vUUkwT00yaXNSU0JxVF96MFo1NlJNbjFoSmM0MlJrQUdjYm1sZ3Z1eGNTMlBYR2RJRG9rUDBucndDc19TZVNhUFJselV30gFyQVVfeXFMT0N6ZVpna0RnbDlfUUgzQXdfRi1Pd1RURk1HX3Rka2RkUU1tc2dwWXhleVVuS0l4NDJ6VVVhTlZUR0VQeFd2TndPU1ZrVm5ual90UnJhdGFqa09xQk8yUXBmaElkU21aaVBPZGtPamU5eFN3?oc=5",
+          "date": "10-11 19:14"
         }
       ]
     },
@@ -2791,13 +2797,13 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1500.2,
-      "change": -3.46,
-      "changePercent": -0.23,
+      "price": 1501.2,
+      "change": -2.46,
+      "changePercent": -0.16,
       "high52w": 1807.42,
       "low52w": 1494.1,
-      "high24h": 1508.2,
-      "low24h": 1498.9,
+      "high24h": 1501.2,
+      "low24h": 1499.8,
       "high7d": 1528.21,
       "low7d": 1499.4,
       "high1m": 1593.0,
@@ -2810,7 +2816,7 @@
         1506.13,
         1499.4,
         1503.66,
-        1500.2
+        1501.2
       ],
       "history": {
         "7D": [
@@ -2839,8 +2845,8 @@
             "price": 1503.66
           },
           {
-            "date": "10-09",
-            "price": 1500.2
+            "date": "10-11",
+            "price": 1501.2
           }
         ],
         "1M": [
@@ -2937,26 +2943,26 @@
             "price": 1503.66
           },
           {
-            "date": "10-09",
-            "price": 1500.2
+            "date": "10-11",
+            "price": 1501.2
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1491.2
+            "price": 1492.19
           },
           {
             "time": "11:00",
-            "price": 1494.2
+            "price": 1495.2
           },
           {
             "time": "13:00",
-            "price": 1497.2
+            "price": 1498.2
           },
           {
-            "time": "03:33",
-            "price": 1500.2
+            "time": "07:37",
+            "price": 1501.2
           }
         ],
         "1Y": [
@@ -3010,7 +3016,7 @@
           },
           {
             "date": "2026-10",
-            "price": 1500.2
+            "price": 1501.2
           }
         ]
       },
@@ -3028,16 +3034,16 @@
           "date": "10-11 14:51"
         },
         {
-          "title": "CBA currency exchange rates (09.10.2026) - Report.az",
-          "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UR0VNOE95REhDeHRqb0pVVDMyQmN3cVBXZWhOQzNPS2xIbU4yaTVROF9iOXpzS1J3Wm9zZkhBT1Z6VHlnb1ZHTUFKaG55bGxRWXAyeXFCTUtKejF1eU9YQWtMRG5OLU9ZQV9hWUtUNVV6dlk3VzlscnR6UdIBe0FVX3lxTE1UR0VNOE95REhDeHRqb0pVVDMyQmN3cVBXZWhOQzNPS2xIbU4yaTVROF9iOXpzS1J3Wm9zZkhBT1Z6VHlnb1ZHTUFKaG55bGxRWXAyeXFCTUtKejF1eU9YQWtMRG5OLU9ZQV9hWUtUNVV6dlk3VzlscnR6UQ?oc=5",
-          "date": "10-09 14:10"
-        },
-        {
           "title": "Iran releases currency exchange rates for October 10 - Trend News Agency",
           "source": "Trend News Agency",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51TUoxRnl0TVJuYXQ3aWcxOTdaTVdscDV1QWdnX2xZby1JRzEwazFPcm9jaGY5YlJOcmpHaHA5bEEtbU82NlF0eko4LTl2WHM?oc=5",
           "date": "10-10 14:16"
+        },
+        {
+          "title": "CBA currency exchange rates (09.10.2026) - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NY25acFFObElqUUt3VVluYzZRanloM0tNM3ZQOThHYU8xSGU3UWkzbXh3Y2R6ZnNjQnZ4UlNsZnNVSk1qWGxPUWJOWWkzazFaczBvYXdPQmU4UzJPZTNFbVUyYmphUVlEdUQwMEJLQkdCWUgxeXfSAXtBVV95cUxNVEdFTThPeURIQ3h0am9KVVQzMkJjd3FQV2VoTkMzT0tsSG1OMmk1UThfYjl6c0tSd1pvc2ZIQU9WelR5Z29WR01BSmhueWxsUVlwMnlxQk1LSnoxdXlPWEFrTERuTi1PWUFfYVlLVDVVenZZN1c5bHJ0elE?oc=5",
+          "date": "10-09 14:10"
         }
       ],
       "newsKr": [
