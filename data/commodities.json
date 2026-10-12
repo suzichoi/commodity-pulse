@@ -1,18 +1,18 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-10-12 10:58:17",
+  "last_updated": "2026-10-12 17:44:18",
   "weekly_report": {
     "title": "[2026 Week 42 Report]",
     "week_number": 42,
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
     "date": "2026.10.12",
-    "report_date": "2026.10.12, 10:58",
+    "report_date": "2026.10.12, 17:44",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
-    "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
+    "top_loser": "팜유 : $1,136.00 (▼1.00%)",
     "weekly_price_list": [
       "코코아 : $5,671.00 (▼3.34%)",
-      "아라비카 커피 : $6,286.47 (▼2.53%)",
+      "아라비카 커피 : $6,317.34 (▼2.05%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -23,7 +23,7 @@
     ],
     "other_commodities": [
       "코코아 : $5,671.00 (▼3.34%)",
-      "아라비카 커피 : $6,286.47 (▼2.53%)",
+      "아라비카 커피 : $6,317.34 (▼2.05%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -32,8 +32,8 @@
       "팜유 : $1,136.00 (▲0.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,335.88원 (▼7.11원)",
-    "fx_eur": "1,497.30원 (▼6.36원)",
+    "fx_usd": "1,331.36원 (▼11.63원)",
+    "fx_eur": "1,489.90원 (▼13.76원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
@@ -43,12 +43,12 @@
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
     "date": "2026.10.12",
-    "report_date": "2026.10.12, 10:58",
+    "report_date": "2026.10.12, 17:44",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
-    "top_loser": "아라비카 커피 : $6,286.47 (▼1.35%)",
+    "top_loser": "팜유 : $1,136.00 (▼1.00%)",
     "weekly_price_list": [
       "코코아 : $5,671.00 (▼3.34%)",
-      "아라비카 커피 : $6,286.47 (▼2.53%)",
+      "아라비카 커피 : $6,317.34 (▼2.05%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -59,7 +59,7 @@
     ],
     "other_commodities": [
       "코코아 : $5,671.00 (▼3.34%)",
-      "아라비카 커피 : $6,286.47 (▼2.53%)",
+      "아라비카 커피 : $6,317.34 (▼2.05%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -68,14 +68,14 @@
       "팜유 : $1,136.00 (▲0.42%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,335.88원 (▼7.11원)",
-    "fx_eur": "1,497.30원 (▼6.36원)",
+    "fx_usd": "1,331.36원 (▼11.63원)",
+    "fx_eur": "1,489.90원 (▼13.76원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-12T10:58:17.172095+09:00",
-  "usdKrwRate": 1335.61,
-  "eurKrwRate": 1497.3,
+  "lastUpdated": "2026-10-12T17:44:18.218940+09:00",
+  "usdKrwRate": 1331.66,
+  "eurKrwRate": 1489.9,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5659.66
           },
           {
-            "time": "10:58",
+            "time": "17:44",
             "price": 5671.0
           }
         ],
@@ -173,10 +173,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "09-11",
-            "price": 5933.0
-          },
           {
             "date": "09-14",
             "price": 5995.0
@@ -319,19 +315,25 @@
           "date": "10-10 01:11"
         },
         {
+          "title": "How Are Cocoa Swings Reshaping Mondelez International (NASDAQ:MDLZ)? - Kalkine Media",
+          "source": "Kalkine Media",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNEliNWRmUUFDd3pVVm5BWWdOX1RjbkhNamNwbFJPOTBjYjdUSjlaamtYdEZRV05ITUx0NGtFVE0zcmo1ZkZkaHEwWUV2NVZ6OG1FT3lTeC1vUGM4UmpWa0lWYWgySHNQdkZOcVRqSjVCSTJPN040cVkxRFlaYVBLbXduY0gxOG9PdjRyY0RsTmc4MkNRWVZCX1dVanBmUVBCRGlYMUJuakhTWlo3?oc=5",
+          "date": "10-12 15:32"
+        },
+        {
           "title": "El Niño Threatens West Africa Cocoa Supply - Briefs Finance",
           "source": "Briefs Finance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcUVFaVdaWHVSQ0ljbFlHZ1pnQmw4SkRDVzRhMTV0SW8ybl9idW9uZHNLblVQcWI0aFBCeFc4U05LaTJraXA3NGNfWDE4aFVkdWlLTVJMOG1RUkpJM1JQNHU5ZkpsQWdmR1dKbzFlbUJxNi00RnlVUzBIUjBNUkFoLTF6bk5GaDh2a1hvdGlGdzBEQQ?oc=5",
           "date": "10-10 05:05"
-        },
-        {
-          "title": "Halloween Candy Costs Jump 8.1% as Shoppers Still Plan to Spend - Around Prague",
-          "source": "Around Prague",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUERLTGkyUFQ0UVFFMGgySmtvVEZfVWZiTGZIWkZlN19qWFFkWGJmaVAxQ0I5QV84U2g2VWtlcllIX3JhZ3p2VEs5bGtjWjQ2UFByLWZxMXcyaTRwcFNXR1pUZWNKSlpRQlUtOXNGT3J5RndzY25hd1ZiU3lpVGk3SHJETXJxZmVMUmplOHV6c1pXbUdON0RzNmlrMmMwQQ?oc=5",
-          "date": "10-12 02:38"
         }
       ],
       "newsKr": [
+        {
+          "title": "핼러윈 초콜릿 가격 15.5% 급등…그래도 사탕은 산다 - 라디오코리아",
+          "source": "라디오코리아",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40QmNqQkZPOE5GekZMZERnaE1WNlBWVV92alVGRGltYUN6VHE5RmZqTEdWSGhPY01UVHRGVU4zSmh4SFMzU21URFF4XzlvbWI2N0xWWTJlTUpKSUxsSnFoVEdXbjc?oc=5",
+          "date": "10-12 04:18"
+        },
         {
           "title": "새 원두 공급을 기다리며 커피 가격이 하락하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
@@ -339,22 +341,16 @@
           "date": "10-11 20:22"
         },
         {
+          "title": "오늘 10월 12일 농산물: 후추 가격 계속 상승세 - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3JtN2dQcDhJZC1OV01ObHNVd3pBQ3dUMGQ3NkoxM0YySDBzYnFRZ3Q4VEJ5Zm5vd0xqVzVrb0FyWkkwYmpxMm5uZW5qdHF3UjFyVXVJVlVHVjU1SkVaTDVodWZzQXdCbWc5ZzhwOFAtQ3gxanNHYWFnRjZkTmhUWXM4LUZiODZpUTJXeEpFNXFMUQ?oc=5",
+          "date": "10-12 16:30"
+        },
+        {
           "title": "전체 화면에서 메뉴가 숨겨지나요? 근처 스포츠토토 - Calgary Roughnecks",
           "source": "Calgary Roughnecks",
           "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VRmJUaDdUS3BOWWp6Tk15LTBKZ29FUjFjTjZoa2FtTzBVMUdQa1YwamhMN3lDNXZES0w1T2RqaXFSZFNCc09DOUNYQU43LVlCYXItdnBMYkd0QmtTLTdxTUxOUEFRdw?oc=5",
           "date": "10-10 13:09"
-        },
-        {
-          "title": "오늘 10월 9일 농산물: 커피 가격 급락, 코코아 가격 높은 수준 유지 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFBLVkVob3cxcWJxUUZrcE5CcWhUWmNFYW0wYmJ5REt3c3VsbWVuck1sX1pnd1hyLXc1QVEwcmM5T093UXVvQzc1ZzRyd05GQm9ITDFJVExvckI3SnV3Snp2V0xLUWR0UzhFRE1FZ2Ffei0wUFpFZHRFU0xxelpMM0YtRjAzc3V6SkNrMFpWYlJ4ZGVoU0hlUXh3dmQza1U5MmRGZEpiSQ?oc=5",
-          "date": "10-09 14:22"
-        },
-        {
-          "title": "브라질의 코코아 붐: 비즈니스와 아마존에 대한 달콤한 기회 - Spherical Insights Analysis - Spherical Insights",
-          "source": "Spherical Insights",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVY3SmF1aHpNVGtXNjQtSTFTZU9NYTIzZ1h5b002cTIzSzJaT25nLWtSSnlOVndoQTJNTTZBbEpTVFdvUmVoNVU0bHB1MWI4S01hVWRtMGJMSVl1NU1sc2RESWhMa193OXNVOFROX2Z6aDRrM0xLckxEUnJXV1BHOTBWY0JwS2ZtQi0yRGJaZVdmVkNpeUJjdkF4Wk5sZXhJZWFKMFZZai1IcGtPbVRr?oc=5",
-          "date": "10-12 01:02"
         }
       ]
     },
@@ -382,51 +378,47 @@
           "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
         ]
       },
-      "price": 6286.47,
-      "change": -85.98,
-      "changePercent": -1.35,
+      "price": 6317.34,
+      "change": -8.82,
+      "changePercent": -0.14,
       "high52w": 9655.13,
       "low52w": 5350.61,
-      "high24h": 6433.08,
-      "low24h": 6267.73,
+      "high24h": 6340.49,
+      "low24h": 6309.62,
       "high7d": 6711.97,
-      "low7d": 6286.47,
-      "high1m": 6914.79,
+      "low7d": 6317.34,
+      "high1m": 6775.9,
       "low1m": 6003.18,
-      "volume": 14830,
+      "volume": 593,
       "sparkline": [
-        6354.82,
         6365.84,
         6449.62,
         6711.97,
         6452.92,
         6372.45,
-        6286.47
+        6326.16,
+        6317.34
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 6248.75
+            "price": 6279.44
           },
           {
             "time": "11:00",
-            "price": 6261.32
+            "price": 6292.07
           },
           {
             "time": "13:00",
-            "price": 6273.9
+            "price": 6304.71
           },
           {
-            "time": "10:58",
-            "price": 6286.47
+            "time": "17:44",
+            "price": 6317.34
           }
         ],
         "7D": [
-          {
-            "date": "10-01",
-            "price": 6354.82
-          },
           {
             "date": "10-02",
             "price": 6365.84
@@ -449,14 +441,14 @@
           },
           {
             "date": "10-09",
-            "price": 6286.47
+            "price": 6326.16
+          },
+          {
+            "date": "10-12",
+            "price": 6317.34
           }
         ],
         "1M": [
-          {
-            "date": "09-11",
-            "price": 6914.79
-          },
           {
             "date": "09-14",
             "price": 6775.9
@@ -535,7 +527,11 @@
           },
           {
             "date": "10-09",
-            "price": 6286.47
+            "price": 6326.16
+          },
+          {
+            "date": "10-12",
+            "price": 6317.34
           }
         ],
         "1Y": [
@@ -581,7 +577,7 @@
           },
           {
             "date": "2026-10",
-            "price": 6286.47
+            "price": 6317.34
           }
         ]
       },
@@ -613,31 +609,31 @@
       ],
       "newsKr": [
         {
+          "title": "2026년 10월 12일 오늘 농산물 가격 동향: 이번 주에도 커피 가격은 계속 오를까요? 후추 가격은 안정세를 유지하고 있습니다. 러시아와 우크라이나는 '에너지 휴전'에 합의했습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbkhZalNOaVl5S3ZRdnNScDRIZ3AyLVBncUk5RGhFT1lOS05HOUJlUmY2QlM3ZEx0Q2VUcEpyaGNwRmRPc1pQdENTOS10RGMwcVVkbzNLS2pmZ0xqTFQ4LWFoWi13NWlHMVFaQ2JfX0ZYMUl2T2NaSWZWUHFNLXNRRkVXX0JUSmFwRzUwdVpzZ2RMcXpxdnNYVmxxYmxWbGVqWm1YclRzYkltYXJmamF3UmR3TjBKWjBKbHM4QXNKSGNva1FDSkttNDRjd2IyM1FIUmJXU2JmQ1JWdWlIeUZ2bHNsazJYZ0x6TGx2VzZPWG9pNWs?oc=5",
+          "date": "10-12 14:38"
+        },
+        {
+          "title": "국내 커피 가격 하락. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RTTZFazVwWlVjTW9WUlJRTWJVOTF6X3JFbjYxNW9KRnVlcmc0cTBsTlRXVGxnaUxEUGFhcmpEUXFfeURoQTNDb2pEUFZlNkNUNU1qZGlvdldua1lmRmE1RDd3?oc=5",
+          "date": "10-12 10:55"
+        },
+        {
+          "title": "오늘 10월 12일 농산물: 후추 가격 계속 상승세 - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3JtN2dQcDhJZC1OV01ObHNVd3pBQ3dUMGQ3NkoxM0YySDBzYnFRZ3Q4VEJ5Zm5vd0xqVzVrb0FyWkkwYmpxMm5uZW5qdHF3UjFyVXVJVlVHVjU1SkVaTDVodWZzQXdCbWc5ZzhwOFAtQ3gxanNHYWFnRjZkTmhUWXM4LUZiODZpUTJXeEpFNXFMUQ?oc=5",
+          "date": "10-12 16:30"
+        },
+        {
           "title": "가격 하락, 커피는 새 작물 공급을 기다리고 있으며, 세계 시장 동향은 어떠한가. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0F3OHJzN3c2SFF4c2Y1NDlIbUd6bF95cDVsOUdJOWlab3l4TVUwdVBCRFp3ZVpJZldxZWJNYk4yM1NjQndraEZQOFNIMzJYTnBHNzFobUJqSnV5SVZRQ3dqM2c5ZEdJM1lzVjVUbmp5MVF5SXhteTJ2Z3RXaXN1TThlMElCdlFCUXdOdm1OcTJta2pnaWQwVVRn?oc=5",
           "date": "10-11 20:22"
-        },
-        {
-          "title": "새 원두 공급을 기다리며 커피 가격이 하락하고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4M3NxX1VMWkZ5a1R0UW56LVdsNWlfblYwN0c3dDBGU3luNi01cjVUZDBseEVQNFVkanczaTlfMnNpMU5fc1k4WENaNGxZWmI4N0ZvNnNRNnRHeERYSHhMbGRIVDVEdFJJNWVFcUpTbWlzcEtFN2c?oc=5",
-          "date": "10-11 20:22"
-        },
-        {
-          "title": "2026년 10월 10일 오늘 커피 가격: 안정세, 최고가 91,800 VND/kg - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzhuWTJzT0IwUGNsTWJpWDg5QUwySXZPUHphS0RsOEtkeVVpRXhjYXo3cXR4YVlIU2xFTDNOZ2ROeEF3NHpXb0M0UDR3bWl2aWFWalJXT3lkNjhtaVBjaDlFZGVlWW5PVUh2UUtib2ZZYkV4emJVaUdBcXZNME1Td05tMDhpWW9fRUx2M0RINWE4QQ?oc=5",
-          "date": "10-10 19:32"
-        },
-        {
-          "title": "오늘 농산물 10월 11일: 커피, 후추 일제히 하락 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZW90aE81UjlWSU5VODNuTk9fVk9sU0N0MDNtYzh2Wk9sTGFYTlpPTzA1bzd0MVlhd3J2SnU1cmJJMlRqMDN4am5VN2UzRDU0M2Y0SFFVbExucnJESFZCbGJTdlFqRE9mYTFxa3JKZmRTRmpfVkNfYW1OODZfdGZiVDhicnhuZmVhOGRKazdkSGVtMTNTbExKWi1oNGNPdnBpMVE?oc=5",
-          "date": "10-11 17:14"
         }
       ],
-      "original_price_lb": 285.15
+      "original_price_lb": 286.55
     },
     {
       "id": "robusta",
@@ -823,7 +819,7 @@
             "price": 3720.54
           },
           {
-            "time": "10:58",
+            "time": "17:44",
             "price": 3728.0
           }
         ],
@@ -884,42 +880,42 @@
       },
       "newsEn": [
         {
-          "title": "Arabica Coffee Falls on Robust Brazil Exports - TradingView",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmhGaUwzSnpmVUFJTmhmM3p3MXZBa1pHenJ6bXpOTTh3WEVwMExwYUstOUU4eXU2ZlItNXFFUlBKNUxuTHdtb1FxZnZycC1fZlRlQU1leVZ1TnF2X0U1Y0JOSWhLTlJ5SkpDNDJqWmNydVJqbjdxRF8tWFhINHNvd252NldLVFBQVmVLN3lXTC1TOE50UG5sbzY2RUlaRkN1emVFeHVvTQ?oc=5",
-          "date": "10-10 03:22"
-        },
-        {
-          "title": "Vietnamese coffee wins over Amazon shoppers, eyes premium prices - Tuoi Tre News | The News Gateway to Vietnam",
+          "title": "Vietnamese Robusta coffee prices expected to stay high - Tuoi Tre News | The News Gateway to Vietnam",
           "source": "Tuoi Tre News | The News Gateway to Vietnam",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzlkNGdMYnNmZ0hXazNNbVhuWnp3RC1yNFZ4SFhfV1VYZjJPb0s2Q3JIemtDUUV5dWpZTld1QnJoTE42M0RoSE5jRkxFWGtjS3pxNWs3dC1FV1RjbXZwRmxnOVQ4dGp5T2UwYnFsQ3FxSlV5bTdCX2xCMTRQNGxKcjRKTzY1RTJjVm9jOFVqcnkwRUNobklDVGdmOHo5LVVGOHRoYnNNaklkZzEwMmpF?oc=5",
-          "date": "10-10 17:48"
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeUlQQXY4VHR2YXhUUVlqbFJyMTlXaEVDSHBObWFlU0pUOEh5OHFmaXdUMEc1cXphRU5JcDdUdEZGME5IelF0ZUVRZzJOMU5wZm1nSDBQWVE2dll5Z25iaHk0WU04WHI0Mkc3T3VadFJTTEpSR3o2OVpkTi1VU092SWFOaUtFYk05OXNxTWJjNGNZUUEwcUxJTjdSMkNSV2Y5OFE?oc=5",
+          "date": "10-12 17:33"
         },
         {
-          "title": "Vietnamese coffee: From exporting raw materials to conquering global market value. - Vietnam.vn",
+          "title": "Agricultural commodity prices today, October 12, 2026: Will coffee prices continue to rise this week? Pepper prices remain stable; Russia and Ukraine reach an agreement on an 'energy ceasefire'. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM2duMWFVQXZMenI2UTJQZTBMVlN3WG5QYjkwM2JMZ2k2c2QyMXc4MUJRRlExR29aNEtqUXdrQUlKOHRsRzFPSFBKX2ZEVGZvTC1FV2JJWFB2bnc0RGxrTFRreWZrNTdqV2pCOEVtV040U29ob0l3djZNMmpEcjM4S1MwaW5NSnB4N1cxdXR0dHh1YndtOVV5M2Zn?oc=5",
-          "date": "10-10 17:09"
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdDg1ZFplMXBfYi1HTjdKNC13MUJ6UHlhWmVIYmYxNXNSU2Znem9RZ2x4ZVJOMkVEdllVb0k5OFMxakN5OEVxV2c1d2szVWI3bzhEUi04UnRUY2JsMV9nc1JTY21LcnIwZ1U3WVd0b2pmOXhSZ3RVWERhVkZmeHFRRXFuM21OWUl0amZHdHZjczBSN0NwbEZuMkJTU050UGZRQnRCQUVKZFowMmZfbktUY2VjY0tka2JyVlpvNG9MRWhNa3FkRWtZOUcxYVdvdnBTZmRSMTJ3V1I1NFpWRVpFUUIyM2JWdUZZWTF3UkN3elcwQXM?oc=5",
+          "date": "10-12 11:20"
         },
         {
           "title": "From leading exports to the brand problem for Robusta Vietnam - Laodong.vn",
           "source": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVGNzdmRIRWlrV1hCa2JDN0Z6RVV2YUk5NVd4UnZUV3pzbURKVFZIeG4wZWxxM3VOQ2ZNUFloanpDMEFiM0FIeTFmckk5dU9MSzZoczNLLWdSREh0SVNKc045cWVuZXBURm5yQ3VUdGV6ajhDSUV5YzNTUWF5SWdDellDamRuZ3B2Y05EdmRNTDE2aUdhYTJ2dk10LUIwNFNKSkN5Y3c5TENMXzV5TE9GWmlFSQ?oc=5",
           "date": "10-09 19:05"
+        },
+        {
+          "title": "Vietnamese coffee wins over Amazon shoppers, eyes premium prices - Tuoi Tre News | The News Gateway to Vietnam",
+          "source": "Tuoi Tre News | The News Gateway to Vietnam",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOXzlkNGdMYnNmZ0hXazNNbVhuWnp3RC1yNFZ4SFhfV1VYZjJPb0s2Q3JIemtDUUV5dWpZTld1QnJoTE42M0RoSE5jRkxFWGtjS3pxNWs3dC1FV1RjbXZwRmxnOVQ4dGp5T2UwYnFsQ3FxSlV5bTdCX2xCMTRQNGxKcjRKTzY1RTJjVm9jOFVqcnkwRUNobklDVGdmOHo5LVVGOHRoYnNNaklkZzEwMmpF?oc=5",
+          "date": "10-10 17:48"
         }
       ],
       "newsKr": [
         {
-          "title": "가격 하락, 커피는 새 작물 공급을 기다리고 있으며, 세계 시장 동향은 어떠한가. - Vietnam.vn",
+          "title": "2026년 10월 12일 오늘 농산물 가격 동향: 이번 주에도 커피 가격은 계속 오를까요? 후추 가격은 안정세를 유지하고 있습니다. 러시아와 우크라이나는 '에너지 휴전'에 합의했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0F3OHJzN3c2SFF4c2Y1NDlIbUd6bF95cDVsOUdJOWlab3l4TVUwdVBCRFp3ZVpJZldxZWJNYk4yM1NjQndraEZQOFNIMzJYTnBHNzFobUJqSnV5SVZRQ3dqM2c5ZEdJM1lzVjVUbmp5MVF5SXhteTJ2Z3RXaXN1TThlMElCdlFCUXdOdm1OcTJta2pnaWQwVVRn?oc=5",
-          "date": "10-11 20:22"
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbkhZalNOaVl5S3ZRdnNScDRIZ3AyLVBncUk5RGhFT1lOS05HOUJlUmY2QlM3ZEx0Q2VUcEpyaGNwRmRPc1pQdENTOS10RGMwcVVkbzNLS2pmZ0xqTFQ4LWFoWi13NWlHMVFaQ2JfX0ZYMUl2T2NaSWZWUHFNLXNRRkVXX0JUSmFwRzUwdVpzZ2RMcXpxdnNYVmxxYmxWbGVqWm1YclRzYkltYXJmamF3UmR3TjBKWjBKbHM4QXNKSGNva1FDSkttNDRjd2IyM1FIUmJXU2JmQ1JWdWlIeUZ2bHNsazJYZ0x6TGx2VzZPWG9pNWs?oc=5",
+          "date": "10-12 14:38"
         },
         {
-          "title": "새 원두 공급을 기다리며 커피 가격이 하락하고 있습니다. - Vietnam.vn",
+          "title": "국내 커피 가격 하락. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB4M3NxX1VMWkZ5a1R0UW56LVdsNWlfblYwN0c3dDBGU3luNi01cjVUZDBseEVQNFVkanczaTlfMnNpMU5fc1k4WENaNGxZWmI4N0ZvNnNRNnRHeERYSHhMbGRIVDVEdFJJNWVFcUpTbWlzcEtFN2c?oc=5",
-          "date": "10-11 20:22"
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RTTZFazVwWlVjTW9WUlJRTWJVOTF6X3JFbjYxNW9KRnVlcmc0cTBsTlRXVGxnaUxEUGFhcmpEUXFfeURoQTNDb2pEUFZlNkNUNU1qZGlvdldua1lmRmE1RDd3?oc=5",
+          "date": "10-12 10:55"
         },
         {
           "title": "선도적인 수출에서 베트남 로부스타 브랜드 문제까지 - Laodong.vn",
@@ -928,10 +924,10 @@
           "date": "10-09 19:05"
         },
         {
-          "title": "오늘(10월 10일) 커피 가격: 재고 감소 덕분에 로부스타 가격이 회복세를 보였습니다. - Vietnam.vn",
+          "title": "가격 하락, 커피는 새 작물 공급을 기다리고 있으며, 세계 시장 동향은 어떠한가. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXRoZTZtS19TVlNNS3Y5alZhMVdvbDdHN2JTTGJOUWxKbnc0US1VNTBlY1lidVVjZDBZSHdiOWo5SDNhY0c0WWpRcHg1X09fR2s1S1RWY3FZTlVXUjNOVEZGYmZoWkd4MHJiSWZpU3BUU1ZUNzFSQ1ZKaXJFOV9vc0Qyc0tvWjlDV3dhdg?oc=5",
-          "date": "10-10 20:56"
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNR0F3OHJzN3c2SFF4c2Y1NDlIbUd6bF95cDVsOUdJOWlab3l4TVUwdVBCRFp3ZVpJZldxZWJNYk4yM1NjQndraEZQOFNIMzJYTnBHNzFobUJqSnV5SVZRQ3dqM2c5ZEdJM1lzVjVUbmp5MVF5SXhteTJ2Z3RXaXN1TThlMElCdlFCUXdOdm1OcTJta2pnaWQwVVRn?oc=5",
+          "date": "10-11 20:22"
         }
       ]
     },
@@ -1372,6 +1368,12 @@
           "date": "10-11 23:39"
         },
         {
+          "title": "Fonterra's 25 Years Have Reshaped New Zealand Dairy - dairynews.today",
+          "source": "dairynews.today",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHYyQ1BHZWZoa0x5OG5iVmVhX3M1dlZ2amZBVm1obkZqOV9FR3dpYkZMSG5GdWpGcmlPaGhGVkhUREU4clFMc0pYTVNkeENGZnlKUEdnUnNxSkhDMl9jNnlzSlhpMjlWdnl1eVZLTzhxMHZIeFc0dWtGZGhIZ2NKUGZPNlZLMFdMeGRzMGlpVlZ4SUNjdjNWZG5XNDNMOVlCLWc?oc=5",
+          "date": "10-12 14:30"
+        },
+        {
           "title": "Fonterra’s impact on milk prices over 25 years - Farmers Weekly",
           "source": "Farmers Weekly",
           "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNay0xY1RicmJQSEJXb3FTRTZYN0VIUXM0RlpXenM5T3pyeUhmejE4ekc0a3Uxdkx5cHhqNkttS2dXVG9BTGFfb2NudXRSU0R0SWo2ZVI0WGlNQUYxZ3R5VFRXaTRBWEhDSTJNWjl0NjVJcXV3MGVyenBRQTNoMEZ2NDB0TWJNMTNqN2YtR3hSeThGR3JBUUZZelJHcGR2M0tERkE?oc=5",
@@ -1382,12 +1384,6 @@
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcENKdVVMbV9lZ2xNTVNMV1R6aTlxMmxqV3dGSHVxSGlqcjg2R2JydEFOTW9VVmNFOWV6ck5CWXZOdUZrY0hVVE9zdjBaWngxeXhyYlFoSW4yNFJkY1EtYU96eUdiZXFHNTFjTFFOSnkzeHN5YWdhdFZza3E2Y0kxRlVsOTFEUTl2b1haOXh2RWU5dHpvTHV5Ug?oc=5",
           "date": "10-11 23:44"
-        },
-        {
-          "title": "Skim milk powder prices on GDT rise to highest level since 2022 - UkrAgroConsult",
-          "source": "UkrAgroConsult",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVTMngxSnQ3R1RMYWt6bjFiamtzdzRCSk91azJvT3pqQWhXVlhDZ0dqNGNRSnpVU2hxU1ZCZEdkdmcxYzdNN0lxbWdSc2FzSEJBX2IwclVaLUVvN3h3SVUxckpuU3dDT3QzTkZRMU1yOGRtSkJSOHNjQkp1cERNc0FwY3p2Yng0a1hJMTlGYUxKakZXUDRpMDhSUF9HQkNu?oc=5",
-          "date": "10-09 22:11"
         }
       ],
       "newsKr": [
@@ -1836,6 +1832,12 @@
       },
       "newsEn": [
         {
+          "title": "Moldova’s Dairy Industry Faces Winter Price Increases - dairynews.today",
+          "source": "dairynews.today",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOG8yM1pqS3d0XzRsR3FjWTFpcmpqUkp0YkZvaU1JRzRqQWxoSWNnZ01NZ3JQZ05VMXM0ZG1keWpneWRvNUdObHpLRjFJSXlfQUoxMTRGVDZBSFZaMHd3NVF3dzI5eTVBUmVEdVUwQXNQdEd2ZW9odm1ZRFhvUXRyenprd3k5NG5CZDN6bWdTdDRxT3Zfbmd5V3praFdZRkROWXNObQ?oc=5",
+          "date": "10-12 14:30"
+        },
+        {
           "title": "Global Dairy Trade | New Zealand opens dairy season with record August milk collections - https://en.edairynews.com/",
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcENKdVVMbV9lZ2xNTVNMV1R6aTlxMmxqV3dGSHVxSGlqcjg2R2JydEFOTW9VVmNFOWV6ck5CWXZOdUZrY0hVVE9zdjBaWngxeXhyYlFoSW4yNFJkY1EtYU96eUdiZXFHNTFjTFFOSnkzeHN5YWdhdFZza3E2Y0kxRlVsOTFEUTl2b1haOXh2RWU5dHpvTHV5Ug?oc=5",
@@ -1852,12 +1854,6 @@
           "source": "UkrAgroConsult",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGVTMngxSnQ3R1RMYWt6bjFiamtzdzRCSk91azJvT3pqQWhXVlhDZ0dqNGNRSnpVU2hxU1ZCZEdkdmcxYzdNN0lxbWdSc2FzSEJBX2IwclVaLUVvN3h3SVUxckpuU3dDT3QzTkZRMU1yOGRtSkJSOHNjQkp1cERNc0FwY3p2Yng0a1hJMTlGYUxKakZXUDRpMDhSUF9HQkNu?oc=5",
           "date": "10-09 22:11"
-        },
-        {
-          "title": "Skimming the cream - High Plains Journal",
-          "source": "High Plains Journal",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5MWGRfcTVYUkQ3SVZreTVuVkpJZlRGTmNzZ1E3X3k1VlhBVVNlcE5yX19jeUxxN2IxRGxZb2hZVHJZX05DcU9fczYtVEltV3FmNGoySC1sbmRuQQ?oc=5",
-          "date": "10-09 19:31"
         }
       ],
       "newsKr": [
@@ -1946,10 +1942,6 @@
           }
         ],
         "1M": [
-          {
-            "date": "09-11",
-            "price": 1212.0
-          },
           {
             "date": "09-14",
             "price": 1214.75
@@ -2041,7 +2033,7 @@
             "price": 1133.73
           },
           {
-            "time": "10:58",
+            "time": "17:44",
             "price": 1136.0
           }
         ],
@@ -2098,6 +2090,12 @@
       },
       "newsEn": [
         {
+          "title": "AEP Plantations Palm Output Jumps as Pinago Buy Cuts Net Cash to $99.0m - AskTraders.com",
+          "source": "AskTraders.com",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVV4RWFtMnI0OXpmdWpmY0lodGhtNFF0UE1CWVBvMXR3S1FCZDRCMVBMbEduMzF1bTVOSU1HelRQOXl6YnlxQjc1elpuNnVRelpkXzBHLWFBMnZLaVpMQVVEamVTa3BrenNIX1hLRTE5VGh0aWtoODNUMDBWN2pIaTRQYUxoVE0ySV9qUE1GeTU5UFJVeEY4aWxERzYtTHhfUTJNYWJxX3dJLVE?oc=5",
+          "date": "10-12 16:50"
+        },
+        {
           "title": "South Asia Crude Palm Oil Fastmarkets vs USD Malaysian Crude Palm Oil Futures Dec '26 Futures Price History - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1icm5oLVVCT2Fncng0ZVJaX0VubkVEZFduMHRRcXU5LVhPSlAtVmMzb0NuN0dhdk5ubkdMZC02TlZ2MlZwSW9yX2RLa1lKS1VHWUhWRXpjNmUySzhjOGhwekNnZHlhMTF0enBqclJpNXQyb3oycmRXcTVYTQ?oc=5",
@@ -2110,16 +2108,10 @@
           "date": "10-10 06:41"
         },
         {
-          "title": "Edible oil prices fall in Ctg wholesale market, remain unchanged at retail - Bangladesh Sangbad Sangstha (BSS)",
-          "source": "Bangladesh Sangbad Sangstha (BSS)",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBWc0lldHdkZWVIQnYySnVMSEoyQTViLXIxbWY2QVlKNG03ZVlmUUV3b20zUVktNUI2NHhYOG5mSkhVRERZeVptcVpzTFVQXzlG?oc=5",
-          "date": "10-11 17:59"
-        },
-        {
-          "title": "Palm oil falls more than 1% after Malaysia leaves export duty unchanged - UkrAgroConsult",
-          "source": "UkrAgroConsult",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaHdKRnE3UHBMenB2MGs5VGp6SlVzQWNfSFB1MklweUdSa1p0Q1Y5aXRuenVxdmRTY0VUbmpCMmZETjJ4RmNGRjVGbDRUM3RheGhONlBkX0NJMU1vWGozRmV1UXlrMEU2ekpLODNUbFFtNlhfNVFvUWpjTUdLVEdvOF90MVVaS2lrRDc1TWRWM21tdzBVNDBTY3ZPczlIQlNHSjlFOFlKS3ppUQ?oc=5",
-          "date": "10-09 22:11"
+          "title": "Palm opens higher on firm olein; weak soyoil, crude cap gains - Business Recorder",
+          "source": "Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdTBxSUVTSFdrRmh2NHh5THhrZ1hHdnZTY19kUlRYWUpGWWd4RHB1YmdyQ0daLXMyYm5NaVdJaUNIV0wwWFdNbWZ4S1pSOTRaLWwySk9OeTVtVlNtdjRRT243cWJNRlNsdGMzVjlESDg4SnVieTI2R0hrSndFczc3UXpPd0ZmdEFoalY1ZW50cXE0dVNra2pTX0hkek5icndf0gFWQVVfeXFMTzU1Ym1HZldtUXBBSXdsaXZuRmIwWWtybmwtYVJKMXU2bWE1MHppM1NiREg1OV9OWU54Z3hDNmdiN3NqYlNxdFZCejJKV3RRZEwzQVp3dGc?oc=5",
+          "date": "10-12 15:08"
         }
       ],
       "newsKr": [
@@ -2415,7 +2407,7 @@
             "price": 1926.14
           },
           {
-            "time": "10:58",
+            "time": "17:44",
             "price": 1930.0
           }
         ]
@@ -2497,17 +2489,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1335.88,
-      "change": -7.11,
-      "changePercent": -0.53,
+      "price": 1331.36,
+      "change": -11.63,
+      "changePercent": -0.87,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1342.3,
-      "low24h": 1333.01,
+      "low24h": 1329.68,
       "high7d": 1360.59,
-      "low7d": 1335.88,
+      "low7d": 1331.36,
       "high1m": 1384.86,
-      "low1m": 1335.88,
+      "low1m": 1331.36,
       "volume": 0,
       "sparkline": [
         1360.59,
@@ -2516,7 +2508,7 @@
         1339.74,
         1339.08,
         1342.99,
-        1335.88
+        1331.36
       ],
       "history": {
         "7D": [
@@ -2546,7 +2538,7 @@
           },
           {
             "date": "10-12",
-            "price": 1335.88
+            "price": 1331.36
           }
         ],
         "1M": [
@@ -2632,25 +2624,25 @@
           },
           {
             "date": "10-12",
-            "price": 1335.88
+            "price": 1331.36
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1327.86
+            "price": 1323.37
           },
           {
             "time": "11:00",
-            "price": 1330.54
+            "price": 1326.03
           },
           {
             "time": "13:00",
-            "price": 1333.21
+            "price": 1328.7
           },
           {
-            "time": "10:58",
-            "price": 1335.88
+            "time": "17:44",
+            "price": 1331.36
           }
         ],
         "1Y": [
@@ -2704,11 +2696,23 @@
           },
           {
             "date": "2026-10",
-            "price": 1335.88
+            "price": 1331.36
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "Asia FX steady as dollar holds near 18-mth high; rupee jumps on RBI measures - Investing.com",
+          "source": "Investing.com",
+          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGN3d00zdERUTlhWU2lTSlhGT0JMU0N1OThsM1p2Vmc5aE9BWVlyR3Fmc2FzVE1WVUMyR3kwTTk0MUVEa2lIc1RwT2x5dV91d3lkaVVaaTFSNzNpaDdwTndHSl9lOTRJY3plRkE2ejNsV200MmJaVUhqd3d1OUxlS3RzSFY4bnA2cXlXNjhBRTRYYU42ZWNHTmZYazR3T0dZMmJEeUMwRVNIRkVlMkxyZ1p5emdvLWJnbHNPcU13Ykg2QQ?oc=5",
+          "date": "10-12 13:07"
+        },
+        {
+          "title": "Won Hits Two-Year High as Export Dollars Outweigh Foreign Stock Selling - Seoul Economic Daily",
+          "source": "Seoul Economic Daily",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdUdVUFdtQXZheXdQMnhtX2d2UkRORW9YSGNob29NZmpiME1MbGgtX2hBSWRCdy10dF9ZNlJkeHdMcnNCNUNOQTlRUWRXdUI5S2VmaEtMN29qM0VRT1FvcDhMd1RzYTdPMUl0SDVYYkFyTXBkRVVEbTVVWllQNVgxQ0x2MjRmWm5GY1ZlbnNHcXZVYTJ5Ym9uV3pkTkllOHdH?oc=5",
+          "date": "10-12 15:45"
+        },
         {
           "title": "USD/KRW to Take Direction from U.S. Inflation Data; Test of Lower 1,300 Won Range in Sight - BigGo Finance",
           "source": "BigGo Finance",
@@ -2716,25 +2720,19 @@
           "date": "10-11 08:05"
         },
         {
-          "title": "South Korean stock turnover collapses 70pc as foreign funds flee, Bloomberg reports - The Standard (HK)",
-          "source": "The Standard (HK)",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZDZLcTQwNE1ETmZJbUxPMzI0bHZ3azZzX2ZKRTN1aDFfS251ajlWNndGSkhWRUZyTVYxaGc1Q3JYczJCdGM1SHpjUVo5TVlaNjRCZEhtckpEZTAxSzVXM3RvUGVWdmVxZnlTQXBwZkRMM0U0bHQ1ajJUUUp2ZGstNjFWd2Z0d1ZiX3JtWkVWTDJzakk1akt6MTM1M2NYa1FPTS13TVJ3QlVkN1I4VXpxeVppTG9VVkdhVUlZNHg1TmphZnRvUTg2QUxqemFQQzhiT1E?oc=5",
-          "date": "10-11 20:27"
-        },
-        {
-          "title": "The won per dollar, which once fell to the 1,550 won range, remains stable in the mid-1300 won range.. - 매일경제",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5femczaTFFNEcyX3FOMFoyYTZGck9jaW9IUmRBVTVSamh3d21iUnJZOGRScW9yZmQ3QTJ4bUN4QVBxcG1Xb21jdG9IZ3NQdW82N2c?oc=5",
-          "date": "10-11 07:33"
-        },
-        {
-          "title": "USD/SGD (SGD=X) live rate, chart and news - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14eDJFbDhBZms3TVVUYU5UOEhMd0h4QW03UjFVMW9PbTRTYW1KeEJVVVdXTXN0SEppVHBKb25VUHdCU3BMcV9ia21hNkp6YldBUDI2bzBn?oc=5",
-          "date": "10-10 03:31"
+          "title": "Asian stocks drift lower as AI anxiety hits South Korea; won at two-year high - The Edge Malaysia",
+          "source": "The Edge Malaysia",
+          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5NGE5ZEJsejNsekREdy1vbFBFOHZLMnVVVEJKQXFkZHg3MjhnSTRpTVZPeHR4Z09VNGF3QkZFc0xtN081VVFGNHpDakRrdjV5?oc=5",
+          "date": "10-12 16:21"
         }
       ],
       "newsKr": [
+        {
+          "title": "[환율 전망] 한때의 원화 뉴노멀, 이제는 올드뉴스 - KB Think",
+          "source": "KB Think",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhclktRkxTZnh5aXFqN0pnRThUWUdRZ3JpT0V5NGJzRTFqajYydEtuVk11ZFRBeTF0UVlLeW5LWlNyVXBZM183bzgwMVBXVkxKcE8zM2NVdkxHeFBGVEdOaA?oc=5",
+          "date": "10-12 00:00"
+        },
         {
           "title": "[주간환율전망] 원·달러 환율 1342원 박스권…미국 물가가 방향 가른다 - 자본시장뉴스",
           "source": "자본시장뉴스",
@@ -2742,16 +2740,10 @@
           "date": "10-12 08:20"
         },
         {
-          "title": "외국인 이탈 ·저가매수에 상승⋯\"1340원 중반까지 반등\" [환율전망] - 이투데이",
-          "source": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LTm91Z2hHMnpXWnJiZWFpTUljcWpDSW1NM1ZWZ3pDMXBPMGhSYi1lb05CUnhKY2VjZVBSOEt3UGtlSmV0c2hZa0dhUFZuVi1mUEc5cw?oc=5",
-          "date": "10-12 08:08"
-        },
-        {
-          "title": "DB증권 \"내년 환율, 수출만 보라…1,250원까지 하락 가능\" - 연합인포맥스",
-          "source": "연합인포맥스",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qVERHX3lqRElnQ1M2LVJqLWxLQVFBYURFazJ0QUFHOTZtU0FVRWdHWmdtempFOThvU1BwZWhHbWpHTG9WVmJtZzZZWG9xeFg2a1FlemFDeE9PN1ZGeS1xQ3ZVQTNqN3ZyZXJsRHlyM08?oc=5",
-          "date": "10-12 10:44"
+          "title": "환율 전망은 ‘신의 영역’…저점 맞히기보다 ‘왜 사는가’가 먼저 - 헤럴드경제",
+          "source": "헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yMVpoTFlqMzBtME5NcGQtaXl1VVpYOUZmcV9qLV82dHE2YXZ2VTNBOTZHVnFtaTVVOHRtazQzSVdtZXdoQjllQUZUWFp6Wl8yS3l0RkJR?oc=5",
+          "date": "10-12 11:13"
         },
         {
           "title": "[모닝 리포트] 강달러·외국인 매도에 환율 상승 전망…\"1340원대 등락\" - 뉴스핌",
@@ -2785,17 +2777,17 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1497.3,
-      "change": -6.36,
-      "changePercent": -0.42,
+      "price": 1489.9,
+      "change": -13.76,
+      "changePercent": -0.92,
       "high52w": 1807.42,
-      "low52w": 1494.1,
+      "low52w": 1489.0,
       "high24h": 1502.6,
-      "low24h": 1495.9,
+      "low24h": 1489.0,
       "high7d": 1528.21,
-      "low7d": 1497.3,
+      "low7d": 1489.9,
       "high1m": 1593.0,
-      "low1m": 1497.3,
+      "low1m": 1489.9,
       "volume": 0,
       "sparkline": [
         1528.21,
@@ -2804,7 +2796,7 @@
         1506.13,
         1499.4,
         1503.66,
-        1497.3
+        1489.9
       ],
       "history": {
         "7D": [
@@ -2834,7 +2826,7 @@
           },
           {
             "date": "10-12",
-            "price": 1497.3
+            "price": 1489.9
           }
         ],
         "1M": [
@@ -2920,25 +2912,25 @@
           },
           {
             "date": "10-12",
-            "price": 1497.3
+            "price": 1489.9
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1488.32
+            "price": 1480.96
           },
           {
             "time": "11:00",
-            "price": 1491.31
+            "price": 1483.94
           },
           {
             "time": "13:00",
-            "price": 1494.31
+            "price": 1486.92
           },
           {
-            "time": "10:58",
-            "price": 1497.3
+            "time": "17:44",
+            "price": 1489.9
           }
         ],
         "1Y": [
@@ -2992,11 +2984,23 @@
           },
           {
             "date": "2026-10",
-            "price": 1497.3
+            "price": 1489.9
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "Iran releases currency exchange rates for October 12 - Trend News Agency",
+          "source": "Trend News Agency",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5MdHRsOUV3XzlKQ3Fta3Vlclg5ZjVNVVJQYmFlSnBNMC1SZXVmTEtaVFpycmVselpUaTVrVER5TFg5Z1dDdUUzRFFkRS1BR28?oc=5",
+          "date": "10-12 14:22"
+        },
+        {
+          "title": "CBA currency exchange rates (12.10.2026) - Report.az",
+          "source": "Report.az",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SOG90azBON2VXNHVaa0o2SDkwd09vdjJpaFBpc2J0MUl1WlJWUHg1SVpIVU1nd01MX3NXbGszajQ1N2VEWlhLUDVYeU1TQWJueFA1M0dhYzl6UFBYRzFuajdod1FCM2g2QjNDa05WV2doTzNpWHc?oc=5",
+          "date": "10-12 14:16"
+        },
         {
           "title": "Nepal Rastra Bank Sets Today's Exchange Rate - Ratopati",
           "source": "Ratopati",
@@ -3004,25 +3008,25 @@
           "date": "10-12 08:45"
         },
         {
-          "title": "Iran releases currency exchange rates for October 11 - Trend News Agency",
+          "title": "Official exchange rates of Azerbaijani manat on October 9 - Trend News Agency",
           "source": "Trend News Agency",
-          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1CWHRjUGFTRU4tcndIVHpPV0ZLakdBdUdGUTZoVXBwSzhKMkNsQVA0MWFiUVFGSXJQZlpqRU9yRkdpNzVuQTFJeXlJNWEzQzQ?oc=5",
-          "date": "10-11 14:51"
-        },
-        {
-          "title": "Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
-          "source": "Ratopati",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0hYZ0RSVWtETjN0N1N5b3kzYXFZQm8yLVowRHF3SjhKc1l6RXpFZWFKZEdrb1Itd3l2NVpBeFVEV0llclpkZVBWSzdGbVNSZS1EeDlIcS1IeVNwNXUtTWlYX1h0Zk41MXR1UnJMaFluSC15ZzgtVVpkT2swYV9aR2NUcmlTbl9HSk1GTVRjMA?oc=5",
-          "date": "10-11 21:28"
-        },
-        {
-          "title": "CBA currency exchange rates (09.10.2026) - Report.az",
-          "source": "Report.az",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UR0VNOE95REhDeHRqb0pVVDMyQmN3cVBXZWhOQzNPS2xIbU4yaTVROF9iOXpzS1J3Wm9zZkhBT1Z6VHlnb1ZHTUFKaG55bGxRWXAyeXFCTUtKejF1eU9YQWtMRG5OLU9ZQV9hWUtUNVV6dlk3VzlscnR6UdIBe0FVX3lxTE1UR0VNOE95REhDeHRqb0pVVDMyQmN3cVBXZWhOQzNPS2xIbU4yaTVROF9iOXpzS1J3Wm9zZkhBT1Z6VHlnb1ZHTUFKaG55bGxRWXAyeXFCTUtKejF1eU9YQWtMRG5OLU9ZQV9hWUtUNVV6dlk3VzlscnR6UQ?oc=5",
-          "date": "10-09 14:10"
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9mcUoxeGNHVlhSN0N1R3BCaURUZjhXb1pteGlVcVU5aUlMQk1janZ5Q3prOXlQalJBV09XWjNSUnRGbXZxVmlpQjktbnY3VlczUnd2Vm5qcw?oc=5",
+          "date": "10-12 14:11"
         }
       ],
       "newsKr": [
+        {
+          "title": "[환율 전망] 한때의 원화 뉴노멀, 이제는 올드뉴스 - KB Think",
+          "source": "KB Think",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhclktRkxTZnh5aXFqN0pnRThUWUdRZ3JpT0V5NGJzRTFqajYydEtuVk11ZFRBeTF0UVlLeW5LWlNyVXBZM183bzgwMVBXVkxKcE8zM2NVdkxHeFBGVEdOaA?oc=5",
+          "date": "10-12 00:00"
+        },
+        {
+          "title": "2026, 2027, 2028~2030년 및 향후 USD CAD 전망 - LiteFinance",
+          "source": "LiteFinance",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHFyUHd3Y280RmlqNmVJdjJKSmhYejBWSFRMUDllenpkWlJQMmlod25qLXhJZmtsTmNuMmd1YlJKdVJhQTQ3a1RKYnR1aHlrdTd6UGc4YTZZNmlkeFplTHg5MUJZMjRjNXdXLXdTTGdVY04zTU41cHR0UWpJNllWamk5b2JicEU?oc=5",
+          "date": "10-12 10:16"
+        },
         {
           "title": "중동발 유가 불안에 강달러까지…환율 상승 압력[외환브리핑] - 이데일리",
           "source": "이데일리",
@@ -3034,12 +3038,6 @@
           "source": "Calgary Roughnecks",
           "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxObXhsUGhWTzhMcmU3RWhkcG9hR0NBSExBWk1YcXdfbnZ6SDU2aG52WlFlNzAwOE9oRGpGZUV1VkdRcm9HMVNTbVg1cnNFTXRZUXVyM2R4NmRHMTRDOGpfRGxDSFpscW4weTJROTlMa2ZfRExXOGc3c2JmVTc2b0JrakV6TURGdUlTNXJ1ZHpZUG1ERU04bE4tTVp4bUMyWVVVeXJJZlptNkVETDYzZk1vMjFDN2JUdllsWUItbGlqcGdjZlhhUlI1X25QOEpkSTI1OFJlc05rWTNXc21JT1RMazhEVWdBbVVmbnowRkx0ZWhUaGtCamJDNnVWMXpLOVJIOEM0VHY0bU1xR1Q1c3VLTDVvOEFweGc5Wi1pdlA4V28?oc=5",
           "date": "10-10 03:25"
-        },
-        {
-          "title": "경마 중계소 에서의 위험 요소와 예방 전략 (2026년 최신판) - Calgary Roughnecks",
-          "source": "Calgary Roughnecks",
-          "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOeHlXdFZlc3k2N1BwXzFqWVd5c21WYUk5OHd0RXBVNHVZREZLeDNwdE54VTFGeDFodThMZzZhbktuMFo3Y0ZLeDRSOVAxSTZtSDB1ZF93OEFBLVY3OVF1S204SG9ac3FCMnY2Vm5TTjhoU1ZnMFNCVlk4SUxpSFM4MURfalVUdVBaUE81djVuRUdpVk1uZkFQOFJsUk40UGZxZURXZzZNMEkzd2xBZFNaRVU5eklIaExwY082VHRCUG5xWTBzM2wxOE92TlQ5OXcyazlIV1p2VnE5eTVQV29WcXdweDNHUDh3dm1PSGROaGNUTk1KWTVjeC1XX0xIdnRwZXh1eFZoalAyU2M?oc=5",
-          "date": "10-10 14:03"
         }
       ]
     }
