@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-10-18 02:41:17",
+  "last_updated": "2026-10-18 04:55:33",
   "weekly_report": {
     "title": "[2026 Week 42 Report]",
     "week_number": 42,
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
     "date": "2026.10.18",
-    "report_date": "2026.10.18, 02:41",
+    "report_date": "2026.10.18, 04:55",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "코코아 : $5,686.00 (▼2.49%)",
     "weekly_price_list": [
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
     "date": "2026.10.18",
-    "report_date": "2026.10.18, 02:41",
+    "report_date": "2026.10.18, 04:55",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "코코아 : $5,686.00 (▼2.49%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-18T02:41:17.495420+09:00",
+  "lastUpdated": "2026-10-18T04:55:33.643709+09:00",
   "usdKrwRate": 1329.6,
   "eurKrwRate": 1498.9,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5674.63
           },
           {
-            "time": "02:41",
+            "time": "04:55",
             "price": 5686.0
           }
         ],
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 6722.75
           },
           {
-            "time": "02:41",
+            "time": "04:55",
             "price": 6736.22
           }
         ],
@@ -624,10 +624,10 @@ const FALLBACK_DATA = {
           "date": "10-16 19:43"
         },
         {
-          "title": "Coffee prices today, October 15, 2026: Prices rise in the Central Highlands, while the global market is concerned about supply. - Vietnam.vn",
+          "title": "Coffee prices rise, silver hits a low. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTU5sbmNlUi1yVjVaQlFlUFBpRW05TU9mTzhmSTBCcVJxSmluckxCYktrTE9pY2I1a2hSOXVST2ZsUXZVMG5NdWdpcG1FMy10VGw4c05NUEcxLTFoSkFBVGhzaHRpZGt5WHdqQkxYeWIwTlFZQThWR2QtUEJONTFiLUdUd1Qzd1p2a1RUVF9GRV9BR01NaUdmMkhoX1pIN2tpdXlPdnNyd1doYTdCVUxiUjZWaTQ?oc=5",
-          "date": "10-15 14:06"
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBkYlBYNExGekNKenRxbHNoX0l5dFphTmVtd2d4ZUpyWFBRVFo5SHVONllleUtCeENCbzBtRk5qODJ6VHFkQmRQcGliaVVJOWpjcWkySnpTZTUxdVlKX0IwcS1PU20?oc=5",
+          "date": "10-15 16:00"
         },
         {
           "title": "Coffee’s Coming Glut May Not Be Enough to Calm Volatile Prices - Bloomberg.com",
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "02:41",
+            "time": "04:55",
             "price": 3728.0
           }
         ],
@@ -911,7 +911,7 @@ const FALLBACK_DATA = {
         {
           "title": "Global Weather Risks Push Coffee Prices Sharply Higher - TradingView",
           "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDVudjVfUVRCYUc2Nl8yMlFYVml3ci1CZFVWSERPWW92WVZSekd2ZFBmRnA1OGtQU0prSXFJSnh2YWJwRWk4V0hsZWk4OE9ZZ092MGVrZkRnbFNOYjNwSFMtcUpKUWNzaTFnYkdnWXRseGNYV1BqOU15RlI3aUl2SXJmTDlCdzJ5dG5zcDVSNlpTUUMzcEE4Ulh5SGRhNjdpOGlQNjhZYzA2ZG96VUJTVUZjbw?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSXp1dmdMSHRsNEEtdm00S0FmTWZkLXZ4NXJsajJuOXp3amtVSURWX2Qza1p1MWFwdDZCelZiV3ZCR0NzM1BtdzdlNm9HVVBnTjF3LXlENnQ0eHNIVGpYcm5FT01nZWdTV1lvdVQtR2VUelU0NHkydWFZYmppdnpTRlNEZTFLQWxGX21HbWxEUTI4X21BMTJCWVdyYXo1ekFETHNYSGVaUUZZS1hoZmdXbDN3?oc=5",
           "date": "10-17 03:23"
         },
         {
@@ -1409,22 +1409,22 @@ const FALLBACK_DATA = {
           "date": "10-17 00:35"
         },
         {
-          "title": "Global prices for powdered milk are rising, opening up new opportunities for Ukraine - UA.NEWS",
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREZMV2RROFVjemdiQnlrdVVBN1F1c2NEV3pmMllrTUZWYWZCbmk2M2JSSkVzbV9zdzFwejJZZVk1YWpYY0lObFhkQWVwWVh4dFlhV250aGFxSkNTZHFKMjVoQzhpUE1XSjNXLXlEQUZ4eFB6MjRuYy1tMWZ3a0U0Mk1aV2wxRVRnUE5helNfT3BnSjFWVUl3dE5hbW1zWFZWSUhMaEpTSld3dUlFWGc?oc=5",
-          "date": "10-16 22:20"
-        },
-        {
-          "title": "Uruguay Increased Dairy Exports as Prices Reduced Revenue - dairynews.today",
-          "source": "dairynews.today",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbk53SS04UTRWSnlyZVZYYjhwYnB3cVZRb3RIbFNYR0U4aUhJakxfZ3VtaEVwZ3FyTjRKTHQ0am12NkxnY3Jrbmk3Skp3UDY3RG42S0hPeVh1a2N4UkpXZDFkem5EZ2lKU25GVkFzczFZa2F0Qjdqb0tCUllQUTF0N0J5UVhUd2pHdjdYaTUxeXJjZGZLckx5Mk9Fa0ZtVjNxc1UwNldCYjNqZw?oc=5",
-          "date": "10-15 22:19"
-        },
-        {
           "title": "Protein Demand Pushes Dry Whey to Record Highs - Dairy Herd",
           "source": "Dairy Herd",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LR0llVnp0RXhMYkdWb3ViTGNaZ2otZm9ublpVX3hLWlhzZUJJNGs2by1OQU1XWkNZZTRUbU5ndlVnUFhSOWI2d1BpUnpuazdFZGdyU3ZTTXMzbDNSV3paZjZTa1pvbUJxWldLb2NrV21LVFVKTUx6VndZRF9JOVU?oc=5",
           "date": "10-16 02:18"
+        },
+        {
+          "title": "Argentina Produced More Milk as Industry Assessed Value per Litre - Dairynews.today",
+          "source": "Dairynews.today",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUk1blNEUlozaFpwTGZVZUlJM0RvMVJIYXZtN2hiU0RoQThoNUR2NG9SWE9pbXZtajJUTkwxS0VsOHhXdWZFUy13UTR3MklzUVJ2Tm9TOUZfQ1JTeHkyQ3dZa2RFdVN0UWNwSm1aOC1URWEzMUpzXzdaQ2xnOUhXU04ycGpvSmxNXzBXcWtIay1Jcmo2WHBVQjdSbDVEMG5CaVh0QlhEMlNoaVk?oc=5",
+          "date": "10-16 22:24"
+        },
+        {
+          "title": "Fonterra Signs Second Green Power Deal With Anza In NZ - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQemJvc2F6RWRWOGpTT19aWWFzTlhGYmxzbXFaV0drSTQ2QkxCdXBLX1pVcTUtTmk0ZkVheUplNzVlM3R3TTlicUhNdTlDUk1MNVBaY3VETWZuU1FOVjFDZ3dreFd1NzhNemdha2pMdG5uQndsQldvNjFfSDdvY19YS1hwc3B2eHYw?oc=5",
+          "date": "10-15 06:30"
         }
       ],
       "newsKr": [
@@ -1891,16 +1891,16 @@ const FALLBACK_DATA = {
           "date": "10-16 15:38"
         },
         {
-          "title": "Export Watch: Butter’s global moment is an export opportunity - Ag Proud",
-          "source": "Ag Proud",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVEZ1WmNSVkVkMHFHTFoyOHE4Yzh6RE5lcWJhQ2RCNEc5OXB2NkRMNEsxY3c1c2Z4aU82NldzNVltR1RFNTFyenlneklHc3Nvay1iaXBzLV9yc2oydndXYVRqSjdJT29PNkVFQzVKVm9mWDNVX084VDdCRzhFY3ZEbkxqako1NnNfbWNVM2R4OHhwZm9Db1hnemhqTUhGdVE?oc=5",
-          "date": "10-15 13:00"
-        },
-        {
           "title": "Upper Midwest Dairy Production Rises as Global Expansion Pressures Commodity Prices - Morning Ag Clips",
           "source": "Morning Ag Clips",
           "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1CeEx2Q0NjSzAwUFg2N2dORVVmNkNJYTB0S2JKWl9qSDNiVE1nUXNYMGdWT3duaWl0bk5OdEh5WnJhU05ZRDlWeVhMUER6VUJBaV9Za0NuQndwak5FMnFrRnl0WDFDaUdlUnIwUWdYbU9QYW1ZRGluRTNVenJaYWJJMUljUGZoNk1SQ3dhN2pCblVEdzR0VHlQQ0pRWVFHcmcxTmtpR1IyQXp6WnlkbWRZVTJ5QQ?oc=5",
           "date": "10-15 12:41"
+        },
+        {
+          "title": "Cheese, butter lead cash dairy prices Thursday at CME - Brownfield Ag News",
+          "source": "Brownfield Ag News",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNc2NESTdLZExJRnNLMWdCWGRfSEFPWVN5YmZWSVZWbEFCZjVKdm9kN2RnVnNJQmxfYkI4dFRLbU1TWEwwYWJqT25YWmZ3dGxVREVXLVVqRDJxRm5ZRDI2NTFSZDItYVR2TFEtYkladFAyWGNTNmp2RnAxaW1GVlg5N1h4MmprcElZdFRiVkdMWHE?oc=5",
+          "date": "10-16 04:07"
         }
       ],
       "newsKr": [
@@ -2084,7 +2084,7 @@ const FALLBACK_DATA = {
             "price": 1144.96
           },
           {
-            "time": "02:41",
+            "time": "04:55",
             "price": 1147.25
           }
         ],
@@ -2458,7 +2458,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "02:41",
+            "time": "04:55",
             "price": 1930.0
           }
         ]
@@ -2704,7 +2704,7 @@ const FALLBACK_DATA = {
             "price": 1326.94
           },
           {
-            "time": "02:41",
+            "time": "04:55",
             "price": 1329.6
           }
         ],
@@ -3004,7 +3004,7 @@ const FALLBACK_DATA = {
             "price": 1495.9
           },
           {
-            "time": "02:41",
+            "time": "04:55",
             "price": 1498.9
           }
         ],
