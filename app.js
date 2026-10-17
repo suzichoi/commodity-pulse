@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-10-17 23:45:50",
+  "last_updated": "2026-10-18 02:41:17",
   "weekly_report": {
     "title": "[2026 Week 42 Report]",
     "week_number": 42,
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
-    "date": "2026.10.17",
-    "report_date": "2026.10.17, 23:45",
+    "date": "2026.10.18",
+    "report_date": "2026.10.18, 02:41",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "코코아 : $5,686.00 (▼2.49%)",
     "weekly_price_list": [
@@ -59,8 +59,8 @@ const FALLBACK_DATA = {
     "week_number": 42,
     "week_date_range": "2026.10.12 ~ 2026.10.16",
     "weekly_price_title": "[W42 주요품목가격]",
-    "date": "2026.10.17",
-    "report_date": "2026.10.17, 23:45",
+    "date": "2026.10.18",
+    "report_date": "2026.10.18, 02:41",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "코코아 : $5,686.00 (▼2.49%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-17T23:45:50.745797+09:00",
+  "lastUpdated": "2026-10-18T02:41:17.495420+09:00",
   "usdKrwRate": 1329.6,
   "eurKrwRate": 1498.9,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5674.63
           },
           {
-            "time": "23:45",
+            "time": "02:41",
             "price": 5686.0
           }
         ],
@@ -340,16 +340,16 @@ const FALLBACK_DATA = {
           "date": "10-17 03:19"
         },
         {
-          "title": "Cocoa Prices Rise as Chocolate Demand Improves - TradingView",
+          "title": "Weak North American Cocoa Demand Hammers Prices - TradingView",
           "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSDJOZUZlSHJiSXFzUy1RLVZ0MDZoQ2NmNE5PVlh0ZWliRUxLYXhYUVBDZEpyS0lVbURhRXZNZmk2cmpnOWNYQkJUck82X1NXX1hQanJoenhubjRsaEdpNEU1Z2dsZjVQUVY2YnluUFY5REtLZ2pvRmdwWWZvWFVDTDhjUkIyQVZXbmhKQjJsdG9YTHhKejVNSDBLSWdBbmh5T0R5YW81OA?oc=5",
-          "date": "10-16 03:25"
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRWZKLW9OX0FCMWhVM3phNVVPbmxMd3c1RkZweTBfVzNxSGhXVFFob290ZlV2SnBBOXlGeXpnWGd6Z2wyRGVNY3Y3cXAxb21NZ3ZyeFRLQVNORV9nRG9tSHZ1UkhQd3h6TDdPLXZQa3N6UndVaUVxUEpWYUhUVkpvT2hoUnJJLXE0aW96SmkwYVdKSjNPY2FCSFJIWmZBekxVWEZISWVzeFA?oc=5",
+          "date": "10-17 03:24"
         },
         {
-          "title": "El Niño reshapes food commodity risks as supply pressures diverge - Food Ingredients First",
-          "source": "Food Ingredients First",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpYzFYLVhuS3hKdmZyUUxuMnE5YlpoWEhWZU5IWUZ5bWJXUDJvYWpoRU9ESC11bEFXODBjZ1lGMlpOd2VzNVZ2OWRwbXFwQzZRUjNmZmI0Wm9nb0lodklvaFBKZEJIQXloMUFFdkZfYjhmR0JURE5FdG1KeGk?oc=5",
-          "date": "10-16 08:11"
+          "title": "Chocoladefabriken Lindt & Spruengli AG (LSPN.SG) H1 FY2026 earnings call transcript - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX2syN2ZRUEFIVVpkNUhabGNNa1F6RTZSZzZzb2dOb1pkUmFpeUpDd1NhZDV3VkVyWi1NRFpWLUpEcjNSRDQtNDQ5bGVDbjhtQk9ZVXhOSG5xT041V2NKQlQ3RHc1Q0dYYV8zQ00zRjV6ZGJ3SldkVWJNLUhaTDQxSFRubDc2Rzh0bkNzYVNMMkRYVkx5WVE?oc=5",
+          "date": "10-16 15:33"
         }
       ],
       "newsKr": [
@@ -408,7 +408,7 @@ const FALLBACK_DATA = {
       "changePercent": 3.65,
       "high52w": 9655.13,
       "low52w": 5350.61,
-      "high24h": 6860.78,
+      "high24h": 6862.98,
       "low24h": 6577.48,
       "high7d": 6736.22,
       "low7d": 6326.16,
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 6722.75
           },
           {
-            "time": "23:45",
+            "time": "02:41",
             "price": 6736.22
           }
         ],
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "23:45",
+            "time": "02:41",
             "price": 3728.0
           }
         ],
@@ -915,16 +915,16 @@ const FALLBACK_DATA = {
           "date": "10-17 03:23"
         },
         {
-          "title": "Coffee prices today, October 17th: Rising sharply again, Arabica at a 5-week high. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTBjWmJMVkZRdUZncHh6dGVuOXFmU0Y1QnJxYVZTNElhRnBlZmxIRzBhNWdtQlFyX3M1VVJpQ3FCQXAxQU9YTy1vZHNNXy1kWjhsSWd2eUlqeXhiTFd1LUlJSlk5YXpzNWRxQlRLUmZ4bms0M1VPQVdlSTZwdlB0TktOOWhfbVU2RGFRZDdwckdQdG5KUzRJ?oc=5",
-          "date": "10-17 12:23"
-        },
-        {
           "title": "Coffee prices today, October 16th: Sharp reversal and decline, robusta hits a 2-week low. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0tQU1hvR0dEbEhRdlhKRGhDRWpiRVlTYW80UWRDM0tDeFJkSnpUVm5jVmJjVVI4MHVGb0E1ZTdFTG4tR2JJaDhkb0N5anlncGtZMElHYVM0NUZTcTcxVDFYb1E1TkpkMHNJSlJIVVFZSDhzMVljenlOc016QlpyTmlTUS1RcmZTRVc3ajBsVUVCb1YxWTVRTVl3?oc=5",
           "date": "10-16 09:39"
+        },
+        {
+          "title": "Coffee prices today, October 17th: Rising sharply again, Arabica at a 5-week high. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVTBjWmJMVkZRdUZncHh6dGVuOXFmU0Y1QnJxYVZTNElhRnBlZmxIRzBhNWdtQlFyX3M1VVJpQ3FCQXAxQU9YTy1vZHNNXy1kWjhsSWd2eUlqeXhiTFd1LUlJSlk5YXpzNWRxQlRLUmZ4bms0M1VPQVdlSTZwdlB0TktOOWhfbVU2RGFRZDdwckdQdG5KUzRJ?oc=5",
+          "date": "10-17 12:23"
         },
         {
           "title": "Coffee prices today, October 17th: Robusta loses over $100/ton, Central Highlands prices drop sharply. - Vietnam.vn",
@@ -1415,16 +1415,16 @@ const FALLBACK_DATA = {
           "date": "10-16 22:20"
         },
         {
+          "title": "Uruguay Increased Dairy Exports as Prices Reduced Revenue - dairynews.today",
+          "source": "dairynews.today",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbk53SS04UTRWSnlyZVZYYjhwYnB3cVZRb3RIbFNYR0U4aUhJakxfZ3VtaEVwZ3FyTjRKTHQ0am12NkxnY3Jrbmk3Skp3UDY3RG42S0hPeVh1a2N4UkpXZDFkem5EZ2lKU25GVkFzczFZa2F0Qjdqb0tCUllQUTF0N0J5UVhUd2pHdjdYaTUxeXJjZGZLckx5Mk9Fa0ZtVjNxc1UwNldCYjNqZw?oc=5",
+          "date": "10-15 22:19"
+        },
+        {
           "title": "Protein Demand Pushes Dry Whey to Record Highs - Dairy Herd",
           "source": "Dairy Herd",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LR0llVnp0RXhMYkdWb3ViTGNaZ2otZm9ublpVX3hLWlhzZUJJNGs2by1OQU1XWkNZZTRUbU5ndlVnUFhSOWI2d1BpUnpuazdFZGdyU3ZTTXMzbDNSV3paZjZTa1pvbUJxWldLb2NrV21LVFVKTUx6VndZRF9JOVU?oc=5",
           "date": "10-16 02:18"
-        },
-        {
-          "title": "Argentina Produced More Milk as Industry Assessed Value per Litre - Dairynews.today",
-          "source": "Dairynews.today",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMUk1blNEUlozaFpwTGZVZUlJM0RvMVJIYXZtN2hiU0RoQThoNUR2NG9SWE9pbXZtajJUTkwxS0VsOHhXdWZFUy13UTR3MklzUVJ2Tm9TOUZfQ1JTeHkyQ3dZa2RFdVN0UWNwSm1aOC1URWEzMUpzXzdaQ2xnOUhXU04ycGpvSmxNXzBXcWtIay1Jcmo2WHBVQjdSbDVEMG5CaVh0QlhEMlNoaVk?oc=5",
-          "date": "10-16 22:24"
         }
       ],
       "newsKr": [
@@ -1937,13 +1937,13 @@ const FALLBACK_DATA = {
         ]
       },
       "price": 1147.25,
-      "change": 5.0,
-      "changePercent": 0.44,
+      "change": -6.25,
+      "changePercent": -0.54,
       "high52w": 1244.25,
       "low52w": 820.0,
       "high24h": 820.0,
       "low24h": 820.0,
-      "high7d": 1149.75,
+      "high7d": 1153.5,
       "low7d": 1122.5,
       "high1m": 1208.75,
       "low1m": 1121.25,
@@ -1954,7 +1954,7 @@ const FALLBACK_DATA = {
         1136.0,
         1145.5,
         1149.75,
-        1142.25,
+        1153.5,
         1147.25
       ],
       "history": {
@@ -1980,8 +1980,8 @@ const FALLBACK_DATA = {
             "price": 1149.75
           },
           {
-            "date": "10-15",
-            "price": 1142.25
+            "date": "10-14",
+            "price": 1153.5
           },
           {
             "date": "10-16",
@@ -2020,10 +2020,6 @@ const FALLBACK_DATA = {
           {
             "date": "09-28",
             "price": 1192.0
-          },
-          {
-            "date": "09-29",
-            "price": 1191.0
           },
           {
             "date": "09-30",
@@ -2066,8 +2062,8 @@ const FALLBACK_DATA = {
             "price": 1149.75
           },
           {
-            "date": "10-15",
-            "price": 1142.25
+            "date": "10-14",
+            "price": 1153.5
           },
           {
             "date": "10-16",
@@ -2088,7 +2084,7 @@ const FALLBACK_DATA = {
             "price": 1144.96
           },
           {
-            "time": "23:45",
+            "time": "02:41",
             "price": 1147.25
           }
         ],
@@ -2462,7 +2458,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "23:45",
+            "time": "02:41",
             "price": 1930.0
           }
         ]
@@ -2708,7 +2704,7 @@ const FALLBACK_DATA = {
             "price": 1326.94
           },
           {
-            "time": "23:45",
+            "time": "02:41",
             "price": 1329.6
           }
         ],
@@ -2795,16 +2791,16 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "[다음주 환율전망] 美 국채금리 하락에 원·달러 환율 하방 압력…다음주 1330원대에서 공방 전망 - 굿모닝경제",
-          "source": "굿모닝경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWG9Ed0YyNTVUSTdMMFJISV9ONUJGbld4aDZmQ1V2U1NBR0hvdXMtTlA5bzBucGp1bFZwWnpmbzREdlY4c2tUZFBhQ1A1MDkxclB3cDdvaUdraXBKLUVSY2lqZjk3VmF6LVJVOQ?oc=5",
-          "date": "10-17 07:00"
-        },
-        {
           "title": "[환율 전망] AI 광풍에서 이제는 공포로...? 떨고 있는 원화 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03bzRQMWFSNjFyODA2X1h2QmpNaGY3alVzYW9BMjlLb2ZTSHdQWHJSYU5fc3dHaWU0NzdNdkVkWGcyRUx1T3hGQTk5bHd6ZzBBTjRwTl94SzBkOFl3Nm9NZw?oc=5",
           "date": "10-16 08:04"
+        },
+        {
+          "title": "[다음주 환율전망] 美 국채금리 하락에 원·달러 환율 하방 압력…다음주 1330원대에서 공방 전망 - 굿모닝경제",
+          "source": "굿모닝경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWG9Ed0YyNTVUSTdMMFJISV9ONUJGbld4aDZmQ1V2U1NBR0hvdXMtTlA5bzBucGp1bFZwWnpmbzREdlY4c2tUZFBhQ1A1MDkxclB3cDdvaUdraXBKLUVSY2lqZjk3VmF6LVJVOQ?oc=5",
+          "date": "10-17 07:00"
         },
         {
           "title": "커지는 고성장·경상흑자 기대…힘 받는 1,200원대 환율 전망 - 연합인포맥스",
@@ -3008,7 +3004,7 @@ const FALLBACK_DATA = {
             "price": 1495.9
           },
           {
-            "time": "23:45",
+            "time": "02:41",
             "price": 1498.9
           }
         ],
@@ -3105,6 +3101,12 @@ const FALLBACK_DATA = {
           "source": "굿모닝경제",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWG9Ed0YyNTVUSTdMMFJISV9ONUJGbld4aDZmQ1V2U1NBR0hvdXMtTlA5bzBucGp1bFZwWnpmbzREdlY4c2tUZFBhQ1A1MDkxclB3cDdvaUdraXBKLUVSY2lqZjk3VmF6LVJVOQ?oc=5",
           "date": "10-17 07:00"
+        },
+        {
+          "title": "특수 심벌이 여러 개면 어떻게 되나요? 777 슬롯 슬롯보증 - Calgary Roughnecks",
+          "source": "Calgary Roughnecks",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQjRIdzdBZE5NejVUUkJtRlZoS3NtekRKR3FfLWh6VVNvclI1VGNtMGVaaUlsMnBqWV9KeklBVHQzU1RCVDZZUVRPY2lFLXo3M3VvRGlZLS16cTBVbUZWS19GRTIyV0JYRUtvcVdvRWFzV2pLLTdUVFIwTTI1d01tbTVWZ0l0NXdEc1BKZFc3aU9EZGJZMnpNRjlHalctZ1dxQTBlLWZqNGlQUy1Ba2FqTm0tWWR2UQ?oc=5",
+          "date": "10-17 05:37"
         },
         {
           "title": "기본 용어를 익힌 다음 읽는 암호화폐 바카라 기능 해설 - Calgary Roughnecks",
