@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-10-19 04:08:52",
+  "last_updated": "2026-10-19 07:08:15",
   "weekly_report": {
     "title": "[2026 Week 43 Report]",
     "week_number": 43,
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
     "date": "2026.10.19",
-    "report_date": "2026.10.19, 04:08",
+    "report_date": "2026.10.19, 07:08",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "코코아 : $5,686.00 (▼2.49%)",
     "weekly_price_list": [
@@ -32,8 +32,8 @@
       "팜유 : $1,147.25 (▲0.15%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,334.20원 (▼6.75원)",
-    "fx_eur": "1,498.90원 (▼2.55원)",
+    "fx_usd": "1,334.66원 (▼6.29원)",
+    "fx_eur": "1,497.10원 (▼4.35원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
@@ -43,7 +43,7 @@
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
     "date": "2026.10.19",
-    "report_date": "2026.10.19, 04:08",
+    "report_date": "2026.10.19, 07:08",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "코코아 : $5,686.00 (▼2.49%)",
     "weekly_price_list": [
@@ -68,14 +68,14 @@
       "팜유 : $1,147.25 (▲0.15%)",
       "라우릭 오일 : $1,930.00 (▼1.14%)"
     ],
-    "fx_usd": "1,334.20원 (▼6.75원)",
-    "fx_eur": "1,498.90원 (▼2.55원)",
+    "fx_usd": "1,334.66원 (▼6.29원)",
+    "fx_eur": "1,497.10원 (▼4.35원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-19T04:08:52.968537+09:00",
-  "usdKrwRate": 1334.2,
-  "eurKrwRate": 1498.9,
+  "lastUpdated": "2026-10-19T07:08:15.220486+09:00",
+  "usdKrwRate": 1334.66,
+  "eurKrwRate": 1497.1,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -138,7 +138,7 @@
             "price": 5674.63
           },
           {
-            "time": "04:08",
+            "time": "07:08",
             "price": 5686.0
           }
         ],
@@ -313,16 +313,16 @@
           "date": "10-18 13:01"
         },
         {
+          "title": "Halloween candy is already expensive. Now there’s another problem - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS3R2anRjT1hLMjg1ZFFUTS0zV0YyZmFMWE1NbUdzS3NpamdnUGEydk1KY25QNEV2UV9jT2x1clE3QUJxWmZNUjdTX0JpMXNsLTdsZ2xNS2JERmhEY0tGS1MxbWdwcEp4WFM4bWQ5TkNmQWZEZHB2d000cGhfbkVWYXNHVkJHdHhfRFFSc3hMVnBBcDV2Uk9lU3Z1M3oxOXhRVEFTcEVCQVZhN2c?oc=5",
+          "date": "10-19 04:16"
+        },
+        {
           "title": "Valentine's Day shoppers face soaring chocolate prices - ABC News - Breaking News, Latest News and Videos",
           "source": "ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdHk5UVN1QjBrajdlbmpya0g4VjJfQ3BxLTM2X1hsem5lUG5TRVJlVEpTaEZGOUxwRkFIR3UwdDFzaGdUaWxyeGd6STZNX0FYa0tfT0ZjdmpCTlMtcldyMVU5anFsaExRUnFsZ0ZOTlA4S1FjdDdyNW5kc2FpZTRpSGpnSG12NkFRWVQ4WU93YzVnNURVREZ0dUtpYTZLNU96ZlNr0gGoAUFVX3lxTE1iZmtJbWlEVTNqRlYwU3pDeTFoVnNRbGZhM0JaaGhzZGo0VXd5eHM4dzJFZF81V0ZZMVNycml2ZWlkdmhKeXFhbS1GclJPLXZTelA2RDZRek1SeXlSb185OW52TU9ySVR5SnRSa2xPZThNTTNlQ3QxaUV0Zy1TVldMTUZFM083N0tOdi15VXFNYy0zTnhVWGE0dFprTXV3SkViZHUyWG94MQ?oc=5",
           "date": "10-18 00:49"
-        },
-        {
-          "title": "Weak North American Cocoa Demand Hammers Prices - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTW4yOFdfTzhJbDBmLU5qTTZ0TDk1d1lWNnBvTVg0SDBMeGRHRU5IUVZ4cWlHeHM0anA1aDRrZlMzSzlBSjZMQ1Zqc0dGSTRWb3Jiek91OGZsc0FEaGhlQ3VBLThrODJFYzA4REJBQUViRnVNczRaS0FVdURZMElWNEFON0lZbDhBWG84dlpsTExFRTV5SFE?oc=5",
-          "date": "10-17 03:24"
         },
         {
           "title": "Candy Makers Face Higher Cocoa Prices and Tighter Sugar Supplies - RFD-TV",
@@ -418,7 +418,7 @@
             "price": 6722.75
           },
           {
-            "time": "04:08",
+            "time": "07:08",
             "price": 6736.22
           }
         ],
@@ -613,16 +613,16 @@
       ],
       "newsKr": [
         {
+          "title": "2026년 10월 18일 오늘 커피 가격: 추세 반전, kg당 1,000 VND 급등. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVVOeVptbzRoTW53cXFWVkhOZ2xDaDN5enBfQXNGTHU1VVhpWVMtelJIZ0JnNnVxMExEa1Z4LTNoanNDbi1veU9EZTliUGtGRDZwNnRROGR2RWlGUnZlZXNoVmxQUGtGRkRuTC1sMDdRTWRKNFVKM1RIMFAybjdFZG9peWxZU29hd25tWkdkQjdHRFk?oc=5",
+          "date": "10-19 04:11"
+        },
+        {
           "title": "2026년 10월 19일 현재 커피 가격: 새 수확으로 인한 가격 하락 압력이 여전히 중요한 요인으로 작용하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONDFtc3l2TWtOMVlOcU1UZko2OG9YM1JVY3JBaURRaXlSc0dkWEdSQXpJaHhINUNKU0FrNDhibkhxM2E0SU5KdW0zRmxRQWY2ODFpWkRpUjJrZUpWcGhoSlZhdC1kZGNYWVM1ZnVwbDBfS1VsQk8wdDF4ek9NbldUclJfeXIxTndoNG8zbw?oc=5",
           "date": "10-19 03:32"
-        },
-        {
-          "title": "오늘의 농업 뉴스(10월 18일): 커피 가격 상승. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tQkptRm1mVlczSjEtc3FJZGoxeGs5cUFuQnpocWJGZ3V3UVlidkhkSXZrY0F3MVN0bF9qSTJJUUEtcXRvWEhRU29DVWU0UzdkZU1Od3FPTWdJUHpDNTJUZG16LTRJSGZ1d05nOHZFeUJZR25KUHk4dXlfaVQ?oc=5",
-          "date": "10-18 11:28"
         },
         {
           "title": "오늘(10월 17일) 커피 가격: 다시 한번 급등하며 아라비카 가격은 5주 만에 최고치를 기록했습니다. - Vietnam.vn",
@@ -823,7 +823,7 @@
             "price": 3720.54
           },
           {
-            "time": "04:08",
+            "time": "07:08",
             "price": 3728.0
           }
         ],
@@ -916,16 +916,16 @@
           "date": "10-19 03:32"
         },
         {
+          "title": "2026년 10월 18일 오늘 커피 가격: 추세 반전, kg당 1,000 VND 급등. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbVVOeVptbzRoTW53cXFWVkhOZ2xDaDN5enBfQXNGTHU1VVhpWVMtelJIZ0JnNnVxMExEa1Z4LTNoanNDbi1veU9EZTliUGtGRDZwNnRROGR2RWlGUnZlZXNoVmxQUGtGRkRuTC1sMDdRTWRKNFVKM1RIMFAybjdFZG9peWxZU29hd25tWkdkQjdHRFk?oc=5",
+          "date": "10-19 04:11"
+        },
+        {
           "title": "오늘(10월 16일) 커피 가격: 로부스타 가격이 톤당 100달러 이상 급락했습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcVNRcmZ5SG4ybjQ3QmFxX2U3djJPblgtaVdJY0tjb1NRaV9yRWh2UHNWdnYtcXpPeV8tTEh6cmlyMkc3RlVYV1ZTQVZLZUliMHJNSGUyS1p0ZnBvRXBjMENkMkh6UzBYTnM0OVk1Y0NNV0djVmU4RXVMeU42QjRUZV9tTXpiRGhNRVU2bw?oc=5",
           "date": "10-16 16:33"
-        },
-        {
-          "title": "2026년 10월 16일 오늘 농산물 가격: 로부스타 커피 가격이 100달러 이상 폭락, 국내 가격은 조정될까? 미국, 러시아 석유 대기업에 대한 제재 면제 연장. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMEVXMHg5d2FNUkFfdTR0VVdYZ0N6OXhoSlp5MkdackF1Z2ZvWURNbjNjcDVfb2lfV1VxVVYxRUJGWXViX1pQaEdqUG9TdmhkNTZ6ZzRRU0stR1RRVEJIUWFWNEJ2MEZrUVMzX0Z1SUZSWUhmcnNGUzNYTVR1MkhsZFQ3bnJIbDJ5VmtFNGppbHZ4T1pUMTg1LVlVbEhhVmZ3Q0lIbEVrNzkxcWJPMDNtNFdZUUgydXRPLXpSdXRadGgxSUV2a2NvbGw5VDRFdzM0M1B3bTFSbXdVWVRrX1l2Sk1sQUtXT0txVm5iM3AwOXJ3M0RUcDNtS24xNE43VUdv?oc=5",
-          "date": "10-17 01:47"
         },
         {
           "title": "오늘 10월 17일 농산물: 커피 가격 지속적인 변동 - Laodong.vn",
@@ -1622,8 +1622,8 @@
           "date": "09-24 16:00"
         },
         {
-          "title": "Skim Milk Powder Lights Up Global Dairy Market As Protein Demand Inverts Price Ratio - en.edairynews.com",
-          "source": "en.edairynews.com",
+          "title": "Skim Milk Powder Lights Up Global Dairy Market As Protein Demand Inverts Price Ratio - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm0zNnJ5MXptTU9ON1RuYjBCSVQ5NEg1RGgyUkFPbVFteE5rUzFGLUN0VlFlUlZMbllreHNDSl9DbVpVTEFyM0xOak8xeWpKZEFfdUlzNWo1NEhHY0tUTjgxN2pudWNKSVBKX0ltelhjQ0o2SHZzY0Q1SmZIdDhyZ3BRR1ZZVFp0cTh1T21xbG1DTXUyTy14aXBncnFVU3NNVkgtWHFoOHllcWdFcXE5Uw?oc=5",
           "date": "09-01 16:00"
         },
@@ -2055,7 +2055,7 @@
             "price": 1144.96
           },
           {
-            "time": "04:08",
+            "time": "07:08",
             "price": 1147.25
           }
         ],
@@ -2124,16 +2124,16 @@
           "date": "10-16 15:46"
         },
         {
+          "title": "Corn - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91Y2dXRV9nTmt4dlJGV2U5SGpNNlVpMTUtaVJTUk1QWE1EU293MEJXRkhzeUVPOHBheUxxbXFpRTRKRjRvRDhzc2JNakNOLTNRNDlFd3pidjRRSldhSTV5eWttcWZBTmc?oc=5",
+          "date": "10-17 03:14"
+        },
+        {
           "title": "Palm oil posts gains on bargain buying - Business Recorder",
           "source": "Business Recorder",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE13LWpsQm1IQndIUTVOSUt2OWNselh3dlMwN0gyNWp2Qk5pWkQxQ0xJYWpydWJPNEJqNTJlRTF0LVplcmJnM2phc2ZOblhKblot0gFWQVVfeXFMT1BYTU82dnZtRElyOThjS2R3ZUVLOTRiUXYyT2N1d3NvX2ZDVzJWYXk4T2MxRXdOemo1MUVnQlVQR1lVanpYN2M3QnNTakhvSHhCWkZoVVE?oc=5",
           "date": "10-18 08:53"
-        },
-        {
-          "title": "FMCG firms feel the pinch: Will your favourite products cost more this Diwali? - The Times of India",
-          "source": "The Times of India",
-          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZnljVURDNkNEaWFjdERiVXRZeXJqS05RVkdhREc1a2Z1dHFkNnhRaS1oRTFNQVFyTmZGWTA3X1JnNWppY1hKRGtMYXdGQmU2c3h4UVdOdGgtQlRzT0p0MkZ1WWtvZW1TR2tiSV9KU0xselBUNGY0NEVyX1NucC1rUWZhUU8tOE9ES0Q2bW1Od3RnX0FydVlZQWZvd2Zxd0tWN0hjX0o2bTk0YWVwZFVXTVUtQ2tGTWc0SnYyUFdVak15dnhTZFRhdEsxSElhalRqdVIxOVpPNGwySjBTdENtd0xHNjVxSHYtQURPZWpCdVhZYUtO0gH6AUFVX3lxTE9YN0dRRnp0NlNULU5yT3B0Y1JmVzBHTkM2VlAtZXdzYzZnRnJHYnhNemZzaTRzZ0ttTTlvUzVhRTdMOHRPVl85aS03YXNqREhjcUFwdXdObXdTc29CRkZYdENxaHIxc1dfTE4tVTJnd2tTRVh6UEZzZThzQzlXZXJ2cHgwS2pLUWdxaXRld1h2TlhmWW41Mi1iWkQzOHRsSHdMY1A1OTdsN0ZjVGhVTE1CVC1XMXRqN1dhV3Jfc1NBU01xc0x4Sm9qWFF4LWFpNDFUSnd3Rlp4bFpYREkzaTY4YkxwN1lmU0xzdlRrV1JLQzFrSDNMa2Jka3c?oc=5",
-          "date": "10-18 19:31"
         }
       ],
       "newsKr": [
@@ -2150,16 +2150,16 @@
           "date": "08-19 16:00"
         },
         {
-          "title": "세계식량가격지수 3개월 연속 오름세…4월 130.7포인트 - 식품음료신문",
-          "source": "식품음료신문",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fbEljWDY1OFROSXRmNDlPS1RTb1JHWFliLUVNekpWM0J4aHk0TlM2RkprcV9aUUh4QjVkeFVUaVZucWxmZlBsSWZaSlg1SS12VlFzWkpsWnZGc1AtLVVkb0xMZjNxQ2JnYlNFS2NJZw?oc=5",
-          "date": "05-15 16:00"
-        },
-        {
           "title": "해바라기유도 ‘껑충’…유지류 가격 초비상 [푸드360] - 헤럴드경제",
           "source": "헤럴드경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14VjRvazRSVFdoc1RyclRjZWtudlozWm1ESDd4ay14amtHTkllclducHRFYXR5RlVEdVRCbDRZWjJvbExwUlJtbndlVFA0WGZzZk9Ic2V3?oc=5",
           "date": "08-10 16:00"
+        },
+        {
+          "title": "밀가루·설탕 가격은 내렸는데…빵·라면은 요지부동, 왜? - 아시아경제",
+          "source": "아시아경제",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9uSHk2THJsSi1nZF94YTFSbGIwa2NkNHpBQ0hUSVJ2a0k0dGhSMW1BZjdmQ0xNZ2pXZTA4ZWVXbldZYmF5NDNHbUcxdzBDWFJ1YURPZlFKdG5uZjBnTThTVg?oc=5",
+          "date": "02-25 17:00"
         }
       ]
     },
@@ -2429,7 +2429,7 @@
             "price": 1926.14
           },
           {
-            "time": "04:08",
+            "time": "07:08",
             "price": 1930.0
           }
         ]
@@ -2511,12 +2511,12 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1334.2,
-      "change": -6.75,
-      "changePercent": -0.5,
+      "price": 1334.66,
+      "change": -6.29,
+      "changePercent": -0.47,
       "high52w": 1587.7,
       "low52w": 1322.42,
-      "high24h": 1334.2,
+      "high24h": 1335.94,
       "low24h": 1329.6,
       "high7d": 1342.99,
       "low7d": 1334.13,
@@ -2530,7 +2530,7 @@
         1340.31,
         1339.35,
         1340.95,
-        1334.2
+        1334.66
       ],
       "history": {
         "7D": [
@@ -2560,7 +2560,7 @@
           },
           {
             "date": "10-18",
-            "price": 1334.2
+            "price": 1334.66
           }
         ],
         "1M": [
@@ -2658,25 +2658,25 @@
           },
           {
             "date": "10-18",
-            "price": 1334.2
+            "price": 1334.66
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1326.19
+            "price": 1326.65
           },
           {
             "time": "11:00",
-            "price": 1328.86
+            "price": 1329.32
           },
           {
             "time": "13:00",
-            "price": 1331.53
+            "price": 1331.99
           },
           {
-            "time": "04:08",
-            "price": 1334.2
+            "time": "07:08",
+            "price": 1334.66
           }
         ],
         "1Y": [
@@ -2730,7 +2730,7 @@
           },
           {
             "date": "2026-10",
-            "price": 1334.2
+            "price": 1334.66
           }
         ]
       },
@@ -2811,13 +2811,13 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1498.9,
-      "change": -2.55,
-      "changePercent": -0.17,
+      "price": 1497.1,
+      "change": -4.35,
+      "changePercent": -0.29,
       "high52w": 1807.42,
       "low52w": 1486.9,
-      "high24h": 1509.8,
-      "low24h": 1492.9,
+      "high24h": 1497.1,
+      "low24h": 1492.7,
       "high7d": 1503.66,
       "low7d": 1488.11,
       "high1m": 1593.0,
@@ -2830,7 +2830,7 @@
         1499.92,
         1499.15,
         1501.45,
-        1498.9
+        1497.1
       ],
       "history": {
         "7D": [
@@ -2859,8 +2859,8 @@
             "price": 1501.45
           },
           {
-            "date": "10-16",
-            "price": 1498.9
+            "date": "10-18",
+            "price": 1497.1
           }
         ],
         "1M": [
@@ -2957,26 +2957,26 @@
             "price": 1501.45
           },
           {
-            "date": "10-16",
-            "price": 1498.9
+            "date": "10-18",
+            "price": 1497.1
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1489.91
+            "price": 1488.12
           },
           {
             "time": "11:00",
-            "price": 1492.9
+            "price": 1491.11
           },
           {
             "time": "13:00",
-            "price": 1495.9
+            "price": 1494.11
           },
           {
-            "time": "04:08",
-            "price": 1498.9
+            "time": "07:08",
+            "price": 1497.1
           }
         ],
         "1Y": [
@@ -3030,7 +3030,7 @@
           },
           {
             "date": "2026-10",
-            "price": 1498.9
+            "price": 1497.1
           }
         ]
       },
