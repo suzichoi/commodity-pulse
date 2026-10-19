@@ -1,18 +1,18 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-10-19 20:44:43",
+  "last_updated": "2026-10-20 03:05:34",
   "weekly_report": {
     "title": "[2026 Week 43 Report]",
     "week_number": 43,
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
-    "date": "2026.10.19",
-    "report_date": "2026.10.19, 20:44",
+    "date": "2026.10.20",
+    "report_date": "2026.10.20, 03:05",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "GDT 버터 : $4,740.00 (▼0.42%)",
     "weekly_price_list": [
-      "코코아 : $5,655.00 (▼0.37%)",
-      "아라비카 커피 : $6,860.78 (▲7.09%)",
+      "코코아 : $5,695.00 (▲0.33%)",
+      "아라비카 커피 : $6,917.00 (▲7.97%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -22,8 +22,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,655.00 (▼0.37%)",
-      "아라비카 커피 : $6,860.78 (▲7.09%)",
+      "코코아 : $5,695.00 (▲0.33%)",
+      "아라비카 커피 : $6,917.00 (▲7.97%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -32,8 +32,8 @@
       "팜유 : $1,147.25 (▲0.15%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,328.67원 (▼12.28원)",
-    "fx_eur": "1,491.20원 (▼10.25원)",
+    "fx_usd": "1,331.47원 (▼9.48원)",
+    "fx_eur": "1,492.80원 (▼8.65원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
@@ -42,13 +42,13 @@
     "week_number": 43,
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
-    "date": "2026.10.19",
-    "report_date": "2026.10.19, 20:44",
+    "date": "2026.10.20",
+    "report_date": "2026.10.20, 03:05",
     "top_gainer": "GDT 탈지분유 : $3,847.00 (▲4.28%)",
     "top_loser": "GDT 버터 : $4,740.00 (▼0.42%)",
     "weekly_price_list": [
-      "코코아 : $5,655.00 (▼0.37%)",
-      "아라비카 커피 : $6,860.78 (▲7.09%)",
+      "코코아 : $5,695.00 (▲0.33%)",
+      "아라비카 커피 : $6,917.00 (▲7.97%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -58,8 +58,8 @@
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
     "other_commodities": [
-      "코코아 : $5,655.00 (▼0.37%)",
-      "아라비카 커피 : $6,860.78 (▲7.09%)",
+      "코코아 : $5,695.00 (▲0.33%)",
+      "아라비카 커피 : $6,917.00 (▲7.97%)",
       "로부스타 커피 : $3,728.00 (▼1.30%)",
       "GDT 지수 : $3,928.00 (▲2.21%)",
       "GDT 전지분유 : $3,605.00 (▲1.12%)",
@@ -68,14 +68,14 @@
       "팜유 : $1,147.25 (▲0.15%)",
       "라우릭 오일 : $1,930.00 (▲0.35%)"
     ],
-    "fx_usd": "1,328.67원 (▼12.28원)",
-    "fx_eur": "1,491.20원 (▼10.25원)",
+    "fx_usd": "1,331.47원 (▼9.48원)",
+    "fx_eur": "1,492.80원 (▼8.65원)",
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 유제품 시세 7년 만에 최고치 기록"
   },
-  "lastUpdated": "2026-10-19T20:44:43.669683+09:00",
-  "usdKrwRate": 1328.71,
-  "eurKrwRate": 1491.2,
+  "lastUpdated": "2026-10-20T03:05:34.996863+09:00",
+  "usdKrwRate": 1331.47,
+  "eurKrwRate": 1492.8,
   "marketStatus": "OPEN",
   "items": [
     {
@@ -102,18 +102,18 @@
           "글로벌 가공업체 분쇄량(Grindings) 지표 및 완제품 소비 수요"
         ]
       },
-      "price": 5655.0,
-      "change": 10.0,
-      "changePercent": 0.18,
+      "price": 5695.0,
+      "change": 50.0,
+      "changePercent": 0.89,
       "high52w": 6675.0,
       "low52w": 2798.0,
-      "high24h": 5704.0,
-      "low24h": 5593.0,
+      "high24h": 5718.0,
+      "low24h": 5590.0,
       "high7d": 5831.0,
       "low7d": 5645.0,
       "high1m": 5867.0,
       "low1m": 5351.0,
-      "volume": 2535,
+      "volume": 14832,
       "sparkline": [
         5665.0,
         5676.0,
@@ -121,25 +121,25 @@
         5735.0,
         5831.0,
         5645.0,
-        5655.0
+        5695.0
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 5621.07
+            "price": 5660.83
           },
           {
             "time": "11:00",
-            "price": 5632.38
+            "price": 5672.22
           },
           {
             "time": "13:00",
-            "price": 5643.69
+            "price": 5683.61
           },
           {
-            "time": "20:44",
-            "price": 5655.0
+            "time": "03:05",
+            "price": 5695.0
           }
         ],
         "7D": [
@@ -169,7 +169,7 @@
           },
           {
             "date": "10-19",
-            "price": 5655.0
+            "price": 5695.0
           }
         ],
         "1M": [
@@ -255,7 +255,7 @@
           },
           {
             "date": "10-19",
-            "price": 5655.0
+            "price": 5695.0
           }
         ],
         "1Y": [
@@ -301,11 +301,23 @@
           },
           {
             "date": "2026-10",
-            "price": 5655.0
+            "price": 5695.0
           }
         ]
       },
       "newsEn": [
+        {
+          "title": "Smaller Ivory Coast Cocoa Deliveries Lift Prices - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWThxN2U5bU1RQTBOYlpwRE43R2hmSFZQaENDWExkdi1iUkdNamFReWh3c084c0lJNWVyeDVBR3hvMTc5bUppeVRoTmRMLVVCd2pOODBiWHhzTFpSNUlNUnhEMzRlRWNUUThsWmdLMmFGMGJaM0JOaEFaYXVRREhGbks5dlNRUHJQSFlrVko4OWJ2QlUxTVY4?oc=5",
+          "date": "10-20 01:07"
+        },
+        {
+          "title": "Cargill unveils Cocoanera cocoa butter range, amid market affordability challenges - Confectionery Production",
+          "source": "Confectionery Production",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNazRIYTV0NnQ2OGktSGxIWXVSUXdBSEo3LW5va2tlemdobzBzSndrcG83bkZwRC1hWkpZQ1pmTU5Gd0RXMVlET2RFM3lzRWpUVmgycU1QTWxMa0xlWjlFcjU3N20yT1JTVHE5RXJmMGtCaVkxQXNJMGxnemhlcXpPRGt3enVSbjdmcUxXaVY0NEp4RDY5Ul8xYmRvZGdMT01OUjAxenA2YlZ1Z3ZGNDRkbjh5MlZTVGFfcjFkR1BHTXhuaVdIcmlBY3k5QmU0QlR5cVdDTjhn?oc=5",
+          "date": "10-19 21:19"
+        },
         {
           "title": "Chocolate maker Lindt replaces chief executive in push for growth - Yahoo Finance",
           "source": "Yahoo Finance",
@@ -317,18 +329,6 @@
           "source": "CMB News",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYXJpTHNNMFJhMmQ2MEdKR3Z4NkhaZnhXTjJfVkVBcHBIcFlabVhKM1VKeG5OR1N3cFJrS1pneUt5Q0Jib3J6ZzJuNnoyNDFkbDljU3Y1Zl9FcWI3Rm5SbWY3cUF1a2QtTHZUVlRpT2lORjdwU1F4emtNbXZvUV9IQVg0cER6SXZnR3o2MUhVZ2xWQk1yYWVBTGVOeVNTbXRlQTN3?oc=5",
           "date": "10-19 17:48"
-        },
-        {
-          "title": "Lindt brings back former boss as steep price rises hit demand for its chocolate - Financial Times",
-          "source": "Financial Times",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa2ZpUVFMbVI5dDk3WXF4MGJnczJGQUZvV3ZIaHU3WFhSa1k4akhJTTJNZTdSNVhxanh1MHduNWlkZnBkUjE1SC1JSXpXR3ZCZFV0QVpEMFdtYy1aWThBekU3TFZza3g2WFE0dDI1TVl0TEFOYWpiOGpXOVV1SWF4TUFwYUY?oc=5",
-          "date": "10-19 17:13"
-        },
-        {
-          "title": "How the Price of Chocolate Got Scary High - The Daily Upside",
-          "source": "The Daily Upside",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2FiaGZROGg4eGVfWjN3X3FHRXVxR0VNOG9uVHFrMDV0Rk9PeV80RTNrcEJDUnh6US1xeVlqaWljbTBpaTBiUTdMWnZvak1ZLXJ2OFJBVGRpQUs0MXpzLXpVWVZSMUZhcS1vbGZSZEtJRzY4ajZLdzlYTV9lUkNKOUZWQ0lpNm81bUJnaXBreWl5QktSNVRvVlJMZw?oc=5",
-          "date": "10-18 13:01"
         }
       ],
       "newsKr": [
@@ -382,18 +382,18 @@
           "유럽 삼림벌채방지법(EUDR) 등 글로벌 규제 이슈"
         ]
       },
-      "price": 6860.78,
-      "change": 123.46,
-      "changePercent": 1.83,
+      "price": 6917.0,
+      "change": 179.68,
+      "changePercent": 2.67,
       "high52w": 9655.13,
       "low52w": 5350.61,
-      "high24h": 6918.1,
+      "high24h": 6999.67,
       "low24h": 6680.0,
-      "high7d": 6860.78,
+      "high7d": 6917.0,
       "low7d": 6326.16,
-      "high1m": 6860.78,
+      "high1m": 6917.0,
       "low1m": 6003.18,
-      "volume": 3859,
+      "volume": 20781,
       "sparkline": [
         6326.16,
         6406.63,
@@ -401,25 +401,25 @@
         6570.87,
         6499.22,
         6737.32,
-        6860.78
+        6917.0
       ],
       "history": {
         "1D": [
           {
             "time": "09:00",
-            "price": 6819.62
+            "price": 6875.5
           },
           {
             "time": "11:00",
-            "price": 6833.34
+            "price": 6889.33
           },
           {
             "time": "13:00",
-            "price": 6847.06
+            "price": 6903.17
           },
           {
-            "time": "20:44",
-            "price": 6860.78
+            "time": "03:05",
+            "price": 6917.0
           }
         ],
         "7D": [
@@ -449,7 +449,7 @@
           },
           {
             "date": "10-19",
-            "price": 6860.78
+            "price": 6917.0
           }
         ],
         "1M": [
@@ -535,7 +535,7 @@
           },
           {
             "date": "10-19",
-            "price": 6860.78
+            "price": 6917.0
           }
         ],
         "1Y": [
@@ -581,22 +581,22 @@
           },
           {
             "date": "2026-10",
-            "price": 6860.78
+            "price": 6917.0
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Commodity market: Arabica coffee prices surge, soybeans under downward pressure. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdGRkWEJSMlFLUDkybzhSb0RLWTN1Z2hYcExRSGJqc3VyOXQyc09rQkhRVkVUUE1EdEx1OVUwVzhrQnBrU3QwcDVlMktWSUlwTktaYzBqT213VzFMbHlVeEZFUHJ4aEhqRDg3bENvV2pnSThURXBRLVpnQUI1b2M0R081RVVGeGJQQnhKZlpnOHY2QXJ5eWpKZU85X1lTTGI3NWc?oc=5",
-          "date": "10-19 16:44"
-        },
-        {
           "title": "Coffee and soybean prices moved in opposite directions last week. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSUYyeHhMYlA1d2w1eFNYSXZRMWs3X1JCU2tEbXp1aFdnWkpyRjBhQUZWb0llYXJ5U3ZOZVBMdC1ia09HUlFZSmk0X3JNekZuenBUcUFEZEIzMDYyTjZTR0VNMzJPV2w5XzREMjdjZlpaR1pZcy1rVm92VG9xeHZsdjAwbkZudw?oc=5",
           "date": "10-19 15:21"
+        },
+        {
+          "title": "Arabica coffee prices surge, soybean prices under downward pressure. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNFJFakIxeS16VTZrOEpmQ2szeExURXRFS0dEVGpkS1dLaWdQd2U4ajdWRy1UanlVdE5IbzdOQVRMR2RRaDRrMmpoSW5MdDdsWC15eE5PN3ZlNVJYaG1fRDRmdXljQ3oyN1R5SElaVUtFNE1DZDNJOWowN2JrSkhMelRuYU1NQjA?oc=5",
+          "date": "10-19 13:53"
         },
         {
           "title": "Coffee prices today, October 19th: Arabica prices surged, while Robusta faced downward pressure last week. - Vietnam.vn",
@@ -619,6 +619,12 @@
           "date": "10-19 15:54"
         },
         {
+          "title": "아라비카 커피 가격이 6.5% 이상 급등했다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZ0RUc2hsX1VpSlFoeUZUbWt1ZjN2M2ZDamVFWUxURF9JWEtMbWRjMmVIQVN4UlFpMVdfYW93VnV5NFljM1Z5SVZXdkM5Q0VyQ0lCcDd5N0hFbnFZd0dmSTFuU2hTVDdsOVozTUl3?oc=5",
+          "date": "10-19 20:10"
+        },
+        {
           "title": "10월 19일 오늘 커피 가격: 아라비카 가격은 급등한 반면, 로부스타는 지난주 하락 압력을 받았습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNckw0QjUwODlDbjNUdjJKM3cyYnRlaV9Kd08tek1OWEdXcXJLUUlJcjl5Wks5M0dNMjFtd2tHN2pOcU9UaElhWGZXYVBOb1hEclFWejRGSU5idkZjNnZsZGJ0REptRURPdkoyY0VPX3BONkJFN25TR2t2d3FaelJCa2FBdmdVdVZ0U0w0US11SVMzUVZ3YXFuLS1lOEJLcVZOVXpjRE41VjdNMHdN?oc=5",
@@ -629,15 +635,9 @@
           "source": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3BYb1Vxc1pIVHpNRk83cXgtaklMM3dCVlI0NHAwRlVTSDhLUmtFN3dZWG4zbEFNSDRYbE1KclI2ZUV3eURHckt4MmRrQ3A5djlLNGR3aUVtTmJ4VHl5OUZ5LUpOQ1dWMHFRaTNoQTBadklFU2htVW9lZWFQTU56N2h0ZWc0Wm81ZTRDS2Z0WmdHUGVsUi1nWA?oc=5",
           "date": "10-19 15:08"
-        },
-        {
-          "title": "2026년 10월 19일 오늘 농산물 가격: 국내 커피 가격은 급등할 가능성 낮고, 후추 가격은 안정세입니다. 유럽은 중국산 제품에 대한 추가 규제를 원하고 있습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQczhWTUZ4TF91bkdXUVpfUHlhd2Z4MURVam5YaVNpVy00WXYzRkdwcmpqeVo4LWlhbW9MQWtLUVU4SmdWaDRWQnM4UExGUGs2VFR1U1FoRDBONDJyeTFIRktlSm0zZEs2M2EtV05sOC14OFNPb08zbTNkSTFWZ19BMUprSVV3Umpwb0g4b1dNUUZ2bldZeUFEYi0zVExmeWtFUFlqWU9LX01vdkc4MHFLLWFOVnF5VmZSTTNOMkxWbXQyWFdwY0ZFRGwtU1FESXNqYkhWczdJZ3kwUjhkWGtQcTVHTGNZeUFJR2Rv?oc=5",
-          "date": "10-19 14:40"
         }
       ],
-      "original_price_lb": 311.2
+      "original_price_lb": 313.75
     },
     {
       "id": "robusta",
@@ -823,7 +823,7 @@
             "price": 3720.54
           },
           {
-            "time": "20:44",
+            "time": "03:05",
             "price": 3728.0
           }
         ],
@@ -928,10 +928,10 @@
           "date": "10-19 14:40"
         },
         {
-          "title": "오늘 10월 19일 농산물: 커피 가격 상승세 지속 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3BYb1Vxc1pIVHpNRk83cXgtaklMM3dCVlI0NHAwRlVTSDhLUmtFN3dZWG4zbEFNSDRYbE1KclI2ZUV3eURHckt4MmRrQ3A5djlLNGR3aUVtTmJ4VHl5OUZ5LUpOQ1dWMHFRaTNoQTBadklFU2htVW9lZWFQTU56N2h0ZWc0Wm81ZTRDS2Z0WmdHUGVsUi1nWA?oc=5",
-          "date": "10-19 15:08"
+          "title": "아라비카 커피 가격이 6.5% 이상 급등했다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZ0RUc2hsX1VpSlFoeUZUbWt1ZjN2M2ZDamVFWUxURF9JWEtMbWRjMmVIQVN4UlFpMVdfYW93VnV5NFljM1Z5SVZXdkM5Q0VyQ0lCcDd5N0hFbnFZd0dmSTFuU2hTVDdsOVozTUl3?oc=5",
+          "date": "10-19 20:10"
         }
       ]
     },
@@ -1140,16 +1140,28 @@
       },
       "newsEn": [
         {
-          "title": "CME Group Expands Dairy Business with New European Futures and Options - StreetInsider",
-          "source": "StreetInsider",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElKX0dUeGxfUGNrYkdQZUdIN1Fob21VUmJUZDRDSk5KWDRYaV9lMGdRekREZUh2cjdwdXQ5VDRDTFpUcUIxbUZRYTEtNzVoRjN3MEwwWW0zLWU5RVJDOUt1bnFnT0ltbFp0bGZfd21VdThYLVRaajZBTHc0VDJUZzVRY2k0b01xRnF6NjVadExqdkpkelBQeTl2RDByR25uRkRwMWhkZ3hMMmoyMmlUaE1hVzdCX2lzSGYySGlrMkEtYnJUbjJnLQ?oc=5",
-          "date": "10-19 20:07"
+          "title": "Global Dairy Trade: Dairy Price Index Rises 0.1% - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE85SU4wd1NDZGRaZ0EzWlEtTXFFYnA3WUZVYkhEbUl4SmtCZ3hhazlYSlc5aTFqY3ZubjdSX0tlVGtpeUJjSjI2WS1UUV96c2Nya0xuX09RUzEtWEdBcEFZMnBuSVd1UmQxLWVLZXNYUzVhT1NETVhNZ0tzMERTZw?oc=5",
+          "date": "08-04 16:00"
         },
         {
-          "title": "Partners Group taps BofA for potential €1.5 billion Parmaco sale - Bloomberg - Yahoo Finance Australia",
-          "source": "Yahoo Finance Australia",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM3NodGVxVFFSaVJuSEVFanJzWnZuaWtsTGxEbkdtdHk4NkZJeHpxVU9LRDJkbVVQdjFNcFk1cW55ZThXc0ZFN0xuT040Vl9YMDBhZDFaaVQ4bERzQUFkUGFRTEItdVBHWGJCWWZuTlo3UE1CUTd3VkpPcVZySkNFcVh2cnl5SVMy?oc=5",
-          "date": "10-16 22:51"
+          "title": "Skim Milk Powder Lifted the Global Dairy Trade Index - dairynews.today",
+          "source": "dairynews.today",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVXhWZmRoRHJUU3BGYnVCd3gza3pMUVlxTUh4RTdPUXk2TEdPSTdYMWxieDlZcGtuMmRoYXpFZWtMWDFxR0lIdkFtSFRYVW5vQnVIak5uRTE2bzROT3d1dllUQWRPbHJYajVYTUhsTGYtbE00RUdGNGlfMlBHYTlWcXJ1WEdsb3dCNnJRYUYxaFRhZ3ZhYzFEMVdB?oc=5",
+          "date": "09-02 16:00"
+        },
+        {
+          "title": "Global Dairy Trade Auction: Buttermilk Powder Surges, Cheddar Slumps as Powders Lead Price Rebound - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDE0V2JZNjMtRDV1dVpXMi1TVTFhOGdOX1pQNFZXSlpOTFFwTVJ6YkE0Mi1ibzlpR3pmZXZNM1NHN2FQaUQxZmRpTWp5OFhqTlN5ZVdRODE4YlJJSmxFREFmeGg0dWtLVnFnNjBBR3dLM2x2eDUyVV94Ym9lbEVzM1NrMXZ3NzU2bGkzSV94ZEtNZVBhYk5hcFRNLVpBV0tzX0RobElmRGxQNlNwSVVHUUtzRGR3ekpFcDZlMDB3?oc=5",
+          "date": "07-27 16:00"
+        },
+        {
+          "title": "Dairy Trends: powders prop up positive GDT index - Irish Farmers Journal",
+          "source": "Irish Farmers Journal",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU0QtdmdLMzB6amNfa1JuVm8zNXZKSUFJQVhTdDJGcG92US1yYk95RUpLOUo0WDh6NVlzV1lWTE5GNDlFeXo2VWg0ODlGbTNRSHFQUzFHNTM1RTFLdU9BM2MzbnZfa3czd3pOaWlweWdiNk82ZVZfUzR2M281YXNXZGYydHFmOU5ZY3N1RDNGdTZXWUZWT1V0Tm5zVGFIWmc?oc=5",
+          "date": "10-08 06:07"
         }
       ],
       "newsKr": [
@@ -1366,28 +1378,22 @@
       },
       "newsEn": [
         {
-          "title": "commercial butter manufacturing | World Dairy Expo salted butter wins top industry honors - en.edairynews.com",
-          "source": "en.edairynews.com",
+          "title": "commercial butter manufacturing | World Dairy Expo salted butter wins top industry honors - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjU4cEp0eTNobXpPbDJhekhmVmNUdURSMzBYZjdSSmNiQ2w0SU9KVno4YjNDOVJydEpVQjh6c0hOTTFWVTEwbzNNbnFoUDNBZkN4aDhhbV83M0Nqa3N5VFluRTdCa1g5WW5kNmlQbzgtaVgycGhGcUd3cU1lbF9RNkV4dDVNQnVFblE?oc=5",
           "date": "10-19 19:01"
         },
         {
-          "title": "Freight costs continue to influence cheese prices throughout production and delivery - Farmers' Advance",
-          "source": "Farmers' Advance",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLUFkcFNvZWhkendHeDk4OHNpQ0VCTjhCU09Xck1WelpmOVl0WjZVNGRCZEVtVnpmUHBranVLWEtnVkZVVTdLMkZZZmhfWWdBMUNTT1VLemVZem5GOURXVkFqYWdsaUl5X2dTdmVuRVlWSzR2NU1DNnJxVEpjTWc2S0ItbnNZaWwtV25kNFVyVE9feFZXYzl0TEVSSG16SFpTR0Y2bXJLQ0dBbjI0ZDl4YlFwTWNNX1dGQTk1MG5LZ0JkdnNYYk5mQTdZVnhDcEtLZEJtTWdxS25pMlBIMzNKOVBRb1c?oc=5",
-          "date": "10-17 00:35"
+          "title": "Canadian Supply Management Offers US Dairy Policy Lessons - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXNZNjM0MG11M05LeWNrQ0xzZGZpbVlXSTVHOHZuaXNJMGZ0VUNGcE9uRG9xZ1ZvRkhhcmdNYmxtVmpsQWIzZGoyT1JrOElwSkFmVWl1bFpEMGxYSm5RSHM0a3c5TVMwNnhQOG1SclZUZlNaRzdETUR5eF81TG5iTGt6M3ExcXJxd1hicg?oc=5",
+          "date": "10-19 19:17"
         },
         {
-          "title": "European Milk Powder Prices Rose as Global Dairy Markets Diverged - Dairynews.today",
-          "source": "Dairynews.today",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNU5TbXg5SG5ZclhVb3MxUzFEVk44azRTUXJwT3BGSThfOEdSeTJWZFFod3dfSVJ1LW9Dem1yaHR5SHE2dXdQUEhJU2xHMGFsdzVyTTBMSmFzOTJSUTA4RkNNM3doaDBsWnFHYm1LU3BhemlZWlRHekxLX2g0RjZxZEg1alVoaDNDUUNHNVFRamM4dHYteGQ2Z3FtbEd4UGhTT2Q5ZmFlZkFjTnc?oc=5",
-          "date": "10-16 22:39"
-        },
-        {
-          "title": "Global prices for powdered milk are rising, opening up new opportunities for Ukraine - UA.NEWS",
-          "source": "UA.NEWS",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPREZMV2RROFVjemdiQnlrdVVBN1F1c2NEV3pmMllrTUZWYWZCbmk2M2JSSkVzbV9zdzFwejJZZVk1YWpYY0lObFhkQWVwWVh4dFlhV250aGFxSkNTZHFKMjVoQzhpUE1XSjNXLXlEQUZ4eFB6MjRuYy1tMWZ3a0U0Mk1aV2wxRVRnUE5helNfT3BnSjFWVUl3dE5hbW1zWFZWSUhMaEpTSld3dUlFWGc?oc=5",
-          "date": "10-16 22:20"
+          "title": "Milk Powder Market to Reach USD 55.6 Billion by 2036 as Demand - openPR.com",
+          "source": "openPR.com",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlBUdS1QelU1NGphVUt0VkN0dy1VUVhWWmttTmtYN09Vb1R4dEZvWkZmckJLQm1GNDUwbzA0eWxtN3RwMnNqNnhZRmF0VEcyQVducFEtVmFkX1o0U21YZmdraGtrX1BwT3RxbW1TSmUteWxhR0UwY2pCbHJWeE5ZSmpvRlhpQ3lQaWVXeDJ2MjJONVJIdk1IWkpxOE53UVU?oc=5",
+          "date": "10-20 00:21"
         }
       ],
       "newsKr": [
@@ -1604,16 +1610,16 @@
       },
       "newsEn": [
         {
+          "title": "Dairy commodity prices | Skim milk powder commands record premium in GDT auction - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPS1lfTGxBUlNwMHdIaTVQbEtsVUdzTG8wVGt4akQ0TUhQa2hpTWY2dThraU0xZzZGNVVuN285MjZrandFM0RMUU5VcTFUaTBwdDJWd2hYTWJGNmNxS0JwcXlZeXNuYmROUWhHOTVQQmxyTG5tYjVYeUpNUnI2X2JMMm5veHptT0lrdEE?oc=5",
+          "date": "10-06 16:00"
+        },
+        {
           "title": "Mielke Market Weekly: Estimates raised in most recent WASDE report - TheLandOnline",
           "source": "TheLandOnline",
           "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOLXJZOS1mLU1QcHBWV254eWNiaUVnQkthYk5vbjB2bV9yQ2oxWWFvajdkamVuczBLQTV1cFJqZWd2QzdaamwzbFc4QVgzUlYwMDl1M0NrVWQyR3RqQ09SYVduTDRPRXZtVnNPRXNOdm9PVDhrNVBoVWFaUVJWTU9OQi1yeVZZaHpwUWVOYnV5Wm1qTEl0ZnlScmR1eUdZOUV1NjZzQUN3N1ZHY0J0cEtYZjN1Yk5lWXdCSkI5UXVtUWo4b3FJaHY2dDl0MzE4WVUtVzBPR2VuMGZSQS13ekh2ZVI3RnU?oc=5",
           "date": "09-24 16:00"
-        },
-        {
-          "title": "Skim Milk Powder Lights Up Global Dairy Market As Protein Demand Inverts Price Ratio - https://en.edairynews.com/",
-          "source": "https://en.edairynews.com/",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQm0zNnJ5MXptTU9ON1RuYjBCSVQ5NEg1RGgyUkFPbVFteE5rUzFGLUN0VlFlUlZMbllreHNDSl9DbVpVTEFyM0xOak8xeWpKZEFfdUlzNWo1NEhHY0tUTjgxN2pudWNKSVBKX0ltelhjQ0o2SHZzY0Q1SmZIdDhyZ3BRR1ZZVFp0cTh1T21xbG1DTXUyTy14aXBncnFVU3NNVkgtWHFoOHllcWdFcXE5Uw?oc=5",
-          "date": "09-01 16:00"
         },
         {
           "title": "Global Dairy Trade Auction: Buttermilk Powder Surges, Cheddar Slumps as Powders Lead Price Rebound - CMB News",
@@ -1842,28 +1848,28 @@
       },
       "newsEn": [
         {
-          "title": "commercial butter manufacturing | World Dairy Expo salted butter wins top industry honors - en.edairynews.com",
-          "source": "en.edairynews.com",
+          "title": "Marketer says butter prices have stabilized - Brownfield Ag News",
+          "source": "Brownfield Ag News",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa1JRYTBTUE51dUxzMVA3aXlxd2h5cGtuYTNrT2I5bkxQSHQ0UmVLSzI5Z1ZIRkZCeHhlblVjUDJJdXJqdFQ0WUdFUm5MYVh4b1ZBMFBOY0VFdTZLaEMySzFqblI3MFFrOW5wMlBVUHBVRkE5STh1RkI5R1dLMHlpZEhqdEc?oc=5",
+          "date": "10-19 21:03"
+        },
+        {
+          "title": "commercial butter manufacturing | World Dairy Expo salted butter wins top industry honors - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMjU4cEp0eTNobXpPbDJhekhmVmNUdURSMzBYZjdSSmNiQ2w0SU9KVno4YjNDOVJydEpVQjh6c0hOTTFWVTEwbzNNbnFoUDNBZkN4aDhhbV83M0Nqa3N5VFluRTdCa1g5WW5kNmlQbzgtaVgycGhGcUd3cU1lbF9RNkV4dDVNQnVFblE?oc=5",
           "date": "10-19 19:01"
+        },
+        {
+          "title": "EU Butter Market Analysis October 2026: Milk Supply, Costs and Prices — CMB News - CMB News",
+          "source": "CMB News",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNampyNl9hSGZHOWFBVkZZeWZ1ZGxBNnEySUU4V3dGdmIzM05DNHU0aDFZblNtaGdpa2VMVzQxX2RPY1UxeWpXdU9zcXRER09PYWVnMER0UDExYWJxdURyWFZlMVNSYWFTWnJ2RnBRV1JmeTdrMWFKbGg4bWhhWEp3clp5eFRQNWdtUjJVeWhSS1dRbThVY1lMZFA3dzAwdw?oc=5",
+          "date": "10-19 22:51"
         },
         {
           "title": "CME Group Expands Dairy Business with New European Futures and Options - TradingView",
           "source": "TradingView",
           "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZUpYeDJHU0puRmc1X0lZLUM5S1FaWXR5aG5HX3ExLUV1X3E2U1hDd3FGbklWdGFsVlhxZVZvRk1GbEs2bE9oaFVNSHVPRENnWERTb1VpWkh3OEw1Q3hxeDFpTGxnVF9XeE05clF0cTVfbk9CeXJGQ3F3RnF4YWtLeTZ3NzBpeXI1NVU0N3JsRDVnaHhfM0FxY3VMZy1lX3I3QTlVSDlEdzd3TXJsS01DWjdFdmw2N0YtMjlWM25XbEdBdWFMZ1lMTVFINA?oc=5",
           "date": "10-19 20:00"
-        },
-        {
-          "title": "European butter and milk prices could soon have new trading contracts from CME Group. - Stock Titan",
-          "source": "Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdmVudF9UY3ktQ0UtU3VXWWZZNFBBblZGTmJGNmYxaUFtbGkzU192TldTWW9ZN2dzOW10NktLRWJBcUNlYng3YU9lODBHTEhaN3Rkck5ZQ3RJdFJtZ0ZxNXY3bGRvdjZUZGtqeGIxWFNDNnRxRUtiUnJvcm5mM0MzbG43aU5HTmRNMjJzelFieWZxb0E0MDhoNGtEV3hfbFI4MlhNc05hUmZlM0FhU1hVc3ZnTXRUQUk?oc=5",
-          "date": "10-19 20:00"
-        },
-        {
-          "title": "Freight costs continue to influence cheese prices throughout production and delivery - Farmers' Advance",
-          "source": "Farmers' Advance",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPLUFkcFNvZWhkendHeDk4OHNpQ0VCTjhCU09Xck1WelpmOVl0WjZVNGRCZEVtVnpmUHBranVLWEtnVkZVVTdLMkZZZmhfWWdBMUNTT1VLemVZem5GOURXVkFqYWdsaUl5X2dTdmVuRVlWSzR2NU1DNnJxVEpjTWc2S0ItbnNZaWwtV25kNFVyVE9feFZXYzl0TEVSSG16SFpTR0Y2bXJLQ0dBbjI0ZDl4YlFwTWNNX1dGQTk1MG5LZ0JkdnNYYk5mQTdZVnhDcEtLZEJtTWdxS25pMlBIMzNKOVBRb1c?oc=5",
-          "date": "10-17 00:35"
         }
       ],
       "newsKr": [
@@ -2043,7 +2049,7 @@
             "price": 1144.96
           },
           {
-            "time": "20:44",
+            "time": "03:05",
             "price": 1147.25
           }
         ],
@@ -2100,28 +2106,28 @@
       },
       "newsEn": [
         {
+          "title": "Malaysian palm oil prices decline amid high inventories and weaker soybean oil - UkrAgroConsult",
+          "source": "UkrAgroConsult",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2lfc29HSEtWQ3Q2aUl0ZzNiM0FVLUQyYkdWYjloUlJwX1hWMGtza0czc3NHX1B3OFFMZDRzSXNtUTQ0Q2FrRTAxMHQ3UnMteEZTei1zYmhibnU3V1dNMGUwZlNueW9pYW5ETzNyOE5RWExIRG1lelFGYXM2UlJaa2E5R2lOa2F6Vk5sMHZWNlFnLVI5OUYyT19uQW9UdlowYkZZcndpODBXUFVvUjRaazFmVXA?oc=5",
+          "date": "10-19 21:26"
+        },
+        {
           "title": "Palm Oil Market Update: Futures Rebound Amid Heavy Stocks and El Niño Risk — CMB News - CMB News",
           "source": "CMB News",
           "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNnR3WF9YQzZDVWpXNGVnRkdIdmJVTVI2cjdEM3N5MEFHQ1dMbmI2Ti1mRi1pYkFqTFhBSDVndjZGZDF3czRrVGliY0wyd0xoNjk2U2E5bUF5Wkp6dFR1YnM2aU8tenc2dDFLMklWYVBSeDY2N2FjREhVS2luM1oxMEM1RURSUm1CY3dYUF9Gc0t2V2JlLWJN?oc=5",
           "date": "10-19 15:49"
         },
         {
+          "title": "Palm falls, tracks Chicago soyoil lower - Business Recorder",
+          "source": "Business Recorder",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMTFmNTIxOW5FR1c4c2NRWkU1RkVmOWg5ZkpPazRRSGNFSklfaV9nTnhOMEdBemhzby1CUkZua2VCcFJkZ19aS3NRSkZ4aGN4Ylhyd3JUMTdPMXpIckJXYjZmcmZvazlpTC1JVGpZenplakZ4d3k0bUVmcnFqTkotendHbUfSAVZBVV95cUxPSl9LY2w3NTVZZDUzQ29FZTBiMFRKRGU1S0dTWkJ2UFFZUXI4V1B2NVI2czgybERRZUEyVXZ2SDdHSl81MEhqRkZYOGdzUzNIU25sM3lGZw?oc=5",
+          "date": "10-19 22:12"
+        },
+        {
           "title": "Haze, Regulatory Uncertainty Cloud SE Asia's Plantation Sector Outlook -- Market Talk - Moomoo",
           "source": "Moomoo",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOXzNVa3ktVWZWOGFsXzNkWHpsT2xlREY5U0ZxMlk2VEJPYjJGbW56dnpuX2RNMDZaUFNld2ZlWW1relJwWnBRcHJYVWhJOTFGRG1rYklqRzZRYzU4Y3pvamw2bldVYXhTUVAwS2tJdWFRLUhiMUtBSG9maFhfVjhMWUprWlFOZnpEbWxWMGdlY0s4YlFJaXlHRDB3M2NQTFVSUEYwd2dkUDJHbV9RZUxBTUw3RQ?oc=5",
           "date": "10-19 14:58"
-        },
-        {
-          "title": "Palm rises to 3-week high, as Dalian rivals gain - Business Recorder",
-          "source": "Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOGxyM3RDUWpTY2ZmYmtrcmUwVWhDQmRNeDRvQ0VUTWQzNU9QckRXX2NPcnRwQ2s1N3pHVnBFOFdVMVEwa0ZTelpsejNteVFJLThMRlVwQ3RTX240TlltRE93c2VrWWYyNVBXOUJnSjBzZzctYzV6TFF4NlNWU0ZESkJHem95bXVFUmczZjVHR1jSAVZBVV95cUxOZ2ctY0VBZlJ5c1RpdHpCZkRWUFkyVFJDRUphZXFWdUtVaTVQeFpRQUxXaHRmWExxQ3NYX1lWVEphQkZQWWZFRG01Q2tvV09ETm1TQUxtdw?oc=5",
-          "date": "10-19 16:21"
-        },
-        {
-          "title": "ITC Faces H2 Margin Squeeze As Palm Oil And Sugar Prices Rise - Sahi",
-          "source": "Sahi",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQmdiMkt5RXlQYWVnaEhidGhOcU13anI1SVNCS0VTSXdXUnRJMy1veEVJUVBpemVFUk0zOUttZ0pWSld4eUVRTXpWb29lbXc0ZTdUVl9ieTh2emIxZ0MxNGNtcmVsc0pfMmJUVVRKRUlsbUFGZlFjdzhIM1V0Si1peTJNMTYxUFhvWmpHWl8xYXM?oc=5",
-          "date": "10-19 13:38"
         }
       ],
       "newsKr": [
@@ -2417,7 +2423,7 @@
             "price": 1926.14
           },
           {
-            "time": "20:44",
+            "time": "03:05",
             "price": 1930.0
           }
         ]
@@ -2427,10 +2433,10 @@
           "title": "Coconut Oil Prices 2026: Latest Chart, Trends & Forecast - IMARC Group",
           "source": "IMARC Group",
           "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5zUGEyc3ItSUdQTHBOWGMzUkIzYkQwTnU1aDlUTkttbmJRcGhBVDQxODlHdnVHeGhBZXF6QUFMTEtVT1VydllGWkNDMXY2MXgtSEtXSkJmMWs3S3F5d1ZsOTkyMA?oc=5",
-          "date": "10-05 16:00"
+          "date": "10-14 16:00"
         },
         {
-          "title": "Palm Oil Market Split as Palm Kernel Oil Rallies and Palm Oil Slips - CMB News",
+          "title": "Palm Oil Market Split as Palm Kernel Oil Rallies and Palm Oil Slips — CMB News - CMB News",
           "source": "CMB News",
           "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdHoycFloblRNRmZjWmFBTjAzUmhsX0R2WHo2WklDQllNTGtKNmpvN2hTMmtHcVpTOTZwM2VXMllMLVktMjRSYnNqLUFRYWF6eHNidVlZWW5rRG1iOWN5R1Q0VmlXWjN2aDFpNWlCLWRtZzE4ai10MHZpMXRuSnZma21fZHVZQnV1bExweE1EaEZ0Yms?oc=5",
           "date": "08-06 16:00"
@@ -2499,17 +2505,17 @@
           "지정학적 리스크에 따른 글로벌 안전자산 선호 심리"
         ]
       },
-      "price": 1328.67,
-      "change": -12.28,
-      "changePercent": -0.92,
+      "price": 1331.47,
+      "change": -9.48,
+      "changePercent": -0.71,
       "high52w": 1587.7,
       "low52w": 1322.42,
       "high24h": 1337.38,
       "low24h": 1327.06,
       "high7d": 1342.99,
-      "low7d": 1328.67,
+      "low7d": 1331.47,
       "high1m": 1384.86,
-      "low1m": 1328.67,
+      "low1m": 1331.47,
       "volume": 0,
       "sparkline": [
         1342.99,
@@ -2518,7 +2524,7 @@
         1340.31,
         1339.35,
         1340.95,
-        1328.67
+        1331.47
       ],
       "history": {
         "7D": [
@@ -2548,7 +2554,7 @@
           },
           {
             "date": "10-19",
-            "price": 1328.67
+            "price": 1331.47
           }
         ],
         "1M": [
@@ -2634,25 +2640,25 @@
           },
           {
             "date": "10-19",
-            "price": 1328.67
+            "price": 1331.47
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1320.7
+            "price": 1323.48
           },
           {
             "time": "11:00",
-            "price": 1323.36
+            "price": 1326.14
           },
           {
             "time": "13:00",
-            "price": 1326.01
+            "price": 1328.81
           },
           {
-            "time": "20:44",
-            "price": 1328.67
+            "time": "03:05",
+            "price": 1331.47
           }
         ],
         "1Y": [
@@ -2706,16 +2712,16 @@
           },
           {
             "date": "2026-10",
-            "price": 1328.67
+            "price": 1331.47
           }
         ]
       },
       "newsEn": [
         {
-          "title": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSEV3TDd2amdUU0hGV0hadHBKbUdzNlJjbVdsVzZYekttNFhEeFFmYlhESmllOFJPWTBEbnpBa1VWTC03dlRlQVBCTVZkN2FiOTViMGd5REVoQ2JFUm5ORHhEMnFSbF83YzcxekdhT0xRZS0ySlg2WmRwWE9PX2VlNm5ERmFIUDJTVUVKNDZqTU1QV2dfS0QxVkNR?oc=5",
-          "date": "10-19 13:47"
+          "title": "Asia FX ticks higher; yuan hits 4-yr high after China Q3 GDP beat - Yahoo Finance UK",
+          "source": "Yahoo Finance UK",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16RUpnWldPS3hOS2dRbG5RU0Zxb2VJRk93VU5aa1d4QW91ZmJ4TFE4Wmt0Z1BqM0tLWDlLOXVIVjdfYjB3M0tFbzZnRi1VRmdjNmx5dVdFV3NZNFAwVm8wa0YxQmN6aDhjdzc3ekdlRWZDOUIxN2dHekptdEFESzQ?oc=5",
+          "date": "10-19 13:50"
         },
         {
           "title": "South Korean Won Extends Gains Near 2-Year High - TradingView",
@@ -2730,10 +2736,10 @@
           "date": "10-19 16:20"
         },
         {
-          "title": "Global Bond Markets May Face More Volatility Amid An AI Unwind - Mott Capital Management",
-          "source": "Mott Capital Management",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXJ5aXZRaDlzOWhWUmtqeGs1MHZOWUQzeXR6M1liM3pZT1dkY1dyaE1CRzViaGxtZFRaQ1B2Nk51QXBuM05QSEpDbjdJaThyQWRDWWJvZDh1bWxmbm5pSWdkUkFqc1c1QkxJM1FvcGJ6RU91N1l5aHFaem1mM0RvR3dDd1RLQkZja1hNREhzQzgyaEU1RlRZQXRJWmZvdw?oc=5",
-          "date": "10-18 22:01"
+          "title": "Euro FX - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
+          "date": "10-18 04:38"
         }
       ],
       "newsKr": [
@@ -2742,6 +2748,12 @@
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fV1BjVXZLUDB4d1FRa2RwdVVTUkhVNnp4SVpLdjVaNFRJOThZcG9rZTNuMEtsdlVVOC1ROTROUHlZRWRSR1lsenZFU2JQTHNGZC03YlRaQmtIUUF5UUs5ZQ?oc=5",
           "date": "10-19 08:05"
+        },
+        {
+          "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
+          "source": "LiteFinance",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
+          "date": "10-19 23:06"
         },
         {
           "title": "[주간환율전망] 금통위·빅테크 대기…1320원에서 1360원 박스권 - 자본시장뉴스",
@@ -2754,12 +2766,6 @@
           "source": "서울파이낸스",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RQmJOOFU4dXI0THhlSWJJRFBEOHdoU3VCazFoTG8tMmdsWFczcDJScHp2OHMtR1dzbV9McDVoUm1PZ3hwcGRyVER5MnZKRHJjZjJmQWJMVlkwUWNyMFE3czhERGNkOG5sS2c?oc=5",
           "date": "10-18 17:00"
-        },
-        {
-          "title": "[다음주 환율전망] 美 국채금리 하락에 원·달러 환율 하방 압력…다음주 1330원대에서 공방 전망 - 굿모닝경제",
-          "source": "굿모닝경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWG9Ed0YyNTVUSTdMMFJISV9ONUJGbld4aDZmQ1V2U1NBR0hvdXMtTlA5bzBucGp1bFZwWnpmbzREdlY4c2tUZFBhQ1A1MDkxclB3cDdvaUdraXBKLUVSY2lqZjk3VmF6LVJVOQ?oc=5",
-          "date": "10-17 07:00"
         }
       ]
     },
@@ -2787,9 +2793,9 @@
           "달러화 강세/약세에 따른 EUR/USD 역방향 변동"
         ]
       },
-      "price": 1491.2,
-      "change": -10.25,
-      "changePercent": -0.68,
+      "price": 1492.8,
+      "change": -8.65,
+      "changePercent": -0.58,
       "high52w": 1807.42,
       "low52w": 1486.9,
       "high24h": 1500.1,
@@ -2806,7 +2812,7 @@
         1499.92,
         1499.15,
         1501.45,
-        1491.2
+        1492.8
       ],
       "history": {
         "7D": [
@@ -2836,7 +2842,7 @@
           },
           {
             "date": "10-19",
-            "price": 1491.2
+            "price": 1492.8
           }
         ],
         "1M": [
@@ -2922,25 +2928,25 @@
           },
           {
             "date": "10-19",
-            "price": 1491.2
+            "price": 1492.8
           }
         ],
         "1D": [
           {
             "time": "09:00",
-            "price": 1482.25
+            "price": 1483.84
           },
           {
             "time": "11:00",
-            "price": 1485.24
+            "price": 1486.83
           },
           {
             "time": "13:00",
-            "price": 1488.22
+            "price": 1489.81
           },
           {
-            "time": "20:44",
-            "price": 1491.2
+            "time": "03:05",
+            "price": 1492.8
           }
         ],
         "1Y": [
@@ -2994,28 +3000,28 @@
           },
           {
             "date": "2026-10",
-            "price": 1491.2
+            "price": 1492.8
           }
         ]
       },
       "newsEn": [
         {
-          "title": "USD/KRW: Goldman Sachs sees Korean won strengthening - Investing.com",
-          "source": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnVfMDh0MUtrekpQeFctYXFScmhFSFlEa2JJN2J4eUlwSUZ5OEFFbmx0S2RKVnl1Z0tyVDAyZXV6dXJHaVhHb1EzVVRIT0djVmliWXNLVkFSVlhvTUFpTjZMVFdXcXQ3ZlFrYUozNjdPX1g1YW5CRlBQVllZZmd2SjZEZXEzRlVHMDZOZ1hZMkt0ZGl0UEhqcXlNaGhSREs1N09kZEdLOEU?oc=5",
-          "date": "10-16 21:08"
+          "title": "Euro FX - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
+          "date": "10-18 04:38"
+        },
+        {
+          "title": "Dollar holds steady as French unrest weighs on Euro By Investing.com - Investing.com UK",
+          "source": "Investing.com UK",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUs0MVNNRHpXUjVfQkJ4TjRaRDVhTzJjUzRXZ20zT2dMQ2d4WUN4MlNWZV8wLTVvamdsR2dsMVZjcUF4WjZ2dDhOaWJtc0JGaG9jZEZFNU9WNEZiT3g1aWp5dmNqOGZ4eUFHbkJNa0pJTUFLVk44dW4xbXdqUHJ0YUgtaU5mSnBTNTktVGl4N2NrakthQ2hKeTJPQU1aQXlOTzZIS0dDRWpOaHlXenpHb3h3?oc=5",
+          "date": "10-19 13:20"
         },
         {
           "title": "Iran releases currency exchange rates for October 19 - Trend News Agency",
           "source": "Trend News Agency",
           "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1Ucnpwc2lFOC14UnFRX3BHUWpGUjF3bVhDVG0wdmQySGR0THhiQUdxT3N0cEgwbWR2MVZqazF0Ty1BZ3pHR0pEYjlRYnNGMEk?oc=5",
           "date": "10-19 14:15"
-        },
-        {
-          "title": "Nepal Rastra Bank Sets Today's Exchange Rates - Ratopati",
-          "source": "Ratopati",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZXhKWDk5SWRJWXpreEotLWp4d3pWamxjOGlzU3RRbVZwSmZvOUZLT2JrTWRRMjF1WG1DeWNMeUY3ajk1TExnbGg2Yi1pWjUyMjVRakJXTXZETHo5UEp3c0IzaDFfY3NaVWt6U1I1TnM4emZzR3A0TkQweTFiNDQwOXliRUJjTlZIQkhURmJEWQ?oc=5",
-          "date": "10-19 08:00"
         },
         {
           "title": "Won Leads Major Currencies' Gains Against Strong Dollar, Buoyed by Current Account Surplus - Seoul Economic Daily",
@@ -3029,7 +3035,7 @@
           "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
           "source": "LiteFinance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
-          "date": "10-17 10:36"
+          "date": "10-19 23:06"
         },
         {
           "title": "[다음주 환율전망] 美 국채금리 하락에 원·달러 환율 하방 압력…다음주 1330원대에서 공방 전망 - 굿모닝경제",
