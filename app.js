@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "error",
-  "last_updated": "2026-10-24 20:46:03",
+  "last_updated": "2026-10-25 00:09:49",
   "weekly_report": {
     "title": "[2026 Week 43 Report]",
     "week_number": 43,
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
-    "date": "2026.10.24",
-    "report_date": "2026.10.24, 20:46",
+    "date": "2026.10.25",
+    "report_date": "2026.10.25, 00:09",
     "top_gainer": "GDT 전지분유 : $3,760.00 (▲4.30%)",
     "top_loser": "아라비카 커피 : $6,746.14 (▼2.06%)",
     "weekly_price_list": [
@@ -59,8 +59,8 @@ const FALLBACK_DATA = {
     "week_number": 43,
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
-    "date": "2026.10.24",
-    "report_date": "2026.10.24, 20:46",
+    "date": "2026.10.25",
+    "report_date": "2026.10.25, 00:09",
     "top_gainer": "GDT 전지분유 : $3,760.00 (▲4.30%)",
     "top_loser": "아라비카 커피 : $6,746.14 (▼2.06%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "뉴질랜드 달러 가치 하락: 왜 NZD는 RBNZ 금리 압박에도 약세일까?"
   },
-  "lastUpdated": "2026-10-24T20:46:03.703349+09:00",
+  "lastUpdated": "2026-10-25T00:09:49.284070+09:00",
   "usdKrwRate": 1325.4,
   "eurKrwRate": 1482.1,
   "marketStatus": "OPEN",
@@ -125,7 +125,7 @@ const FALLBACK_DATA = {
       "high52w": 6675.0,
       "low52w": 2798.0,
       "high24h": 5687.0,
-      "low24h": 5517.0,
+      "low24h": 5524.0,
       "high7d": 5843.0,
       "low7d": 5560.0,
       "high1m": 5867.0,
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5548.88
           },
           {
-            "time": "20:45",
+            "time": "00:09",
             "price": 5560.0
           }
         ],
@@ -328,6 +328,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - Chicago Tribune",
+          "source": "Chicago Tribune",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MDE3N1dTQ0pHM1U0VG91dFU0cHh3dU1jdVBrYU1jRmNadzhQZXFMRVFXbTRVZENSY19JV3g0MDBWR3RXZS1NS0FWRzBCTExRZ3huTDdfVDB5dG5lYTF1SGJVZ2pBZFBvNldsYnhUczJiQQ?oc=5",
+          "date": "10-24 23:52"
+        },
+        {
           "title": "Where Are Cocoa Prices Heading in 2027? - Barchart.com",
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcVJzakw3WWw5YXNJSFA5dVdQM2hKcFRqb3ROeTdWbHc5WlVQSERqVVBGaVdyeWVQdExoV2dnOXFUZzdPdWdEc1RoVU1IN0NvdHo3WGEwbkFNYnpjWU80YzR1TkNqWndSRDhzdzYzZEN6WkVteXNydDJJallsZG5HWWhwMEs5dTgwdGc?oc=5",
@@ -344,12 +350,6 @@ const FALLBACK_DATA = {
           "source": "Barchart.com",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlU2T0lVSGpuQzMzVG1icS1icTJvYTZqNlpZSWt1a0ZSbTdrdC03Rm1wTm1MM3FiTk1BOWxoZ2EzWVpiTXFNSDM3RDdYMUtSNHdEa0Z2dmQxMWY4eExROFdKT2s1a1hFclU1clhJXzVQTmFLb2F6LWVRMDh0OXAzU3N3UEk3MFE4bXIxYjF0cnNjVGdCX0d5WnRXbnJFbE4td2RzaWt0ZkdzV1NxeWNIYkc2bkxWRUl1?oc=5",
           "date": "10-24 03:51"
-        },
-        {
-          "title": "Sector study shows cocoa and chocolate markets to top $216 billion by 2031 - Confectionery Production",
-          "source": "Confectionery Production",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM0YwRFl1TTVuc2gzLUVST1hFVnMzMzAzcm1pc0FhNHB6STUtdk1oX2Q0bXRpNDNIOHFiZWJoUTduQ3doSmlIMlQ2bGg2SXVoMW4zbExLTTBjXy1mUWVnbnBYZHBtc3ZZenhKSkhhYVJKZVFSaWEwUXBGYVJRMEZCNjlOQmszMDhxNU9LOFF6Rkt6aXVYVzV1aWZud1hlUDM5VjE2SnhHV2gzR3NBeUY1TVlJejZfYkw2NnhxLUJBeWlEMFE?oc=5",
-          "date": "10-23 00:00"
         }
       ],
       "newsKr": [
@@ -360,16 +360,16 @@ const FALLBACK_DATA = {
           "date": "10-22 07:32"
         },
         {
+          "title": "오늘 10월 24일 농산물: 커피 가격 급락 - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFpjUXQ2N00tRkdBZjZpZGl4cV9ia2pXeHlEeUdUMEpweWlXTTdwcVRCSS04M25uMHRKWnNYeVByaVRSZGtxVDRRd011Z0hhS3pSR19CR0x5NzZOQXRvYVZVUU9ZMnVDd2hGQmNuOU1qSzEtVEtGVEJOQklpYlpURFlaN2h6a3gwcFhNaWhJWQ?oc=5",
+          "date": "10-24 17:57"
+        },
+        {
           "title": "오늘 10월 22일 농산물: 커피 가격 하락, 후추 및 코코아 가격 급등 - Laodong.vn",
           "source": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbThNUWlMZl96RmwyYzlmc3BWY2tkZ3ZMdTV6TTg4VjR4c2ZQRjhlcDZUeng3Qnl2VVZkcVFBQ3ktcnV4aXl4SUxQZGtaU0lZSG9nYTYxYmNDRXJpTmlFUEQwQXdwdTAxWHNOVW9CTzE3QllHdWlZejNseGdweFFlTk9iTHltelJJMzUzX0JwTFdTMGxtSkp1eG9zY1hING5xeHdoUWhqdHUwS0FpaXRjY1ZB?oc=5",
           "date": "10-22 14:17"
-        },
-        {
-          "title": "오늘 23.10 농산물: 커피 가격 계속 하락세 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTNVQ2txMXQ4SzBzaVlxamt5SVE3VEVqYXFVWllscV8zQy1zOFJfVEZQVUJNbDNxcGFqUVN1cW1QSElDaGNqbkV3Znl4amxpSkw1YlNzUFQ5ZTQ2anJMLVI4eTBCUm5UMThhejJLVzFjb3NHbG9YVXo3RHZHQ3QzN0ZHMzdaMUlnaUl5UTR0NU1zLVNPUWNtcUltYw?oc=5",
-          "date": "10-23 14:51"
         },
         {
           "title": "과자값 줄인상 속...롯데웰푸드 '나홀로 동결' - www.ebn.co.kr",
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 6732.65
           },
           {
-            "time": "20:45",
+            "time": "00:09",
             "price": 6746.14
           }
         ],
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3720.54
           },
           {
-            "time": "20:45",
+            "time": "00:09",
             "price": 3728.0
           }
         ],
@@ -927,19 +927,13 @@ const FALLBACK_DATA = {
           "date": "10-24 08:25"
         },
         {
-          "title": "Vietnam coffee prices edge down - Business Recorder",
-          "source": "Business Recorder",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44dy1NN1FtVV9FSnZOYjFYY2VGalhFMGd0V2wxM1dmOG9rV2p5d01CM24zRUlmM3JINTZLa3NLZFBDLVQyUlVrUDBTbG81NFhPdjhaaE9B0gFWQVVfeXFMTjh3LU03UW1VX0VKdk5iMVhjZUZqWEUwZ3RXbDEzV2Y4b2tXanl3TUIzbjNFSWYzckg1Nktrc0tkUEMtVDJSVWtQMFNsbzU0WE92OFpoT0E?oc=5",
-          "date": "10-23 09:47"
+          "title": "Coffee prices today, October 23rd: Robusta continues to fall as ICE inventories increase. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSmoySHFwNTZ0NEstNWtrNldFVkxSUHJzMkttN0xsSF9kLTVvUUhybUdJLUMwLUFGM2JFS0tSdF9RZ01TWDl4WE1JZXp5MXJkR0wyUnJOcEJOQTdwT2xBcmpFMTN2TTFVX3Myc3B5REFmSjU4OHR5QmwxeWdsOVgtMjY3enFxQzFRU2lKbkZtNUJiaS1IZl8ycA?oc=5",
+          "date": "10-23 08:25"
         }
       ],
       "newsKr": [
-        {
-          "title": "2026년 10월 24일 오늘 커피 가격: 급격히 하락하여 9만 VND 아래로 떨어졌습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2NoWktlTnh5Zk01LWJabVJvZkNEb1FaZnhlMHZZX1dOTVJWRnFKQUJRX3lLampTNVYtWXJnWXNZTWZHb3Y4S0tXTmJkVEZ0VVVLWUtua0lwbmthRTkxRGhqTGhCQWhZNnlHUlNST0xEb1FRR1Q0TkdGUFJtZG9jTkNIWlNObzlXb2VpLXpZSmdNQlJDeGtF?oc=5",
-          "date": "10-24 16:08"
-        },
         {
           "title": "2026년 10월 24일 오늘 커피 가격: 런던 및 뉴욕 시장 동향 모니터링. - Vietnam.vn",
           "source": "Vietnam.vn",
@@ -947,16 +941,22 @@ const FALLBACK_DATA = {
           "date": "10-24 12:36"
         },
         {
-          "title": "오늘 10월 24일 농산물: 커피 가격 급락 - Laodong.vn",
-          "source": "Laodong.vn",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZFpjUXQ2N00tRkdBZjZpZGl4cV9ia2pXeHlEeUdUMEpweWlXTTdwcVRCSS04M25uMHRKWnNYeVByaVRSZGtxVDRRd011Z0hhS3pSR19CR0x5NzZOQXRvYVZVUU9ZMnVDd2hGQmNuOU1qSzEtVEtGVEJOQklpYlpURFlaN2h6a3gwcFhNaWhJWQ?oc=5",
-          "date": "10-24 17:57"
+          "title": "2026년 10월 24일 오늘 커피 가격: 급격히 하락하여 9만 VND 아래로 떨어졌습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2NoWktlTnh5Zk01LWJabVJvZkNEb1FaZnhlMHZZX1dOTVJWRnFKQUJRX3lLampTNVYtWXJnWXNZTWZHb3Y4S0tXTmJkVEZ0VVVLWUtua0lwbmthRTkxRGhqTGhCQWhZNnlHUlNST0xEb1FRR1Q0TkdGUFJtZG9jTkNIWlNObzlXb2VpLXpZSmdNQlJDeGtF?oc=5",
+          "date": "10-24 16:08"
         },
         {
-          "title": "10월 24일 오늘 커피 가격: ICE 재고가 5주 만에 최저치를 기록했음에도 불구하고 가격 하락세가 지속되고 있습니다. - Vietnam.vn",
+          "title": "10월 23일 오늘 커피 가격: ICE 재고 증가로 로부스타 가격은 계속 하락하고 있습니다. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSkNadFc2ck9FWGlLbjRSNHp1eEpCODNvMTZJbVJmN3FGNVlBVDFHZ212Zy0tM3VWczA3ZGd2STI3ZVJvYkpNdFE1ZTFKRWM2T1p0ZFZZRzVXMEZ1aFhtTEh0eVJrU1owdWVqUTRvWjJGa2JiVXBlZnpZQ0R2bERXZlVVSElDTEJLM3pSOFQ1dWMzakVqMEJjZWR0QWE?oc=5",
-          "date": "10-24 08:45"
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDVkeHE5cjROY1k4em0tTFRqSE95am5hLVBKV2hqZUw2alhzYXRKdFJyQ0ZDMzhtZkNWeW4yaFhLQ2JkcG53VWNwTEZ3MnhlOTRuTGpKQUtwNXBVSEVHQ0dhUkNXQXNtMEtHalVaeHl1OGJXN1U5TUtxZTVkVThaUTRZeENUQ2RqX00zU05mNC10dXZsYzR2YQ?oc=5",
+          "date": "10-23 14:22"
+        },
+        {
+          "title": "오늘 23.10 농산물: 커피 가격 계속 하락세 - Laodong.vn",
+          "source": "Laodong.vn",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTNVQ2txMXQ4SzBzaVlxamt5SVE3VEVqYXFVWllscV8zQy1zOFJfVEZQVUJNbDNxcGFqUVN1cW1QSElDaGNqbkV3Znl4amxpSkw1YlNzUFQ5ZTQ2anJMLVI4eTBCUm5UMThhejJLVzFjb3NHbG9YVXo3RHZHQ3QzN0ZHMzdaMUlnaUl5UTR0NU1zLVNPUWNtcUltYw?oc=5",
+          "date": "10-23 14:51"
         }
       ]
     },
@@ -1397,6 +1397,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "Global supply surge presents risks and opportunities for expanding Iowa dairy industry - High Plains Journal",
+          "source": "High Plains Journal",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSnRRVXg2SFNnbS1lbFkzNWZOSkppTE1QRGN2UHIwQnRoS081bGtkOUdHaVhWV0RkZVdNR2ZDZGowZ0pHdWsta0VvcHU5OUNHZlJwbE5DOThMTUU5d29uVXZIcGlMVGNzQ1llWVVZd2xHRmVCT3ZpdWM3YkJnenFGZFp2ckNNSm9GT2UtOW5wal9JNmNwaE1wNzNERVdxYUtKWWFlazRnZXhOUmRTY1ZaU09oR2U?oc=5",
+          "date": "10-24 21:34"
+        },
+        {
           "title": "EU Dairy Prices Mixed: Butter Up 55%, SMP Down 31% - Observatory 21 Oct 2026 - News and Statistics - IndexBox",
           "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWh5T09TbWNISjg1d3JnN2UzbFB3TTRQMGFHQ29rSTNOX0M1MzdQbUxhampXSlZqSjc4V3J5d2w3NlJmNXhOUDBDazhSRGQ4UFo4QndzSW5YUGdRV2tRUDVVUGhDSlVnV2FkcEZkc1dCSmMzdWhKbnJQNURGOTNjdzNUWWpidVdmdWdWaVhYQy1BTlFhXzJLWklSd2Mza2hPZXU1eWNQLWhCTlI0M2xmdA?oc=5",
@@ -1413,12 +1419,6 @@ const FALLBACK_DATA = {
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWxEQUE2R0FLRXZkX3NOS1FvOV8tcHZiaXNxR3Nnbm10b0RoUlNodkVfeDMya2ZqQ01jQ1dpNkU2NHlrOEJoUFNwMmk0cHFYcnF5c01pVkZ5RGNvMklCUi1sYzF6ZnVzbHdrbm5OWlI0cEdDME5rZ0RnRTFlZjlkVm9iWExBWUFkdzRnbFRuVXhNQlRHcUtNTlB4eloyd05MMnVMV1F0QQ?oc=5",
           "date": "10-22 21:06"
-        },
-        {
-          "title": "Butter Market Steady Amid Softer GDT Fat Prices and Firm EU Demand — CMB News - CMB News",
-          "source": "CMB News",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZ1RGSGtxVW1OTHVBTFJnVERVYWRNNV9wczlWN1ZlOW1uZ21rZXhmc3ZTaWtOdFBHQWwzUmxQYlpnNVlIa3hFT0JNcUJqR1NaU0ZkTHpOME9IZHJUbXdrVWtXdUNGRXdULWt5bHRYUHdlQ2szYWJDS1BqYVRsbjJ0elgzb1p0cHp2S2Y2QUM2WEhsVVRQcmc?oc=5",
-          "date": "10-23 20:13"
         }
       ],
       "newsKr": [
@@ -2086,7 +2086,7 @@ const FALLBACK_DATA = {
             "price": 1149.2
           },
           {
-            "time": "20:46",
+            "time": "00:09",
             "price": 1151.5
           }
         ],
@@ -2460,7 +2460,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "20:46",
+            "time": "00:09",
             "price": 1930.0
           }
         ]
@@ -2493,9 +2493,9 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "DS단석, 글로벌 행사서 바이오디젤 공정 고도화 방향 제시 - 전기신문",
-          "source": "전기신문",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9valNza2JQLW5XeHRlRWhaNUJ5bWh5QXpIaHlCbjNFbTRsdkkzc0plUkUzbjhRa2V6cklNbnB1aTZGdUpNUThNaTk4cllETEhzTjFPa3VGNlhHVTcyWXdmaXJJYzBnaV9FbmNwZtIBcEFVX3lxTE9zbVJLQURvVmN4Y1RqVXhUbTdXVlpKOHpBN1Q5S3hKQXhQRUFlZ1FWMU1GbXQ3ZndjY2hVNW5iSXA0cEFMeldMZlJWamVMZVY4NklvQmI0YmF0SzZHbkFlRGNReFNuY1ZSVk5mV0NDV3M?oc=5",
+          "title": "DS단석, 국제 바이오에너지 컨퍼런스 'POC 2026' 참가 - 지디넷코리아",
+          "source": "지디넷코리아",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DSEFOcHJRbnNUdVQ5bFBmU0Vuam5YTmdVOG11TTJjVGJFb3lkV21MY19EcTg0dTVHTGQydTI0X3BlcjBWY1pPX1JyMU92b3dsOUJRUkdR?oc=5",
           "date": "02-19 17:00"
         },
         {
@@ -2694,7 +2694,7 @@ const FALLBACK_DATA = {
             "price": 1322.75
           },
           {
-            "time": "20:46",
+            "time": "00:09",
             "price": 1325.4
           }
         ],
@@ -2758,7 +2758,7 @@ const FALLBACK_DATA = {
           "title": "EUR/USD - CME Group",
           "source": "CME Group",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
-          "date": "10-22 01:16"
+          "date": "10-23 09:00"
         },
         {
           "title": "South Korean Won: Losses risks building toward 1400 against US Dollar – TD Securities - FXStreet",
@@ -2787,16 +2787,16 @@ const FALLBACK_DATA = {
           "date": "10-23 08:08"
         },
         {
+          "title": "\"원달러 환율, 수급 우위 속 하락 압력 우세\"신한證 - CNews",
+          "source": "CNews",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUFdHUDlNSEpaUjgwcFk5TVB0bU1TVGhFQm9IeHpULUNBOGxzTzI5U3RyUV9oZDRNSUcyTmVvY3YyQ09rano3SEFxLWViOVV6YU9zMThncjBLWWpOekw5UktKTmNPUnpMY2l0cXVWY2hQUEhxSEdr?oc=5",
+          "date": "10-24 10:00"
+        },
+        {
           "title": "원·달러 환율 연저점 경신…일부 전문가 “연내 1200원대 가능” - 인더스트리뉴스",
           "source": "인더스트리뉴스",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTng3RWNLSWdfZGxGMWliX0txaWFqcERtR0NHVWMwa3piMnRVWVcyNnpFYnFSV1pCcy13cEZuTWJhSC16aWpIWDlCX3JyWjFwQkRUZGl0QjFQWG1FREx4ZVk1b1RJWl80N0FpR29TY09Cdw?oc=5",
           "date": "10-23 18:03"
-        },
-        {
-          "title": "'반도체 호조' 달러 유입에… 원·달러 환율 2년 만에 최저 수준 - 서울뉴스통신",
-          "source": "서울뉴스통신",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RMGpzU3JIbVA0N1RvMEZLWVpzUGZfREZ0UWMzOHF2RUp0MmdXWW4yc3ByTVZ0c2FvaWFLR2U5RXpKblZaY0UtVk1xYXlnMWNrODhtY3h3QTZOMEo5ekw2dTE4dzllbEw4WEhV?oc=5",
-          "date": "10-24 14:24"
         },
         {
           "title": "원화 '전강후약' 흐름 반복 중⋯\"1320원대 중심 등락\" [환율전망] - 이투데이",
@@ -2994,7 +2994,7 @@ const FALLBACK_DATA = {
             "price": 1479.14
           },
           {
-            "time": "20:46",
+            "time": "00:09",
             "price": 1482.1
           }
         ],
@@ -3073,18 +3073,18 @@ const FALLBACK_DATA = {
           "date": "10-24 14:25"
         },
         {
-          "title": "Robit Q3 2026 slides: sales surge 17%, but profitability tumbles By Investing.com - Investing.com South Africa",
-          "source": "Investing.com South Africa",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWHMyLTdING94MHhxT2h0SjIwYTE3ZHdpV3VzR2NNdEw5bkxVZTdhYjdLRVNDbEVXY0dOZDVpRDkyQjA1dFpIanZFTVRFSk90cUw1aHFPRWJudk1fOVJlOUljMk5wUWE1U2VaM0RObC1JMFV5cnZubUsxVnR4a1lYOVUwdTJVWDN4V2h4YjlNMUZVNmVyMUlueGZNQ0tQQWxyZWN4WDhIcGhWbnNzdXJOV0ZQTTNFODVwR3MyR19saw?oc=5",
-          "date": "10-21 22:11"
+          "title": "Earnings call transcript: Atlas Copco Q3 2026 orders hit record as stock falls - Investing.com India",
+          "source": "Investing.com India",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQUdhMFhac3NUQVZDdHVQcDRQenR1T0pzZFJiUzZROFV5MURaS1M3eEFnYWNIekJkRjJLODlPakV2VndJelJQTk5TY0dmZmZKUV9vRGZLR3RoSlRwU19ZQTVMWFU2V0Y1d2V1bzFGdHBfbXF3Z3VtS0hXU2c4WmkzcWM2YnRPNDFaWGd1UjBCWk5lNVlQSktWREJjZkpqOWNLVjBMSlg1UTlxVTJMN3BlZndLM0NuYUFuQ0psNHJRZ0xmQWxmdXFoQWdrVGdLM2dRZ2RRTA?oc=5",
+          "date": "10-22 22:29"
         }
       ],
       "newsKr": [
         {
-          "title": "베트남, ‘달러/동’ 기준환율 1년 반 만에 최저치…달러당 2만5,632동 - 인사이드비나",
-          "source": "인사이드비나",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZVNkMktHWi1sYThsZ2plQk40TmNGSG51bE1mMHZkeWZHWDNwS0xSZlhEMUNmemplWG1NVHJNS25ZanBzSkFCaXJkUDJzVGpXcEU5OVFJN1VURUxUZkdLdTUtMjRDZGw5NGc5ZQ?oc=5",
-          "date": "10-22 16:28"
+          "title": "이란전쟁 장기화, 한국 경제와 기업 영향 - 코리아비즈니스리뷰",
+          "source": "코리아비즈니스리뷰",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVVJqY2NKRFVaVkxXUG4wVHd2blBXVHIyd2plY0o4RjJJcUV1czhzLWpaQ0E0TWJwMHF0VHdXQWhDR3F2S0lnR3dac0hZMEtnYVYxQmpWd2tCM0xkM1hHLXNnQUdMVldpenEwNDRpRC0taC1tUGF4NmlLc2xaN1JPUEstcHFJRFdJaUMtcXRR?oc=5",
+          "date": "10-24 22:39"
         },
         {
           "title": "[단독] “자동차 주식은 좋은 일이 아예 없나요?”…환율까지 안도와준다는데 - 매일경제",
@@ -3093,16 +3093,16 @@ const FALLBACK_DATA = {
           "date": "10-22 20:38"
         },
         {
+          "title": "베트남, ‘달러/동’ 기준환율 1년 반 만에 최저치…달러당 2만5,632동 - 인사이드비나",
+          "source": "인사이드비나",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZVNkMktHWi1sYThsZ2plQk40TmNGSG51bE1mMHZkeWZHWDNwS0xSZlhEMUNmemplWG1NVHJNS25ZanBzSkFCaXJkUDJzVGpXcEU5OVFJN1VURUxUZkdLdTUtMjRDZGw5NGc5ZQ?oc=5",
+          "date": "10-22 16:28"
+        },
+        {
           "title": "환율, 1320원대 중반…위험 회피에 소폭 상승 - 아주경제",
           "source": "아주경제",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE51bEdEVEpkVF8tVHBUekRfNzAyOTg4RWV5dXp0MkpBNlQtdElCYzFTTkpCUFo2MVg2Sk4zdmpfeEZObXNYV3hsMVRMaGRtampSN1puRzNZbWjSAVhBVV95cUxOdWxHRFRKZFRfLVRwVHpEXzcwMjk4OEVleXV6dDJKQTZULXRJQmMxU05KQlBaNjFYNkpOM3ZqX3hGTm1zWFd4bDFUTGhkbWpqUjdabkczWW1o?oc=5",
           "date": "10-23 09:24"
-        },
-        {
-          "title": "美 반도체주 급락·유가 급등…환율 1320원대 공방[외환 브리핑] - 이데일리",
-          "source": "이데일리",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOWlyYVBpRUl4anVGRW5ITEVqaGtJdmVyUFRkMnFUeFdDbzR5d0UyWlhENjc3MU4xRGpmVkRVWm9XSU5veVZoS1JCa1I5T1I2WjlNME54ZUdmajlWbWxUZkZKT05US2k2OVU4RFZZTHoyNVlwSURXdTl1UVM3UFlZNg?oc=5",
-          "date": "10-23 08:04"
         }
       ]
     }
