@@ -1,13 +1,13 @@
 {
   "fetch_status": "error",
-  "last_updated": "2026-10-25 00:09:49",
+  "last_updated": "2026-10-25 03:30:07",
   "weekly_report": {
     "title": "[2026 Week 43 Report]",
     "week_number": 43,
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
     "date": "2026.10.25",
-    "report_date": "2026.10.25, 00:09",
+    "report_date": "2026.10.25, 03:30",
     "top_gainer": "GDT 전지분유 : $3,760.00 (▲4.30%)",
     "top_loser": "아라비카 커피 : $6,746.14 (▼2.06%)",
     "weekly_price_list": [
@@ -43,7 +43,7 @@
     "week_date_range": "2026.10.19 ~ 2026.10.23",
     "weekly_price_title": "[W43 주요품목가격]",
     "date": "2026.10.25",
-    "report_date": "2026.10.25, 00:09",
+    "report_date": "2026.10.25, 03:30",
     "top_gainer": "GDT 전지분유 : $3,760.00 (▲4.30%)",
     "top_loser": "아라비카 커피 : $6,746.14 (▼2.06%)",
     "weekly_price_list": [
@@ -73,7 +73,7 @@
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "뉴질랜드 달러 가치 하락: 왜 NZD는 RBNZ 금리 압박에도 약세일까?"
   },
-  "lastUpdated": "2026-10-25T00:09:49.284070+09:00",
+  "lastUpdated": "2026-10-25T03:30:07.353353+09:00",
   "usdKrwRate": 1325.4,
   "eurKrwRate": 1482.1,
   "marketStatus": "OPEN",
@@ -108,7 +108,7 @@
       "high52w": 6675.0,
       "low52w": 2798.0,
       "high24h": 5687.0,
-      "low24h": 5524.0,
+      "low24h": 5517.0,
       "high7d": 5843.0,
       "low7d": 5560.0,
       "high1m": 5867.0,
@@ -138,7 +138,7 @@
             "price": 5548.88
           },
           {
-            "time": "00:09",
+            "time": "03:29",
             "price": 5560.0
           }
         ],
@@ -311,10 +311,10 @@
       },
       "newsEn": [
         {
-          "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - Chicago Tribune",
-          "source": "Chicago Tribune",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50MDE3N1dTQ0pHM1U0VG91dFU0cHh3dU1jdVBrYU1jRmNadzhQZXFMRVFXbTRVZENSY19JV3g0MDBWR3RXZS1NS0FWRzBCTExRZ3huTDdfVDB5dG5lYTF1SGJVZ2pBZFBvNldsYnhUczJiQQ?oc=5",
-          "date": "10-24 23:52"
+          "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns - NEWS10 ABC",
+          "source": "NEWS10 ABC",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdmhSbF9WQk5Pd296LUFYSXVCcWJHd2F1b29VQVRjZ3RRSlFiakhxV3Z4VUJQLV9KdDV1T1poLVhqSDFaeVJJOWVWb3Q0ZU1TZnlzZmE2OFpvNG5zV0UwT0FHWUlLMERuNG1VaEJuMzJTZHlieGR1bHdSS2U5Rjk1MkIzSWZlUXU4MGtwUnhVQ25LRTdWbW5iU3p6eGI1bk5qaUtENFp5Q3htYTlCM0RDWm5IeXlKMDI3TmJOZU9qam4xTXFCMHk4RzBCUWxkYlhoTlk1dUk1aGnSAdgBQVVfeXFMUHZoUmxfVkJOT3dvei1BWEl1QnFiR3dhdW9vVUFUY2d0UUpRYmpIcVd2eFVCUC1fSnQ1dU9aaC1YakgxWnlSSTllVm90NGVNU2Z5c2ZhNjhabzRuc1dFME9BR1lJSzBEbjRtVWhCbjMyU2R5YnhkdWx3UktlOUY5NTJCM0lmZVF1ODBrcFJ4VUNuS0U3Vm1uYlN6enhiNW5OamlLRDRaeUN4bWE5QjNEQ1puSHl5SjAyN05iTmVPampuMU1xQjB5OEcwQlFsZGJYaE5ZNXVJNWhp?oc=5",
+          "date": "10-24 22:03"
         },
         {
           "title": "Where Are Cocoa Prices Heading in 2027? - Barchart.com",
@@ -329,13 +329,19 @@
           "date": "10-24 01:23"
         },
         {
-          "title": "Cocoa Prices Close Mildly Higher Despite 2.5-year High in ICE Inventories - Barchart.com",
+          "title": "Cocoa Prices Fall Sharply on Rising ICE Inventories - Barchart.com",
           "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlU2T0lVSGpuQzMzVG1icS1icTJvYTZqNlpZSWt1a0ZSbTdrdC03Rm1wTm1MM3FiTk1BOWxoZ2EzWVpiTXFNSDM3RDdYMUtSNHdEa0Z2dmQxMWY4eExROFdKT2s1a1hFclU1clhJXzVQTmFLb2F6LWVRMDh0OXAzU3N3UEk3MFE4bXIxYjF0cnNjVGdCX0d5WnRXbnJFbE4td2RzaWt0ZkdzV1NxeWNIYkc2bkxWRUl1?oc=5",
-          "date": "10-24 03:51"
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTXJqZDA3aDZBMXVSTUwxRDZFRVR5NFRVSHJBQUNzZl8yYmljako4NWtTaHJfX2h1cFd5Skk1aVZ5Z3pCTEluT3AzM3BUM3hxaWVBUExMdXdibjNUSmhUT2xpWHR3SnJidVZHSEVOOVp2NjFFYU5GaXpreGtEV21lQ0xuZ2hBbXpKd0thNnVlcjZmN0h5ODgxQXdhZw?oc=5",
+          "date": "10-23 03:34"
         }
       ],
       "newsKr": [
+        {
+          "title": "인도의 쌀 가격이 1년여 만에 최고 수준으로 상승했습니다. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd3g4V2dWM1N1LXAyOU4wbTJHenVITmpLbzhKZXVJRHBfbnd3NXh6M3ZLOGxnUnVFbWhRcDhwbFI1N1ozSkNlQWtCQWpCS3lodzZ6MFRpTHJpUTFHb1BKR00yS1VnV2pNeEJSdGFCZUNENXJXQUJXY2E0S3p6d0JzSVNR?oc=5",
+          "date": "10-24 23:59"
+        },
         {
           "title": "할로윈 사탕값 5년 새 78% 껑충…물가 상승률의 3배 - 시애틀코리안데일리",
           "source": "시애틀코리안데일리",
@@ -353,12 +359,6 @@
           "source": "Laodong.vn",
           "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbThNUWlMZl96RmwyYzlmc3BWY2tkZ3ZMdTV6TTg4VjR4c2ZQRjhlcDZUeng3Qnl2VVZkcVFBQ3ktcnV4aXl4SUxQZGtaU0lZSG9nYTYxYmNDRXJpTmlFUEQwQXdwdTAxWHNOVW9CTzE3QllHdWlZejNseGdweFFlTk9iTHltelJJMzUzX0JwTFdTMGxtSkp1eG9zY1hING5xeHdoUWhqdHUwS0FpaXRjY1ZB?oc=5",
           "date": "10-22 14:17"
-        },
-        {
-          "title": "과자값 줄인상 속...롯데웰푸드 '나홀로 동결' - www.ebn.co.kr",
-          "source": "www.ebn.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PRGFpdXJPMlVmMWJKcE02Y3FTNlBnM2h3LWcyd2hEV2E5OHZsaHJNaUpJeXNsYTZleWdIRVhMd1Bvc04wZ0hoMnBybmtROHFxNXJZRlVobDZrQk1VVGRBOVk0enlfQnJI?oc=5",
-          "date": "10-23 06:00"
         }
       ]
     },
@@ -422,7 +422,7 @@
             "price": 6732.65
           },
           {
-            "time": "00:09",
+            "time": "03:29",
             "price": 6746.14
           }
         ],
@@ -831,7 +831,7 @@
             "price": 3720.54
           },
           {
-            "time": "00:09",
+            "time": "03:30",
             "price": 3728.0
           }
         ],
@@ -1386,12 +1386,6 @@
           "date": "10-24 21:34"
         },
         {
-          "title": "EU Dairy Prices Mixed: Butter Up 55%, SMP Down 31% - Observatory 21 Oct 2026 - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWh5T09TbWNISjg1d3JnN2UzbFB3TTRQMGFHQ29rSTNOX0M1MzdQbUxhampXSlZqSjc4V3J5d2w3NlJmNXhOUDBDazhSRGQ4UFo4QndzSW5YUGdRV2tRUDVVUGhDSlVnV2FkcEZkc1dCSmMzdWhKbnJQNURGOTNjdzNUWWpidVdmdWdWaVhYQy1BTlFhXzJLWklSd2Mza2hPZXU1eWNQLWhCTlI0M2xmdA?oc=5",
-          "date": "10-22 01:20"
-        },
-        {
           "title": "Mielke Market Weekly: Milk Price Facing Headwinds as Feed Prices Climb - TheLandOnline",
           "source": "TheLandOnline",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMUs5WkMwcnpkNm04R3VIUks1M2FHSmo0RkNlY3VxeDAwbG5pYmVqdDJkM29KdncwbFRiOWo4S1dib09yQ2lRN1R1Q3pXdjc2WkRsMnBCOE1zUE40NEhjRUtheUc3RzZkLXpMemczWTFjbEZhWnB5bnJuYTNQRDRKd2JMMHNrQUlTMWdGNUw5dy1obWp6bkxVRVRtQ1VtcmI0R3F1VF9yUFoyQl9aOWZ6TU9OMEFWRk05SlZvb1lLRlJTeklXTC14V2diNXBoWXdqLXB3aW8wNlFxbndwRURMVFhrOHZmRHFGdEE?oc=5",
@@ -1402,6 +1396,12 @@
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWxEQUE2R0FLRXZkX3NOS1FvOV8tcHZiaXNxR3Nnbm10b0RoUlNodkVfeDMya2ZqQ01jQ1dpNkU2NHlrOEJoUFNwMmk0cHFYcnF5c01pVkZ5RGNvMklCUi1sYzF6ZnVzbHdrbm5OWlI0cEdDME5rZ0RnRTFlZjlkVm9iWExBWUFkdzRnbFRuVXhNQlRHcUtNTlB4eloyd05MMnVMV1F0QQ?oc=5",
           "date": "10-22 21:06"
+        },
+        {
+          "title": "USDA Dairy Prices Mixed: Butter and Cheddar Down, Dry Whey and Nonfat Dry Milk Up - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlhzTnhfNVBVZFNxZUdELTU5WkNTdzI1Vnl3X3ZZb0xJaG1maUo3aUhmM0FxaHBnV25wY2J4eVdlT21DLXk4NGotZlVkTHMyb3hEVjBCUkNjcjkzUmo4UldGUXVIOVFRSDYtOHVYV0dGd002Yno5U1o2TGZNLVI0Z3p5akp6RVFoSm1peF93?oc=5",
+          "date": "10-22 04:00"
         }
       ],
       "newsKr": [
@@ -1856,10 +1856,10 @@
       },
       "newsEn": [
         {
-          "title": "EU Dairy Prices Mixed: Butter Up 55%, SMP Down 31% - Observatory 21 Oct 2026 - News and Statistics - IndexBox",
+          "title": "USDA Dairy Prices Mixed: Butter and Cheddar Down, Dry Whey and Nonfat Dry Milk Up - News and Statistics - IndexBox",
           "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWh5T09TbWNISjg1d3JnN2UzbFB3TTRQMGFHQ29rSTNOX0M1MzdQbUxhampXSlZqSjc4V3J5d2w3NlJmNXhOUDBDazhSRGQ4UFo4QndzSW5YUGdRV2tRUDVVUGhDSlVnV2FkcEZkc1dCSmMzdWhKbnJQNURGOTNjdzNUWWpidVdmdWdWaVhYQy1BTlFhXzJLWklSd2Mza2hPZXU1eWNQLWhCTlI0M2xmdA?oc=5",
-          "date": "10-22 01:20"
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSlhzTnhfNVBVZFNxZUdELTU5WkNTdzI1Vnl3X3ZZb0xJaG1maUo3aUhmM0FxaHBnV25wY2J4eVdlT21DLXk4NGotZlVkTHMyb3hEVjBCUkNjcjkzUmo4UldGUXVIOVFRSDYtOHVYV0dGd002Yno5U1o2TGZNLVI0Z3p5akp6RVFoSm1peF93?oc=5",
+          "date": "10-22 04:00"
         },
         {
           "title": "Mielke Market Weekly: Milk Price Facing Headwinds as Feed Prices Climb - TheLandOnline",
@@ -2069,7 +2069,7 @@
             "price": 1149.2
           },
           {
-            "time": "00:09",
+            "time": "03:30",
             "price": 1151.5
           }
         ],
@@ -2126,6 +2126,12 @@
       },
       "newsEn": [
         {
+          "title": "Palm oil prices rise on strong Malaysian exports and higher crude oil prices - UkrAgroConsult",
+          "source": "UkrAgroConsult",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOUkxLUM5Wm1Mc3ZBb3ZFOUFnOG5CeGlSdTlKOWZuMTNvSHZZZWw5T2VFMEdtdDh5TkZMZEM1Q21XdVNPRU5IdEg1YmpUWTJsamVxaTMzbmxzWkZSYzVSXzNlY1BEQXJlMkFiak1lckFJY3FqaUJuVHAzMXdrdnlYc29BTlhGVmNpcTB0YW96cWVhdktTR3lzWHUtenVYaXhJTDBzOUdBVnExcjlxZ0lrVHJR?oc=5",
+          "date": "10-24 22:59"
+        },
+        {
           "title": "Palm oil prices to stay high next year on Southeast Asia drought - Nikkei Asia",
           "source": "Nikkei Asia",
           "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUFQMWs5LUxSRlNpSDkzS2RQeU9oYzd2NnBzS2N6QnZBOHY5ZzNRSloyYzU5ZWFwTDQ1aGVxU3V6eXdOd1BQRXVXWUwtQmVIRUxtVlhxWHllRDFmQmM1RkRjMHhQRllRT3FPM01lNEV5YXEyQ3VjS1pTTms5RTc2YUVyZmM4akRBZjI1MXlWUXlfbkdwSTlhZ1ozZmNnVlcxSUl1c0RaQ3pPMUppbk5MaVAyS1VaN1hX?oc=5",
@@ -2136,12 +2142,6 @@
           "source": "Bloomberg.com",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3ZIc29lLWMxLURTSTVSc2F0Y1lmLTVkaHRVbXR0aE9wLTZEVGJTbnpxY0lXN1FRTlN0bWprRXN6bUlKeFg3N3RQckZWZ19fVjl5SE1USHdvNmNZbEt2dVBWM0ZqUzducmRmOFNhRVRaSkttMGgzNXM1UTlMT3c5UmdON29LRTJmbWJwUUNqdTBVMlZYN2tiRWVsQmhFcERPSzF1WG5TcGUwUTU2MDNpSmMyWjg?oc=5",
           "date": "10-22 17:32"
-        },
-        {
-          "title": "Palm oil prices rise amid strong Malaysian exports and higher soybean oil prices - UkrAgroConsult",
-          "source": "UkrAgroConsult",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS3EwY0c1NGwwRi1aNkJsZXRmZEV1TGxLUVFIaUtuaG5FaWxPNGliQU5iQmxwUHl4dXBWTHZUMDhTZGRwb05ZQkJ3X3FZTy1tbFRpczJWZ0dxMkt2ZGc4WDc5R2I2cVFSRENYWmp1ajVERmRicU80Um9jTUVxTERQM0lBMmtKbi1qcTM0TVNpZEgzMm8xVzZtLUFPcmVZaW15T3pmcWxicHJyV01tSFotc3RCbUpta1E?oc=5",
-          "date": "10-22 22:59"
         },
         {
           "title": "Palm Oil Market Update: Price Pullback Amid Strong Exports and High Stocks — CMB News - CMB News",
@@ -2443,7 +2443,7 @@
             "price": 1926.14
           },
           {
-            "time": "00:09",
+            "time": "03:30",
             "price": 1930.0
           }
         ]
@@ -2677,7 +2677,7 @@
             "price": 1322.75
           },
           {
-            "time": "00:09",
+            "time": "03:30",
             "price": 1325.4
           }
         ],
@@ -2977,7 +2977,7 @@
             "price": 1479.14
           },
           {
-            "time": "00:09",
+            "time": "03:30",
             "price": 1482.1
           }
         ],
@@ -3041,7 +3041,7 @@
           "title": "EUR/USD - CME Group",
           "source": "CME Group",
           "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
-          "date": "10-22 01:16"
+          "date": "10-23 09:00"
         },
         {
           "title": "SGD/KRW (SGDKRW=X) live rate, chart and news - Yahoo Finance Singapore",
@@ -3070,16 +3070,16 @@
           "date": "10-24 22:39"
         },
         {
-          "title": "[단독] “자동차 주식은 좋은 일이 아예 없나요?”…환율까지 안도와준다는데 - 매일경제",
-          "source": "매일경제",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqV0ctMWx3U21tVzRBSGZRaEJiSmdESUNpd0otNFRxNXhLSWMxX200Y3VDeldNYjJoRExHQzhMVzFkU2JvcmdsV1FBdVpHVE9odnc?oc=5",
-          "date": "10-22 20:38"
-        },
-        {
           "title": "베트남, ‘달러/동’ 기준환율 1년 반 만에 최저치…달러당 2만5,632동 - 인사이드비나",
           "source": "인사이드비나",
           "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZVNkMktHWi1sYThsZ2plQk40TmNGSG51bE1mMHZkeWZHWDNwS0xSZlhEMUNmemplWG1NVHJNS25ZanBzSkFCaXJkUDJzVGpXcEU5OVFJN1VURUxUZkdLdTUtMjRDZGw5NGc5ZQ?oc=5",
           "date": "10-22 16:28"
+        },
+        {
+          "title": "[단독] “자동차 주식은 좋은 일이 아예 없나요?”…환율까지 안도와준다는데 - 매일경제",
+          "source": "매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqV0ctMWx3U21tVzRBSGZRaEJiSmdESUNpd0otNFRxNXhLSWMxX200Y3VDeldNYjJoRExHQzhMVzFkU2JvcmdsV1FBdVpHVE9odnc?oc=5",
+          "date": "10-22 20:38"
         },
         {
           "title": "환율, 1320원대 중반…위험 회피에 소폭 상승 - 아주경제",
