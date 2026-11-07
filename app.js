@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "success",
-  "last_updated": "2026-11-08 01:42:28",
+  "last_updated": "2026-11-08 05:37:29",
   "weekly_report": {
     "title": "[2026 Week 45 Report]",
     "week_number": 45,
     "week_date_range": "2026.11.02 ~ 2026.11.06",
     "weekly_price_title": "[W45 주요품목가격]",
     "date": "2026.11.08",
-    "report_date": "2026.11.08, 01:42",
+    "report_date": "2026.11.08, 05:37",
     "top_gainer": "GDT 전지분유 : $3,971.00 (▲5.61%)",
     "top_loser": "GDT 버터 : $4,503.00 (▼4.62%)",
     "weekly_price_list": [
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.11.02 ~ 2026.11.06",
     "weekly_price_title": "[W45 주요품목가격]",
     "date": "2026.11.08",
-    "report_date": "2026.11.08, 01:42",
+    "report_date": "2026.11.08, 05:37",
     "top_gainer": "GDT 전지분유 : $3,971.00 (▲5.61%)",
     "top_loser": "GDT 버터 : $4,503.00 (▼4.62%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "뉴질랜드 달러 가치 하락: 왜 NZD는 RBNZ 금리 압박에도 약세일까?"
   },
-  "lastUpdated": "2026-11-08T01:42:28.081023+09:00",
+  "lastUpdated": "2026-11-08T05:37:29.240687+09:00",
   "usdKrwRate": 1363.65,
   "eurKrwRate": 1519.0,
   "marketStatus": "OPEN",
@@ -124,7 +124,7 @@ const FALLBACK_DATA = {
       "changePercent": -1.2,
       "high52w": 6675.0,
       "low52w": 2798.0,
-      "high24h": 5400.0,
+      "high24h": 5399.0,
       "low24h": 5192.0,
       "high7d": 5456.0,
       "low7d": 5119.0,
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5108.76
           },
           {
-            "time": "01:42",
+            "time": "05:37",
             "price": 5119.0
           }
         ],
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 6163.89
           },
           {
-            "time": "01:42",
+            "time": "05:37",
             "price": 6176.24
           }
         ],
@@ -618,30 +618,30 @@ const FALLBACK_DATA = {
           "date": "11-06 04:22"
         },
         {
-          "title": "Arabica Coffee Falls in Expectations of Larger Brazil Coffee Exports - Yahoo Finance",
-          "source": "Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkU1N1hXMFB1N1U5LUE5bVNGWnVNLV9fWmxqc19uS01kZExiNFdDWC1jQVVNQnB2MkZjSjVDbHZsQzR4MkdaTWloZklIX0tENzlNQktIRXYyNl9qRUM3enRuaVB2ZG1pSkJISU1KT2J2ZExLV1FiSnRNT096NW14aTFwUFJrVF9wek83N1ZNSmJaWlV4Ym9abFdUS1hNV3BIakExSXdoSnpEaXo3a2g4?oc=5",
-          "date": "11-05 04:31"
-        },
-        {
-          "title": "Diversifying markets for Arabica coffee - Baolangson.vn",
-          "source": "Baolangson.vn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3pVMXBSUndPUFlMYkN4TnpwWERJZGtBdVQ3Ri1VdmJMM21lbW8yYUxVc3pOVHlVWjVOWHZRWWFWS0R3Q2pGNGd4UDROSEZERTZnOER2eFozWllaWG1ndTNxRHk2c3labTlUOHhuUzd3Sl9oRzlfRzZsMXZTR25YalVtcw?oc=5",
-          "date": "11-06 16:00"
+          "title": "Agricultural product prices today, November 7, 2026: Coffee prices continue to rise, pepper prices increase; the US sends its largest agricultural trade promotion delegation ever to Vietnam. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMGlaS3NGX0ZvWDJ3aDhTZHZLMC1kZGI0dGdEWXJvNmZoUlNQeU45ZHpyX2dvbkxoZ3NKeVV5bkVfVFdLaFRoWW1KZ3NaOFhWUUVWdHl1eElEMUNxRDU0cHAteU5TRmZzZmt3ZkJncE5PeWxnNUpSVkxkaW1sQkZlT2NqT1F6ZmdXOHFLX0lJai15NHJTano5Szh4NktaUTBwNU1jWWNFb3JYbXlRbURPOVlqSUdfN1JsblB2cFpzTnZMMENIeTU0NnJfRUFGLWhqUVZfekdTQ2lUcHdKWjNLQUVmYjRTNExacG11MFBRRzZQaDB5TXhYTw?oc=5",
+          "date": "11-07 14:41"
         },
         {
           "title": "Coffee prices today, November 7th: Recovering, Arabica escapes 5-week low. - Vietnam.vn",
           "source": "Vietnam.vn",
           "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ2JXa3c3bkk1TWYxTnhlTEl2MGtkNWt3WFh4SXJ2bENneXFvSG9MdUVGOVZIYnRucThkQ3RSZ2hmSTVpS2xnY1BDd3lUakFqZHBnNVhZZU9RLVNkaFlYRk1wOGpIWWxmYjFaYVhTS2FibHo1eTRWSTU2a1BJWTZHOFNFQXBuSEtLSjBV?oc=5",
           "date": "11-07 09:04"
+        },
+        {
+          "title": "Arabica Coffee Slips as Brazil Coffee Exports Set to Expand - Yahoo Finance",
+          "source": "Yahoo Finance",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWU2VHBWY2dETEM1SmQwNWhHUV85ZVFYNUd5VHBSUkZkWFpTZFVJampvaVR4WXlTTm56REpJQmFTbTBLbmFwWGhqVEZaTmQxV3lCWFJGc2lsNm9FYUtuSUMzY0JxaUlaQ3BadTFUUFNLeVZzaFo4c1hCZFBZYzdoZWExWUt1ZVBURTVRaVF4aTdnUGhoM3ZFR195elRobGdweElnNW5jSQ?oc=5",
+          "date": "11-06 02:00"
         }
       ],
       "newsKr": [
         {
-          "title": "폴란드 아라비카 커피 생두 (디카페인) 가격 및 무역 데이터 | 마켓 오버뷰 2026 - Tridge",
+          "title": "브루나이 세척 아라비카 커피 생두 (중고지대) 가격 및 무역 데이터 | 마켓 오버뷰 2026 - Tridge",
           "source": "Tridge",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWZWcldZa3A2Qkp2cWZiU0NwZmloU0ZzVmdIYUVtb09UUUoyOUZJdmVSU1V3UEsyWXRxTVluREYwdUItSEx3LUVTRHI1R0lZQ0FnalVUbmVqancta1RGN3pNMDRJR3hFa2NhYU13Y0dRc0FPZXlsNllNeVEzdy1mNnJvS0p4SzQ?oc=5",
-          "date": "11-07 14:07"
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSmRLMmZUM00xeHlzc2hmUC1zVjAwaWxjbjE2VGQ2bUdsZG9KaUg5TUhwSEJteWF3ODFhdlV0QUJCelBKSzZ2OGNnSGZrZ3Vabmp2bXltZXhzUG42ME5YN1M1RzRNYjhsZF8yTHFOOTBfZDFEQmpZVlNoWXJET0VaX2YyMDRYbFBxaHJ3?oc=5",
+          "date": "11-07 17:34"
         },
         {
           "title": "2026년 11월 7일 오늘 커피 가격: 300~500 VND/kg 소폭 상승하며 추세 반전을 보였습니다. - Vietnam.vn",
@@ -650,16 +650,16 @@ const FALLBACK_DATA = {
           "date": "11-07 21:59"
         },
         {
-          "title": "아제르바이잔 비세척 아라비카 커피 생두 (NY 2 (결점 기준)) 가격 및 무역 데이터 | 마켓 오버뷰 2026 - Tridge",
+          "title": "우루과이 아라비카 커피 생두 (디카페인) 가격 및 무역 데이터 | 마켓 오버뷰 2026 - Tridge",
           "source": "Tridge",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPb3pxTVFTR2lfU1pNUGFNMTdVU3ViLWNRX2lOTnA3azNNSGVOU1N4a1BBaFRkRGtXTjBCM2VsSUFkLUw3bjAzUWNWd3JlRnBsaTFJLUNMVjhsRzVKTHZhZXhrcHd5NmdGUDJscy1vaXQtRk5ReHJ5a2NLM0hJbWpWb1U3RUFndw?oc=5",
-          "date": "11-07 12:30"
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMmV5Mm81R0Z1TVdTaWtSN3JJS1JkMGpwWTAyUi04ME5nTkYwbUNsV3BsMDhXYmJ1b2MyZVBPaC02OUx5dldXcFlyMmNMVV9iTVRnMUVDWF82R0xYcHZ4QWJwS2N2MW8wN1ltN0pqakg1WUNfcnJWVDdPQmF1Zm90VV9zTmh2LXM?oc=5",
+          "date": "11-07 14:07"
         },
         {
-          "title": "2026년 11월 7일 오늘 농산물 가격: 커피 가격은 계속 상승하고, 후추 가격도 올랐습니다. 미국은 사상 최대 규모의 농산물 무역 진흥 사절단을 베트남에 파견했습니다. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWGVBaTdveDZYa1BNSDlrVlEtQnNiYUZuWUZmX3BHTklqU19DMElrOXR0NUh0YlJvNEtScVpjTENwV0Q1OHZlckItQXhZamhWZFVLS3l2UDk3emQ4T0Zac3dtc1AzQTlFemRxaHNVb25KamFkbGlHU3JhaEtPYWUzUWNUT0l0STdzMVVDdllLTUVHOHVDY0t1bTVYenVPWlhCTGxydWxMSFFMM01BVFRxQ256RVFEallCQUFkVjFaVk9veUgwMXN4Vk9xcUNJRXVnbTFQZHkybm5rdHlkV3hUaFpJMW1ncGJzS3pZNkk2dElUNF9sTGtldA?oc=5",
-          "date": "11-07 14:54"
+          "title": "아라비카 커피 생두 (디카페인) 이탈리아 공급업체, 무역 및 가격 | 마켓 오버뷰 2026 - Tridge",
+          "source": "Tridge",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFYtOHlaalBNOTY1ZWxNRlBSNm1MeEczZnhUN1FPRmZJMGdEemQ4NDNrVGozLS15aWYtNzBmcFpvS3ZMZUFUX252M3NPX2hRNjRPb2hGVWpCZmhsWkNsbjVCVmxQU01qM01sSF85cW5tSzNVWjU0RmxQMHBLbWJUSlh4djRMYjg?oc=5",
+          "date": "11-07 13:59"
         }
       ],
       "original_price_lb": 280.15
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3263.46
           },
           {
-            "time": "01:42",
+            "time": "05:37",
             "price": 3270.0
           }
         ],
@@ -909,10 +909,10 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Coffee Prices Settle Higher on Tight ICE Inventories - TradingView",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTXV6LXVkMjVSNU5FenFVa3RkVFhZLWN5YVN5b0ZhRG1rN3QxREg5aUF4dmJqOC12aUdGTVVfSmRNVGxaaENYbnROZ1lzaDB6WmliYnNOc2NXMTBKM24wZXNsQ2hfU0hSUmJHYjNPWHU0YWg0bFZKMVNWeVVzX29rUXl0bVNxczJvam1iU1VNTHVZNGZ5ZEJiMWZCcEtGck9KdHR0RDYyUzN5YUNEdXJidA?oc=5",
-          "date": "11-07 04:24"
+          "title": "Coffee prices today, November 7, 2026: Reversing course with a slight increase of 300-500 VND/kg. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYnhlWXgwNTlfTnVtNUNMSE05MUZuRm8wb3hfNTRGSnh3RWlITFRGUVdMN0tsQ2NuXzF1RGZWanYtUHExLXJydDIzb3hzUlBiQm5sMWd4MGRQbUZXOTBYYTBkRDdDUFAzR25aOGgwTE42VDRtdWQ2bmwyTG4wWFM1enFmaDdGbkVUWXlxbER5LWNON3M?oc=5",
+          "date": "11-08 02:52"
         },
         {
           "title": "Coffee Prices Rebound as ICE Inventories Remain Tight - inkl",
@@ -921,16 +921,16 @@ const FALLBACK_DATA = {
           "date": "11-07 01:48"
         },
         {
-          "title": "Agricultural product prices today, November 7, 2026: Coffee prices continue to rise, pepper prices increase; the US sends its largest agricultural trade promotion delegation ever to Vietnam. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMGlaS3NGX0ZvWDJ3aDhTZHZLMC1kZGI0dGdEWXJvNmZoUlNQeU45ZHpyX2dvbkxoZ3NKeVV5bkVfVFdLaFRoWW1KZ3NaOFhWUUVWdHl1eElEMUNxRDU0cHAteU5TRmZzZmt3ZkJncE5PeWxnNUpSVkxkaW1sQkZlT2NqT1F6ZmdXOHFLX0lJai15NHJTano5Szh4NktaUTBwNU1jWWNFb3JYbXlRbURPOVlqSUdfN1JsblB2cFpzTnZMMENIeTU0NnJfRUFGLWhqUVZfekdTQ2lUcHdKWjNLQUVmYjRTNExacG11MFBRRzZQaDB5TXhYTw?oc=5",
-          "date": "11-07 14:41"
+          "title": "Diversifying markets for Arabica coffee - Nhan Dan Online",
+          "source": "Nhan Dan Online",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXJCS2JwTl9DTDFyMDNGelRGSmg4RW1YbzM2bEh5U1BrSGdSWWZFMnpXeEFYZ1pvTlVtY2RoS1FCWXN6UWRhNndudi1oUVJaWHVjNzJTY3hvazk5VDlpZHpzR0QxbFRCWUlSY0JCWkM1UEFFX3BGejQ1MGxoYmloNkZ3cw?oc=5",
+          "date": "11-06 11:01"
         },
         {
-          "title": "Diversifying markets for Arabica coffee - Baolangson.vn",
-          "source": "Baolangson.vn",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd3pVMXBSUndPUFlMYkN4TnpwWERJZGtBdVQ3Ri1VdmJMM21lbW8yYUxVc3pOVHlVWjVOWHZRWWFWS0R3Q2pGNGd4UDROSEZERTZnOER2eFozWllaWG1ndTNxRHk2c3labTlUOHhuUzd3Sl9oRzlfRzZsMXZTR25YalVtcw?oc=5",
-          "date": "11-06 16:00"
+          "title": "Arabica Coffee Slips as Brazil Coffee Exports Set to Expand - inkl",
+          "source": "inkl",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOHNhQXdwS09aMVdGbWtTSjRlSTVrT3R5bjhBMVk5WGRLNHZvQ01YTkc1aURheHB5YjBieTA3NERqWGJVZmZYY25yY2tnQldjbTF0dmxfZEJRZ0dEbU5hOXBiMDRyV2pBN3hoN0lDWnJFWWczSTVnazBSTFgzMl9NUTR4cENIdC10ZG9odW53?oc=5",
+          "date": "11-06 02:00"
         }
       ],
       "newsKr": [
@@ -1641,12 +1641,6 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Dairy farmers expecting higher milk price as markets rally - Agriland",
-          "source": "Agriland",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1kwU2ZRVVhqaDdTOXZiQTFDbzdseGhUSHB5a2RvMVg3TXJPTzNkc3ZKU2VmOXBhbGI1MVNmSjlrSVpVWFNDT3dUMjNEWkg0WkpmYWZ1R3hreU5oQ1NWck5RV0xjR3VzWFBJSjZkRC13RUFOd08yVU5hbnRCdW5nLXhDRFY3VXcxTllXdFRNdVpneU5tbEhITkJUNEg?oc=5",
-          "date": "11-06 03:15"
-        },
-        {
           "title": "Irish Dairy Farmers Demand October Milk Price Hike As Global Markets Rally And Ornua PPI Hits 40.9c/L - https://en.edairynews.com/",
           "source": "https://en.edairynews.com/",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdEJ4dmEyNVkyWi04bWluRXhYMmNQaU9vVjhzYlJxQUFjU0ZSTU9WdnhXY19kVEJjVkd3ZU5mUnZHWXUxLXNUTXlhYUhsbXFwSlBwNERieU5OOWVPWTlOQzBVdUJyZk5RLUhGWTVRSmNSNXd1RmVIcThHaXMtRkF4dXltcjd3eXktRXlXc2FqdDIwQ0xHay1YQ1NCMG9lYS01VHdaX1hTVE0xd0ZvRU9TcmtkS2FZcHcyQnY0Z2g5Mm9aNk9LN0c4?oc=5",
@@ -1657,6 +1651,12 @@ const FALLBACK_DATA = {
           "source": "CMB News",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaWc1Ykg2ZVZSSGZ0YW5jZHVMZVJMTlliNS12OHduYURpZGZvYUFzM25BX2gxMUFXdzJZSzlTNllVeGVnNW9tUlo2QTVUN3F0ZDFROXhFNHEzbjFzUFZyQ0NWM3hQZkc1NGt6ellsaGlZQV8wSC1TdEhaZWJJYnR2NWNMN05CT3JYMGxYYm5wdUJDS1VfRUdBNGVjTHdhQQ?oc=5",
           "date": "11-05 18:01"
+        },
+        {
+          "title": "Dairy farmers expecting higher milk price as markets rally - Agriland",
+          "source": "Agriland",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1kwU2ZRVVhqaDdTOXZiQTFDbzdseGhUSHB5a2RvMVg3TXJPTzNkc3ZKU2VmOXBhbGI1MVNmSjlrSVpVWFNDT3dUMjNEWkg0WkpmYWZ1R3hreU5oQ1NWck5RV0xjR3VzWFBJSjZkRC13RUFOd08yVU5hbnRCdW5nLXhDRFY3VXcxTllXdFRNdVpneU5tbEhITkJUNEg?oc=5",
+          "date": "11-06 03:15"
         },
         {
           "title": "Stronger dairy markets must lift October co-op milk prices – ICMSA - Irish Farmers Journal",
@@ -1879,16 +1879,16 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Cheese, butter, and nonfat dry milk move lower Friday at CME - Brownfield Ag News",
-          "source": "Brownfield Ag News",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnBEMTMweEMzQURsNDJNak8zcXloc3ozMnJDMUNRWno3SXNDRFNPdGM0UkZZMVFydjNFZ1EzVGNiNmFERmFLN25mN2lDYjNTcWd1R1hXSGpOZmJySVAtSHUxY3hkTEFjWFd6MUNxdmEyaUpjdTl5YzI4Mlk2VDd6dlIwSjB4MXQ3N2NKN25kWVh0NDdXMVdtYw?oc=5",
-          "date": "11-07 04:01"
-        },
-        {
           "title": "Global Dairy Trade Index rises 3% as milk powder prices surge - Dairy Business Middle East & Africa",
           "source": "Dairy Business Middle East & Africa",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZG9oQmFrWWMwa2RxV0xma3hGeDJScW43eHR3RE9WX1p3VFdacVRCdzk5VTdpOF9PQjBzMm42Q2hzdFVncUZscnNtakc5Z21TTUNXR2lWTS1tMEE1SDlPMWVOZGtDLVRnUHBDODJIWnJ3d0Rxb1VvUHRDTWdTMVJZanVhemlEMFhrSkQ2YjVWX051eld1YU9iR0pvSXpfa1BZQ2RV?oc=5",
           "date": "11-05 21:27"
+        },
+        {
+          "title": "Cheese, butter, and nonfat dry milk move lower Friday at CME - Brownfield Ag News",
+          "source": "Brownfield Ag News",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQnBEMTMweEMzQURsNDJNak8zcXloc3ozMnJDMUNRWno3SXNDRFNPdGM0UkZZMVFydjNFZ1EzVGNiNmFERmFLN25mN2lDYjNTcWd1R1hXSGpOZmJySVAtSHUxY3hkTEFjWFd6MUNxdmEyaUpjdTl5YzI4Mlk2VDd6dlIwSjB4MXQ3N2NKN25kWVh0NDdXMVdtYw?oc=5",
+          "date": "11-07 04:01"
         },
         {
           "title": "USDA Dairy Market News: Mixed CME Cash, October Class Prices, September Output - News and Statistics - IndexBox",
@@ -1897,10 +1897,10 @@ const FALLBACK_DATA = {
           "date": "11-07 06:40"
         },
         {
-          "title": "INALE: Uruguay’s dairy exports rise 2% to $812m as cheese and butter decline - Dairynews.today",
-          "source": "Dairynews.today",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZm5idVFxQ2FmMWx2Z0RKcDQycF9MUVI5aDVJeWNnY0htOWxrdE1FTTJQcEFpb29hb0tmVTFUOGJsZ2FUUC00eGMwVkR2NFFtRXNVNWVrSTB5ZlRiejRlSEotT3I3SWp2Skxvelg3Xy1UVVYtUXJiXzZ5RTA2UU5tcHNRbUhxbUwzQTdEUnZjdTYxS3R5NkswMVRNdFpPX0JPMGZCeWh4RUhNX2s0blVZckt6ZUZidw?oc=5",
-          "date": "11-06 03:26"
+          "title": "Irish Dairy Farmers Demand October Milk Price Hike As Global Markets Rally And Ornua PPI Hits 40.9c/L - https://en.edairynews.com/",
+          "source": "https://en.edairynews.com/",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdEJ4dmEyNVkyWi04bWluRXhYMmNQaU9vVjhzYlJxQUFjU0ZSTU9WdnhXY19kVEJjVkd3ZU5mUnZHWXUxLXNUTXlhYUhsbXFwSlBwNERieU5OOWVPWTlOQzBVdUJyZk5RLUhGWTVRSmNSNXd1RmVIcThHaXMtRkF4dXltcjd3eXktRXlXc2FqdDIwQ0xHay1YQ1NCMG9lYS01VHdaX1hTVE0xd0ZvRU9TcmtkS2FZcHcyQnY0Z2g5Mm9aNk9LN0c4?oc=5",
+          "date": "11-06 06:39"
         }
       ],
       "newsKr": [
@@ -2096,7 +2096,7 @@ const FALLBACK_DATA = {
             "price": 1072.85
           },
           {
-            "time": "01:42",
+            "time": "05:37",
             "price": 1075.0
           }
         ],
@@ -2171,10 +2171,10 @@ const FALLBACK_DATA = {
           "date": "11-06 10:24"
         },
         {
-          "title": "CPO Futures Expected To Trade Cautiously Next Week Ahead Of MPOB Report - Bernama",
-          "source": "Bernama",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QN0tvYWpTQVZhSHYwWThYa3BKcUl0TDBCMm1KQVZrazFLWkM0NzdTaEJvZ0hsUHpQaWV3bjVkbEpxdXBmUVExZkZlMm8xUk8zR0ZFbnpqcjR4REU1VVE?oc=5",
-          "date": "11-07 15:08"
+          "title": "Malaysian palm oil prices plunge 9% in a week, steepest drop in nearly two years - UkrAgroConsult",
+          "source": "UkrAgroConsult",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVlg5ZW90aGVpQVhZRlJIUHdBMjdxalE1RGphaDA3clZxWUQ4SzZnalR3NVFPWlZwZFlwcW12LUFucGt0VkNzUTVfbnRMWWRFNGFkd1pURkJaeXlfdDJOdVdZNlp5SnVrQnNvYkdfRWVidzg4TkFoN0MzQ0E4VDc4U2xnTHdNa1pKQWlzUFFveVQtOW1ydlBSZTZ0RGplTEhCcVpKc29XR201NldwUjZBMzNTSmU?oc=5",
+          "date": "11-06 22:06"
         }
       ],
       "newsKr": [
@@ -2470,7 +2470,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "01:42",
+            "time": "05:37",
             "price": 1930.0
           }
         ]
@@ -2712,7 +2712,7 @@ const FALLBACK_DATA = {
             "price": 1360.92
           },
           {
-            "time": "01:42",
+            "time": "05:37",
             "price": 1363.65
           }
         ],
@@ -2779,10 +2779,10 @@ const FALLBACK_DATA = {
           "date": "11-06 18:02"
         },
         {
-          "title": "Won daily: Dollar closes at 1,356.6 won, above 1,350 - www.tokenpost.com",
-          "source": "www.tokenpost.com",
-          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1kV094Sm9BVjl4RmlCTThacUhrY2VUVkVUWGZsX3VsdV9UX3ZzdS1wM2sxS1VuNWY3Z0hfUDRNUmpwaTZZZ3RiX3Ftc2xIOHQtZkhLWmM0c1Nydw?oc=5",
-          "date": "11-06 23:01"
+          "title": "EUR/USD - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
+          "date": "11-06 09:00"
         },
         {
           "title": "KOSPI plunges 12% on midterm blue wave and tech sector selloff says Goldman Sachs - Investing.com",
@@ -2791,24 +2791,24 @@ const FALLBACK_DATA = {
           "date": "11-07 01:18"
         },
         {
-          "title": "Korean Retail Investors Buy $2.2 Billion in U.S. Stocks in Five Days - Seoul Economic Daily",
-          "source": "Seoul Economic Daily",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNEpsdWFIbk0xNml1VXVtZU5pb0N6SVZ4cUI4ZmlaMnZEM0o4RWs3V2RDMGhHMzZZbUVhdTdwX0wtRTFXaWdhMkg4bzlRR3IyQkludEl4SDAtUHJlR1NvWlpJQTJpWnk1ODEyTUtRc284aWpHNnhzMk1iZ0FNc0IzbWxISGw4OHdJVmxjZVlHRzNPRzVxdENxcU91OFpJcW5lNEVN?oc=5",
-          "date": "11-07 09:38"
+          "title": "Asian shares mostly advance following US midterms, though Kospi falls on selling of chipmakers - The Courier of Montgomery County",
+          "source": "The Courier of Montgomery County",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPek1tNU84V1Rfam1Vc0kwQVplYV81bW85VHZ4WkNQemhIcUtnZmwyWjhOU2ZzNUVtZTNMZXltMEZHOW9VdGtQY25DTE1PSmt5bTVhWGd2NVllU0V4dW5fei1mYnU5cmxnd3Jsb0J2VUgwYXMtNGNlTVJwczhVUmc5VkVEQ2RxSk15RWJ1enlHY3JVTnN5LWFIQkFRdUZTbjRvQjVz?oc=5",
+          "date": "11-05 13:07"
         }
       ],
       "newsKr": [
-        {
-          "title": "[다음주 환율전망] 美 증시 급락에 원·달러 환율 급등…다음 주 1350원대 변동성 확대 전망 - 굿모닝경제",
-          "source": "굿모닝경제",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KWXNENy1sUjRGWFBfYjFsZUJTSkw5UGRxRDA1ZmFXR0x1bHRvbHZ6blZWRjAwWDctVVZ6UUpUVV9LTTZ0MWk2QnBtQk91STZ1SW56UXpkUnZtWHFWVUktdFZaajNRMFNXaDNlNw?oc=5",
-          "date": "11-07 07:00"
-        },
         {
           "title": "[환율 전망] 쓰나미에 휩쓸린 반도체, 원화는 허우적 - KB Think",
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TcVpWbWVUeG9EMmg0RGR4b0dNU2JTVm1yZzVvaU1pM05fUUZNaFZydHp3M1lpQkJIRlBsSklwVU96OWVoZldmc1ZXcmw3Wk1POEJDSHY4VGRKSllOXzV5VA?oc=5",
           "date": "11-06 00:00"
+        },
+        {
+          "title": "[다음주 환율전망] 美 증시 급락에 원·달러 환율 급등…다음 주 1350원대 변동성 확대 전망 - 굿모닝경제",
+          "source": "굿모닝경제",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1KWXNENy1sUjRGWFBfYjFsZUJTSkw5UGRxRDA1ZmFXR0x1bHRvbHZ6blZWRjAwWDctVVZ6UUpUVV9LTTZ0MWk2QnBtQk91STZ1SW56UXpkUnZtWHFWVUktdFZaajNRMFNXaDNlNw?oc=5",
+          "date": "11-07 07:00"
         },
         {
           "title": "2026년, 2027~2028년 및 향후 EURUSD 예측 및 전망 - LiteFinance",
@@ -2817,10 +2817,10 @@ const FALLBACK_DATA = {
           "date": "11-07 23:16"
         },
         {
-          "title": "美 중간선거 이후 환율 한 주 새 22원↑…빗나간 '달러 약세' 예상 - MTN 머니투데이방송",
-          "source": "MTN 머니투데이방송",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VWnUtdXdxaE10cVo3c1JSWDQxVDlIODVzcFNOd3dWN2tTMzY3b0ppNWdrZ0pFN3BGT2hBNmJoem5qV3B0bVc0bGtuSU5rX3dYU1NTTDFQVEhkTEJpd1ow?oc=5",
-          "date": "11-07 06:00"
+          "title": "미 중간선거 후 위험자산 이탈⋯\"강달러 베팅에 환율 상승 우위\" [환율전망] - 이투데이",
+          "source": "이투데이",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfa3BlLWJfRkpRVGJDMHFyNjMteUFLM0pCSVlTRXBVMEM4QTl5Ymhub1p4cEJDZ1pKRkxLc0E5aXFxTy14S0w2dnJfQ1Rzc242M2hKRA?oc=5",
+          "date": "11-06 08:26"
         }
       ]
     },
@@ -3008,7 +3008,7 @@ const FALLBACK_DATA = {
             "price": 1515.96
           },
           {
-            "time": "01:42",
+            "time": "05:37",
             "price": 1519.0
           }
         ],
@@ -3069,6 +3069,12 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "EUR/USD - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
+          "date": "11-06 09:00"
+        },
+        {
           "title": "KOSPI plunges 12% on midterm blue wave and tech sector selloff says Goldman Sachs - Investing.com",
           "source": "Investing.com",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNS18tQ0I3S292X3BjRmowRFBFQkNaYWNDTXJqemJyQUpuTmV4TGw4YU0xRWlQWU9FUDFfaVFESFFsSHN6el9GMVJkWjQwcWtiYmlsejlqLVFwclFuaXhPbG5OZE9QcGhzaEwwbzdPbWFlRFBvY0FOaVBMSUJSdjNuZUlQWm0tNW1DdW9lXzZDVmRobEtqdjRZYnhqQ1hYa2lGMU9IMUZHMEYwNTBWVm9obEhBdlQ4NVJIVEFlVndFek1pWXBwdlNHRWFBUk9tM1Z5c0JKQTAzTGk0dw?oc=5",
@@ -3085,12 +3091,6 @@ const FALLBACK_DATA = {
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYVU4MGk3NldHUHNnUFFZY1E5MGg3ZnpnOTVuSGdTOFY0c2N0VWJSMThKcC1CVHpXeFdzT2dKNXhBckRrUWZFVWw4THZlVTNfd1U5NnRRcElFS2hVY202LVR4akJpSFB0aktTeXgzcU1lVGF2UHZxdWh5YWZxYVZpVEpvUnNTTDJrX0dJNFVnamNZaW53MFlLZlRSOA?oc=5",
           "date": "11-07 10:10"
-        },
-        {
-          "title": "Azerbaijan announces official exchange rates for major foreign currencies - Trend News Agency",
-          "source": "Trend News Agency",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB4UHBGVTA3UG5GcmZ6RVduN0VEU2w0MkhIaE8tcmlnakc4bEUwRFRTLXJPMTBfTkFFTEtIX0ZGVjJhN01UT2M1Nk1FVF92WGhKRmVyRm1Gdw?oc=5",
-          "date": "11-06 14:22"
         }
       ],
       "newsKr": [
