@@ -17,14 +17,14 @@ let appState = {
 // Fallback seed data in case file:// CORS restricts fetch
 const FALLBACK_DATA = {
   "fetch_status": "success",
-  "last_updated": "2026-11-15 01:16:34",
+  "last_updated": "2026-11-15 06:01:55",
   "weekly_report": {
     "title": "[2026 Week 46 Report]",
     "week_number": 46,
     "week_date_range": "2026.11.09 ~ 2026.11.13",
     "weekly_price_title": "[W46 주요품목가격]",
     "date": "2026.11.15",
-    "report_date": "2026.11.15, 01:16",
+    "report_date": "2026.11.15, 06:01",
     "top_gainer": "GDT 전지분유 : $3,971.00 (▲5.61%)",
     "top_loser": "GDT 버터 : $4,503.00 (▼4.62%)",
     "weekly_price_list": [
@@ -60,7 +60,7 @@ const FALLBACK_DATA = {
     "week_date_range": "2026.11.09 ~ 2026.11.13",
     "weekly_price_title": "[W46 주요품목가격]",
     "date": "2026.11.15",
-    "report_date": "2026.11.15, 01:16",
+    "report_date": "2026.11.15, 06:01",
     "top_gainer": "GDT 전지분유 : $3,971.00 (▲5.61%)",
     "top_loser": "GDT 버터 : $4,503.00 (▼4.62%)",
     "weekly_price_list": [
@@ -90,7 +90,7 @@ const FALLBACK_DATA = {
     "news_category": "오늘의 주요 헤드라인",
     "news_title": "GDT 가격지수 상승률 0.9%로 둔화…유제품 상승 모멘텀 약화로 NZ달러 강세 요인도 완화"
   },
-  "lastUpdated": "2026-11-15T01:16:34.373297+09:00",
+  "lastUpdated": "2026-11-15T06:01:55.977870+09:00",
   "usdKrwRate": 1336.2,
   "eurKrwRate": 1470.9,
   "marketStatus": "OPEN",
@@ -155,7 +155,7 @@ const FALLBACK_DATA = {
             "price": 5112.75
           },
           {
-            "time": "01:16",
+            "time": "06:01",
             "price": 5123.0
           }
         ],
@@ -340,16 +340,16 @@ const FALLBACK_DATA = {
           "date": "11-13 23:07"
         },
         {
-          "title": "Cocoa Prices Push Higher on Short Covering - TradingView",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeGw1RVlhQWhzejluNDR2eGtibDIxSXVPTFVkbnBzOWU4SzQ2X1FNdmZlcjFfQzlhdUViVVZieDFGbWEwV29ISnk4SUpReVBneFlGQU5VOF9VVFU5WEp5NWxTdW9VZ2dTVnNnRVA5NUV4SG1NWkMweUw5bnZnTVFOZWhDYU5tczd2N19od1plX3NZbHJwcHYwMF82Wk83ZENqVlE?oc=5",
-          "date": "11-12 04:21"
+          "title": "Cocoa Futures are Caught Between Falling Prices and Growing Supply Risks - Which Will Take the Lead - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUC04RHJZMEoxT24yc016TWRIMnlqUWhoYzNiNEtLcG9kMC1ZQUR3UWZUcHp6REw2YnQteWNwWXRZeXEzRWJpZ1ItbjgtX3JGZmctM1FKb3ZUeV9rd1hTblVxMEN0TXVSUWxpQXQ4QkRRa3hhX3lSblFiWlEtWEhnTTQwcVU4V3VrdlNhZXhrblZwakNHRDNnb2VoNGMxSkdkNVRxMjZ6X2pabXpWUXJmSG9oczZaVm1vOEc1dTNlRERvc1RtcnFXTGc3VlMwR2FSQWdWSkFzS0U?oc=5",
+          "date": "11-13 01:11"
         },
         {
-          "title": "Cocoa Prices Push Higher on Short Covering - Barchart.com",
-          "source": "Barchart.com",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUTlkc3V3b1lJOU9VeGpfZ29XYnEtOWhRMUg3Y0Q4MU5QY0dESl91aC1WWEFVTzFaYlRZbmN4QXJkOTlfT2VHY2JtSnYxVHB2Sk5hR3FnalJXMTZqQm56YlE5VHkxank0VE9uZ0xaaDB0SFlOdWx4M0J0UkRpRWJEQ3J0dXBSQkdyZ0g1dmZraw?oc=5",
-          "date": "11-12 04:21"
+          "title": "Ghana targets end to raw cocoa exports by 2030 – Ato Forson - Modern Ghana",
+          "source": "Modern Ghana",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbWp0RUsweDdCMlB5WXBRZFktZXJQb0s0RF9RVmg5TWw2NzNKcDBJclFhdUtXVHl0SlBkeVlZVkVwb1JTY1JKLW5qVi1rNWJ4elBZS1hQMy1fMmhacWdrYlU3U256blBzU2VyVEhPeHZ3UFNfLUZLcTQ3U0hDREd6d2dLeFZOMzBwanJqcy1NVkdOZkdpNThB0gGWAUFVX3lxTE1rOXBNbWNmRnp4aXpnVW0wTjBWZmlTR2tsclZMYVlFem1Ba05DQ1FSTU1OQU9mZjlTQWJEcGJpaUs3OExjdHFOXzNMckQ1WVBTODZjSERua193WEJMWG9aZUxtY0JCWTNWRDVGZUh3OVhMRm5IWGNrdVpMYzRQZzJEd1cwcTFGT2VtbUJsUGdrTUFCYjc0Zw?oc=5",
+          "date": "11-13 19:45"
         }
       ],
       "newsKr": [
@@ -439,7 +439,7 @@ const FALLBACK_DATA = {
             "price": 6144.09
           },
           {
-            "time": "01:16",
+            "time": "06:01",
             "price": 6156.4
           }
         ],
@@ -618,10 +618,10 @@ const FALLBACK_DATA = {
           "date": "11-13 04:19"
         },
         {
-          "title": "ICO reports contrasting Arabica and Robusta performances in October - Tea & Coffee Trade Journal",
-          "source": "Tea & Coffee Trade Journal",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTFyb2I3ZEZRdFU1OG1KNjlXbDk4dHZmdFBHQWM5eTV5TW1sVXhtOTljaE1GLXBJcG96LXVFQ2lTbjJJMW9VdGZfRlJGU005LXM0UGNkOV9HM0hLTmRma0tLLU1aWG90SU9pb0dOMFY5Q3M4dF9EZjZBQ09GajJ1ME1uc09DS3JFeUJobGFPWTBBM3BPdUE4STV2aUhBYlN0ZlNDV3paYWlsdnRJ?oc=5",
-          "date": "11-12 19:06"
+          "title": "Coffee prices today, November 13th: Arabica surges, Robusta continues to fall. - Vietnam.vn",
+          "source": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdW5uRlNwM3o4Vktkc2Rja3gyd0JHWU5GenFNSVIybFlkTzN1bncyQmVYQ2V5QThwel9UeFZLUVRPcEZHckkxbXluWUE5cXhXNU5CMjlsekhFZHdqdHZkY3VUZmdaWmVqQWk0NzhqZmNqOHdBd2RtOW5CZE1UeUFaSFo1QS1vYmI2ci05SW8tdDJ2VjQ?oc=5",
+          "date": "11-13 20:54"
         },
         {
           "title": "Coffee prices today, November 14th: Domestic prices fall sharply, Arabica unexpectedly rises by over 4%. - Vietnam.vn",
@@ -630,10 +630,10 @@ const FALLBACK_DATA = {
           "date": "11-14 08:54"
         },
         {
-          "title": "Coffee prices today, November 13th: Robusta slightly lower, Arabica continues to face pressure. - Vietnam.vn",
-          "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDFFZUhtdS1GQTNXSWtVQTdmd09HV0kxSnVaaDF4UmVHUEZCeXhnQ05va0JhLVhzRC1ESVNzaklRY0dUMFJGQ091OUZqaUpydWFFLW1XVjNZWXoydzBjb01zVlI5ZHdFaWZmUUdnbGl3TG1aTU80WTNqd2RCcjF6RTBSemUxTWFVdkJPRmM3T283X1BYMjgzSlMzT1o?oc=5",
-          "date": "11-13 11:44"
+          "title": "Arabica coffee prices fall to four-month low on improving Brazilian supply outlook - Global Coffee Report",
+          "source": "Global Coffee Report",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXFoek9ZWklBa0lRWnc4QkRfV0hGbjc3OXMzd0dzVFdyam1YZXlEc3VBTGx0NlhsNlM3OGpjMjUxSXJlSmV4NmtwSEJ6al9hSFVlaWozQUFCZ2dCR1FfSHRGSENCZXVEbnMzcGRRSDRsbnJzOEswdVM2UnNheldKMWNSWnJCLTVXNEpOamdOWnBoVEI3U2xFLUFVdnU0WHFqNGFZUXZFalBaZw?oc=5",
+          "date": "11-12 13:25"
         }
       ],
       "newsKr": [
@@ -848,7 +848,7 @@ const FALLBACK_DATA = {
             "price": 3189.61
           },
           {
-            "time": "01:16",
+            "time": "06:01",
             "price": 3196.0
           }
         ],
@@ -909,10 +909,10 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "Coffee Prices Tumble with Global Supplies on the Rise - TradingView",
-          "source": "TradingView",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbTZVanoxdEMtR2Y2OEVPblVfY056c3BDWVJ1VzNWQlFvMDdYTjlwcHdBUno4a3BOSHZfdWswemo1U0lMSzZoV1ZvR1dBelh0OElIdFZPS1ZmMTR6U0FJM3VGUDE1VG5JZkc3azc3REN2dVJQTEI2eHZSTmw5RTVlNG9FSVk1MTQ3blRIZG5xeGlKYWJXd0JiRVY3UEJwOFpVQXB3VUN3NnAxZUhaWk1mXw?oc=5",
-          "date": "11-12 01:43"
+          "title": "Tightness in ICE Inventories Lifts Arabica Coffee Prices - Barchart.com",
+          "source": "Barchart.com",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU1UzMmx3aXFUUUwwYUgxancxX3YtQU9fZnNaS0JjSTg3dzJmUW0wem9BbGVXd19Lbk1WY0J1NklDZkpUSm80UUI1YVJrNGZ6ZHNJWWNNQXUzZU5UT1Z4SzdJWlZzcVQzTjRRdDZuODdYbVJWd2NoLVpiWHZPS3pXSEhSbnQxWWNqa2Q3Y2hpamRCeDlqclFQN3J4UktLRmxLclE?oc=5",
+          "date": "11-13 04:19"
         },
         {
           "title": "ICO reports contrasting Arabica and Robusta performances in October - Tea & Coffee Trade Journal",
@@ -927,10 +927,10 @@ const FALLBACK_DATA = {
           "date": "11-14 08:54"
         },
         {
-          "title": "Agricultural commodity prices today, November 14, 2026: Coffee prices fall across the board; when will new supply increase sharply? Russia's seaborne grain exports fall by more than half. - Vietnam.vn",
+          "title": "Coffee prices today, November 13th: Arabica surges, Robusta continues to fall. - Vietnam.vn",
           "source": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQOXMzdWJ1a3dFVkQxYy1YMXNXejhLU2NBWUVDcHQyZ2VEd09LZVVTQ1I5aHBXY0pxZUdhSy1vQ1QwYVhGbTFKbE16aFMwb0VlS1M2aTRlQzlDM194TC1ZYlZHZ2pSTDZlNXNMOENzSi0tUkMyOE0yd3F6X3FwN0JkUFk5YVZtR0pjQmdzaDVadVoydlNDbXpjS1gtYk9Xb09LYVZTTjV5MW9zVlM4YzhhQzVBWFMxa2F5T1BjcGFpdE02c2JiRTVZVEt4VUVkMFoyRHoyOXJYOFZ0NzhscnhfWnQ4TDNVREE2ZThoMHhLQmNrLWNjMFRiQmZ1VWlydHM?oc=5",
-          "date": "11-14 13:53"
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdW5uRlNwM3o4Vktkc2Rja3gyd0JHWU5GenFNSVIybFlkTzN1bncyQmVYQ2V5QThwel9UeFZLUVRPcEZHckkxbXluWUE5cXhXNU5CMjlsekhFZHdqdHZkY3VUZmdaWmVqQWk0NzhqZmNqOHdBd2RtOW5CZE1UeUFaSFo1QS1vYmI2ci05SW8tdDJ2VjQ?oc=5",
+          "date": "11-13 20:54"
         }
       ],
       "newsKr": [
@@ -1171,12 +1171,6 @@ const FALLBACK_DATA = {
           "date": "11-12 19:56"
         },
         {
-          "title": "Flavored Milk Liquid Market To 2035: Convenience Demand Supports Forward Growth - News and Statistics - IndexBox",
-          "source": "IndexBox",
-          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEU1aTJ1dWZBcFlYT3c5QU5LSURxTjdrMTRrLVRyRUlYTEx0OXU5SnJsa0p3M1dZMHkwVU5hUFhEM25RZXhvazJRSVpsdGdCUHlVek9WQmFHQnVpUXVyd2RvSlFnbktUQ3FTZ2VwRFVvNGZEemhRbF9sa0NsWkZ5bEtmdlF0OUpHaU14YW9qVXNuQ1VabFZkTW1udGVfdy1qcHFGUV9JSFBEMEZKbTEzNDFSTVBiYW9OU25EWGxmWnE3SW41ZUJpYVZ6T1FwdzA4aERNTQ?oc=5",
-          "date": "11-14 14:26"
-        },
-        {
           "title": "GB Milk Deliveries Down 4.1% in October 2026 | AHDB Dairy Market Review - News and Statistics - IndexBox",
           "source": "IndexBox",
           "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcm9yV25XdFl6Uk1LUnlIYkZkTzlyQWh6YzQ3aHpwa1BaRENRNUEwbmt2Slg5OHE4N3V0Y3lmTlBfRVhwS3JWcTFqbXNMdGR0TDZRdENWRGRFVkJjano2U3RtWFl0MjRHRmNYSHFUZV9zX295TThNYjRSTXg0WGZfbmQxMmh2cS1DU0xXNEtEeWFFc2pyZV9VUlIxQnZUZWJVamg0QzZab0s?oc=5",
@@ -1187,6 +1181,12 @@ const FALLBACK_DATA = {
           "source": "AHDB",
           "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hcm9tRTlncXhrcGZ6VUUxQzNPdTNrcmZiNzRieHlzYUk0ZTBFVXpRYWlqTXNnNlNkRHBrQkNzeEVaWVFIR1N4MlJsU2hxVjVsYndDbG5iSlliY2RjOWdheDQ5M1c1dWNz?oc=5",
           "date": "11-13 20:52"
+        },
+        {
+          "title": "Flavored Milk Liquid Market To 2035: Convenience Demand Supports Forward Growth - News and Statistics - IndexBox",
+          "source": "IndexBox",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNEU1aTJ1dWZBcFlYT3c5QU5LSURxTjdrMTRrLVRyRUlYTEx0OXU5SnJsa0p3M1dZMHkwVU5hUFhEM25RZXhvazJRSVpsdGdCUHlVek9WQmFHQnVpUXVyd2RvSlFnbktUQ3FTZ2VwRFVvNGZEemhRbF9sa0NsWkZ5bEtmdlF0OUpHaU14YW9qVXNuQ1VabFZkTW1udGVfdy1qcHFGUV9JSFBEMEZKbTEzNDFSTVBiYW9OU25EWGxmWnE3SW41ZUJpYVZ6T1FwdzA4aERNTQ?oc=5",
+          "date": "11-14 14:26"
         }
       ],
       "newsKr": [
@@ -1427,10 +1427,10 @@ const FALLBACK_DATA = {
           "date": "11-13 21:43"
         },
         {
-          "title": "RaboResearch: Seven leading dairy-exporting regions face 0.2% output decline in Q4 2026 - Dairy News Today",
-          "source": "Dairy News Today",
-          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN0I5ejRQMThKRy1BZXF0X29XbDJvMDFNOUNwZVBGMDJJMTNtWlY5bWhLQ2NuVEtuYTZOZUlNU2VFZkZ0T1VOWW1GY3FhejE1Y3c0TmtQUGxnSlMteno4MTRUZTdtUzZHdW43LVpzM3JHaHl6Rmd4bHpnZDNpTnFTRnNNUmo3cU1XejNTRzRDQk9aTEVGUTgzTmdQRXdoaEZEbGxndHR1cXNCVExteTFieDdDVEl3TE5CV1EzZHhzRnR2MXJpWkZjNWVYNGRWTzhzd3hnM3FVci1qMUJZU1E?oc=5",
-          "date": "11-14 08:20"
+          "title": "UFU pushes for higher base milk prices for NI dairy farmers - The Scottish Farmer",
+          "source": "The Scottish Farmer",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaWZGa0lVOUNLS1pvRlM3dFBxVmlFSDdfY2gzM21fRm9BZWdwbWo3YXNzcjRpMFZ6aUVQNnZRejdwcWVOS0ttNm54bkRQdEFqOTV0OEFldXotTlZCcWJVN0xqdXBvX0E2ZmJQOG1weTVDaExCVzd3OU5LbDVfZDhUWGJwTmgzdmtvd2xWUmtUY0NXRlpjNmEtS0JxYzNyUjg?oc=5",
+          "date": "11-14 16:00"
         }
       ],
       "newsKr": [
@@ -2102,7 +2102,7 @@ const FALLBACK_DATA = {
             "price": 1102.79
           },
           {
-            "time": "01:16",
+            "time": "06:01",
             "price": 1105.0
           }
         ],
@@ -2185,16 +2185,16 @@ const FALLBACK_DATA = {
       ],
       "newsKr": [
         {
-          "title": "원자재 거래 역사 속 7가지 사건, 가격보다 먼저 확인할 거래 규칙 - EBC Financial Group",
-          "source": "EBC Financial Group",
-          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iUUpYYzNDbjltOTV5UUtpajl3S3BXOFZ3cXJUejBnS2ZZS1hpUWR1SnI4OTdtNHduRWt5MmxadEVHdlJpQnBLV0NGaGZXU19fSEE?oc=5",
-          "date": "11-12 18:20"
-        },
-        {
           "title": "농심, 3분기 매출 6.7% 늘어 9296억…해외 법인·수출이 끌었다 - 매일경제",
           "source": "매일경제",
           "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGQUp4ZWx5MXdzTEZ6Uk5tWHA3NFJ3WWlRR2ZaUkFJY2d3WHktUkJyU3hqRjlOWWFGZUNieXJmVXl1R2VYcGRER2w2UmZUX0xBeUhYYnR3?oc=5",
           "date": "11-13 14:39"
+        },
+        {
+          "title": "원자재 거래 역사 속 7가지 사건, 가격보다 먼저 확인할 거래 규칙 - EBC Financial Group",
+          "source": "EBC Financial Group",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iUUpYYzNDbjltOTV5UUtpajl3S3BXOFZ3cXJUejBnS2ZZS1hpUWR1SnI4OTdtNHduRWt5MmxadEVHdlJpQnBLV0NGaGZXU19fSEE?oc=5",
+          "date": "11-12 18:20"
         }
       ]
     },
@@ -2464,7 +2464,7 @@ const FALLBACK_DATA = {
             "price": 1926.14
           },
           {
-            "time": "01:16",
+            "time": "06:01",
             "price": 1930.0
           }
         ]
@@ -2710,7 +2710,7 @@ const FALLBACK_DATA = {
             "price": 1333.53
           },
           {
-            "time": "01:16",
+            "time": "06:01",
             "price": 1336.2
           }
         ],
@@ -2771,36 +2771,36 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
+          "title": "EUR/USD - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
+          "date": "11-13 09:50"
+        },
+        {
           "title": "Goldman’s 2027 Global FX Outlook: Timing the Turn - The Dark Side Of The Boom",
           "source": "The Dark Side Of The Boom",
           "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVVhESnNObGU1cmdYR0V5MXM4U0xVT25pdVFIRHBDVE1QdjVSQS1QYm45dnAyWlZITWVkZHBsVGJPSmRJOVVhbkxCNkF4VWFDbzlvVkRsVmVsODU0X3k5OURTbTVYM3o5OEpNR3dWZVRWVWZEWVpJNmJ3MlZNRC1xanU4WmcwbEpnUGc?oc=5",
           "date": "11-14 18:01"
         },
         {
-          "title": "USD/SGD (SGD=X) live rate, chart and news - Yahoo Finance Singapore",
-          "source": "Yahoo Finance Singapore",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14eDJFbDhBZms3TVVUYU5UOEhMd0h4QW03UjFVMW9PbTRTYW1KeEJVVVdXTXN0SEppVHBKb25VUHdCU3BMcV9ia21hNkp6YldBUDI2bzBn?oc=5",
-          "date": "11-14 17:59"
-        },
-        {
-          "title": "US stocks hover near their latest record in mixed trading - 朝日新聞",
-          "source": "朝日新聞",
-          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JbWY4akNDY1JoN3JGbGlWSUhaR2JhZHhXcWZNVW92TTRyLWR1eEZHdXhxaXBDdmZDbENPSDloQzZGeHY2Q1lUVjROTjJhZUFXX0hHWUV5NHlTbHExc1E?oc=5",
-          "date": "11-14 19:51"
-        },
-        {
           "title": "USD/KRW technical analysis: Consolidation near ₩1,320 support as momentum stays weak - Traders Union",
           "source": "Traders Union",
           "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNlFQTC0xWkVvNEZBUWszbzdRTjh1dFdQVVpISzNLOHd3NnJKTzdYVXRpdEpUd3h5NDJ2VVU5M2pKcFhMX182dHhNMTNYUVg0RjROcHZRbnF5X29sUE83ZHVhNGJrMjJSemZpNDFmVU5pQl9UNEJpazVqT3RXZVQ1WVRrbDE?oc=5",
           "date": "11-12 15:17"
+        },
+        {
+          "title": "USD/SGD (SGD=X) live rate, chart and news - Yahoo Finance Singapore",
+          "source": "Yahoo Finance Singapore",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14eDJFbDhBZms3TVVUYU5UOEhMd0h4QW03UjFVMW9PbTRTYW1KeEJVVVdXTXN0SEppVHBKb25VUHdCU3BMcV9ia21hNkp6YldBUDI2bzBn?oc=5",
+          "date": "11-13 03:04"
         }
       ],
       "newsKr": [
         {
-          "title": "[환율 전망] 반도체 주도의 수출 호황, 여전히 풍부한 달러 - KB Think",
+          "title": "[환율 전망] 미국 빅스텝 우려에 금리 급등, 달러 연일 강세 - KB Think",
           "source": "KB Think",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1LR0Z3LTFQZjFLSng1RmFyckdrY1pIVlZzMjZ5eFQzWm5CVGhMajFlcEpXY3JpX3J3VUJyYjRQVC1HcUI4cXZmZERJUklLeFl6WTlzd05NdjZ2NXJrM0pPWg?oc=5",
-          "date": "11-12 08:11"
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wdktyb2FNQlhPNGhmVHNEOGRrbTVyeC01TUhldmpfOHVpLXpJT05pLS1BdGl0QzZVQ2R2YmFqYURjak1MdGNTRUlLMF91a041N29SRjZYX3JVM2JqaG9MOQ?oc=5",
+          "date": "11-13 08:11"
         },
         {
           "title": "[다음주 환율전망] 중동 긴장에 다시 고개 든 강달러…원·달러 환율 1330원대 공방 전망 - 굿모닝경제",
@@ -2815,10 +2815,10 @@ const FALLBACK_DATA = {
           "date": "11-12 10:21"
         },
         {
-          "title": "유가 상승이 촉발한 강달러 압박⋯\"1340원 터치 시도\" [환율전망] - 이투데이",
-          "source": "이투데이",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5POThTZTBYQkZtX080S3ZRR3NwLVZfR3lWeWNpMEpVQzdDdzNyWU5RZ0NjdXdYVnA5TGZqYmhoODZYYUNPMEYwUVNpcEpWZFJnNTl3Mw?oc=5",
-          "date": "11-13 08:10"
+          "title": "강달러에 환율 반등 압력…'반도체 달러'가 막아설까[주간외환전망] - 이데일리",
+          "source": "이데일리",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjhFa1RxcHlacXA5cndvOUpCZlRyMjZUY2pqRlRleU1uelVCRUhwblVFRG5lUE9xRHB0Vm9CUnBxVmc3SkZSWFY2bmt0cGNzTkJncTRrT1NNZktpTWQ1dFZEQzB3MnNob20zMGRkS19wUDdjemRUOFBncGlGZG85Wg?oc=5",
+          "date": "11-15 05:00"
         }
       ]
     },
@@ -3006,7 +3006,7 @@ const FALLBACK_DATA = {
             "price": 1467.96
           },
           {
-            "time": "01:16",
+            "time": "06:01",
             "price": 1470.9
           }
         ],
@@ -3067,10 +3067,10 @@ const FALLBACK_DATA = {
       },
       "newsEn": [
         {
-          "title": "With no minimum to close, HomesToLife (HTLM) offers shares below its $1.09 last sale price. - Stock Titan",
-          "source": "Stock Titan",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlNDb2N1TlVWUS1Hemk1cVl5Y3l1dUlQR09Hb1BrbDJfLWtwaVh1azBXVWl3RjNKLUpKbXJmb3paMXlnYklobzc0RTBuWm5ZTm9YaEhJNXhGLWVBZDZUdnZpUk1WMVpUc0Z2dkUtdWpHWmo2djV3OGZuNUJsOXpyTThqTmhDMDVjTk5oeHJ1bDBPYmo2cXgtR0NNbEVIckl6OWFsdW1BVXNFVFIwM1JNeFhjQXJpbHE1a05rRDVMZjdpdmhqVWc?oc=5",
-          "date": "11-14 07:25"
+          "title": "EUR/USD - CME Group",
+          "source": "CME Group",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOHhsc003RkJFbkd3V1RWbUhmY1BacUR5anNONTZiR29xbmZ2Umx0RDVWNEdwRWZmY2EyNUloclZXYVZLWWVTTGNNYjRwNFB1NHJ1Zk5kbWExZGs?oc=5",
+          "date": "11-13 09:50"
         },
         {
           "title": "Iran releases currency exchange rates for November 14 - Trend News Agency",
@@ -3079,16 +3079,16 @@ const FALLBACK_DATA = {
           "date": "11-14 14:33"
         },
         {
+          "title": "With no minimum to close, HomesToLife (HTLM) offers shares below its $1.09 last sale price. - Stock Titan",
+          "source": "Stock Titan",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWlNDb2N1TlVWUS1Hemk1cVl5Y3l1dUlQR09Hb1BrbDJfLWtwaVh1azBXVWl3RjNKLUpKbXJmb3paMXlnYklobzc0RTBuWm5ZTm9YaEhJNXhGLWVBZDZUdnZpUk1WMVpUc0Z2dkUtdWpHWmo2djV3OGZuNUJsOXpyTThqTmhDMDVjTk5oeHJ1bDBPYmo2cXgtR0NNbEVIckl6OWFsdW1BVXNFVFIwM1JNeFhjQXJpbHE1a05rRDVMZjdpdmhqVWc?oc=5",
+          "date": "11-14 07:25"
+        },
+        {
           "title": "Nepal Rastra Bank Publishes Foreign Currency Exchange Rates - Ratopati",
           "source": "Ratopati",
           "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYXV6YXE3RW5iY0xSOHdGWXc2cW9CLXpKblNHYS1lNFZhWXJvX04tdUtMYnZ0b09HVzNtY2RXcWR0cFBNN21xVk5VQ2I4Z1ZHWDY5VmwxdjB4SG5kcVZMWmFOazRZamVlS3dtSl9VX2hFWU14cTlMdnFhcEVzSWlFdDY5U0wtUFZ1bTVPM3FUd0FISnllbzNrS05PeGdPZw?oc=5",
           "date": "11-13 10:35"
-        },
-        {
-          "title": "Richemont H1 2027 slides: sales jump 17%, jewelry leads growth By Investing.com - Investing.com India",
-          "source": "Investing.com India",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWTR6R01uSU04RTRGcnJkU0FiTHVuZTI1SGV0MDhuNDNzM3NFU01uRzF0ZEdQLWJCYzg5a0pucE9pNmlNU2lIUTl1Vjd4ZUNzNks4N2hCSWUyQ0V5SVhmdGFzbi1OTUgyUFk1eWJhNzdJaFZoczEtT0thLWxFX2JvUkZEejlUUXN1S3ZYbEU3UG1RUUozWFhzNGszcXd6a3YxQTd4Rm1ZT2g1Vk9UYk40bXZVZEdZWGlkR2pMcA?oc=5",
-          "date": "11-13 19:18"
         }
       ],
       "newsKr": [
@@ -3097,6 +3097,12 @@ const FALLBACK_DATA = {
           "source": "LiteFinance",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORi11ZUotZm1OV0JYQ0FDYjJyUGJuUGdNdEtub0FDZm44YVJ4b01CN2UyTTctUl92aUp5b2t0eDlheGFQVWR0SzRKZVFxWWtwQUNWa1VIcUZpVThxLWEyNS1LMGhwaTlqOUI3cWtlRzVIQVoydVc0TGpmaGdSZzBuNkRQd1JQeFhxSHg5cXZUNTQ4Zw?oc=5",
           "date": "11-13 18:37"
+        },
+        {
+          "title": "USD/CAD 환율 전망: 1.4250 부근에서 상승 쐐기형 패턴 하단 시험 - www.tmgm.com",
+          "source": "www.tmgm.com",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNN2J3LTZ2RVl1TlZUalNxSFU0bmc5TmlpbXNrRFpIcFdma1g3cFpFRTlydzRUS19GR052LVJpeldRdDVQUnRSczBYVEJtU2pKamhOVFZHZFNSX0dEU2gwTUdEVHMxNDROM21yMm9WY0p0M0FQZGw2NTVKa2p1QmliNEJqRkFkX3E5U1F2bkVGakVJRDU0SGdkdENSV2kzWFhkNEV3VUpERmJpeW5EVnB5UnBaVy1LRmtjc1RoYXFjbW9lNWtnTWc?oc=5",
+          "date": "11-14 11:01"
         },
         {
           "title": "[다음주 환율전망] 중동 긴장에 다시 고개 든 강달러…원·달러 환율 1330원대 공방 전망 - 굿모닝경제",
@@ -3109,12 +3115,6 @@ const FALLBACK_DATA = {
           "source": "KB Think",
           "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByR2IzaDNjWXhxa290cm52ODkyQjVCMkhHUm9JblJqZmg4ZmNiM1hZa0FCNVIxRzFrOE1nazVwbC1GYzM3a3JFYm1rclQzc3hVZ0hDeUswQ05UeF9EV29LNXAxa1pnN1RfWFl0UFQ0cTZnQQ?oc=5",
           "date": "11-13 06:00"
-        },
-        {
-          "title": "USD/CAD 환율 전망: 1.4250 상회하며 강세, 100일 단순이동평균선 위에서 상승 기조 유지 - www.tmgm.com",
-          "source": "www.tmgm.com",
-          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOEk5ZmZxXzFDaE5JSXFDZHA3aHVSZk91WDliWHRkS3NrTGtzRGMzbzUwcXA5Q2Q5MWRTb0ItWm5rSEVMSkZxMVJQaE5LSFVNam0xel9SSGNod1gwOVZDUHVHYmd2V0pKSWpPR3A3R0x4TTB5Wk5EajVDaGVrT19HNi1YT3pOVHEtRnVRcUdGWDJuSC00VC0takYyTGgtWk1KbTdaalVFeFhfOU0xVUhPRTJBa3Z2SjNEaUFDaHVkMGw0WVlWZXVXcEVkTHg4aGlYMDRxM2NHR2xScFhoM2lWUjhnMkdSX1E?oc=5",
-          "date": "11-12 20:30"
         }
       ]
     }
